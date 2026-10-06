@@ -1,0 +1,67 @@
+#EXTM3U
+# 宁波本地台 —— 全量收录（2026-10-06）
+#
+# 分三档，按可用性排列：
+#   [A] 公网可用    —— 已深度验证（拉HLS分片确认）
+#   [B] 运营商内网  —— 仅当地联通/移动宽带的 IPTV 内网可达；公网不通，但你在家里可能能播
+#   [C] 组播/失效   —— 需内网组播环境，或源站已失效（保留供参考）
+#
+
+# ===== [A] 公网可用（深度验证通过）（8 条）=====
+#EXTINF:-1 tvg-name="余姚姚江文化" group-title="宁波 · 公网可用",余姚姚江文化
+http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+#EXTINF:-1 tvg-name="余姚姚江文化" group-title="宁波 · 公网可用",余姚姚江文化
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 tvg-name="余姚姚江文化 (576p)" group-title="宁波 · 公网可用",余姚姚江文化 (576p)
+https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 tvg-name="余姚新闻综合" group-title="宁波 · 公网可用",余姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 tvg-name="余姚新闻综合 (576p)" group-title="宁波 · 公网可用",余姚新闻综合 (576p)
+https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 tvg-name="宁波-余姚综合" group-title="宁波 · 公网可用",宁波-余姚综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 tvg-name="宁波-象山综合" group-title="宁波 · 公网可用",宁波-象山综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 tvg-name="象山新闻综合" group-title="宁波 · 公网可用",象山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+
+# ===== [B] 运营商内网（本地宽带可能可用）（6 条）=====
+#EXTINF:-1 tvg-name="宁波影视高清" group-title="宁波 · 运营商内网",宁波影视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000791/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-name="宁波新闻综合" group-title="宁波 · 运营商内网",宁波新闻综合
+http://112.17.40.145/PLTV/88888888/224/3221226130/index.m3u8
+#EXTINF:-1 tvg-name="宁波新闻综合" group-title="宁波 · 运营商内网",宁波新闻综合
+http://112.17.40.145/PLTV/88888888/224/3221226146/index.m3u8
+#EXTINF:-1 tvg-name="宁波生活高清" group-title="宁波 · 运营商内网",宁波生活高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000789/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-name="宁波综合高清" group-title="宁波 · 运营商内网",宁波综合高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000600/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-name="宁波都市高清" group-title="宁波 · 运营商内网",宁波都市高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000790/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+# ===== [C] 组播 / 已失效源（参考）（12 条）=====
+#EXTINF:-1 tvg-name="北仑电视台" group-title="宁波 · 组播/失效",北仑电视台
+http://play-sh.quklive.com/live/1626327731714170.m3u8
+#EXTINF:-1 tvg-name="奉化新闻综合" group-title="宁波 · 组播/失效",奉化新闻综合
+http://live1.fhtv.net.cn/zhzb/sd/live.m3u8
+#EXTINF:-1 tvg-name="奉化生活娱乐" group-title="宁波 · 组播/失效",奉化生活娱乐
+http://live1.fhtv.net.cn/shys/sd/live.m3u8
+# #EXTINF:-1 tvg-name="宁波1" group-title="宁波 · 组播/失效",宁波1   ← 组播频道
+# rtp://233.50.201.168:5140   ← 组播地址, 需内网组播环境, 普通播放器不支持
+# #EXTINF:-1 tvg-name="宁波2" group-title="宁波 · 组播/失效",宁波2   ← 组播频道
+# rtp://233.50.201.178:5140   ← 组播地址, 需内网组播环境, 普通播放器不支持
+# #EXTINF:-1 tvg-name="宁波3" group-title="宁波 · 组播/失效",宁波3   ← 组播频道
+# rtp://233.50.201.179:5140   ← 组播地址, 需内网组播环境, 普通播放器不支持
+# #EXTINF:-1 tvg-name="宁波4" group-title="宁波 · 组播/失效",宁波4   ← 组播频道
+# rtp://233.50.201.180:5140   ← 组播地址, 需内网组播环境, 普通播放器不支持
+#EXTINF:-1 tvg-name="鄞州一套" group-title="宁波 · 组播/失效",鄞州一套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
+#EXTINF:-1 tvg-name="鄞州二套" group-title="宁波 · 组播/失效",鄞州二套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
+#EXTINF:-1 tvg-name="镇海先锋影视" group-title="宁波 · 组播/失效",镇海先锋影视
+http://pluslive.zhxww.net/channel2/sd/live.m3u8
+#EXTINF:-1 tvg-name="镇海先锋影院" group-title="宁波 · 组播/失效",镇海先锋影院
+http://pluslive.zhxww.net/channel2/sd/live.m3u8
+#EXTINF:-1 tvg-name="镇海综合频道" group-title="宁波 · 组播/失效",镇海综合频道
+http://pluslive.zhxww.net/channel1/sd/live.m3u8
+

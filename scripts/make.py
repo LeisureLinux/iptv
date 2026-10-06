@@ -96,6 +96,19 @@ def load_entries(src_dir):
     return china, news
 
 
+def copy_ningbo(src_dir, out_dir):
+    """宁波列表含特殊分档注释, 直接复制不重写"""
+    src = os.path.join(src_dir, "ningbo-cn.m3u")
+    if not os.path.exists(src):
+        print(f"  警告: 缺少 {src}", file=sys.stderr)
+        return 0
+    with open(src, encoding="utf-8") as fh:
+        text = fh.read()
+    with open(os.path.join(out_dir, "ningbo.m3u"), "w", encoding="utf-8", newline="\n") as fh:
+        fh.write(text)
+    return sum(1 for l in text.splitlines() if l.startswith("#EXTINF"))
+
+
 def dedupe(rows):
     seen, out = set(), []
     for e in rows:
@@ -151,7 +164,8 @@ def main():
     write(os.path.join(out_dir, "all.m3u"),
           render(allrows, "全量 (中文 + 财经 + 英文新闻)"))
 
-    print(f"  生成: all.m3u={len(allrows)}  china.m3u={len(china)}  news.m3u={len(news)}")
+    nb = copy_ningbo(src_dir, out_dir)
+    print(f"  生成: all.m3u={len(allrows)}  china.m3u={len(china)}  news.m3u={len(news)}  ningbo.m3u={nb}")
     return 0
 
 

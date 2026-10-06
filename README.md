@@ -7,9 +7,10 @@
 ## 订阅地址
 
 ```
-https://leisurelinux.github.io/iptv/all.m3u      全量（中文 + 财经 + 英文新闻）
-https://leisurelinux.github.io/iptv/china.m3u    中文频道
-https://leisurelinux.github.io/iptv/news.m3u     国际财经 / 英文新闻
+https://iptv.freelamp.com/all.m3u       全量（中文 + 财经 + 英文新闻）
+https://iptv.freelamp.com/china.m3u     中文频道
+https://iptv.freelamp.com/news.m3u      国际财经 / 英文新闻
+https://iptv.freelamp.com/ningbo.m3u    宁波本地台
 ```
 
 ## 包含内容
@@ -19,6 +20,7 @@ https://leisurelinux.github.io/iptv/news.m3u     国际财经 / 英文新闻
 | `all.m3u` | ~258 | 全量，日常用这一个即可 |
 | `china.m3u` | ~205 | 央视、卫视、省市台、少儿动画等 |
 | `news.m3u` | ~52 | CNBC / Bloomberg / Fox News / NDTV / DW / France 24 / Sky News 等 |
+| `ningbo.m3u` | 22 | 宁波本地台（余姚/象山公网可用 + 运营商内网 + 组播参考），分三档标注 |
 
 ## 为什么不用 `raw.githubusercontent.com`
 
