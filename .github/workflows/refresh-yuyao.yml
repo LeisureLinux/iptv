@@ -1,9 +1,10 @@
-name: Refresh Ningbo playlist (live)
+name: Refresh Yuyao playlist (VOD)
 
-# 宁波是直播，auth_key 有效期约 30 分钟 → 需高频刷新
+# 余姚是节目点播：mp4 无签名、不过期，仅在有新节目时变化
+# 该栏目每天更新数次，故每 2 小时刷一次即可（避免无谓提交）
 on:
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,16 +18,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Refresh ningbo.m3u
-        run: python3 scripts/ningbo_live.py --probe -o ningbo.m3u
+      - name: Refresh yuyao.m3u
+        run: python3 scripts/yuyao_vod.py -o yuyao.m3u
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ningbo.m3u
+          git add yuyao.m3u
           if git diff --staged --quiet; then
             echo "无变化"
           else
-            git commit -m "chore: refresh ningbo.m3u (signed URLs)"
+            git commit -m "chore: refresh yuyao.m3u (VOD list)"
             git push
           fi

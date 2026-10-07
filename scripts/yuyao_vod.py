@@ -1,15 +1,12 @@
 #!/usr/bin/env python3
-"""生成余姚点播/广播列表（yuyao.m3u）。
+"""生成余姚点播列表（yuyao.m3u）。
 
-与 ningbo.m3u 分开：宁波是直播，余姚是【点播 + 广播】。
+与 ningbo.m3u 分开：宁波是直播，余姚是【点播】。
 
 数据来源（均为余姚市融媒体中心公开页面）：
   · 点播：姚界 App 的「看电视」栏目 Nuxt SSR 页面
       https://vapp.tmuyun.com/webChannels/normal?id=628eebd357851f04b87b49a3&tenantId=50
     页面内嵌 window.__NUXT__，含 标题 + 封面 + mp4 地址（720p H.264/AAC）。
-  · 广播：余姚新闻网「听广播」入口（趣看 quklive）
-      https://www.qukanvideo.com/h5/w/getPlayUrl?id=1709282355347178
-    auth_key 约 30 分钟过期，故每次运行都重新取。
 
 ⚠️ 已知限制：
   · 点播 mp4 位于 mc-public.yynews.com.cn（腾讯 EdgeOne WAF）
@@ -26,7 +23,6 @@ import argparse, json, re, sys, time, urllib.parse, urllib.request
 
 TV_PAGE = ("https://vapp.tmuyun.com/webChannels/normal"
            "?id=628eebd357851f04b87b49a3&tenantId=50")
-RADIO_API = "https://www.qukanvideo.com/h5/w/getPlayUrl?id=1709282355347178"
 
 # 用播放器 UA，避免被 EdgeOne 当成爬虫拦截
 UA = "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/131 Mobile Safari/537.36"
@@ -65,16 +61,6 @@ def get_vod():
     return out
 
 
-def get_radio():
-    """取余姚广播（仅音频）的签名直播地址"""
-    try:
-        d = json.loads(fetch(RADIO_API, timeout=20))
-        return d.get("value") or None
-    except Exception as e:
-        print(f"  广播地址获取失败: {e}", file=sys.stderr)
-        return None
-
-
 def probe(url, timeout=20):
     """用播放器 UA 探测，确认返回 200（避免高频，调用方负责 sleep）"""
     req = urllib.request.Request(url, headers={
@@ -109,27 +95,15 @@ def main():
         vod = vod[: args.limit]
     print(f"  点播 {len(vod)} 条")
 
-    radio = get_radio()
-    print(f"  广播 {'已获取' if radio else '获取失败'}")
-
     lines = [
         "#EXTM3U",
-        "# 余姚 —— 点播 + 广播（由 scripts/yuyao_vod.py 自动生成）",
+        "# 余姚 —— 节目点播（由 scripts/yuyao_vod.py 自动生成）",
         "# 来源：余姚市融媒体中心（姚界 App / 余姚新闻网）",
         "#",
-        "# 说明：这不是直播台。余姚电视台无公开直播源，此处为节目点播 + 广播直播。",
+        "# 说明：这不是直播台。余姚电视台无公开直播源，此处为「姚界」App 的节目点播。",
         "# 主列表见 ningbo.m3u（宁波市台直播）。",
         "",
     ]
-
-    if radio:
-        lines += [
-            "# ===== 广播（直播，仅音频）=====",
-            "# auth_key 约 30 分钟过期，重跑本脚本刷新",
-            '#EXTINF:-1 tvg-name="余姚广播" group-title="余姚 · 广播",余姚广播',
-            radio,
-            "",
-        ]
 
     lines += ["# ===== 节目点播（姚界「看电视」栏目）====="]
     ok = 0
@@ -154,8 +128,8 @@ def main():
     with open(args.output, "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(lines).rstrip("\n") + "\n")
 
-    total = ok + (1 if radio else 0)
-    print(f"\n生成 {args.output}：{total} 条（点播 {ok} + 广播 {1 if radio else 0}）")
+    total = ok
+    print(f"\n生成 {args.output}：{total} 条点播")
     return 0 if total else 1
 
 
