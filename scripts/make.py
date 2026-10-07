@@ -11,6 +11,7 @@
 """
 import os
 import re
+import urllib.parse
 import sys
 
 ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
@@ -49,6 +50,37 @@ def parse(path):
     return out
 
 
+def ua_works_without(url, timeout=12):
+    """实测该地址在不带自定义 UA 时是否可用（playlist 200 且含分片）。
+    许多源只是"建议"UA，实际无需——这类源应保留给 iOS/Android 通用播放器。"""
+    import urllib.request
+    req = urllib.request.Request(url, headers={"User-Agent": "curl/8.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            if r.status != 200:
+                return False
+            body = r.read(64 * 1024).decode("utf-8", "replace")
+        # master playlist 的话再下一层
+        segs = [l for l in body.splitlines() if l and not l.startswith("#")]
+        if not segs:
+            return False
+        if segs[0].endswith(".m3u8"):
+            sub = urllib.parse.urljoin(url, segs[0])
+            req2 = urllib.request.Request(sub, headers={"User-Agent": "curl/8.0"})
+            with urllib.request.urlopen(req2, timeout=timeout) as r2:
+                b2 = r2.read(64 * 1024).decode("utf-8", "replace")
+            return any(l and not l.startswith("#") for l in b2.splitlines())
+        return True
+    except Exception:
+        return False
+
+
+# 频道名校正：源列表里的名字与实际不符时在此修正
+NAME_FIXUP = {
+    "东方卫视4K": "东方卫视",   # 实际 1080p，非 4K
+}
+
+
 def clean_group(g):
     """去掉 (直连)/(需代理) 之类的标注"""
     return re.sub(r"\s*[（(](直连|需代理|proxy|direct)[)）]", "", g).strip()
@@ -67,6 +99,11 @@ def load_entries(src_dir):
     if os.path.exists(p):
         for e in parse(p):
             if e["ua"]:
+                # 带 UA 提示的源：实测无 UA 是否可用，可用则保留（iOS 端不支持自定义头）
+                if ua_works_without(e["url"]):
+                    e["ua"] = ""   # 清掉 UA 要求，纯直连
+                    e["grp"] = (e["grp"] + " · 免UA").strip(" ·")
+                    china.append(e)
                 continue
             china.append(e)
     else:
@@ -97,14 +134,26 @@ def load_entries(src_dir):
 
 
 def copy_ningbo(src_dir, out_dir):
-    """宁波列表含特殊分档注释, 直接复制不重写"""
+    """宁波列表由 ningbo_live.py 生成（auth_key 会过期，需实时签名）。
+    此处只做兜底：若生成失败则复制静态源文件。返回条目数。"""
+    import subprocess
+    gen = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ningbo_live.py")
+    out = os.path.join(out_dir, "ningbo.m3u")
+    if os.path.exists(gen):
+        r = subprocess.run([sys.executable, gen, "--probe", "-o", out],
+                           capture_output=True, text=True)
+        if r.returncode == 0:
+            with open(out, encoding="utf-8") as fh:
+                return sum(1 for l in fh if l.startswith("#EXTINF"))
+        print("  警告: ningbo_live.py 生成失败, 回退静态源", file=sys.stderr)
+
     src = os.path.join(src_dir, "ningbo-cn.m3u")
     if not os.path.exists(src):
         print(f"  警告: 缺少 {src}", file=sys.stderr)
         return 0
     with open(src, encoding="utf-8") as fh:
         text = fh.read()
-    with open(os.path.join(out_dir, "ningbo.m3u"), "w", encoding="utf-8", newline="\n") as fh:
+    with open(out, "w", encoding="utf-8", newline="\n") as fh:
         fh.write(text)
     return sum(1 for l in text.splitlines() if l.startswith("#EXTINF"))
 
@@ -130,6 +179,7 @@ def render(rows, title):
         "",
     ]
     for e in rows:
+        e["name"] = NAME_FIXUP.get(e["name"], e["name"])
         parts = ["#EXTINF:-1"]
         if e["tvg"]:
             parts.append(f'tvg-name="{e["tvg"]}"')
