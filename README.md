@@ -10,7 +10,8 @@
 https://iptv.freelamp.com/all.m3u       全量（中文 + 财经 + 英文新闻）
 https://iptv.freelamp.com/china.m3u     中文频道
 https://iptv.freelamp.com/news.m3u      国际财经 / 英文新闻
-https://iptv.freelamp.com/ningbo.m3u    宁波市台（直播）
+https://iptv.freelamp.com/ningbo.m3u    宁波市台（电视直播）
+https://iptv.freelamp.com/fm.m3u        调频广播（FM）
 https://iptv.freelamp.com/yuyao.m3u     余姚（节目点播）
 ```
 
@@ -26,10 +27,11 @@ https://iptv.freelamp.com/yuyao.m3u     余姚（节目点播）
 |---|---|---|
 | `all.m3u` | 261 | 全量，日常用这一个即可 |
 | `china.m3u` | 209 | 央视、卫视、省市台、少儿动画等 |
-| `news.m3u` | ~52 | CNBC / Bloomberg / Fox News / NDTV / DW / France 24 / Sky News 等 |
-| `ningbo.m3u` | 8 | 宁波电视台 4 路 + 宁波广播 4 路（直播，签名URL，Action 每20分钟刷新） |
+| `news.m3u` | 52 | CNBC / Bloomberg / Fox News / NDTV / DW / France 24 / Sky News 等 |
+| `ningbo.m3u` | 4 | 宁波电视台 4 路（签名URL，Pi cron 每15分钟刷新） |
+| `fm.m3u` | 4 | 宁波调频广播 FM92.0 / 102.9 / 93.9 / 98.6（纯音频） |
 
-| `yuyao.m3u` | 20 | 余姚节目点播（mp4，非直播；每日数次更新，Action 每2小时刷新） |
+| `yuyao.m3u` | 20 | 余姚节目点播（mp4，非直播） |
 
 ## 为什么不用 `raw.githubusercontent.com`
 
