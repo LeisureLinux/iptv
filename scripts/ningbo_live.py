@@ -64,6 +64,48 @@ def probe(url: str) -> bool:
         return False
 
 
+
+# 城市 FM（上海/北京/广州/成都 + 旧金山/纽约/温哥华/珀斯/悉尼）
+# 数据来自 ~/iptv-playlists/fm-cities.txt（格式：名称|URL），为无需签名的长期源。
+FM_CITIES_FILE = "fm-cities.txt"
+
+
+def load_city_fm(src_dir=None):
+    """读取城市 FM 静态源。格式：分组|名称|URL（兼容旧的两字段 名称|URL）。
+    返回 [(分组, 名称, url)]"""
+    import os
+    d = src_dir or os.environ.get("SRC_DIR") or os.path.expanduser("~/iptv-playlists")
+    path = os.path.join(d, FM_CITIES_FILE)
+    if not os.path.exists(path):
+        print(f"  警告: 缺少 {path}", file=sys.stderr)
+        return []
+    out = []
+    with open(path, encoding="utf-8") as fh:
+        for ln in fh:
+            ln = ln.strip()
+            if not ln or ln.startswith("#"):
+                continue
+            parts = [x.strip() for x in ln.split("|")]
+            if len(parts) >= 3:
+                out.append((parts[0], parts[1], parts[2]))
+            elif len(parts) == 2:
+                out.append(("城市 · FM", parts[0], parts[1]))
+    return out
+
+
+def build_city_fm(src_dir=None, probe_them=False):
+    """生成城市 FM 段落"""
+    items = load_city_fm(src_dir)
+    lines, ok = [], 0
+    for grp, name, url in items:
+        if probe_them and not probe(url):
+            print(f"  ✗ {name}")
+            continue
+        lines += [f'#EXTINF:-1 tvg-name="{name}" group-title="{grp}",{name}', url]
+        ok += 1
+    return lines, ok
+
+
 def build(channels, title, header_lines, probe_them):
     """生成 m3u 文本 + 条目数"""
     lines = ["#EXTM3U"] + header_lines + [""]
@@ -92,6 +134,7 @@ def main():
     ap.add_argument("--fm-only", action="store_true", help="只生成 FM 表")
     ap.add_argument("-o", "--output", default="ningbo.m3u", help="电视表输出路径")
     ap.add_argument("--fm-output", default="fm.m3u", help="FM 表输出路径")
+    ap.add_argument("--src-dir", default=None, help="源目录（含 fm-cities.txt）")
     args = ap.parse_args()
 
     TV_HDR = [
@@ -101,12 +144,16 @@ def main():
     ]
     FM_HDR = [
         "# 调频广播（FM）—— 由 scripts/ningbo_live.py 自动生成",
-        "# 源：宁波广电 App「宁聚」公开 CMS 接口 (cms.nj.nbtv.cn)",
-        "# auth_key 有效期约 30 分钟 —— Orange Pi cron 每 15 分钟自动刷新。",
         "#",
-        "# 宁波人民广播电台 4 个频率（经维基百科 + 去听网双源核对）：",
-        "#   FM92.0  综合广播（新闻）   FM102.9 经济广播",
-        "#   FM93.9  交通广播           FM98.6  音乐广播",
+        "# 一、宁波本地 4 个频率",
+        "#   源：宁波广电 App「宁聚」公开 CMS 接口 (cms.nj.nbtv.cn)",
+        "#   auth_key 约 30 分钟过期 —— Orange Pi cron 每 15 分钟自动刷新。",
+        "#   FM92.0 综合广播（新闻）  FM102.9 经济广播",
+        "#   FM93.9 交通广播          FM98.6  音乐广播",
+        "#",
+        "# 二、城市 FM（上海/北京/广州/成都 + 旧金山/纽约/温哥华/珀斯/悉尼）",
+        "#   源：见 ~/iptv-playlists/fm-cities.txt（公开直连，无需签名）",
+        "#   国内每城最多 5、国外每城最多 3（均为主流电台）",
     ]
 
     rc = 0
@@ -119,10 +166,15 @@ def main():
 
     if not args.tv_only:
         text, ok = build(FM_CHANNELS, "FM", FM_HDR, args.probe)
+        city_lines, city_ok = build_city_fm(args.src_dir, args.probe)
+        if city_lines:
+            text = text.rstrip("\n") + "\n\n# ===== 城市 FM（上海/北京/广州/成都/旧金山/纽约/温哥华/珀斯/悉尼）=====\n"
+            text += "\n".join(city_lines) + "\n"
         with open(args.fm_output, "w", encoding="utf-8", newline="\n") as f:
             f.write(text)
-        print(f"生成 {args.fm_output}：{ok}/{len(FM_CHANNELS)} 条")
-        rc = rc or (0 if ok else 1)
+        total = ok + city_ok
+        print(f"生成 {args.fm_output}：{total} 条（宁波 {ok} + 城市 {city_ok}）")
+        rc = rc or (0 if total else 1)
 
     return rc
 

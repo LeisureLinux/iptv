@@ -1,17 +1,65 @@
 #EXTM3U
 # 调频广播（FM）—— 由 scripts/ningbo_live.py 自动生成
-# 源：宁波广电 App「宁聚」公开 CMS 接口 (cms.nj.nbtv.cn)
-# auth_key 有效期约 30 分钟 —— Orange Pi cron 每 15 分钟自动刷新。
 #
-# 宁波人民广播电台 4 个频率（经维基百科 + 去听网双源核对）：
-#   FM92.0  综合广播（新闻）   FM102.9 经济广播
-#   FM93.9  交通广播           FM98.6  音乐广播
+# 一、宁波本地 4 个频率
+#   源：宁波广电 App「宁聚」公开 CMS 接口 (cms.nj.nbtv.cn)
+#   auth_key 约 30 分钟过期 —— Orange Pi cron 每 15 分钟自动刷新。
+#   FM92.0 综合广播（新闻）  FM102.9 经济广播
+#   FM93.9 交通广播          FM98.6  音乐广播
+#
+# 二、城市 FM（上海/北京/广州/成都 + 旧金山/纽约/温哥华/珀斯/悉尼）
+#   源：见 ~/iptv-playlists/fm-cities.txt（公开直连，无需签名）
+#   国内每城最多 5、国外每城最多 3（均为主流电台）
 
 #EXTINF:-1 tvg-name="宁波新闻综合广播 FM92.0" group-title="宁波 · FM",宁波新闻综合广播 FM92.0
-http://liveplay.nbtv.cn/live/fm920.m3u8?auth_key=1791384309-6ac653ed098de-0-d1e5e363334845809d08671664580ba5
+http://liveplay.nbtv.cn/live/fm920.m3u8?auth_key=1791385171-6ac6574b54610-0-78288739c774ec2de3670cbef0623656
 #EXTINF:-1 tvg-name="宁波经济广播 FM102.9" group-title="宁波 · FM",宁波经济广播 FM102.9
-http://liveplay.nbtv.cn/live/fm1029.m3u8?auth_key=1791384309-6ac653ed4e370-0-780712b953707936d7bfddfcea092236
+http://liveplay.nbtv.cn/live/fm1029.m3u8?auth_key=1791385171-6ac6574b78438-0-2a255edd72ed72c6d7a33400559b5a6d
 #EXTINF:-1 tvg-name="宁波交通广播 FM93.9" group-title="宁波 · FM",宁波交通广播 FM93.9
-http://liveplay.nbtv.cn/live/fm939.m3u8?auth_key=1791384309-6ac653ed94ab8-0-dad672f84d6fcdbc2e4b2f209073e1dd
+http://liveplay.nbtv.cn/live/fm939.m3u8?auth_key=1791385171-6ac6574b99b10-0-3dceb4f2139a65e39801f0ada6c66153
 #EXTINF:-1 tvg-name="宁波音乐广播 FM98.6" group-title="宁波 · FM",宁波音乐广播 FM98.6
-http://liveplay.nbtv.cn/live/fm986.m3u8?auth_key=1791384309-6ac653ede2634-0-755d15f02fd48f3995678af0acb7f765
+http://liveplay.nbtv.cn/live/fm986.m3u8?auth_key=1791385171-6ac6574bb5cb5-0-82116ca37c343a62d68a2add1c0d1adb
+
+# ===== 城市 FM（上海/北京/广州/成都/旧金山/纽约/温哥华/珀斯/悉尼）=====
+#EXTINF:-1 tvg-name="上海 东方新闻广播 FM90.9" group-title="中国 · FM",上海 东方新闻广播 FM90.9
+http://lhttp.qingting.fm/live/275/64k.mp3
+#EXTINF:-1 tvg-name="上海 动感101 FM101.7" group-title="中国 · FM",上海 动感101 FM101.7
+https://lhttp.qingting.fm/live/274/64k.mp3
+#EXTINF:-1 tvg-name="上海 交通广播 FM105.7" group-title="中国 · FM",上海 交通广播 FM105.7
+http://lhttp.qingting.fm/live/266/64k.mp3
+#EXTINF:-1 tvg-name="北京 新闻广播 FM94.5" group-title="中国 · FM",北京 新闻广播 FM94.5
+https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+#EXTINF:-1 tvg-name="北京 交通广播 FM103.9" group-title="中国 · FM",北京 交通广播 FM103.9
+https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
+#EXTINF:-1 tvg-name="北京 文艺广播 FM87.6" group-title="中国 · FM",北京 文艺广播 FM87.6
+https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
+#EXTINF:-1 tvg-name="广州 新闻资讯广播 FM96.2" group-title="中国 · FM",广州 新闻资讯广播 FM96.2
+http://lhttp.qingting.fm/live/4848/64k.mp3
+#EXTINF:-1 tvg-name="广州 经济交通广播 FM106.1" group-title="中国 · FM",广州 经济交通广播 FM106.1
+http://lhttp.qingting.fm/live/4955/64k.mp3
+#EXTINF:-1 tvg-name="广州 汽车音乐电台 FM102.7" group-title="中国 · FM",广州 汽车音乐电台 FM102.7
+http://lhttp.qingting.fm/live/20192/64k.mp3
+#EXTINF:-1 tvg-name="成都 交通文艺广播 FM91.4" group-title="中国 · FM",成都 交通文艺广播 FM91.4
+https://lhttp-hw.qtfm.cn/live/4891/64k.mp3
+#EXTINF:-1 tvg-name="成都 文化休闲广播 FM94.6" group-title="中国 · FM",成都 文化休闲广播 FM94.6
+https://lhttp-hw.qtfm.cn/live/4892/64k.mp3
+#EXTINF:-1 tvg-name="成都 HIT FM 劲曲调频 FM88.7" group-title="中国 · FM",成都 HIT FM 劲曲调频 FM88.7
+http://lhttp.qingting.fm/live/15318703/64k.mp3
+#EXTINF:-1 tvg-name="旧金山 KQED 88.5 (NPR)" group-title="美国 · FM",旧金山 KQED 88.5 (NPR)
+https://streams.kqed.org/kqedradio
+#EXTINF:-1 tvg-name="纽约 WNYC 93.9 (NPR)" group-title="美国 · FM",纽约 WNYC 93.9 (NPR)
+https://fm939.wnyc.org/wnycfm
+#EXTINF:-1 tvg-name="纽约 WQXR 105.9 (古典乐)" group-title="美国 · FM",纽约 WQXR 105.9 (古典乐)
+http://stream.wqxr.org/wqxr
+#EXTINF:-1 tvg-name="温哥华 CBC Radio One 88.1" group-title="加拿大 · FM",温哥华 CBC Radio One 88.1
+https://22983.live.streamtheworld.com/CBU2FM_CBC_SC
+#EXTINF:-1 tvg-name="温哥华 CBC Music 105.7" group-title="加拿大 · FM",温哥华 CBC Music 105.7
+https://17813.live.streamtheworld.com/CBUFM_CBC_SC
+#EXTINF:-1 tvg-name="珀斯 ABC Radio Perth 720" group-title="澳大利亚 · FM",珀斯 ABC Radio Perth 720
+https://mediaserviceslive.akamaized.net/hls/live/2038301/localperth/master.m3u8
+#EXTINF:-1 tvg-name="珀斯 ABC Perth (HLS)" group-title="澳大利亚 · FM",珀斯 ABC Perth (HLS)
+https://streaming.abc-cdn.net.au/audio/hls/localperth.m3u8?source=web
+#EXTINF:-1 tvg-name="悉尼 ABC Radio Sydney 702" group-title="澳大利亚 · FM",悉尼 ABC Radio Sydney 702
+https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/master.m3u8
+#EXTINF:-1 tvg-name="悉尼 ABC Sydney (HLS)" group-title="澳大利亚 · FM",悉尼 ABC Sydney (HLS)
+https://streaming.abc-cdn.net.au/audio/hls/localsydney.m3u8?source=web
