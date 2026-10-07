@@ -158,6 +158,21 @@ def copy_ningbo(src_dir, out_dir):
     return sum(1 for l in text.splitlines() if l.startswith("#EXTINF"))
 
 
+def gen_yuyao(out_dir):
+    """余姚列表（点播+广播）由 yuyao_vod.py 生成。返回条目数。"""
+    import subprocess
+    gen = os.path.join(os.path.dirname(os.path.abspath(__file__)), "yuyao_vod.py")
+    out = os.path.join(out_dir, "yuyao.m3u")
+    if not os.path.exists(gen):
+        return 0
+    r = subprocess.run([sys.executable, gen, "-o", out], capture_output=True, text=True)
+    if r.returncode != 0:
+        print("  警告: yuyao_vod.py 生成失败", file=sys.stderr)
+        return 0
+    with open(out, encoding="utf-8") as fh:
+        return sum(1 for l in fh if l.startswith("#EXTINF"))
+
+
 def dedupe(rows):
     seen, out = set(), []
     for e in rows:
@@ -215,7 +230,8 @@ def main():
           render(allrows, "全量 (中文 + 财经 + 英文新闻)"))
 
     nb = copy_ningbo(src_dir, out_dir)
-    print(f"  生成: all.m3u={len(allrows)}  china.m3u={len(china)}  news.m3u={len(news)}  ningbo.m3u={nb}")
+    yy = gen_yuyao(out_dir)
+    print(f"  生成: all.m3u={len(allrows)}  china.m3u={len(china)}  news.m3u={len(news)}  ningbo.m3u={nb}  yuyao.m3u={yy}")
     return 0
 
 

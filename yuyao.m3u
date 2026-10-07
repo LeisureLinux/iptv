@@ -1,0 +1,53 @@
+#EXTM3U
+# 余姚 —— 点播 + 广播（由 scripts/yuyao_vod.py 自动生成）
+# 来源：余姚市融媒体中心（姚界 App / 余姚新闻网）
+#
+# 说明：这不是直播台。余姚电视台无公开直播源，此处为节目点播 + 广播直播。
+# 主列表见 ningbo.m3u（宁波市台直播）。
+
+# ===== 广播（直播，仅音频）=====
+# auth_key 约 30 分钟过期，重跑本脚本刷新
+#EXTINF:-1 tvg-name="余姚广播" group-title="余姚 · 广播",余姚广播
+https://play-sh13.quklive.com/live/1709282355347178.m3u8?auth_key=1791364584-a0fe0e16f1b5461cb673332c7a547ad6-0-433c48e1cfeda84a375b3a95e7c97643
+
+# ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-name="万圣村举行第四届闯海文化主题活动" group-title="余姚 · 点播",万圣村举行第四届闯海文化主题活动 (0:54, 17MB)
+https://mc-public.yynews.com.cn/17841849356424_hd.mp4?width=1280&height=720&isVertical=0&fsize=17327822&duration=54.0
+#EXTINF:-1 tvg-name="东海全面开渔 海鲜产品丰富市民菜篮子" group-title="余姚 · 点播",东海全面开渔 海鲜产品丰富市民菜篮子 (1:41, 33MB)
+https://mc-public.yynews.com.cn/17841825470536_hd.mp4?width=1280&height=720&isVertical=0&fsize=34162796&duration=101.0
+#EXTINF:-1 tvg-name="学生国旗护卫队三十载守护“中国红”" group-title="余姚 · 点播",学生国旗护卫队三十载守护“中国红” (1:55, 35MB)
+https://mc-public.yynews.com.cn/17841824567432_hd.mp4?width=1280&height=720&isVertical=0&fsize=36450814&duration=115.0
+#EXTINF:-1 tvg-name="国庆假期：乡村营地解锁休闲新体验" group-title="余姚 · 点播",国庆假期：乡村营地解锁休闲新体验 (1:45, 35MB)
+https://mc-public.yynews.com.cn/17841824090244_hd.mp4?width=1280&height=720&isVertical=0&fsize=36192012&duration=105.0
+#EXTINF:-1 tvg-name="国庆假期：余姚收费中心所多措并举保畅通" group-title="余姚 · 点播",国庆假期：余姚收费中心所多措并举保畅通 (1:20, 26MB)
+https://mc-public.yynews.com.cn/17841823566664_hd.mp4?width=1280&height=720&isVertical=0&fsize=26835793&duration=80.0
+#EXTINF:-1 tvg-name="国庆假期：全市文旅活力迸发" group-title="余姚 · 点播",国庆假期：全市文旅活力迸发 (1:42, 32MB)
+https://mc-public.yynews.com.cn/17841822934344_hd.mp4?width=1280&height=720&isVertical=0&fsize=33424634&duration=102.0
+#EXTINF:-1 tvg-name="市十八届人大常委会举行第三十六次会议" group-title="余姚 · 点播",市十八届人大常委会举行第三十六次会议 (2:29, 50MB)
+https://mc-public.yynews.com.cn/17841822388488_hd.mp4?width=1280&height=720&isVertical=0&fsize=52263198&duration=149.0
+#EXTINF:-1 tvg-name="国庆假期不停工 峻和科技开足马力冲刺全年目标" group-title="余姚 · 点播",国庆假期不停工 峻和科技开足马力冲刺全年目标 (2:08, 42MB)
+https://mc-public.yynews.com.cn/17841821793544_hd.mp4?width=1280&height=720&isVertical=0&fsize=43611049&duration=128.0
+#EXTINF:-1 tvg-name="货车翻车司机被困 过路司机合力救援" group-title="余姚 · 点播",货车翻车司机被困 过路司机合力救援 (0:56, 18MB)
+https://mc-public.yynews.com.cn/17836584961092_hd.mp4?width=1280&height=720&isVertical=0&fsize=18934310&duration=56.0
+#EXTINF:-1 tvg-name="铁路安全课走进凤山小学" group-title="余姚 · 点播",铁路安全课走进凤山小学 (0:22, 8MB)
+https://mc-public.yynews.com.cn/17836583228804_hd.mp4?width=1280&height=720&isVertical=0&fsize=7998835&duration=22.0
+#EXTINF:-1 tvg-name="国庆假期宠物寄养预定受欢迎" group-title="余姚 · 点播",国庆假期宠物寄养预定受欢迎 (1:23, 28MB)
+https://mc-public.yynews.com.cn/17836582158472_hd.mp4?width=1280&height=720&isVertical=0&fsize=29029115&duration=83.0
+#EXTINF:-1 tvg-name="市供电公司对充电站开展节前专项检修保养" group-title="余姚 · 点播",市供电公司对充电站开展节前专项检修保养 (1:05, 21MB)
+https://mc-public.yynews.com.cn/17836580589000_hd.mp4?width=1280&height=720&isVertical=0&fsize=21659818&duration=65.0
+#EXTINF:-1 tvg-name="国庆假期我市天气先雨后晴气温适宜" group-title="余姚 · 点播",国庆假期我市天气先雨后晴气温适宜 (1:11, 23MB)
+https://mc-public.yynews.com.cn/17836579452292_hd.mp4?width=1280&height=720&isVertical=0&fsize=24635226&duration=71.0
+#EXTINF:-1 tvg-name="我市举行2026年“姚江文化”学术研讨活动" group-title="余姚 · 点播",我市举行2026年“姚江文化”学术研讨活动 (1:40, 31MB)
+https://mc-public.yynews.com.cn/17836577937348_hd.mp4?width=1280&height=720&isVertical=0&fsize=32207601&duration=100.0
+#EXTINF:-1 tvg-name="余姚市迎国庆职工文艺晚会举行" group-title="余姚 · 点播",余姚市迎国庆职工文艺晚会举行 (1:22, 28MB)
+https://mc-public.yynews.com.cn/17836576106116_hd.mp4?width=1280&height=720&isVertical=0&fsize=28901100&duration=82.0
+#EXTINF:-1 tvg-name="四明山农文旅融合发展专场发布活动在我市举行" group-title="余姚 · 点播",四明山农文旅融合发展专场发布活动在我市举行 (1:26, 29MB)
+https://mc-public.yynews.com.cn/17836569419460_hd.mp4?width=1280&height=720&isVertical=0&fsize=30061597&duration=86.0
+#EXTINF:-1 tvg-name="沃勇特以“四不两直”方式检查安全生产工作" group-title="余姚 · 点播",沃勇特以“四不两直”方式检查安全生产工作 (2:15, 43MB)
+https://mc-public.yynews.com.cn/17836567988868_hd.mp4?width=1280&height=720&isVertical=0&fsize=44803067&duration=135.0
+#EXTINF:-1 tvg-name="我市向烈士敬献花篮仪式举行" group-title="余姚 · 点播",我市向烈士敬献花篮仪式举行 (2:21, 46MB)
+https://mc-public.yynews.com.cn/17836551759112_hd.mp4?width=1280&height=720&isVertical=0&fsize=47722840&duration=141.0
+#EXTINF:-1 tvg-name="出租房频繁出现蛇类 消防员及时上门处置" group-title="余姚 · 点播",出租房频繁出现蛇类 消防员及时上门处置 (1:03, 20MB)
+https://mc-public.yynews.com.cn/17830797578120_hd.mp4?width=1280&height=720&isVertical=0&fsize=20883609&duration=63.0
+#EXTINF:-1 tvg-name="国庆期间城区及泗门镇道路泊位免费停放" group-title="余姚 · 点播",国庆期间城区及泗门镇道路泊位免费停放 (0:41, 13MB)
+https://mc-public.yynews.com.cn/17830724812740_hd.mp4?width=1280&height=720&isVertical=0&fsize=13373923&duration=41.0

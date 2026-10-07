@@ -8,7 +8,7 @@ import os
 import re
 import sys
 
-CHECK_FILES = ["all.m3u", "china.m3u", "news.m3u"]
+CHECK_FILES = ["all.m3u", "china.m3u", "news.m3u", "ningbo.m3u", "yuyao.m3u"]
 HTTP_RE = re.compile(r"^https?://")
 BAD_PROTO_RE = re.compile(r"^(rtmp|rtsp|udp|rtp|mms|ftp)://", re.I)
 IPV6_LITERAL_RE = re.compile(r"^https?://\[")

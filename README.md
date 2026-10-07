@@ -10,7 +10,8 @@
 https://iptv.freelamp.com/all.m3u       全量（中文 + 财经 + 英文新闻）
 https://iptv.freelamp.com/china.m3u     中文频道
 https://iptv.freelamp.com/news.m3u      国际财经 / 英文新闻
-https://iptv.freelamp.com/ningbo.m3u    宁波本地台
+https://iptv.freelamp.com/ningbo.m3u    宁波市台（直播）
+https://iptv.freelamp.com/yuyao.m3u     余姚（点播 + 广播）
 ```
 
 ## 播放器 APK（免费 / 无广告 / 中文界面）
@@ -26,7 +27,8 @@ https://iptv.freelamp.com/ningbo.m3u    宁波本地台
 | `all.m3u` | 261 | 全量，日常用这一个即可 |
 | `china.m3u` | 209 | 央视、卫视、省市台、少儿动画等 |
 | `news.m3u` | ~52 | CNBC / Bloomberg / Fox News / NDTV / DW / France 24 / Sky News 等 |
-| `ningbo.m3u` | 8 | 宁波电视台 4 路 + 宁波广播 4 路（签名URL，GitHub Action 每20分钟自动刷新） |
+| `ningbo.m3u` | 8 | 宁波电视台 4 路 + 宁波广播 4 路（直播，签名URL，Action 每20分钟刷新） |
+| `yuyao.m3u` | 21 | 余姚：节目点播 20 + 广播 1（点播为 mp4，非直播） |
 
 ## 为什么不用 `raw.githubusercontent.com`
 

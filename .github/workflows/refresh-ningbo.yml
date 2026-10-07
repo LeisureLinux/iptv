@@ -1,4 +1,4 @@
-name: Refresh Ningbo playlist
+name: Refresh Ningbo + Yuyao playlists
 
 on:
   schedule:
@@ -16,13 +16,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Refresh ningbo.m3u
+      - name: Refresh ningbo.m3u (live, signed URL)
         run: python3 scripts/ningbo_live.py --probe -o ningbo.m3u
+
+      - name: Refresh yuyao.m3u (VOD + radio)
+        run: python3 scripts/yuyao_vod.py -o yuyao.m3u
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ningbo.m3u
+          git add ningbo.m3u yuyao.m3u
           if git diff --staged --quiet; then
             echo "无变化"
           else
