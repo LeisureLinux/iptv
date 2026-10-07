@@ -4,18 +4,18 @@
 # auth_key 有效期约 30 分钟 —— 重新运行本脚本即可刷新。
 
 #EXTINF:-1 tvg-name="宁波新闻综合" group-title="宁波 · 电视",宁波新闻综合
-http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1791376206-6ac63446c2132-0-25fea7a2eae6d4040773aaa62a7ff1c1
+http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1791377106-6ac637caa2e8a-0-e90abb8f4ca6bdb41dde0e18f63fe6c7
 #EXTINF:-1 tvg-name="宁波经济生活" group-title="宁波 · 电视",宁波经济生活
-http://liveplay.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1791376207-6ac6344713250-0-609fea391c9d658adec9712f1dc2a8bb
+http://liveplay.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1791377107-6ac637cb4e817-0-0fef1705d98d8d976c04e14b1451df69
 #EXTINF:-1 tvg-name="宁波都市文体" group-title="宁波 · 电视",宁波都市文体
-http://liveplay.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1791376207-6ac634475958c-0-47e6291e97e08d4edba164ab399ff013
+http://liveplay.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1791377107-6ac637cb87ccd-0-03551ecca199957c47be7d4fd0d248c2
 #EXTINF:-1 tvg-name="宁波影视剧" group-title="宁波 · 电视",宁波影视剧
-http://liveplay.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1791376207-6ac63447a32b8-0-02452af98a660c1d92edba1886d0a80f
+http://liveplay.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1791377107-6ac637cbceeb5-0-962fcdb235454efa5c0653382d850850
 #EXTINF:-1 tvg-name="宁波新闻广播 FM102.9" group-title="宁波 · 广播",宁波新闻广播 FM102.9
-http://liveplay.nbtv.cn/live/fm1029.m3u8?auth_key=1791376207-6ac63447d6e17-0-a3e55dbcdb5911c01081ae0852a51bbd
+http://liveplay.nbtv.cn/live/fm1029.m3u8?auth_key=1791377108-6ac637cc1b927-0-f743df2cb1a83c89aa1e2a8a40575e63
 #EXTINF:-1 tvg-name="宁波经济广播 FM92.0" group-title="宁波 · 广播",宁波经济广播 FM92.0
-http://liveplay.nbtv.cn/live/fm920.m3u8?auth_key=1791376208-6ac6344829ece-0-426b537db85782b39a5a093277c19862
+http://liveplay.nbtv.cn/live/fm920.m3u8?auth_key=1791377108-6ac637cc5ef90-0-0e2b7ae761e1d25a82b6346205067823
 #EXTINF:-1 tvg-name="宁波交通广播 FM93.9" group-title="宁波 · 广播",宁波交通广播 FM93.9
-http://liveplay.nbtv.cn/live/fm939.m3u8?auth_key=1791376208-6ac63448850d1-0-5e093018e5b5fb733c52e01e6ff9038a
+http://liveplay.nbtv.cn/live/fm939.m3u8?auth_key=1791377108-6ac637cca4557-0-86afcd6c12b51e85589881157418a856
 #EXTINF:-1 tvg-name="宁波音乐广播 FM98.6" group-title="宁波 · 广播",宁波音乐广播 FM98.6
-http://liveplay.nbtv.cn/live/fm986.m3u8?auth_key=1791376208-6ac63448cc059-0-abc3676d7566920e8f013738e05b12d7
+http://liveplay.nbtv.cn/live/fm986.m3u8?auth_key=1791377108-6ac637cceaff0-0-52a0eb8c1330d9713aa334d79427280f
