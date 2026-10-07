@@ -4,10 +4,10 @@
 # auth_key 有效期约 30 分钟 —— Orange Pi cron 每 15 分钟自动刷新。
 
 #EXTINF:-1 tvg-name="宁波新闻综合" group-title="宁波 · 电视",宁波新闻综合
-http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1791414008-6ac6c7f0531ee-0-5a6ad76c1710fb6171681b9b705bccfa
+http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1791414909-6ac6cb7522e1d-0-9dcb026f1cf952aad4d0ef4b6f5198a5
 #EXTINF:-1 tvg-name="宁波经济生活" group-title="宁波 · 电视",宁波经济生活
-http://liveplay.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1791414008-6ac6c7f0d7347-0-34691335823065001f8918f74889c6e3
+http://liveplay.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1791414909-6ac6cb75b9c34-0-9226d5287edfdd34faedb6976fd98b9f
 #EXTINF:-1 tvg-name="宁波都市文体" group-title="宁波 · 电视",宁波都市文体
-http://liveplay.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1791414009-6ac6c7f126d22-0-3f27eb952627af1f46312a6559453039
+http://liveplay.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1791414909-6ac6cb75ef008-0-093b76a457c5bfaa46c1f103343f30fe
 #EXTINF:-1 tvg-name="宁波影视剧" group-title="宁波 · 电视",宁波影视剧
-http://liveplay.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1791414009-6ac6c7f164b7c-0-1c3b1d72ef3b47684f61a595f7d2118c
+http://liveplay.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1791414910-6ac6cb763cbe3-0-e28e52d90a594edc2e3e274a96481777
