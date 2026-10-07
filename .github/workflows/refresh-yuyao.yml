@@ -1,6 +1,7 @@
 name: Refresh Yuyao playlist (VOD)
 
 # 余姚是节目点播：mp4 无签名、不过期，仅在有新节目时变化
+# （Pi 的 */15 cron 也会刷新，这里作为兜底）
 # 该栏目每天更新数次，故每 2 小时刷一次即可（避免无谓提交）
 on:
   schedule:

@@ -1,9 +1,11 @@
-name: Refresh Ningbo playlist (live)
+name: Refresh Ningbo playlist (live) [backup]
 
-# 宁波是直播，auth_key 有效期约 30 分钟 → 需高频刷新
+# ⚠️ 主刷新在 Orange Pi 的 cron（*/15，见 ~/iptv-refresh/refresh.sh）。
+# GitHub Actions 的 schedule 在本仓库实测长时间不触发（schedule 事件数为 0），
+# 因此这里降级为「每 6 小时兜底」+ 手动触发，避免与 Pi 抢 commit 造成冲突。
 on:
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -27,6 +29,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "无变化"
           else
-            git commit -m "chore: refresh ningbo.m3u (signed URLs)"
-            git push
+            git commit -m "chore: refresh ningbo.m3u (backup)"
+            git push || echo "push 冲突，交给 Pi cron 处理"
           fi
