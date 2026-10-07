@@ -26,7 +26,7 @@ https://iptv.freelamp.com/ningbo.m3u    宁波本地台
 | `all.m3u` | ~258 | 全量，日常用这一个即可 |
 | `china.m3u` | ~205 | 央视、卫视、省市台、少儿动画等 |
 | `news.m3u` | ~52 | CNBC / Bloomberg / Fox News / NDTV / DW / France 24 / Sky News 等 |
-| `ningbo.m3u` | 15 | 宁波本地台（象山 1080p/720p + 余姚广播 + 失效参考，分档标注） |
+| `ningbo.m3u` | 3 | 宁波本地台（象山 1080p/720p + 余姚广播；其余区县无公开直播源） |
 
 ## 为什么不用 `raw.githubusercontent.com`
 
