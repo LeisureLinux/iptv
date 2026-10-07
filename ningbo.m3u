@@ -1,28 +1,71 @@
 #EXTM3U
-# 宁波本地台 —— 实测可用（2026-10-07 验证）
+# 宁波本地台 —— 当前无公开可用直播源（2026-10-07 实测结论）
 #
-# 验证：拉 HLS playlist -> 取分片 -> MEDIA-SEQUENCE 持续推进 + ffmpeg 真实解码
-# 网络：上海移动（117.185.174.4, AS24400）
+# 本列表已清空可播放条目：宁波全市频道在公网均无法取得稳定直播流，
+# 所有已排查的地址以注释形式留档在下方，便于日后复查。
 #
-# 说明：宁波全市 11 个区县市中，目前只有【象山】有公开可用的直播视频源。
-# 其余（余姚/慈溪/奉化/宁海/镇海/北仑/鄞州/海曙/江北及宁波广电 NBTV1-5）
-# 均无公开直播源 —— 要么是运营商 IPTV 专网（需机顶盒鉴权），
-# 要么需请求签名，要么 CDN 冻结/源站关停，故不再收录。
+# ─────────────────────────────────────────────────────────
+# 一、宁波广电 NBTV1-5（真正的宁波市级台）—— 需签名，公开不可取
 #
-
-# ===== 象山新闻综合（1080p，最优先）=====
-# 趣看 quklive 平台，1080p H.264 + AAC，auth_key 有效期至 2034 年
-#EXTINF:-1 tvg-name="象山新闻综合" group-title="宁波",象山新闻综合 (1080p)
-http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
-
-# ===== 象山新闻综合（720p 备用）=====
-# 浙江广电蓝天云 CDN，约每 16 秒更新一个分片
-#EXTINF:-1 tvg-name="象山新闻综合" group-title="宁波",象山新闻综合 (720p)
-https://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-
-# ===== 余姚广播（仅音频，无画面）=====
-# 余姚新闻网官方“听广播”源，纯 AAC 音频流。
-# ⚠️ auth_key 约 30 分钟过期。过期后重新获取（返回 JSON 的 value 字段即新地址）：
-#     curl 'https://www.qukanvideo.com/h5/w/getPlayUrl?id=1709282355347178'
-#EXTINF:-1 tvg-name="余姚广播" group-title="宁波",余姚广播 (仅音频)
-https://play-sh13.quklive.com/live/1709282355347178.m3u8?auth_key=1791358464-4c0fd22dc3cf45e7ab205f7430665457-0-4ff16b1d28df0faa283254cb59b9d87a
+#   官方站点：web.ncmc.nbtv.cn（宁波广电网 / 宁聚）
+#   CDN：liveplay8.nbtv.cn（阿里云 alikunlun），实测返回：
+#        X-Tengine-Error: denied by req auth: no url arg auth_key
+#        → 阿里云 CDN A 型鉴权，需 auth_key=<expires>-<rand>-<uid>-<md5>
+#
+#   已提取到的频道 ID：
+#     NBTV1 新闻综合  d9d86a3ca45a46e2ac5f54266814364c
+#     NBTV2 经济生活  bb73d5de1e9047e0b7ed55d3ba3e3dce
+#     NBTV3 都市文体  c962876dadf14671b0b3c9e11060ddb0
+#     NBTV4 影视     45604846660947958483242eb25db437
+#
+#   签名链路断点（逐环实测）：
+#     · 密钥接口 .../9ebadf..._Html5ParamProfile.jsonp → guard.host = api.ncmc.nbtv.cn
+#       ✗ api.ncmc.nbtv.cn 全球 DNS 无 A 记录（NXDOMAIN），主机不存在
+#     · 取流信息 webs.ncmc.nbtv.cn/vms/site/nbtv/liveChannel/
+#       ✗ webs.ncmc.nbtv.cn 无解析（内网主机），origin IP 403
+#     · 签名服务 em.chinamcloud.com/player/encryptUrl
+#       ✓ 公网可达，但恒返回 "连接ms3服务器失败"（后端 ms3 离线）
+#     · 播放器为 Flash 时代产物（UrlEncryptorProvider.swf），
+#       内容 URL 从不出现在公开 HTML/JS 中，无法静态提取
+#
+#   结论：密钥下发与签名后端双双失效，且 CDN 强制鉴权。
+#         公开网络无法取得 NBTV1-5 的可用流（无论是否已签名）。
+# ─────────────────────────────────────────────────────────
+# 二、运营商 IPTV 专网源 —— 需机顶盒鉴权，公网不可达
+#   联通(124.90.44.40 / ZTE) + 杭州移动(112.17.40.145)，TCP 直接超时。
+#   http://124.90.44.40:6060/010/2/00000001000000060000000000000600/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#   http://124.90.44.40:6060/010/2/00000001000000060000000000000789/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#   http://124.90.44.40:6060/010/2/00000001000000060000000000000790/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#   http://124.90.44.40:6060/010/2/00000001000000060000000000000791/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#   http://112.17.40.145/PLTV/88888888/224/3221226130/index.m3u8
+#
+#   浙江电信 IPTV 组播（需 IPoE 认证 + UDPXY 转发，公网无解）：
+#     宁波1新闻 rtp://233.50.201.168:5140   宁波2经济 rtp://233.50.201.178:5140
+#     宁波3文体 rtp://233.50.201.179:5140   宁波4影视 rtp://233.50.201.180:5140
+# ─────────────────────────────────────────────────────────
+# 三、余姚电视台 —— CDN 冻结 + 无公开直播
+#   cztvcloud 三路 playlist 返回 200 且分片可下，但 MEDIA-SEQUENCE 与
+#   PROGRAM-DATE-TIME 永远停在 2022-06-29 / 2024-03-04（多级缓存穿透测试均无效）。
+#   http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#   http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+#   http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#   官方“看电视”栏目 https://www.yynews.com.cn/kds/yydsxw/ 仅提供每日新闻点播 mp4。
+# ─────────────────────────────────────────────────────────
+# 四、各区县 —— 多数迁至天目云(tmuyun)，API 需请求签名
+#   奉化/镇海/北仑/鄞州/余姚官网均为 tmuyun 平台，实测返回：
+#     {"code":10102,"message":"请求签名无效【sid:null, rid:null, ts:null】"}
+#   域名已注销的旧源（NXDOMAIN）：
+#   http://live1.fhtv.net.cn/zhzb/sd/live.m3u8                  (奉化)
+#   http://pluslive.zhxww.net/channel1/sd/live.m3u8             (镇海)
+#   http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8  (鄞州)
+#   http://play-sh.quklive.com/live/1626327731714170.m3u8       (北仑)
+# ─────────────────────────────────────────────────────────
+# 五、曾可用、现已按需移除的源（如需可取消注释恢复）
+#   · 象山新闻综合 1080p（趣看 quklive，auth_key 有效期至 2034 年，实测活流）
+#   http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
+#   · 象山新闻综合 720p（浙江广电蓝天云，实测活流）
+#   https://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#   · 余姚广播（仅音频，key 约 30 分钟过期）
+#   https://play-sh13.quklive.com/live/1709282355347178.m3u8?auth_key=1791358464-4c0fd22dc3cf45e7ab205f7430665457-0-4ff16b1d28df0faa283254cb59b9d87a
+#   （余姚广播刷新地址：curl 'https://www.qukanvideo.com/h5/w/getPlayUrl?id=1709282355347178'）
+# ─────────────────────────────────────────────────────────
