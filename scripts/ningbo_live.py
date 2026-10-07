@@ -53,13 +53,19 @@ def get_live(ch: str):
         return None
 
 
-def probe(url: str) -> bool:
-    """拉 playlist 并确认有分片"""
+def probe(url: str, timeout: float = 8.0) -> bool:
+    """拉 playlist 并确认有分片（.ts 或下级 .m3u8）。
+    注意：只用于宁波本地源（响应快）；城市 FM 是静态长期源，不做探测
+    —— 21 条国外流逐个探测会拖慢数分钟并导致 cron 超时。"""
     try:
         req = urllib.request.Request(url, headers={"User-Agent": UA})
-        with urllib.request.urlopen(req, timeout=15) as r:
-            body = r.read().decode("utf-8", "replace")
-        return any(l and not l.startswith("#") and ".ts" in l for l in body.splitlines())
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            body = r.read(64 * 1024).decode("utf-8", "replace")
+        for l in body.splitlines():
+            l = l.strip()
+            if l and not l.startswith("#") and (".ts" in l or ".m3u8" in l):
+                return True
+        return False
     except Exception:
         return False
 
@@ -166,7 +172,8 @@ def main():
 
     if not args.tv_only:
         text, ok = build(FM_CHANNELS, "FM", FM_HDR, args.probe)
-        city_lines, city_ok = build_city_fm(args.src_dir, args.probe)
+        # 城市 FM 为静态长期源，不逐条探测（会拖慢 cron 并超时）
+        city_lines, city_ok = build_city_fm(args.src_dir, probe_them=False)
         if city_lines:
             text = text.rstrip("\n") + "\n\n# ===== 城市 FM（上海/北京/广州/成都/旧金山/纽约/温哥华/珀斯/悉尼）=====\n"
             text += "\n".join(city_lines) + "\n"
