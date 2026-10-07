@@ -81,6 +81,132 @@ NAME_FIXUP = {
 }
 
 
+def tidy_name(n):
+    """清理显示名：去掉 [Geo-blocked]/[Not 24/7]/（备注）等杂质"""
+    n = re.sub(r"\[[^\]]*\]", "", n)          # [Geo-blocked] [Not 24/7]
+    n = re.sub(r"（[^）]*(替代|备注)[^）]*）", "", n)  # （MSNBC 免费替代）
+    n = re.sub(r"\([^)]*\)$", "", n)
+    return n.strip(" -·")
+
+
+
+# ── 语言分类 ──────────────────────────────────────────────
+# 目标：english.m3u 只保留【英语】频道。
+# 判据优先级：显式非英语关键词 > 显式英语关键词 > 国家/地区默认语言。
+#
+# 非英语（按名称关键词剔除）：这些台虽可能带英文名，但播出语言非英语
+NON_ENGLISH_KEYWORDS = [
+    "arabiya", "arabic", "العربية",          # 阿拉伯语
+    "sky news arabia",                       # 阿语台（名字里带 sky news，易误判）
+    "marathi", "kannada", "tamil", "telugu",  # 印度地方语言
+    "hindi", "awaaz", "bajar", "zee ",        # 印地语
+    "madhya pradesh", "chhattisgarh",         # NDTV 地方版（印地语）
+    "rajasthan", "uttar pradesh", "bihar",    # NDTV 地方版
+    "gujarat", "punjab", "bengal",            # 地方版
+    "kannada", "malayalam",                   # 南印度语言
+    "spanish", "español", "espanol",          # 西班牙语
+    "português", "portuguese",                # 葡萄牙语
+    "français", "french", "bfm business",     # 法语
+    "deutsch", "german",                      # 德语
+    "russian", "русский", "rt doc",           # 俄语
+    "turkish", "cnbc-e",                      # 土耳其语
+    "mongolia", "mongolian",                  # 蒙古语
+    "atameken",                               # 哈萨克语
+    "中文", "汉语",                            # 汉语
+    "quran", "islamic",                       # 宗教/阿语
+]
+
+# 明确英语（即使来源国非英语国家）
+ENGLISH_MARKERS = [
+    "english", "news live", "news now",
+    "sky news", "gb news", "fox news", "cnbc", "bloomberg",
+    "al jazeera english", "cna", "wion", "arirang", "dw english",
+    "france 24 english", "reuters", "yahoo",
+    # 明确的国际英文台（名字里没有 "english" 但确为英语播出）
+    "abc news", "cbc news", "wild earth", "trace sports",
+    "arirang", "channel news asia",
+]
+
+# 允许列入 english.m3u 的国家/地区来源（英文广播为主）
+ENGLISH_REGIONS = {
+    "美国", "英国", "加拿大", "澳大利亚", "新西兰", "爱尔兰",
+    "南非", "新加坡", "国际", "印度", "菲律宾", "肯尼亚", "尼日利亚",
+}
+
+
+
+# 按用户要求整体排除的地区（印度台）
+EXCLUDE_REGIONS = ["印度"]
+
+# 按名称排除（这些是印度台，或与其它台重复）
+EXCLUDE_NAMES = [
+    "wion", "wionews",           # 印度 WION
+    "ndtv",                      # 印度 NDTV
+    "republic tv",               # 印度 Republic
+    "cnbc tv18",                 # 印度 CNBC（区别于 CNBC US/UK）
+    "zee business",              # 印度 Zee
+    "cnbc awaaz", "cnbc bajar",  # 印度 CNBC 地方语言
+]
+
+
+def is_excluded(e):
+    """用户指定排除的频道（印度台等）"""
+    text = (e.get("name", "") + " " + e.get("grp", "")).lower()
+    for r in EXCLUDE_REGIONS:
+        if r in e.get("grp", ""):
+            return True
+    for kw in EXCLUDE_NAMES:
+        if kw in text:
+            return True
+    return False
+
+
+# 中文/港澳台标识：这些属于 china.m3u，不算"外国台"
+CHINESE_MARKERS = ["央视频道", "卫视", "· suxuang", "芒果", "港澳", "中文",
+                   "春晚", "电视剧", "虎牙", "动画频道", "地方频道", "数字频道",
+                   "4K频道", ".cn@"]
+
+
+def is_foreign(e):
+    """判断是否为外国（非中文）频道"""
+    grp = e.get("grp", "")
+    # 明确的国际/英文/财经/新闻分类 → 外国
+    if any(k in grp for k in ("国际频道", "英文新闻", "财经", "新闻 ·")):
+        return True
+    # 港澳台属中文区，不算外国
+    if "港澳" in grp:
+        return False
+    # iptv-org 分组基本都是中国台（.cn）
+    return False
+
+
+def is_english(e):
+    """判断该频道是否以英语播出（用于 english.m3u）"""
+    text = (e.get("name", "") + " " + e.get("grp", "")).lower()
+
+    # 1) 显式非英语 → 排除
+    for kw in NON_ENGLISH_KEYWORDS:
+        if kw in text:
+            return False
+
+    # 2) 显式英语标记 → 通过
+    for kw in ENGLISH_MARKERS:
+        if kw in text:
+            return True
+
+    # 3) 按地区判断（形如 "英文新闻 · 美国 · Fox · 直连" / "新闻 · 国际 · 直连"）
+    m = re.search(r"·\s*([^·]+?)\s*·", e.get("grp", ""))
+    if m and m.group(1).strip() in ENGLISH_REGIONS:
+        return True
+
+    # 4) "国际频道" 组：该组混有各语种，非英语已在第 1 步剔除，
+    #    走到这里说明没命中非英语关键词，视为英语
+    if "国际频道" in e.get("grp", ""):
+        return True
+
+    return False
+
+
 def clean_group(g):
     """去掉 (直连)/(需代理) 之类的标注"""
     return re.sub(r"\s*[（(](直连|需代理|proxy|direct)[)）]", "", g).strip()
@@ -130,7 +256,14 @@ def load_entries(src_dir):
                 continue
             news.append(e)
 
-    return china, news
+    # 外国频道池 = news(财经/英文新闻) + china 里的「国际频道」组
+    foreign = list(news) + [e for e in china if is_foreign(e)]
+    foreign = [e for e in foreign if e not in news] + list(news)
+    # english.m3u = 外国台中纯英语的
+    english = prefer_one_per_channel(
+        [e for e in foreign if is_english(e) and not is_excluded(e)])
+
+    return china, news, english
 
 
 def copy_ningbo(src_dir, out_dir):
@@ -175,6 +308,26 @@ def gen_yuyao(out_dir):
         return sum(1 for l in fh if l.startswith("#EXTINF"))
 
 
+def prefer_one_per_channel(rows):
+    """同一频道有多个源时只保留 votes/位置最靠前的一个。
+    归一化名称：去 HD/竖屏/Not24/7 等后缀、去空格与括号。"""
+    def norm(n):
+        n = re.sub(r"[（(].*?[)）]", "", n)
+        n = re.sub(r"\[.*?\]", "", n)
+        n = re.sub(r"\b(HD|SD|FHD|UHD|4K|Vertical|Extra\s*\d+|TV|Channel)\b",
+                   "", n, flags=re.I)
+        return re.sub(r"[\s_\-]+", "", n).lower()
+
+    seen, out = {}, []
+    for e in rows:
+        k = norm(e["name"])
+        if k in seen:
+            continue
+        seen[k] = True
+        out.append(e)
+    return out
+
+
 def dedupe(rows):
     seen, out = set(), []
     for e in rows:
@@ -187,7 +340,12 @@ def dedupe(rows):
 
 
 def render(rows, title):
-    rows = sorted(rows, key=lambda x: (clean_group(x["grp"]), x["name"]))
+    """按分组名、频道名排序（分组名做自然排序，让 CCTV-2 在 CCTV-10 前面）"""
+    def natkey(t):
+        return [int(p) if p.isdigit() else p.lower()
+                for p in re.split(r"(\d+)", t or "")]
+
+    rows = sorted(rows, key=lambda x: (natkey(clean_group(x["grp"])), natkey(x["name"])))
     lines = [
         "#EXTM3U",
         f"# {title}",
@@ -196,10 +354,10 @@ def render(rows, title):
         "",
     ]
     for e in rows:
-        e["name"] = NAME_FIXUP.get(e["name"], e["name"])
+        e["name"] = tidy_name(NAME_FIXUP.get(e["name"], e["name"]))
         parts = ["#EXTINF:-1"]
         if e["tvg"]:
-            parts.append(f'tvg-name="{e["tvg"]}"')
+            parts.append(f'tvg-name="{tidy_name(e["tvg"])}"')
         if e["logo"]:
             parts.append(f'tvg-logo="{e["logo"]}"')
         parts.append(f'group-title="{clean_group(e["grp"])}"')
@@ -220,20 +378,24 @@ def main():
         return 1
     src_dir, out_dir = sys.argv[1], sys.argv[2]
 
-    china, news = load_entries(src_dir)
-    china, news = dedupe(china), dedupe(news)
+    china, news, english = load_entries(src_dir)
+    china, news, english = dedupe(china), dedupe(news), dedupe(english)
     allrows = dedupe(china + news)
 
     write(os.path.join(out_dir, "china.m3u"),
           render(china, "中文频道 (iOS / Android 通用)"))
     write(os.path.join(out_dir, "news.m3u"),
-          render(news, "国际财经 / 英文新闻 (iOS / Android 通用)"))
+          render(news, "外国频道 (含各语种)"))
+    write(os.path.join(out_dir, "english.m3u"),
+          render(english, "国外英语频道 (English only)"))
     write(os.path.join(out_dir, "all.m3u"),
-          render(allrows, "全量 (中文 + 财经 + 英文新闻)"))
+          render(allrows, "全量 (中文 + 外国频道)"))
 
     nb = copy_ningbo(src_dir, out_dir)
     yy = gen_yuyao(out_dir)
-    print(f"  生成: all.m3u={len(allrows)}  china.m3u={len(china)}  news.m3u={len(news)}  ningbo.m3u={nb}  yuyao.m3u={yy}")
+    print(f"  生成: all.m3u={len(allrows)}  china.m3u={len(china)}  "
+          f"news.m3u={len(news)}  english.m3u={len(english)}  "
+          f"ningbo.m3u={nb}  yuyao.m3u={yy}")
     return 0
 
 
