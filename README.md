@@ -13,6 +13,12 @@ https://iptv.freelamp.com/news.m3u      国际财经 / 英文新闻
 https://iptv.freelamp.com/ningbo.m3u    宁波本地台
 ```
 
+## 播放器 APK（免费 / 无广告 / 中文界面）
+
+本仓库只提供播放列表，不含播放器。Android TV 上可用的 **免费、无广告、带简体中文界面** 的 M3U 播放器（含 GitHub Releases 最新 APK 下载），见：
+
+👉 **[apks.md](apks.md)** — 4 款推荐：M3UAndroid、LiteTV、极简TV、我的电视
+
 ## 包含内容
 
 | 文件 | 条目 | 说明 |
