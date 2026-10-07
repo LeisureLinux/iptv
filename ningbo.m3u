@@ -1,40 +1,48 @@
 #EXTM3U
-# 宁波本地台 —— 上海移动网络实测可用（2026-10-07 深度验证）
+# 宁波本地台 —— 上海移动网络实测可用（2026-10-07）
 #
-# 验证方法：拉取 HLS playlist -> 取媒体分片 -> 确认可下载 + MEDIA-SEQUENCE 持续推进
-# 网络环境：上海移动（117.185.174.4, AS24400），IPv4/IPv6 双栈
+# 验证方法：拉 HLS playlist -> 取媒体分片 -> 确认 MEDIA-SEQUENCE 持续推进 + ffmpeg 真实解码
+# 网络环境：上海移动（117.185.174.4, AS24400）
+#
+# ⚠️ 重要更正：nbs.cn 是【南京广播电视台】(Nanjing Broadcasting System)，
+#    不是宁波。此前误把 www.nbs.cn 的 4 路直播当作宁波台，实际是南京台，已全部移除。
+#    宁波广电的真正域名是 nbtv.cn（宁聚），其直播地址需鉴权签名，公开不可直取。
 #
 # 分两档：
-#   [A] ✓ 实测可用 —— 公网直连，无需任何自定义请求头，活流（分片持续推进）
+#   [A] ✓ 实测可用 —— 公网直连，活流
 #   [B] ✗ 已失效   —— 保留供参考，当前任何网络都不可播
 #
 
-# ===== [A] 实测可用（5 条，全部活流）=====
+# ===== [A] 实测可用 =====
 
-# --- 宁波广电官方直播（宁聚 nbs.cn）4 路，720p H.264，最稳 ---
-#EXTINF:-1 tvg-name="宁波新闻综合" group-title="宁波 · 实测可用",宁波新闻综合
-https://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-#EXTINF:-1 tvg-name="宁波教育科技" group-title="宁波 · 实测可用",宁波教育科技
-https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
-#EXTINF:-1 tvg-name="宁波文旅纪录" group-title="宁波 · 实测可用",宁波文旅纪录
-https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-#EXTINF:-1 tvg-name="宁波十八生活" group-title="宁波 · 实测可用",宁波十八生活
-https://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
+# --- 象山新闻综合（宁波市象山县）—— 趣看 quklive 1080p，最优先 ---
+# 已验证：1080p H.264 + AAC 活流；auth_key 有效期至 2034 年，长期稳定
+#EXTINF:-1 tvg-name="象山新闻综合" group-title="宁波 · 实测可用",象山新闻综合 (1080p)
+http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 
-# --- 宁波·象山新闻综合（浙江广电蓝天云 CDN）720p H.264 活流 ---
-#EXTINF:-1 tvg-name="象山新闻综合" group-title="宁波 · 实测可用",象山新闻综合
+# --- 象山新闻综合 备用源（浙江广电蓝天云 CDN）720p 活流 ---
+#EXTINF:-1 tvg-name="象山新闻综合" group-title="宁波 · 实测可用",象山新闻综合 (720p)
 https://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 
-# ===== [B] 已失效（当前不可播，保留参考）=====
-# 以下源均已实测确认失效，原因标注在每条后面：
+# --- 余姚广播（仅音频，无画面）---
+# 这是余姚新闻网官方“听广播”入口，纯 AAC 音频流，非电视。
+# ⚠️ auth_key 约 30 分钟过期，可用以下 API 自动刷新获取新地址：
+#     curl 'https://www.qukanvideo.com/h5/w/getPlayUrl?id=1709282355347178'
+#     （返回 JSON 的 value 字段即为带新 key 的完整 URL）
+#EXTINF:-1 tvg-name="余姚广播" group-title="宁波 · 实测可用 (仅音频)",余姚广播 (音频)
+https://play-sh13.quklive.com/live/1709282355347178.m3u8?auth_key=1791358464-4c0fd22dc3cf45e7ab205f7430665457-0-4ff16b1d28df0faa283254cb59b9d87a
 
-# 余姚新闻综合 —— CDN 缓存冻结，分片停留在 2024-03-04（age > 36 万秒，非直播）
+# ===== [B] 已失效 =====
+
+# 余姚电视台（新闻综合 / 姚江文化 / 余姚3）—— 浙江广电蓝天云 CDN 缓存冻结。
+# playlist 能返回 200、分片也能下 1.7MB，但 MEDIA-SEQUENCE 与 PROGRAM-DATE-TIME
+# 永远停在 2022-06-29 / 2024-03-04（多级缓存穿透测试均无效，非本地缓存问题），
+# 播放器只会卡住。余姚电视台目前无公开可用的直播视频源：
+# 官方“看电视”栏目 https://www.yynews.com.cn/kds/yydsxw/ 只提供每日新闻点播 mp4。
 #EXTINF:-1 tvg-name="余姚新闻综合 (失效)" group-title="宁波 · 已失效",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-# 余姚姚江文化 —— 同上，分片冻结
 #EXTINF:-1 tvg-name="余姚姚江文化 (失效)" group-title="宁波 · 已失效",余姚姚江文化
 http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-# 余姚3 —— 同上，冻结于 2022-06-29
 #EXTINF:-1 tvg-name="余姚3 (失效)" group-title="宁波 · 已失效",余姚3
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 
