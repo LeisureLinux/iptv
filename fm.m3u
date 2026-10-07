@@ -1,0 +1,17 @@
+#EXTM3U
+# 调频广播（FM）—— 由 scripts/ningbo_live.py 自动生成
+# 源：宁波广电 App「宁聚」公开 CMS 接口 (cms.nj.nbtv.cn)
+# auth_key 有效期约 30 分钟 —— Orange Pi cron 每 15 分钟自动刷新。
+#
+# 宁波人民广播电台 4 个频率（经维基百科 + 去听网双源核对）：
+#   FM92.0  综合广播（新闻）   FM102.9 经济广播
+#   FM93.9  交通广播           FM98.6  音乐广播
+
+#EXTINF:-1 tvg-name="宁波新闻综合广播 FM92.0" group-title="宁波 · FM",宁波新闻综合广播 FM92.0
+http://liveplay.nbtv.cn/live/fm920.m3u8?auth_key=1791380243-6ac6440bb86ca-0-38c08ed3b107e37006dacfa0276868df
+#EXTINF:-1 tvg-name="宁波经济广播 FM102.9" group-title="宁波 · FM",宁波经济广播 FM102.9
+http://liveplay.nbtv.cn/live/fm1029.m3u8?auth_key=1791380243-6ac6440bf32b7-0-06d396c6ed1d158ce9ea16b32dd343bf
+#EXTINF:-1 tvg-name="宁波交通广播 FM93.9" group-title="宁波 · FM",宁波交通广播 FM93.9
+http://liveplay.nbtv.cn/live/fm939.m3u8?auth_key=1791380244-6ac6440c42e3a-0-bbf4673694d48d61d359db031633e5dd
+#EXTINF:-1 tvg-name="宁波音乐广播 FM98.6" group-title="宁波 · FM",宁波音乐广播 FM98.6
+http://liveplay.nbtv.cn/live/fm986.m3u8?auth_key=1791380244-6ac6440c89978-0-a382ac4db5c2ca8e4aa20df78afe8258

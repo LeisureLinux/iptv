@@ -140,7 +140,9 @@ def copy_ningbo(src_dir, out_dir):
     gen = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ningbo_live.py")
     out = os.path.join(out_dir, "ningbo.m3u")
     if os.path.exists(gen):
-        r = subprocess.run([sys.executable, gen, "--probe", "-o", out],
+        fm_out = os.path.join(out_dir, "fm.m3u")
+        r = subprocess.run([sys.executable, gen, "--probe",
+                            "-o", out, "--fm-output", fm_out],
                            capture_output=True, text=True)
         if r.returncode == 0:
             with open(out, encoding="utf-8") as fh:
