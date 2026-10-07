@@ -26,7 +26,7 @@ https://iptv.freelamp.com/ningbo.m3u    宁波本地台
 | `all.m3u` | ~258 | 全量，日常用这一个即可 |
 | `china.m3u` | ~205 | 央视、卫视、省市台、少儿动画等 |
 | `news.m3u` | ~52 | CNBC / Bloomberg / Fox News / NDTV / DW / France 24 / Sky News 等 |
-| `ningbo.m3u` | 0 | 宁波本地台（实测无公开可用直播源，链路排查结论留档） |
+| `ningbo.m3u` | 8 | 宁波电视台 4 路 + 宁波广播 4 路（签名URL，GitHub Action 每20分钟自动刷新） |
 
 ## 为什么不用 `raw.githubusercontent.com`
 

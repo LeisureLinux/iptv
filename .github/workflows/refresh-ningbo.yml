@@ -1,0 +1,31 @@
+name: Refresh Ningbo playlist
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"   # 每 20 分钟（auth_key 有效期约 30 分钟）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh ningbo.m3u
+        run: python3 scripts/ningbo_live.py --probe -o ningbo.m3u
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ningbo.m3u
+          if git diff --staged --quiet; then
+            echo "无变化"
+          else
+            git commit -m "chore: refresh ningbo.m3u (signed URLs)"
+            git push
+          fi
