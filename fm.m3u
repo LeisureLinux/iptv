@@ -8,10 +8,10 @@
 #   FM93.9  交通广播           FM98.6  音乐广播
 
 #EXTINF:-1 tvg-name="宁波新闻综合广播 FM92.0" group-title="宁波 · FM",宁波新闻综合广播 FM92.0
-http://liveplay.nbtv.cn/live/fm920.m3u8?auth_key=1791383407-6ac65067ec052-0-ecc902beb1538985e0d526b412e39081
+http://liveplay.nbtv.cn/live/fm920.m3u8?auth_key=1791384309-6ac653ed098de-0-d1e5e363334845809d08671664580ba5
 #EXTINF:-1 tvg-name="宁波经济广播 FM102.9" group-title="宁波 · FM",宁波经济广播 FM102.9
-http://liveplay.nbtv.cn/live/fm1029.m3u8?auth_key=1791383408-6ac65068393a5-0-24537421a0d6da4c7d287f547795b737
+http://liveplay.nbtv.cn/live/fm1029.m3u8?auth_key=1791384309-6ac653ed4e370-0-780712b953707936d7bfddfcea092236
 #EXTINF:-1 tvg-name="宁波交通广播 FM93.9" group-title="宁波 · FM",宁波交通广播 FM93.9
-http://liveplay.nbtv.cn/live/fm939.m3u8?auth_key=1791383408-6ac650688082a-0-59fff9372a3d07fd214b86ba0c41e9b6
+http://liveplay.nbtv.cn/live/fm939.m3u8?auth_key=1791384309-6ac653ed94ab8-0-dad672f84d6fcdbc2e4b2f209073e1dd
 #EXTINF:-1 tvg-name="宁波音乐广播 FM98.6" group-title="宁波 · FM",宁波音乐广播 FM98.6
-http://liveplay.nbtv.cn/live/fm986.m3u8?auth_key=1791383408-6ac65068c2fae-0-1420cdf7c5b7f51d292eb805bdb53b11
+http://liveplay.nbtv.cn/live/fm986.m3u8?auth_key=1791384309-6ac653ede2634-0-755d15f02fd48f3995678af0acb7f765
