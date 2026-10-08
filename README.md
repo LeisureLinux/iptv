@@ -31,7 +31,7 @@ https://iptv.freelamp.com/yuyao.m3u     余姚（节目点播）
 | `news.m3u` | 52 | 外国频道（含各语种） |
 | `english.m3u` | 24 | 国外英语频道（已剔除印地/阿语/西语等非英语台） |
 | `ningbo.m3u` | 4 | 宁波电视台 4 路（Cloudflare Worker 实时签名，订阅永不过期） |
-| `fm.m3u` | 25 | 调频广播（宁波 4 路经 Worker 实时签名 + 21 城市 FM）| FM92.0 / 102.9 / 93.9 / 98.6（纯音频） |
+| `fm.m3u` | 25 | 调频广播（宁波 4 路经 Worker 实时签名 + 21 城市 FM）|
 
 | `yuyao.m3u` | 20 | 余姚节目点播（mp4，非直播） |
 
