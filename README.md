@@ -14,7 +14,7 @@ https://iptv.freelamp.com/english.m3u   国外英语频道（English only）
 https://iptv.freelamp.com/ningbo.m3u    宁波市台（电视直播）
 https://iptv.freelamp.com/fm.m3u        调频广播（FM）
 https://iptv.freelamp.com/yuyao.m3u     余姚（节目点播）
-https://iptv.freelamp.com/finance-podcast.m3u  财经播客（路透/WSJ/FT/彭博/哈佛商学院）
+https://iptv.freelamp.com/finance-podcast.m3u  财经播客（路透/WSJ/FT/彭博/经济学人/CNBC/巴伦/哈佛商学院）
 ```
 
 ## 播放器 APK（免费 / 无广告 / 中文界面）
@@ -35,11 +35,15 @@ https://iptv.freelamp.com/finance-podcast.m3u  财经播客（路透/WSJ/FT/彭�
 | `fm.m3u` | 25 | 调频广播（宁波 4 路经 Worker 实时签名 + 21 城市 FM）|
 
 | `yuyao.m3u` | 20 | 余姚节目点播（mp4，非直播） |
-| `finance-podcast.m3u` | 144 | 财经播客音频（路透 / WSJ / FT / Bloomberg / 哈佛商学院，各 12 集） |
+| `finance-podcast.m3u` | 300 | 财经播客音频（路透 / WSJ / FT / Bloomberg / 经济学人 / CNBC / Barron's / 哈佛商学院，25 档各 12 集） |
 
-> **`finance-podcast.m3u` 网络说明**：路透 / WSJ / HBS / HBR 大陆可直连；
-> 标 `[需代理]` 的 Bloomberg（omny）与 FT（acast）大陆直连超时，需自备代理/VPN。
-> 重新生成：`python3 scripts/finance_podcast.py`（默认每档 12 集，`--limit N` 可调，`--probe` 逐条探测）。
+> **`finance-podcast.m3u` 说明**
+>
+> - 每集标题带日期前缀，格式为 `节目名: [YYYY-MM-DD] 单集标题`（否则日更节目在播放器里标题全一样）。
+> - **网络**：路透 / WSJ / HBS / HBR / CNBC / Barron's 大陆可直连；
+>   标 `[需代理]` 的两组——Bloomberg（omny）、FT 与经济学人（acast）——大陆直连超时，需自备代理/VPN。
+> - 重新生成：`python3 scripts/finance_podcast.py`（`--limit N` 调每档集数，`--list` 看各档最新日期，`--probe` 逐条探测可播性）。
+> - 已剔除停更 feed：Money Talks（正片停 2025-04）与 Checks and Balance（停 2024-11），其内容已并入 The Intelligence。
 | `finance-podcast.m3u` | 144 | 财经播客音频（路透 / WSJ / FT / Bloomberg / 哈佛商学院，各 12 集） |
 
 ## 为什么不用 `raw.githubusercontent.com`
