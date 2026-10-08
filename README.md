@@ -14,6 +14,7 @@ https://iptv.freelamp.com/english.m3u   国外英语频道（English only）
 https://iptv.freelamp.com/ningbo.m3u    宁波市台（电视直播）
 https://iptv.freelamp.com/fm.m3u        调频广播（FM）
 https://iptv.freelamp.com/yuyao.m3u     余姚（节目点播）
+https://iptv.freelamp.com/finance-podcast.m3u  财经播客（路透/WSJ/FT/彭博/哈佛商学院）
 ```
 
 ## 播放器 APK（免费 / 无广告 / 中文界面）
@@ -34,6 +35,7 @@ https://iptv.freelamp.com/yuyao.m3u     余姚（节目点播）
 | `fm.m3u` | 25 | 调频广播（宁波 4 路经 Worker 实时签名 + 21 城市 FM）|
 
 | `yuyao.m3u` | 20 | 余姚节目点播（mp4，非直播） |
+| `finance-podcast.m3u` | 144 | 财经播客音频（路透 / WSJ / FT / Bloomberg / 哈佛商学院，各 12 集） |
 
 ## 为什么不用 `raw.githubusercontent.com`
 

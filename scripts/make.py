@@ -314,6 +314,23 @@ def gen_yuyao(out_dir):
         return sum(1 for l in fh if l.startswith("#EXTINF"))
 
 
+def gen_finance_podcast(out_dir):
+    """财经播客（路透/WSJ/FT/Bloomberg/HBS）由 finance_podcast.py 生成。
+    依赖外网 RSS，失败时保留已有文件、不阻断整体构建。返回条目数。"""
+    import subprocess
+    gen = os.path.join(os.path.dirname(os.path.abspath(__file__)), "finance_podcast.py")
+    out = os.path.join(out_dir, "finance-podcast.m3u")
+    if not os.path.exists(gen):
+        return 0
+    r = subprocess.run([sys.executable, gen, "--out", out], capture_output=True, text=True)
+    if r.returncode != 0:
+        print("  警告: finance_podcast.py 生成失败（保留原有文件）", file=sys.stderr)
+        if not os.path.exists(out):
+            return 0
+    with open(out, encoding="utf-8") as fh:
+        return sum(1 for l in fh if l.startswith("#EXTINF"))
+
+
 def prefer_one_per_channel(rows):
     """同一频道有多个源时只保留 votes/位置最靠前的一个。
     归一化名称：去 HD/竖屏/Not24/7 等后缀、去空格与括号。"""
@@ -410,9 +427,11 @@ def main():
     nb = copy_ningbo(src_dir, out_dir)
     fm = gen_fm(out_dir)
     yy = gen_yuyao(out_dir)
+    pc = gen_finance_podcast(out_dir)
     print(f"  生成: all.m3u={len(allrows)}  china.m3u={len(china)}  "
           f"news.m3u={len(news)}  english.m3u={len(english)}  "
-          f"ningbo.m3u={nb}  fm.m3u={fm}  yuyao.m3u={yy}")
+          f"ningbo.m3u={nb}  fm.m3u={fm}  yuyao.m3u={yy}  "
+          f"finance-podcast.m3u={pc}")
     return 0
 
 

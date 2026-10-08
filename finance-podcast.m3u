@@ -1,0 +1,320 @@
+#EXTM3U
+# 财经播客（音频点播）—— 路透 / WSJ / FT / Bloomberg / 哈佛商学院
+# FreeLAMP.com (LeisureLinux) | 仅聚合各播客官方公开 RSS，不提供、不托管任何内容
+# 由 scripts/finance_podcast.py 自动生成；音频为各节目 enclosure 直链（audio/mpeg）
+#
+# ⚠️ 网络说明（实测）：路透 / WSJ / HBS / HBR 大陆可直连；
+#    标 [需代理] 的两组（Bloomberg=omny 、FT=acast）大陆直连超时，需走代理/VPN。
+
+
+# ===== Reuters World News =====
+#EXTINF:-1 tvg-id="PC-3b80ad8d4534" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: Saudi airport attacks， evicted Spanish woman dies and Christa Pike evidence
+https://pdst.fm/e/traffic.megaphone.fm/THRH6934024754.mp3
+#EXTINF:-1 tvg-id="PC-26420ff527e4" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: Christa Pike hearing， October 7 and mortgage rate spikes (Updated)
+https://pdst.fm/e/traffic.megaphone.fm/THRH5573851474.mp3
+#EXTINF:-1 tvg-id="PC-fcea3bf6aa03" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: Trump's California comments， France protests， Cornell rally (Updated)
+https://pdst.fm/e/traffic.megaphone.fm/THRH7818149560.mp3
+#EXTINF:-1 tvg-id="PC-4a7cb0d0c3dd" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: Yemen retakes Strait， Spain early election， Nobels (Updated)
+https://pdst.fm/e/traffic.megaphone.fm/THRH7848350394.mp3
+#EXTINF:-1 tvg-id="PC-a17b958277d6" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: Yemen's Houthi operation， Ukraine targets Russian refineries and Brazil vote
+https://pdst.fm/e/traffic.megaphone.fm/THRH3486348762.mp3
+#EXTINF:-1 tvg-id="PC-f3c4ca14b7b5" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: Flydubai， Kyiv bridge strikes and G7's emergency oil stocks
+https://pdst.fm/e/traffic.megaphone.fm/THRH4297810474.mp3
+#EXTINF:-1 tvg-id="PC-1255153746ac" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: Cornell students speak out， Tennessee's botched executions， Obamacare checks
+https://pdst.fm/e/traffic.megaphone.fm/THRH3225788458.mp3
+#EXTINF:-1 tvg-id="PC-c7d56fc57b37" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: Texas halts executions， Flydubai 'hero，' and AI Big Mac pricing (Updated)
+https://pdst.fm/e/traffic.megaphone.fm/THRH3353411814.mp3
+#EXTINF:-1 tvg-id="PC-f8d8b3bf10a6" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: Flydubai flight， AI safety pact， US leaves Iraq (Updated)
+https://pdst.fm/e/traffic.megaphone.fm/THRH5485307016.mp3
+#EXTINF:-1 tvg-id="PC-24b16a3b9e07" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: Trump's AI meeting， Lindsay Clancy， Cornell (Updated)
+https://pdst.fm/e/traffic.megaphone.fm/THRH3614848794.mp3
+#EXTINF:-1 tvg-id="PC-3c4944007521" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: UK airbase suspects released， Starship， and GOP's 'panic button' (Updated)
+https://pdst.fm/e/traffic.megaphone.fm/THRH1727456662.mp3
+#EXTINF:-1 tvg-id="PC-feb2428264b5" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: Iran-US diplomacy， RAF Fairford and Brazil elections
+https://pdst.fm/e/traffic.megaphone.fm/THRH6681650802.mp3
+
+# ===== WSJ The Journal =====
+#EXTINF:-1 tvg-id="PC-a1d0898a12fa" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: Why Chinese Fentanyl Factories Are Making Peptides Now
+https://pdst.fm/e/traffic.megaphone.fm/WSJ9296716921.mp3
+#EXTINF:-1 tvg-id="PC-e140312b1836" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: Red， White and Who? The Anti-AI Voters
+https://pdst.fm/e/traffic.megaphone.fm/WSJ5712818857.mp3
+#EXTINF:-1 tvg-id="PC-4afb658b9e78" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: Is Xi Jinping’s Health Declining?
+https://pdst.fm/e/traffic.megaphone.fm/WSJ7129291929.mp3
+#EXTINF:-1 tvg-id="PC-bd9b90d204de" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: Google Put AI in Schools. Test Scores Plummeted.
+https://pdst.fm/e/traffic.megaphone.fm/WSJ7923565426.mp3
+#EXTINF:-1 tvg-id="PC-1d6fd75301dd" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: My Monday Morning: Randy Bresnik
+https://pdst.fm/e/traffic.megaphone.fm/WSJ2963352424.mp3
+#EXTINF:-1 tvg-id="PC-71bb0a94a460" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: How Cocaine Is Flooding Into Europe
+https://pdst.fm/e/traffic.megaphone.fm/WSJ3511201937.mp3
+#EXTINF:-1 tvg-id="PC-3bb53aabeed4" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: The Vigilante Taking Down Job Scammers
+https://pdst.fm/e/traffic.megaphone.fm/WSJ2026512465.mp3
+#EXTINF:-1 tvg-id="PC-85c7af425003" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: Our Reporter Tried Meta’s Viral AI Agent. Should You?
+https://pdst.fm/e/traffic.megaphone.fm/WSJ9631360720.mp3
+#EXTINF:-1 tvg-id="PC-c67a67d78e17" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: How China Swiped the Secret to American Blueberries
+https://pdst.fm/e/traffic.megaphone.fm/WSJ2594346136.mp3
+#EXTINF:-1 tvg-id="PC-8f221db4ef0c" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: Why ‘What’s for Dinner?’ Is Harder than Ever
+https://pdst.fm/e/traffic.megaphone.fm/WSJ1508645273.mp3
+#EXTINF:-1 tvg-id="PC-b6f38384253d" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: Will a Rent Freeze Fix NYC or Make it Worse?
+https://pdst.fm/e/traffic.megaphone.fm/WSJ8491102638.mp3
+#EXTINF:-1 tvg-id="PC-c5d1dee4fceb" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: The Epic Drama at Lululemon
+https://pdst.fm/e/traffic.megaphone.fm/WSJ3649597873.mp3
+
+# ===== WSJ What's News =====
+#EXTINF:-1 tvg-id="PC-eead0f81a060" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: Do Smartglasses Belong in Public Spaces?
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/f91e5c0c-7029-41df-9a33-25f0b57d77d1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=f91e5c0c-7029-41df-9a33-25f0b57d77d1&feed=BA5QWI2p
+#EXTINF:-1 tvg-id="PC-f8cf88c7816d" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: The Tension and Turnover at Bessent’s Treasury Department
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/a4a1680c-3dba-4ac5-b0c5-7dee51925bde/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=a4a1680c-3dba-4ac5-b0c5-7dee51925bde&feed=BA5QWI2p
+#EXTINF:-1 tvg-id="PC-172f1fa1d2ef" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: The U.S. Wants Answers on Russian Lab Death
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/0a76d00f-1cc7-4d36-9ff2-9aebcc3cd1b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=0a76d00f-1cc7-4d36-9ff2-9aebcc3cd1b6&feed=BA5QWI2p
+#EXTINF:-1 tvg-id="PC-9fb2fee642b3" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: There’s a New Media Giant in Town
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/b4dbb739-8c56-4d2a-ae63-f93b1a27da7c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=b4dbb739-8c56-4d2a-ae63-f93b1a27da7c&feed=BA5QWI2p
+#EXTINF:-1 tvg-id="PC-979d434f7cbc" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: Saudi-Backed Forces Launch Major Counteroffensive
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/9bad9015-a096-403a-9818-560ffd1f4d50/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=9bad9015-a096-403a-9818-560ffd1f4d50&feed=BA5QWI2p
+#EXTINF:-1 tvg-id="PC-7151d3734e2a" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: Supreme Court Returns With Culture Wars Front and Center
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/fca59183-e9f0-4fa3-a2d6-e0c6f696cf34/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=fca59183-e9f0-4fa3-a2d6-e0c6f696cf34&feed=BA5QWI2p
+#EXTINF:-1 tvg-id="PC-f9fcbef0dc38" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: Brazil’s Bolsonaros Are Back
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/a11ddea2-c9ac-4029-bf92-7cb960aa9907/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=a11ddea2-c9ac-4029-bf92-7cb960aa9907&feed=BA5QWI2p
+#EXTINF:-1 tvg-id="PC-268e9b8d5195" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: How Colleges Are Tackling the Enrollment Crunch
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/212ecaa8-0e8c-4cd7-a139-c4d0cef129c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=212ecaa8-0e8c-4cd7-a139-c4d0cef129c7&feed=BA5QWI2p
+#EXTINF:-1 tvg-id="PC-3e9b32cbb05f" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: What’s News in Markets: Nvidia’s Big Buyback， Cruise Comeback， Egg Glut
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/e53be2b5-a506-4c37-a3c7-3fbba8103f8f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=e53be2b5-a506-4c37-a3c7-3fbba8103f8f&feed=BA5QWI2p
+#EXTINF:-1 tvg-id="PC-3d89ec9a90b6" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: An Underwhelming Jobs Report Sends Stocks Higher
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/a33ab440-14c9-4cb3-bada-335bb0a713a7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=a33ab440-14c9-4cb3-bada-335bb0a713a7&feed=BA5QWI2p
+#EXTINF:-1 tvg-id="PC-c2367bf758d0" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: DHS Is Paying Police Millions for Immigration Arrests
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/e3654bab-71a9-4041-ac2a-ca94566c0634/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=e3654bab-71a9-4041-ac2a-ca94566c0634&feed=BA5QWI2p
+#EXTINF:-1 tvg-id="PC-929f058ce28c" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: Why DOJ Is Reviewing the Watergate Investigation More Than 50 Years Later
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/01e2d6ec-1318-4240-a7f2-4c0bde1ec8a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=01e2d6ec-1318-4240-a7f2-4c0bde1ec8a1&feed=BA5QWI2p
+
+# ===== WSJ Tech News Briefing =====
+#EXTINF:-1 tvg-id="PC-9ac412c1a0d0" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: Why Cute Mascots Are the New Faces of AI
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/2c34f4da-ada2-4ab3-9d6e-48f78483d6b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=2c34f4da-ada2-4ab3-9d6e-48f78483d6b6&feed=ui_HbBma
+#EXTINF:-1 tvg-id="PC-f1861f5c6e40" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: Inside the New York City Council’s Marathon AI Hearing
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/56ce6862-fe33-4f09-90c3-f6467206f792/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=56ce6862-fe33-4f09-90c3-f6467206f792&feed=ui_HbBma
+#EXTINF:-1 tvg-id="PC-af6177ee18a8" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: How Short Videos Warp Time for Teens
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/34839045-af30-4dcf-aaae-be98c8fccaae/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=34839045-af30-4dcf-aaae-be98c8fccaae&feed=ui_HbBma
+#EXTINF:-1 tvg-id="PC-31d87e1bf8d6" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: Putting Meta’s New AI Agent to the Test
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/1c27f457-6ae0-455f-8262-2f85ddecce0e/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=1c27f457-6ae0-455f-8262-2f85ddecce0e&feed=ui_HbBma
+#EXTINF:-1 tvg-id="PC-37e520d17366" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: AI Agents Gone Wild
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/4068bfe7-924b-4610-b5c9-dc306c08e536/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=4068bfe7-924b-4610-b5c9-dc306c08e536&feed=ui_HbBma
+#EXTINF:-1 tvg-id="PC-eddc36e371ef" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: Inside the Race to Build AI Defenses Against Bioweapons
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/b531a25b-8833-4eee-b944-a6d86ecf9309/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=b531a25b-8833-4eee-b944-a6d86ecf9309&feed=ui_HbBma
+#EXTINF:-1 tvg-id="PC-12db93c501c1" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: TNB Tech Minute: FTC Opens Anthropic and OpenAI Investigation
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/d96ea637-f97d-4cb1-9064-a8a934ad72f5/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=d96ea637-f97d-4cb1-9064-a8a934ad72f5&feed=ui_HbBma
+#EXTINF:-1 tvg-id="PC-f56c1adea015" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: TNB Tech Minute: Trump Defends His Light-Touch AI Regulation Strategy
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/268c94f5-6a31-4d1a-a8f6-4e35739d3974/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=268c94f5-6a31-4d1a-a8f6-4e35739d3974&feed=ui_HbBma
+#EXTINF:-1 tvg-id="PC-b702bef3ce6d" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: TNB Tech Minute: OpenAI Announces Latest Contender in AI-Assistant Race
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/d56e0b3e-8213-4670-b086-f033adfd0e17/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=d56e0b3e-8213-4670-b086-f033adfd0e17&feed=ui_HbBma
+#EXTINF:-1 tvg-id="PC-683d8372c67d" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: TNB Tech Minute: Smart-Ring Maker Oura Delays IPO
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/b123539f-f3cb-4783-b166-3f695633dc27/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=b123539f-f3cb-4783-b166-3f695633dc27&feed=ui_HbBma
+#EXTINF:-1 tvg-id="PC-4d07c0c37361" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: The Middle Schoolers Ditching Real Friends for AI Chatbots
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/b8392c1e-9bff-4def-9481-dc7d76877afa/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=b8392c1e-9bff-4def-9481-dc7d76877afa&feed=ui_HbBma
+#EXTINF:-1 tvg-id="PC-65feae415347" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: TNB Tech Minute: Top AI Researchers Urge Government Oversight of Self-Improving Models
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/a8ed449d-7fca-4b0a-9c0c-15fe90784ae5/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=a8ed449d-7fca-4b0a-9c0c-15fe90784ae5&feed=ui_HbBma
+
+# ===== WSJ Take On the Week =====
+#EXTINF:-1 tvg-id="PC-315ec94d7347" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: Why the SEC’s Proposal to Get Rid of Quarterly Reporting Is Bad for Investors
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/a8cc6bbf-a644-48f3-92da-e7eb402b6aed/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=a8cc6bbf-a644-48f3-92da-e7eb402b6aed&feed=4LDzav57
+#EXTINF:-1 tvg-id="PC-89f82a7b9ab7" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: Making Sense of Sky-High Treasury Yields
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/76c873e4-1ba4-4a70-8d56-0f6d0fe1e17b/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=76c873e4-1ba4-4a70-8d56-0f6d0fe1e17b&feed=4LDzav57
+#EXTINF:-1 tvg-id="PC-9fcb82351243" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: Will Real Estate Protect Your Portfolio if the AI Bubble Bursts?
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/c1549f0e-267d-46a7-85db-7ae8559744b8/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=c1549f0e-267d-46a7-85db-7ae8559744b8&feed=4LDzav57
+#EXTINF:-1 tvg-id="PC-41a9cb11f7b8" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: A Breakthrough Cancer Vaccine Fueled a Biotech Rally. Can It Last?
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/c3aa71c6-0324-4657-9fb4-8fe89143e46a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=c3aa71c6-0324-4657-9fb4-8fe89143e46a&feed=4LDzav57
+#EXTINF:-1 tvg-id="PC-00742f9e1e3b" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: How AI Speculation Is Fueling the Small-Cap Stock Rally
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/4a0fb2aa-8b32-4a30-94f2-e45da4e44ac3/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=4a0fb2aa-8b32-4a30-94f2-e45da4e44ac3&feed=4LDzav57
+#EXTINF:-1 tvg-id="PC-7dea57648705" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: What Fed Chair Kevin Warsh’s Jackson Hole Debut Means for Nervous Markets
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/a9878928-4ce0-4c8b-a104-0933d053f407/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=a9878928-4ce0-4c8b-a104-0933d053f407&feed=4LDzav57
+#EXTINF:-1 tvg-id="PC-77ad7325f124" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: How to Make Inflation Work for Your Portfolio
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/a176b5ca-b29c-4c44-a3d6-d4c3909f56b1/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=a176b5ca-b29c-4c44-a3d6-d4c3909f56b1&feed=4LDzav57
+#EXTINF:-1 tvg-id="PC-b15823dd72c2" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: How AI Spending Is Fueling the Economy Overall
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/463dbdbe-bddc-4aec-b0a5-c9bec2ef0982/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=463dbdbe-bddc-4aec-b0a5-c9bec2ef0982&feed=4LDzav57
+#EXTINF:-1 tvg-id="PC-36a40f9dba17" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: Why Oil Prices Could Hit a Breaking Point by Year End
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/32177855-1f61-447a-b918-ad9282fe27f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=32177855-1f61-447a-b918-ad9282fe27f4&feed=4LDzav57
+#EXTINF:-1 tvg-id="PC-5481c97948e8" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: The Buried $150B Bet Inside the Top 20 U.S. Stocks
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/fe1c9a0b-ed1d-4bde-87cc-cd79e93cbd0f/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=fe1c9a0b-ed1d-4bde-87cc-cd79e93cbd0f&feed=4LDzav57
+#EXTINF:-1 tvg-id="PC-b0ef6b40cc3d" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: How This $150B+ Wall Street Strategy Could Lower Your Taxes
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/78af9a44-3846-4be5-bb1a-e4d5150ced93/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=78af9a44-3846-4be5-bb1a-e4d5150ced93&feed=4LDzav57
+#EXTINF:-1 tvg-id="PC-301cf2dca8a1" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: Are Corporate Earnings in a Bubble? This Quarter Is a Test
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/54d1de5f-40aa-4517-88a9-160c124a9e83/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=54d1de5f-40aa-4517-88a9-160c124a9e83&feed=4LDzav57
+
+# ===== FT News Briefing =====
+#EXTINF:-1 tvg-id="PC-5c0962e48255" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: Oil companies are full speed ahead in the Middle East
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ac6c80ff38f25c0f0277f92/media.mp3
+#EXTINF:-1 tvg-id="PC-043d1e1c97f8" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: Skydance’s debt pile takes the spotlight
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ac588d39fea6e0a64936c1b/media.mp3
+#EXTINF:-1 tvg-id="PC-ac978b11d944" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: The bond sell-off comes for corporate America
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ac421659610f265be25aef5/media.mp3
+#EXTINF:-1 tvg-id="PC-2173010d429b" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: The Tories go back to basics
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ac2dc308da1db2e6f8de390/media.mp3
+#EXTINF:-1 tvg-id="PC-43dab28b2bc1" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: Unhedged: An ode to stock picking
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6abfdcc852f9e4485f13d418/media.mp3
+#EXTINF:-1 tvg-id="PC-64210d6511ad" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: Zelenskyy says Putin’s gloves are off
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6abee7097cc37804e396429c/media.mp3
+#EXTINF:-1 tvg-id="PC-e7b9d3143974" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: US Big Tech gets the most facetime with EU
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6abd9d4982177b9ab87785d9/media.mp3
+#EXTINF:-1 tvg-id="PC-ebfc0e7c34fb" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: Trump shrugs off AI regulation
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6abc4177e1bd8d0f19b5c051/media.mp3
+#EXTINF:-1 tvg-id="PC-d2eeb3c1c2b6" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: Nvidia turns to insurers to offset AI risks
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6abaf82e58bacc11cbf735c1/media.mp3
+#EXTINF:-1 tvg-id="PC-e7ad67bf761c" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: Andy Burnham’s first Labour conference as prime minister
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ab95bd95410c8e94c12692b/media.mp3
+#EXTINF:-1 tvg-id="PC-e7ab33b8431a" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: Bond rout pushes US mortgage rates past 7%
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ab5cbce864264ef3ec5abea/media.mp3
+#EXTINF:-1 tvg-id="PC-daaff1765a0f" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: US Treasury yields soar
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ab45b81864264ef3e6784e6/media.mp3
+
+# ===== Bloomberg Big Take =====
+#EXTINF:-1 tvg-id="PC-079a7d1129b3" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: Texas Is Testing the Power of MAGA Inc.’s Money
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/c9ed4b91-22bc-42cf-af0b-b4dc0150c9d7/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+#EXTINF:-1 tvg-id="PC-4406972987ed" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: The Surprising People Getting Very Rich Off AI
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/9cb94873-19db-4b89-a303-b4db015ee58c/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+#EXTINF:-1 tvg-id="PC-ef63150d1e77" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: Europe’s Debt Problem Is Back
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/6a7d043f-720e-439e-9a06-b4da015155ba/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+#EXTINF:-1 tvg-id="PC-b0288d66355d" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: Weekend Listen: Google’s James Manyika on AI Risk
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/7148d069-ff16-423d-94c4-b4d901234d99/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+#EXTINF:-1 tvg-id="PC-38efc91c29c4" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: The Steamy， Billion-Dollar World of Romantasy
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/aa2c0cd2-20c6-457f-80ff-b4d70158d37a/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+#EXTINF:-1 tvg-id="PC-53861c5e2607" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: The Man City Scandal Rocking the Premier League
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/abae279e-85d6-4fc5-82a6-b4d6014e5ef5/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+#EXTINF:-1 tvg-id="PC-6ce08cc6ebe0" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: Can $700 Million Buy Republicans the US Senate?
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/e08555ea-559c-42e6-820d-b4d5014257a9/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+#EXTINF:-1 tvg-id="PC-965be3e913e7" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: China’s New Message to Its Billionaires: Pay Up
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/4b0595dc-1f00-479e-8476-b4d4016da9e2/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+#EXTINF:-1 tvg-id="PC-374a59a04089" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: Could Bond Yields Break the Stock Market?
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/c09af70b-8ecf-4b5c-a06a-b4d301570ea4/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+#EXTINF:-1 tvg-id="PC-4b357f2bcda0" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: Weekend Listen: There's a Mind-Boggling Number of Rich People in America
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/5bb94a7a-ada3-49f8-b52a-b4d200da7e98/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+#EXTINF:-1 tvg-id="PC-c4678d3d7b9a" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: Crafting America’s Favorite Countertops Is Killing Workers
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/8f180ed1-faf5-40aa-9eb8-b4d00104da48/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+#EXTINF:-1 tvg-id="PC-c2bab7b78eb3" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: This Isn’t Your Grandparents’ UN
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/8e5d733b-e10c-4cad-9888-b4cf01474d71/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
+
+# ===== Bloomberg Odd Lots =====
+#EXTINF:-1 tvg-id="PC-913ae248656b" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: What Everyone Gets Wrong About the Economic Problems in Europe
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/201de292-b347-44a2-8ad4-b4dc016defab/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+#EXTINF:-1 tvg-id="PC-42605e750418" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: Why Treasuries Are 'Risky' Again
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/924d0a40-8d01-4c5e-b43d-b4d7010d938b/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+#EXTINF:-1 tvg-id="PC-e2ecc69319c2" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: How Airlines Actually Hedge Higher Fuel Prices
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4dabf3ec-4fc6-4bb9-a7a7-b4d601226e6f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+#EXTINF:-1 tvg-id="PC-a8bdeaf83609" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: Everything in Markets Is Now Moving Incredibly Fast
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/cf3994af-6383-4b79-a266-b4d50143f150/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+#EXTINF:-1 tvg-id="PC-7abb13fd7abf" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: Why Building a Crosswalk in LA Is Kafkaesque
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7a3568d9-8263-4e3a-8f8f-b4d00139959f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+#EXTINF:-1 tvg-id="PC-1763544429bc" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: Hollywood Was Cooked Before AI， and Now It's Only Getting Worse
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/77d27e49-f26e-4c79-8913-b4cf01192cf5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+#EXTINF:-1 tvg-id="PC-280b4fabfa4c" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: AI Is Upending the Lives of People Who Do Social Media Professionally
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7f51b2eb-0524-4cf5-b654-b4ce0132f318/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+#EXTINF:-1 tvg-id="PC-292271b11325" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: How LA Is Quietly Becoming America's New Industrial Tech Hub
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8d30821d-cf7d-4147-b00e-b4cb01647404/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+#EXTINF:-1 tvg-id="PC-8f4731912846" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: Introducing: Bloomberg Money
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8e30cc48-c94f-47b3-b450-b4ca014b861f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+#EXTINF:-1 tvg-id="PC-89b6306fd0dd" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: A Goldman M&A Banker Helped Bring the Olympics to Los Angeles
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3c42dc4e-ca08-46cf-b2c6-b4c90112084e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+#EXTINF:-1 tvg-id="PC-f1c096cd4e02" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: There's a Mind-Boggling Number of Rich People in America
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3715cbfc-b4cf-4840-bf1b-b4c8010bc9bb/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+#EXTINF:-1 tvg-id="PC-213c1e4a69f4" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: What Francis Fukuyama Is Seeing at 'The End of History'
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ae8e06da-4095-4c0f-8fdb-b4c0013c37f4/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+
+# ===== Bloomberg Surveillance =====
+#EXTINF:-1 tvg-id="PC-4d7b0066ba40" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: Bond Volatility and Energy Flows
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/f40a773a-a2b0-4f83-87ee-b4dd00dd4fc1/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-49921c34c934" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: Bloomberg Surveillance TV: October 7th， 2026
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/36bc61a3-73b5-42d4-bf88-b4dc011525aa/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-43fe3392955b" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: Equities， Bonds， and AI
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/4d9ba7c4-1c39-4cdc-9d1a-b4dc00e5d039/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-b065749274b8" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: Bloomberg Surveillance TV: October 6th， 2026
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/ad9e37ce-83aa-4608-8300-b4db010b66f7/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-3594f9cf0201" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: Risk Cycles Across Equities， Bonds， and Currencies
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/9427f937-ebc8-4222-9f71-b4db00e640dd/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-494a4dadc3da" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: Bloomberg Surveillance TV: October 5th， 2026
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/f52025e4-d976-41fb-8a89-b4da01041fe8/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-e109aabc9560" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: Euro and Oil Contagion Risks
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/d20bcf33-0159-4554-8233-b4da00e22cf6/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-e4ae33c48a8f" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: Employment Traits of Gen Z， 'Juicy' Bond Yields， Americans Quit Bowling
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1b0c2805-9805-43e6-9662-b4ab0110f413/e1f04f82-43ef-4d05-a72b-b4d70132923e/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-47cc9734b92e" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: Bloomberg Surveillance TV: October 2nd， 2026
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/a2255246-6734-4d45-92e8-b4d701113f06/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-c0bb408dd80d" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: September Jobs Report
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/d899fcba-7ad4-45e5-9d08-b4d700e4cbdc/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-6eecc1bd49b9" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: US Firms Add Just 29，000 Jobs， Unemployment Rate Ticks Up: Instant Reaction
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/ac307030-91ae-4b5f-9a2e-b4d700d68b95/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-b3d45e255471" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: Bloomberg Surveillance TV: October 1st， 2026
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/0619e4f7-f502-4f03-81fd-b4d601098d23/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+
+# ===== HBR IdeaCast =====
+#EXTINF:-1 tvg-id="PC-f11009f3bde8" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: How AI Is Changing Strategy: Rethinking What Your Business Is Designed to Do
+https://audio.hbr.org/ideacast/20261007153151_181590-HowAIIsChangingStrategy_RethinkingWhatYourBusinessIsDesignedtoDo.mp3
+#EXTINF:-1 tvg-id="PC-1fb16fa9574e" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: Optimism Is Now an Essential Leadership Skill
+https://audio.hbr.org/ideacast/20261005143601_459117-OptimismIsNowanEssentialLeadershipSkill.mp3
+#EXTINF:-1 tvg-id="PC-43aba267e964" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: How AI Is Changing Innovation: Why Speed Alone Isn’t a Strategy
+https://audio.hbr.org/ideacast/20260930152004_957489-HowAIIsChangingInnovation_WhySpeedAloneIsn_taStrategy.mp3
+#EXTINF:-1 tvg-id="PC-2d2806b382a8" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: What Retail Legend Ron Johnson Learned from Apple’s Success and JCPenney’s Failure
+https://audio.hbr.org/ideacast/20260928124841_622764-WhatRetailLegendRonJohnsonLearnedfromApplesSuccessandJCPenneysFailure.mp3
+#EXTINF:-1 tvg-id="PC-fff3fa67c7b8" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: How AI Is Changing Communication: Weighing Efficiency with Efficacy
+https://audio.hbr.org/ideacast/20260923133912_482972-HowAIIsChangingCommunication_WeighingEfficiencywithEfficacy.mp3
+#EXTINF:-1 tvg-id="PC-b2cbf0d6856c" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: What New CEOs Get Wrong About the Job
+https://audio.hbr.org/ideacast/20260921132656_495101-WhatNewCEOsGetWrongAbouttheJob.mp3
+#EXTINF:-1 tvg-id="PC-540de361c9c4" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: How AI Is Changing Talent， Not Just Tasks: Rethinking Where Human Judgment Matters Most
+https://audio.hbr.org/ideacast/20260916132643_129426-HowAIIsChangingTalentNotJustTasks_RethinkingWhereHumanJudgmentMattersMost.mp3
+#EXTINF:-1 tvg-id="PC-982dedaa9d23" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: What It Takes to Make Progress When the Future Feels Out of Control
+https://audio.hbr.org/ideacast/20260914123952_772802-WhatItTakestoMakeProgressWhentheFutureFeelsOutofControl.mp3
+#EXTINF:-1 tvg-id="PC-899a186feacf" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: A Leading Restaurateur on What It Takes to Scale a Winning Culture
+https://audio.hbr.org/ideacast/20260904142646_136519-ALeadingRestaurateuronWhatItTakestoScaleaWinningCulture.mp3
+#EXTINF:-1 tvg-id="PC-555974d48a12" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: Are Great Leaders Truly Great—or Just Lucky?
+https://audio.hbr.org/ideacast/20260831131847-AreGreatLeadersTrulyGreatorJustLucky_.mp3
+#EXTINF:-1 tvg-id="PC-065dabe035bd" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: How People Without Formal Power Gain Influence
+https://audio.hbr.org/ideacast/20260824114544-HowPeopleWithoutFormalPowerGainInfluence.mp3
+#EXTINF:-1 tvg-id="PC-ff55603a0c50" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: Living and Working in the Age of Longevity
+https://audio.hbr.org/ideacast/20260814122152-LivingandWorkingintheAgeofLongevity.mp3
+
+# ===== HBS Cold Call =====
+#EXTINF:-1 tvg-id="PC-206e6ae43f5e" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: Getting Your Boss to Buy into Your Strategy (from “Coaching Real Leaders”)
+https://audio.hbr.org/cold-call/20261005095423_030169-GettingYourBosstoBuyintoYourStrategyfrom_CoachingRealLeaders_.mp3
+#EXTINF:-1 tvg-id="PC-05f4c7e08537" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: Considering the Future of the BBC and Its Funding Model
+https://audio.hbr.org/cold-call/20260925133504_377801-ConsideringtheFutureoftheBBCandItsFundingModel.mp3
+#EXTINF:-1 tvg-id="PC-18b8e2ad5f34" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: Dare to Be Bad at Something (from Fixable)
+https://audio.hbr.org/cold-call/20260921164447_004179-DaretoBeBadatSomethingFromFixable.mp3
+#EXTINF:-1 tvg-id="PC-ebd80632628a" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: How GEO Is Changing the Role of Brand Manager
+https://audio.hbr.org/cold-call/20260914101133_656071-HowGEOIsChangingtheRoleofBrandManager.mp3
+#EXTINF:-1 tvg-id="PC-8a2637f0ba9b" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: Best of Cold Call: The Bumpy Road to Expanding a Fleet of Electric School Buses
+https://audio.hbr.org/cold-call/20260831140918-BestofColdCall_TheBumpyRoadtoExpandingaFleetofElectricSchoolBuses.mp3
+#EXTINF:-1 tvg-id="PC-dbc1f82529f6" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: Can an AI-Powered Scribe Curb Physician Burnout?
+https://audio.hbr.org/cold-call/20260812124722-ColdCall_e289.mp3
+#EXTINF:-1 tvg-id="PC-fdf5fd269e4f" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: Why Metaphysic AI Looked to Hollywood for a Digital Rights Model
+https://audio.hbr.org/cold-call/20260731120025-WhyMetaphysicAILookedtoHollywoodforaDigitalRightsModel.mp3
+#EXTINF:-1 tvg-id="PC-ccf4bffdccd8" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: How a Museum Marketing Team Used AI to Bring People Closer to Art
+https://audio.hbr.org/cold-call/20260717104946-HowaMuseumMarketingTeamUsedAItoBringPeopleClosertoArt.mp3
+#EXTINF:-1 tvg-id="PC-b7efee5e9178" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: Are We Entering a New Age of Creativity with the Help of AI?
+https://audio.hbr.org/cold-call/20260702093609-AreWeEnteringaNewAgeofCreativitywiththeHelpofAI_.mp3
+#EXTINF:-1 tvg-id="PC-b628b6365ca5" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: How School of Rock Created Structure in Order to Scale with Agility and Creativity
+https://audio.hbr.org/cold-call/20260618123231-HowSchoolofRockCreatedStructureinOrdertoScalewithAgilityandCreativity.mp3
+#EXTINF:-1 tvg-id="PC-0aa970a6f919" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: The Founder Mindset: Tim Ferriss on Experiments， Risk， and Freedom
+https://audio.hbr.org/cold-call/20260608141155-TheFounderMindset_TimFerrissonExperimentsRiskandFreedom.mp3
+#EXTINF:-1 tvg-id="PC-6ca6229d114a" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: How Strong Teams Leverage Different Personality Types
+https://audio.hbr.org/cold-call/20260525104337-HowStrongTeamsLeverageDifferentPersonalityTypes.mp3
+
+# ===== HBS Managing the Future of Work =====
+#EXTINF:-1 tvg-id="PC-8f5c427ba5a7" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: The power of experience: AARP CEO Myechia Minter-Jordan
+https://tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/mgln.ai/e/51/traffic.megaphone.fm/TPG8599595958.mp3
+#EXTINF:-1 tvg-id="PC-07eb41c5e7bc" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: SkillsRight's Debbie Dyson on refining the post-AI talent equation
+https://tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/mgln.ai/e/51/traffic.megaphone.fm/TPG7713788108.mp3
+#EXTINF:-1 tvg-id="PC-093d7a3b8564" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: Why time away may be the future of work
+https://tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/mgln.ai/e/51/traffic.megaphone.fm/TPG4658980875.mp3
+#EXTINF:-1 tvg-id="PC-f3dd990f7923" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: From the archive: Cal Newport on slow productivity and next-wave AI
+https://tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/mgln.ai/e/51/traffic.megaphone.fm/TPG3219801344.mp3
+#EXTINF:-1 tvg-id="PC-bc6aab19362e" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: RBC's Kelly Bradley on Disclosure， Disruption， and Developing Talent
+https://tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/mgln.ai/e/51/traffic.megaphone.fm/TPG3025827440.mp3
+#EXTINF:-1 tvg-id="PC-f4c30d97c18a" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: Steve Odland on governing AI in an age of uncertainty
+https://tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/mgln.ai/e/51/traffic.megaphone.fm/TPG1780426987.mp3
+#EXTINF:-1 tvg-id="PC-732a252568b0" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: HBS Skydeck: Boosting Community College Outcomes
+https://tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/mgln.ai/e/51/traffic.megaphone.fm/TPG4514532901.mp3
+#EXTINF:-1 tvg-id="PC-45deee4794e9" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: Darnell Epps on opening career pathways
+https://tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/mgln.ai/e/51/traffic.megaphone.fm/TPG7382305103.mp3
+#EXTINF:-1 tvg-id="PC-2ff895d0fde0" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: Sal Khan on retooling workforce development and redesigning college
+https://tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/mgln.ai/e/51/traffic.megaphone.fm/TPG8097747294.mp3
+#EXTINF:-1 tvg-id="PC-ccd375c5af3a" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: Workforce Competitiveness: Business Roundtable's Kristen Silverberg
+https://tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/mgln.ai/e/51/traffic.megaphone.fm/TPG8968492104.mp3
+#EXTINF:-1 tvg-id="PC-99653b1d7e9c" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: Siemens' Judith Wiese on engineering a global workforce transformation
+https://tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/mgln.ai/e/51/traffic.megaphone.fm/TPG8378356426.mp3
+#EXTINF:-1 tvg-id="PC-0863e914b7f8" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: Units of work: Riipen's Dana Stephenson on experiential learning
+https://tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/mgln.ai/e/51/traffic.megaphone.fm/TPG7679916006.mp3
