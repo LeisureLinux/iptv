@@ -3,11 +3,11 @@
 # 源：宁波广电 App「宁聚」公开 CMS 接口 (cms.nj.nbtv.cn)
 # auth_key 有效期约 30 分钟 —— Orange Pi cron 每 15 分钟自动刷新。
 
-#EXTINF:-1 tvg-name="宁波新闻综合" group-title="宁波 · 电视",宁波新闻综合
-http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1791424808-6ac6f220c78cf-0-b4c813878a69476b1126c7272059d154
-#EXTINF:-1 tvg-name="宁波经济生活" group-title="宁波 · 电视",宁波经济生活
-http://liveplay.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1791424809-6ac6f22151950-0-c0f40d7065b8febdd351631c36b2057f
-#EXTINF:-1 tvg-name="宁波都市文体" group-title="宁波 · 电视",宁波都市文体
-http://liveplay.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1791424809-6ac6f2218b35a-0-d792677858b8d8551f8f2cd749415397
-#EXTINF:-1 tvg-name="宁波影视剧" group-title="宁波 · 电视",宁波影视剧
-http://liveplay.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1791424809-6ac6f221bfef7-0-fd2099a164ed01ebc93945e422838b35
+#EXTINF:-1 tvg-id="NBTV1.cn" tvg-name="宁波新闻综合" group-title="宁波 · 电视",宁波新闻综合
+https://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1791425566-6ac6f51628211-0-42fd90a68fb60e5ae13421a2e003250d
+#EXTINF:-1 tvg-id="NBTV2.cn" tvg-name="宁波经济生活" group-title="宁波 · 电视",宁波经济生活
+https://liveplay.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1791425566-6ac6f5167c27c-0-d70eae4c9fc7e54c5a3927adc4dfc3d7
+#EXTINF:-1 tvg-id="NBTV3.cn" tvg-name="宁波都市文体" group-title="宁波 · 电视",宁波都市文体
+https://liveplay.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1791425566-6ac6f516c4238-0-f2add3716c51e276fca6bc7e1abec304
+#EXTINF:-1 tvg-id="NBTV4.cn" tvg-name="宁波影视剧" group-title="宁波 · 电视",宁波影视剧
+https://liveplay.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1791425567-6ac6f51710f39-0-ca69e28fb938b3e161e0476ad2474e28
