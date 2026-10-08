@@ -37,6 +37,11 @@ https://iptv.freelamp.com/finance-podcast.m3u  财经播客（路透/WSJ/FT/彭�
 | `yuyao.m3u` | 20 | 余姚节目点播（mp4，非直播） |
 | `finance-podcast.m3u` | 144 | 财经播客音频（路透 / WSJ / FT / Bloomberg / 哈佛商学院，各 12 集） |
 
+> **`finance-podcast.m3u` 网络说明**：路透 / WSJ / HBS / HBR 大陆可直连；
+> 标 `[需代理]` 的 Bloomberg（omny）与 FT（acast）大陆直连超时，需自备代理/VPN。
+> 重新生成：`python3 scripts/finance_podcast.py`（默认每档 12 集，`--limit N` 可调，`--probe` 逐条探测）。
+| `finance-podcast.m3u` | 144 | 财经播客音频（路透 / WSJ / FT / Bloomberg / 哈佛商学院，各 12 集） |
+
 ## 为什么不用 `raw.githubusercontent.com`
 
 **在中国大陆，`raw.githubusercontent.com` 不可直连**（连接超时／被重置）。而且以下地址最终都会 302 跳转到它，因此同样不可用：
