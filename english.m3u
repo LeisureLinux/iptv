@@ -3,51 +3,51 @@
 # FreeLAMP.com (LeisureLinux) | 仅聚合公开列表, 不提供任何内容 | 源会随时失效
 # iOS / Android 通用: 纯 URL 直连, 不依赖自定义请求头
 
-#EXTINF:-1 tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="国际频道 · suxuang",ABC News Live
+#EXTINF:-1 tvg-id="H-17d246027c63" tvg-name="ABC News Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="国际频道 · suxuang",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" group-title="国际频道 · suxuang",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="CBC News" tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="国际频道 · suxuang",CBC News
+#EXTINF:-1 tvg-id="H-886b4bd77b48" tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="国际频道 · suxuang",CBC News
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="国际频道 · suxuang",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="988" tvg-name="Trace Sports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="国际频道 · suxuang",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="国际频道 · suxuang",Wild Earth
+#EXTINF:-1 tvg-id="H-b6dfc33365f0" group-title="国际频道 · suxuang",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="Arirang UN" tvg-name="Arirang UN" group-title="新闻 · 国际 · 直连",Arirang UN
+#EXTINF:-1 tvg-id="H-b62383a11c17" tvg-name="Arirang UN" group-title="新闻 · 国际 · 直连",Arirang UN
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DW English" tvg-name="DW English" group-title="新闻 · 国际 · 直连",DW English
+#EXTINF:-1 tvg-id="H-508d288b617f" tvg-name="DW English" group-title="新闻 · 国际 · 直连",DW English
 https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
-#EXTINF:-1 tvg-id="France 24 English" tvg-name="France 24 English" group-title="新闻 · 国际 · 直连",France 24 English
+#EXTINF:-1 tvg-id="H-87c28af4d97b" tvg-name="France 24 English" group-title="新闻 · 国际 · 直连",France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="Sky News Extra 1" tvg-name="Sky News Extra 1" group-title="新闻 · 国际 · 直连",Sky News Extra 1
+#EXTINF:-1 tvg-id="H-e65ee1f99254" tvg-name="Sky News Extra 1" group-title="新闻 · 国际 · 直连",Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="NBC News NOW" tvg-name="NBC News NOW" group-title="新闻 · 美国 · 直连",NBC News NOW
+#EXTINF:-1 tvg-id="H-85bf2e3e90f2" tvg-name="NBC News NOW" group-title="新闻 · 美国 · 直连",NBC News NOW
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
-#EXTINF:-1 tvg-id="SABC News" tvg-name="SABC News" group-title="英文新闻 · 南非 · 其他 · 直连",SABC News
+#EXTINF:-1 tvg-id="H-de998f25aa18" tvg-name="SABC News" group-title="英文新闻 · 南非 · 其他 · 直连",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="Fox News Channel" tvg-name="Fox News Channel" group-title="英文新闻 · 美国 · Fox · 直连",Fox News Channel
+#EXTINF:-1 tvg-id="H-b199b3326450" tvg-name="Fox News Channel" group-title="英文新闻 · 美国 · Fox · 直连",Fox News Channel
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
-#EXTINF:-1 tvg-id="Fox News Radio" tvg-name="Fox News Radio" group-title="英文新闻 · 美国 · Fox · 直连",Fox News Radio
+#EXTINF:-1 tvg-id="H-0d242ab326ef" tvg-name="Fox News Radio" group-title="英文新闻 · 美国 · Fox · 直连",Fox News Radio
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-#EXTINF:-1 tvg-id="Newsmax 2" tvg-name="Newsmax 2" group-title="英文新闻 · 美国 · Newsmax · 直连",Newsmax 2
+#EXTINF:-1 tvg-id="H-b1108dac9a74" tvg-name="Newsmax 2" group-title="英文新闻 · 美国 · Newsmax · 直连",Newsmax 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="Newsmax TV" tvg-name="Newsmax TV" group-title="英文新闻 · 美国 · Newsmax · 直连",Newsmax TV
+#EXTINF:-1 tvg-id="H-7c02eacc4b4c" tvg-name="Newsmax TV" group-title="英文新闻 · 美国 · Newsmax · 直连",Newsmax TV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="GB News HD" tvg-name="GB News HD" group-title="英文新闻 · 英国 · GB News · 直连",GB News HD
+#EXTINF:-1 tvg-id="H-dac3dee7ee22" tvg-name="GB News HD" group-title="英文新闻 · 英国 · GB News · 直连",GB News HD
 https://xemzi.short.gy/1000017
-#EXTINF:-1 tvg-id="Sky News Weather" tvg-name="Sky News Weather" group-title="英文新闻 · 英国 · Sky News · 直连",Sky News Weather
+#EXTINF:-1 tvg-id="H-a632a2a014e1" tvg-name="Sky News Weather" group-title="英文新闻 · 英国 · Sky News · 直连",Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" group-title="财经 · Bloomberg · 直连",Bloomberg TV
+#EXTINF:-1 tvg-id="H-9cac8b3bbb93" tvg-name="Bloomberg TV" group-title="财经 · Bloomberg · 直连",Bloomberg TV
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" group-title="财经 · CNBC · 直连",CNBC
+#EXTINF:-1 tvg-id="H-aa11677d237b" tvg-name="CNBC" group-title="财经 · CNBC · 直连",CNBC
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 tvg-id="CNBC UK" tvg-name="CNBC UK" group-title="财经 · CNBC · 直连",CNBC UK
+#EXTINF:-1 tvg-id="H-a44a429b8268" tvg-name="CNBC UK" group-title="财经 · CNBC · 直连",CNBC UK
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" group-title="财经 · 其他 · 直连",Al Jazeera English
+#EXTINF:-1 tvg-id="H-9111f6a0844c" tvg-name="Al Jazeera English" group-title="财经 · 其他 · 直连",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="Reuters TV" tvg-name="Reuters TV" group-title="财经 · 其他 · 直连",Reuters TV
+#EXTINF:-1 tvg-id="H-542a4e85554f" tvg-name="Reuters TV" group-title="财经 · 其他 · 直连",Reuters TV
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="Yahoo! Finance" tvg-name="Yahoo! Finance" group-title="财经 · 其他 · 直连",Yahoo! Finance
+#EXTINF:-1 tvg-id="H-e5aa623fa751" tvg-name="Yahoo! Finance" group-title="财经 · 其他 · 直连",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
