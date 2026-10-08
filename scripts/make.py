@@ -357,8 +357,14 @@ def render(rows, title):
     for e in rows:
         e["name"] = tidy_name(NAME_FIXUP.get(e["name"], e["name"]))
         parts = ["#EXTINF:-1"]
-        # tvg-id 优先（多数 App 用它做主键与 EPG 匹配）；缺失时用 tvg-name 兜底
-        tid = e.get("tvgid") or e.get("tvg") or ""
+        # tvg-id 优先（多数 App 用它做主键与 EPG 匹配）；
+        # 源里没有 tvg-id 时，用名称哈希兜底生成 —— 绝不能留空：
+        # 空 tvg-id 会让按它建索引的 App 把多个频道塌缩成 1 个。
+        tid = e.get("tvgid") or ""
+        if not tid:
+            import hashlib as _h
+            _n = e.get("tvg") or e.get("name") or ""
+            tid = "H-" + _h.md5(_n.encode("utf-8")).hexdigest()[:12]
         if tid:
             parts.append(f'tvg-id="{tidy_name(tid)}"')
         if e["tvg"]:

@@ -117,8 +117,12 @@ def main():
         mb = size / 1048576 if size else 0
         label = f"{title} ({fmt_dur(dur)}, {mb:.0f}MB)" if dur else title
         # 点播条目：用 vod 分组，便于播放器区分
+        # tvg-id 必须唯一非空（部分 App 以它为索引键）
+        import hashlib as _h
+        tid = "YY-" + _h.md5(title.encode("utf-8")).hexdigest()[:12]
         lines += [
-            f'#EXTINF:-1 tvg-name="{title}" group-title="余姚 · 点播",{label}',
+            f'#EXTINF:-1 tvg-id="{tid}" tvg-name="{title}" '
+            f'group-title="余姚 · 点播",{label}',
             url,
         ]
         ok += 1
