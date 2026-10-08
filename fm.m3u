@@ -12,54 +12,54 @@
 #   国内每城最多 5、国外每城最多 3（均为主流电台）
 
 #EXTINF:-1 tvg-id="NBTV-FM920" tvg-name="宁波新闻综合广播 FM92.0" group-title="宁波 · FM",宁波新闻综合广播 FM92.0
-https://liveplay.nbtv.cn/live/fm920.m3u8?auth_key=1791425708-6ac6f5a4146be-0-1f8dbf0f3e02a86be47ee0336a0addaf
+https://liveplay.nbtv.cn/live/fm920.m3u8?auth_key=1791426332-6ac6f81446e2a-0-a6e3bcc278febf6d4e48bad7f6cf973b
 #EXTINF:-1 tvg-id="NBTV-FM1029" tvg-name="宁波经济广播 FM102.9" group-title="宁波 · FM",宁波经济广播 FM102.9
-https://liveplay.nbtv.cn/live/fm1029.m3u8?auth_key=1791425708-6ac6f5a462842-0-e612990719f2789408333638cf89760c
+https://liveplay.nbtv.cn/live/fm1029.m3u8?auth_key=1791426332-6ac6f8149443e-0-3fd526d397ac953ac8106127ce10faac
 #EXTINF:-1 tvg-id="NBTV-FM939" tvg-name="宁波交通广播 FM93.9" group-title="宁波 · FM",宁波交通广播 FM93.9
-https://liveplay.nbtv.cn/live/fm939.m3u8?auth_key=1791425708-6ac6f5a4b11ff-0-84da9f8b98f060ab7d114f2b5960b755
+https://liveplay.nbtv.cn/live/fm939.m3u8?auth_key=1791426332-6ac6f814dd818-0-0b839e00146c0d4c9f99b25881d62064
 #EXTINF:-1 tvg-id="NBTV-FM986" tvg-name="宁波音乐广播 FM98.6" group-title="宁波 · FM",宁波音乐广播 FM98.6
-https://liveplay.nbtv.cn/live/fm986.m3u8?auth_key=1791425709-6ac6f5a50d56e-0-6c4cf5ca19ebef8633fe07e66e92f854
+https://liveplay.nbtv.cn/live/fm986.m3u8?auth_key=1791426333-6ac6f8153df91-0-04752910ba025047ae26aaede449ed25
 
 # ===== 城市 FM（上海/北京/广州/成都/旧金山/纽约/温哥华/珀斯/悉尼）=====
-#EXTINF:-1 tvg-name="上海 东方新闻广播 FM90.9" group-title="中国 · FM",上海 东方新闻广播 FM90.9
+#EXTINF:-1 tvg-id="FM-e52fe14b45f8" tvg-name="上海 东方新闻广播 FM90.9" group-title="中国 · FM",上海 东方新闻广播 FM90.9
 http://lhttp.qingting.fm/live/275/64k.mp3
-#EXTINF:-1 tvg-name="上海 动感101 FM101.7" group-title="中国 · FM",上海 动感101 FM101.7
+#EXTINF:-1 tvg-id="FM-78181afeee48" tvg-name="上海 动感101 FM101.7" group-title="中国 · FM",上海 动感101 FM101.7
 https://lhttp.qingting.fm/live/274/64k.mp3
-#EXTINF:-1 tvg-name="上海 交通广播 FM105.7" group-title="中国 · FM",上海 交通广播 FM105.7
+#EXTINF:-1 tvg-id="FM-fc4a3af204fc" tvg-name="上海 交通广播 FM105.7" group-title="中国 · FM",上海 交通广播 FM105.7
 http://lhttp.qingting.fm/live/266/64k.mp3
-#EXTINF:-1 tvg-name="北京 新闻广播 FM94.5" group-title="中国 · FM",北京 新闻广播 FM94.5
+#EXTINF:-1 tvg-id="FM-e03b475bcc7f" tvg-name="北京 新闻广播 FM94.5" group-title="中国 · FM",北京 新闻广播 FM94.5
 https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
-#EXTINF:-1 tvg-name="北京 交通广播 FM103.9" group-title="中国 · FM",北京 交通广播 FM103.9
+#EXTINF:-1 tvg-id="FM-42c4aad92621" tvg-name="北京 交通广播 FM103.9" group-title="中国 · FM",北京 交通广播 FM103.9
 https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
-#EXTINF:-1 tvg-name="北京 文艺广播 FM87.6" group-title="中国 · FM",北京 文艺广播 FM87.6
+#EXTINF:-1 tvg-id="FM-84a482914f46" tvg-name="北京 文艺广播 FM87.6" group-title="中国 · FM",北京 文艺广播 FM87.6
 https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
-#EXTINF:-1 tvg-name="广州 新闻资讯广播 FM96.2" group-title="中国 · FM",广州 新闻资讯广播 FM96.2
+#EXTINF:-1 tvg-id="FM-ff7a06dc716b" tvg-name="广州 新闻资讯广播 FM96.2" group-title="中国 · FM",广州 新闻资讯广播 FM96.2
 http://lhttp.qingting.fm/live/4848/64k.mp3
-#EXTINF:-1 tvg-name="广州 经济交通广播 FM106.1" group-title="中国 · FM",广州 经济交通广播 FM106.1
+#EXTINF:-1 tvg-id="FM-3cf8ffa51f18" tvg-name="广州 经济交通广播 FM106.1" group-title="中国 · FM",广州 经济交通广播 FM106.1
 http://lhttp.qingting.fm/live/4955/64k.mp3
-#EXTINF:-1 tvg-name="广州 汽车音乐电台 FM102.7" group-title="中国 · FM",广州 汽车音乐电台 FM102.7
+#EXTINF:-1 tvg-id="FM-4a91568423b5" tvg-name="广州 汽车音乐电台 FM102.7" group-title="中国 · FM",广州 汽车音乐电台 FM102.7
 http://lhttp.qingting.fm/live/20192/64k.mp3
-#EXTINF:-1 tvg-name="成都 交通文艺广播 FM91.4" group-title="中国 · FM",成都 交通文艺广播 FM91.4
+#EXTINF:-1 tvg-id="FM-bbc0822683e7" tvg-name="成都 交通文艺广播 FM91.4" group-title="中国 · FM",成都 交通文艺广播 FM91.4
 https://lhttp-hw.qtfm.cn/live/4891/64k.mp3
-#EXTINF:-1 tvg-name="成都 文化休闲广播 FM94.6" group-title="中国 · FM",成都 文化休闲广播 FM94.6
+#EXTINF:-1 tvg-id="FM-f8695d68b3b8" tvg-name="成都 文化休闲广播 FM94.6" group-title="中国 · FM",成都 文化休闲广播 FM94.6
 https://lhttp-hw.qtfm.cn/live/4892/64k.mp3
-#EXTINF:-1 tvg-name="成都 HIT FM 劲曲调频 FM88.7" group-title="中国 · FM",成都 HIT FM 劲曲调频 FM88.7
+#EXTINF:-1 tvg-id="FM-ea9cb5e38d4f" tvg-name="成都 HIT FM 劲曲调频 FM88.7" group-title="中国 · FM",成都 HIT FM 劲曲调频 FM88.7
 http://lhttp.qingting.fm/live/15318703/64k.mp3
-#EXTINF:-1 tvg-name="旧金山 KQED 88.5 (NPR)" group-title="美国 · FM",旧金山 KQED 88.5 (NPR)
+#EXTINF:-1 tvg-id="FM-3d2c9bb3a32a" tvg-name="旧金山 KQED 88.5 (NPR)" group-title="美国 · FM",旧金山 KQED 88.5 (NPR)
 https://streams.kqed.org/kqedradio
-#EXTINF:-1 tvg-name="纽约 WNYC 93.9 (NPR)" group-title="美国 · FM",纽约 WNYC 93.9 (NPR)
+#EXTINF:-1 tvg-id="FM-ac1649fe15d6" tvg-name="纽约 WNYC 93.9 (NPR)" group-title="美国 · FM",纽约 WNYC 93.9 (NPR)
 https://fm939.wnyc.org/wnycfm
-#EXTINF:-1 tvg-name="纽约 WQXR 105.9 (古典乐)" group-title="美国 · FM",纽约 WQXR 105.9 (古典乐)
+#EXTINF:-1 tvg-id="FM-e1c9037dae84" tvg-name="纽约 WQXR 105.9 (古典乐)" group-title="美国 · FM",纽约 WQXR 105.9 (古典乐)
 http://stream.wqxr.org/wqxr
-#EXTINF:-1 tvg-name="温哥华 CBC Radio One 88.1" group-title="加拿大 · FM",温哥华 CBC Radio One 88.1
+#EXTINF:-1 tvg-id="FM-18035543fec7" tvg-name="温哥华 CBC Radio One 88.1" group-title="加拿大 · FM",温哥华 CBC Radio One 88.1
 https://22983.live.streamtheworld.com/CBU2FM_CBC_SC
-#EXTINF:-1 tvg-name="温哥华 CBC Music 105.7" group-title="加拿大 · FM",温哥华 CBC Music 105.7
+#EXTINF:-1 tvg-id="FM-07a03069f4ff" tvg-name="温哥华 CBC Music 105.7" group-title="加拿大 · FM",温哥华 CBC Music 105.7
 https://17813.live.streamtheworld.com/CBUFM_CBC_SC
-#EXTINF:-1 tvg-name="珀斯 ABC Radio Perth 720" group-title="澳大利亚 · FM",珀斯 ABC Radio Perth 720
+#EXTINF:-1 tvg-id="FM-f3d2014a3791" tvg-name="珀斯 ABC Radio Perth 720" group-title="澳大利亚 · FM",珀斯 ABC Radio Perth 720
 https://mediaserviceslive.akamaized.net/hls/live/2038301/localperth/master.m3u8
-#EXTINF:-1 tvg-name="珀斯 ABC Perth (HLS)" group-title="澳大利亚 · FM",珀斯 ABC Perth (HLS)
+#EXTINF:-1 tvg-id="FM-94b0c1e85451" tvg-name="珀斯 ABC Perth (HLS)" group-title="澳大利亚 · FM",珀斯 ABC Perth (HLS)
 https://streaming.abc-cdn.net.au/audio/hls/localperth.m3u8?source=web
-#EXTINF:-1 tvg-name="悉尼 ABC Radio Sydney 702" group-title="澳大利亚 · FM",悉尼 ABC Radio Sydney 702
+#EXTINF:-1 tvg-id="FM-4cdd26ced5d8" tvg-name="悉尼 ABC Radio Sydney 702" group-title="澳大利亚 · FM",悉尼 ABC Radio Sydney 702
 https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/master.m3u8
-#EXTINF:-1 tvg-name="悉尼 ABC Sydney (HLS)" group-title="澳大利亚 · FM",悉尼 ABC Sydney (HLS)
+#EXTINF:-1 tvg-id="FM-d2ec069d2671" tvg-name="悉尼 ABC Sydney (HLS)" group-title="澳大利亚 · FM",悉尼 ABC Sydney (HLS)
 https://streaming.abc-cdn.net.au/audio/hls/localsydney.m3u8?source=web
