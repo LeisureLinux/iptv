@@ -3,7 +3,7 @@
 #
 # 一、宁波本地 4 个频率
 #   源：宁波广电 App「宁聚」公开 CMS 接口 (cms.nj.nbtv.cn)
-#   auth_key 约 30 分钟过期 —— Orange Pi cron 每 15 分钟自动刷新。
+#   本文件为指令列表：宁波频道指向 Worker 实时签名端点，永不过期。
 #   FM92.0 综合广播（新闻）  FM102.9 经济广播
 #   FM93.9 交通广播          FM98.6  音乐广播
 #
@@ -12,13 +12,13 @@
 #   国内每城最多 5、国外每城最多 3（均为主流电台）
 
 #EXTINF:-1 tvg-id="NBTV-FM920" tvg-name="宁波新闻综合广播 FM92.0" group-title="宁波 · FM",宁波新闻综合广播 FM92.0
-https://liveplay.nbtv.cn/live/fm920.m3u8?auth_key=1791456070-6ac76c3ea20f5-0-dad11e59c9dc8db9683c2eb1287b21ea
+https://iptv.freelamp.com/live/fm920.m3u8
 #EXTINF:-1 tvg-id="NBTV-FM1029" tvg-name="宁波经济广播 FM102.9" group-title="宁波 · FM",宁波经济广播 FM102.9
-https://liveplay.nbtv.cn/live/fm1029.m3u8?auth_key=1791456070-6ac76c3eed777-0-0cec262ccec5bdb17b99608acee49c8e
+https://iptv.freelamp.com/live/fm1029.m3u8
 #EXTINF:-1 tvg-id="NBTV-FM939" tvg-name="宁波交通广播 FM93.9" group-title="宁波 · FM",宁波交通广播 FM93.9
-https://liveplay.nbtv.cn/live/fm939.m3u8?auth_key=1791456071-6ac76c3f47102-0-5e8f75063fdb0ab3d30aef34a71ad001
+https://iptv.freelamp.com/live/fm939.m3u8
 #EXTINF:-1 tvg-id="NBTV-FM986" tvg-name="宁波音乐广播 FM98.6" group-title="宁波 · FM",宁波音乐广播 FM98.6
-https://liveplay.nbtv.cn/live/fm986.m3u8?auth_key=1791456071-6ac76c3f9309a-0-c85a03eb2d550baa0727dcf4573c7b1e
+https://iptv.freelamp.com/live/fm986.m3u8
 
 # ===== 城市 FM（上海/北京/广州/成都/旧金山/纽约/温哥华/珀斯/悉尼）=====
 #EXTINF:-1 tvg-id="FM-e52fe14b45f8" tvg-name="上海 东方新闻广播 FM90.9" group-title="中国 · FM",上海 东方新闻广播 FM90.9

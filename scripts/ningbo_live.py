@@ -125,16 +125,20 @@ def build(channels, title, header_lines, probe_them):
         ch, name, grp = item[0], item[1], item[2]
         tvgid = item[3] if len(item) > 3 else ""
         logo = item[4] if len(item) > 4 else ""
-        url = get_live(ch)
-        if not url:
-            print(f"  ✗ {name} ({ch}) 未返回地址")
-            continue
-        # 升级为 HTTPS：iOS(ATS) 与 Android 9+(cleartext) 默认拦截明文 http，
-        # 而 liveplay.nbtv.cn 本身支持 https（有效证书），故统一走 https。
-        url = url.replace("http://", "https://", 1)
-        if probe_them and not probe(url):
-            print(f"  ✗ {name} ({ch}) 分片不可用")
-            continue
+        # 宁波本地频道改走 Cloudflare Worker 实时签名端点（永不过期）；
+        # ch 形如 nbtv1 / fm920，与 Worker 的频道键一致。
+        if ch in ("nbtv1", "nbtv2", "nbtv3", "nbtv4") or ch.startswith("fm"):
+            url = f"https://iptv.freelamp.com/live/{ch}.m3u8"
+        else:
+            url = get_live(ch)
+            if not url:
+                print(f"  ✗ {name} ({ch}) 未返回地址")
+                continue
+            url = url.replace("http://", "https://", 1)
+        if probe_them and not url.startswith("https://iptv.freelamp.com/"):
+            if not probe(url):
+                print(f"  ✗ {name} ({ch}) 分片不可用")
+                continue
         # tvg-id 必须唯一非空：部分 App 以 tvg-id 为键建索引，
         # 若全为空字符串会把多个频道塌缩成 1 个（实测 4 台→1 台）。
         parts = ["#EXTINF:-1"]
@@ -170,7 +174,7 @@ def main():
         "#",
         "# 一、宁波本地 4 个频率",
         "#   源：宁波广电 App「宁聚」公开 CMS 接口 (cms.nj.nbtv.cn)",
-        "#   auth_key 约 30 分钟过期 —— Orange Pi cron 每 15 分钟自动刷新。",
+        "#   本文件为指令列表：宁波频道指向 Worker 实时签名端点，永不过期。",
         "#   FM92.0 综合广播（新闻）  FM102.9 经济广播",
         "#   FM93.9 交通广播          FM98.6  音乐广播",
         "#",
