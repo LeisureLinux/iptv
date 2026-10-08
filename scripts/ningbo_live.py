@@ -18,10 +18,11 @@ UA = "Mozilla/5.0 (Linux; Android 13) okhttp/4.9.0"
 # channelName -> (显示名, 分组)
 # 电视（直播）
 CHANNELS = [
-    ("nbtv1", "宁波新闻综合", "宁波 · 电视"),
-    ("nbtv2", "宁波经济生活", "宁波 · 电视"),
-    ("nbtv3", "宁波都市文体", "宁波 · 电视"),
-    ("nbtv4", "宁波影视剧",   "宁波 · 电视"),
+    # (流ID, 显示名, 分组, tvg-id, tvg-logo)
+    ("nbtv1", "宁波新闻综合", "宁波 · 电视", "NBTV1.cn", ""),
+    ("nbtv2", "宁波经济生活", "宁波 · 电视", "NBTV2.cn", ""),
+    ("nbtv3", "宁波都市文体", "宁波 · 电视", "NBTV3.cn", ""),
+    ("nbtv4", "宁波影视剧",   "宁波 · 电视", "NBTV4.cn", ""),
 ]
 
 # 广播（FM）—— 独立成表，见 gen_fm()，写入 fm.m3u
@@ -33,10 +34,10 @@ CHANNELS = [
 #   FM98.6  音乐广播
 # 注：早期版本把 92.0 与 102.9 的名称写反了，此处已修正。
 FM_CHANNELS = [
-    ("fm920",  "宁波新闻综合广播 FM92.0",  "宁波 · FM"),
-    ("fm1029", "宁波经济广播 FM102.9",     "宁波 · FM"),
-    ("fm939",  "宁波交通广播 FM93.9",      "宁波 · FM"),
-    ("fm986",  "宁波音乐广播 FM98.6",      "宁波 · FM"),
+    ("fm920",  "宁波新闻综合广播 FM92.0",  "宁波 · FM", "NBTV-FM920",  ""),
+    ("fm1029", "宁波经济广播 FM102.9",     "宁波 · FM", "NBTV-FM1029", ""),
+    ("fm939",  "宁波交通广播 FM93.9",      "宁波 · FM", "NBTV-FM939",  ""),
+    ("fm986",  "宁波音乐广播 FM98.6",      "宁波 · FM", "NBTV-FM986",  ""),
 ]
 
 
@@ -116,18 +117,30 @@ def build(channels, title, header_lines, probe_them):
     """生成 m3u 文本 + 条目数"""
     lines = ["#EXTM3U"] + header_lines + [""]
     ok = 0
-    for ch, name, grp in channels:
+    for item in channels:
+        ch, name, grp = item[0], item[1], item[2]
+        tvgid = item[3] if len(item) > 3 else ""
+        logo = item[4] if len(item) > 4 else ""
         url = get_live(ch)
         if not url:
             print(f"  ✗ {name} ({ch}) 未返回地址")
             continue
+        # 升级为 HTTPS：iOS(ATS) 与 Android 9+(cleartext) 默认拦截明文 http，
+        # 而 liveplay.nbtv.cn 本身支持 https（有效证书），故统一走 https。
+        url = url.replace("http://", "https://", 1)
         if probe_them and not probe(url):
             print(f"  ✗ {name} ({ch}) 分片不可用")
             continue
-        lines += [
-            f'#EXTINF:-1 tvg-name="{name}" group-title="{grp}",{name}',
-            url,
-        ]
+        # tvg-id 必须唯一非空：部分 App 以 tvg-id 为键建索引，
+        # 若全为空字符串会把多个频道塌缩成 1 个（实测 4 台→1 台）。
+        parts = ["#EXTINF:-1"]
+        if tvgid:
+            parts.append(f'tvg-id="{tvgid}"')
+        parts.append(f'tvg-name="{name}"')
+        if logo:
+            parts.append(f'tvg-logo="{logo}"')
+        parts.append(f'group-title="{grp}"')
+        lines += [" ".join(parts) + f",{name}", url]
         ok += 1
         print(f"  ✓ {name} ({ch})")
     return "\n".join(lines).rstrip("\n") + "\n", ok

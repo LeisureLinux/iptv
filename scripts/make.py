@@ -37,6 +37,7 @@ def parse(path):
                     "grp": attrs.get("group-title", ""),
                     "logo": attrs.get("tvg-logo", ""),
                     "tvg": attrs.get("tvg-name", "") or attrs.get("tvg-id", ""),
+                    "tvgid": attrs.get("tvg-id", ""),
                     "ua": attrs.get("http-user-agent", ""),
                 }
             elif ln.startswith("#EXTVLCOPT"):
@@ -356,6 +357,10 @@ def render(rows, title):
     for e in rows:
         e["name"] = tidy_name(NAME_FIXUP.get(e["name"], e["name"]))
         parts = ["#EXTINF:-1"]
+        # tvg-id 优先（多数 App 用它做主键与 EPG 匹配）；缺失时用 tvg-name 兜底
+        tid = e.get("tvgid") or e.get("tvg") or ""
+        if tid:
+            parts.append(f'tvg-id="{tidy_name(tid)}"')
         if e["tvg"]:
             parts.append(f'tvg-name="{tidy_name(e["tvg"])}"')
         if e["logo"]:
