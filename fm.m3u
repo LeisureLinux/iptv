@@ -12,13 +12,13 @@
 #   国内每城最多 5、国外每城最多 3（均为主流电台）
 
 #EXTINF:-1 tvg-id="NBTV-FM920" tvg-name="宁波新闻综合广播 FM92.0" group-title="宁波 · FM",宁波新闻综合广播 FM92.0
-https://liveplay.nbtv.cn/live/fm920.m3u8?auth_key=1791426332-6ac6f81446e2a-0-a6e3bcc278febf6d4e48bad7f6cf973b
+https://liveplay.nbtv.cn/live/fm920.m3u8?auth_key=1791426360-6ac6f830cd064-0-5795124d7950993151344d69a148f02b
 #EXTINF:-1 tvg-id="NBTV-FM1029" tvg-name="宁波经济广播 FM102.9" group-title="宁波 · FM",宁波经济广播 FM102.9
-https://liveplay.nbtv.cn/live/fm1029.m3u8?auth_key=1791426332-6ac6f8149443e-0-3fd526d397ac953ac8106127ce10faac
+https://liveplay.nbtv.cn/live/fm1029.m3u8?auth_key=1791426361-6ac6f8311e75a-0-66ba0562cb3409d7f32f8f4c5b9ec7bd
 #EXTINF:-1 tvg-id="NBTV-FM939" tvg-name="宁波交通广播 FM93.9" group-title="宁波 · FM",宁波交通广播 FM93.9
-https://liveplay.nbtv.cn/live/fm939.m3u8?auth_key=1791426332-6ac6f814dd818-0-0b839e00146c0d4c9f99b25881d62064
+https://liveplay.nbtv.cn/live/fm939.m3u8?auth_key=1791426361-6ac6f831847da-0-4fea47809b8a403ba829ca61ce077ea1
 #EXTINF:-1 tvg-id="NBTV-FM986" tvg-name="宁波音乐广播 FM98.6" group-title="宁波 · FM",宁波音乐广播 FM98.6
-https://liveplay.nbtv.cn/live/fm986.m3u8?auth_key=1791426333-6ac6f8153df91-0-04752910ba025047ae26aaede449ed25
+https://liveplay.nbtv.cn/live/fm986.m3u8?auth_key=1791426361-6ac6f831ca555-0-f5a39aff961cb6ed2d6f98a96e2f434d
 
 # ===== 城市 FM（上海/北京/广州/成都/旧金山/纽约/温哥华/珀斯/悉尼）=====
 #EXTINF:-1 tvg-id="FM-e52fe14b45f8" tvg-name="上海 东方新闻广播 FM90.9" group-title="中国 · FM",上海 东方新闻广播 FM90.9
