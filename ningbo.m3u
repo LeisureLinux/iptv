@@ -1,7 +1,7 @@
 #EXTM3U
-# 宁波电视台 / 宁波广播 —— 由 Cloudflare Worker 实时签名
+# 宁波电视台（直播）—— 由 Cloudflare Worker 实时签名
 #
-# 本文件是「指令列表」：每个地址都指向 Worker 的实时签名端点，
+# 本文件是「指令列表」：地址指向 Worker 的实时签名端点，
 # 由 Worker 在每次请求时向宁波广电接口取新的 auth_key。
 #
 # 因此：
@@ -9,9 +9,8 @@
 #   · 不需要任何定时刷新任务
 #   · 不依赖自建主机（纯 Cloudflare）
 #
-# 实现详见 ~/codex/nbtv-worker/worker.js
+# 广播（FM）见 fm.m3u；实现详见 ~/codex/nbtv-worker/worker.js
 
-# ===== 电视 =====
 #EXTINF:-1 tvg-id="NBTV1.cn" tvg-name="宁波新闻综合" group-title="宁波 · 电视",宁波新闻综合
 https://iptv.freelamp.com/live/nbtv1.m3u8
 #EXTINF:-1 tvg-id="NBTV2.cn" tvg-name="宁波经济生活" group-title="宁波 · 电视",宁波经济生活
@@ -20,13 +19,3 @@ https://iptv.freelamp.com/live/nbtv2.m3u8
 https://iptv.freelamp.com/live/nbtv3.m3u8
 #EXTINF:-1 tvg-id="NBTV4.cn" tvg-name="宁波影视剧" group-title="宁波 · 电视",宁波影视剧
 https://iptv.freelamp.com/live/nbtv4.m3u8
-
-# ===== 广播（FM）=====
-#EXTINF:-1 tvg-id="FM920.cn" tvg-name="宁波新闻综合广播 FM92.0" group-title="宁波 · FM",宁波新闻综合广播 FM92.0
-https://iptv.freelamp.com/live/fm920.m3u8
-#EXTINF:-1 tvg-id="FM1029.cn" tvg-name="宁波经济广播 FM102.9" group-title="宁波 · FM",宁波经济广播 FM102.9
-https://iptv.freelamp.com/live/fm1029.m3u8
-#EXTINF:-1 tvg-id="FM939.cn" tvg-name="宁波交通广播 FM93.9" group-title="宁波 · FM",宁波交通广播 FM93.9
-https://iptv.freelamp.com/live/fm939.m3u8
-#EXTINF:-1 tvg-id="FM986.cn" tvg-name="宁波音乐广播 FM98.6" group-title="宁波 · FM",宁波音乐广播 FM98.6
-https://iptv.freelamp.com/live/fm986.m3u8
