@@ -6,43 +6,43 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
-#EXTINF:-1 tvg-name="保庆花园：物业提升让居民住得更舒心" group-title="余姚 · 点播",保庆花园：物业提升让居民住得更舒心 (0:57, 18MB)
+#EXTINF:-1 tvg-id="YY-e18e86fd9db2" tvg-name="保庆花园：物业提升让居民住得更舒心" group-title="余姚 · 点播",保庆花园：物业提升让居民住得更舒心 (0:57, 18MB)
 https://mc-public.yynews.com.cn/17875002803396_hd.mp4?width=1280&height=720&isVertical=0&fsize=18958002&duration=57.0
-#EXTINF:-1 tvg-name="国庆假期最后一天 余姚高速迎来返程高峰" group-title="余姚 · 点播",国庆假期最后一天 余姚高速迎来返程高峰 (1:10, 22MB)
+#EXTINF:-1 tvg-id="YY-f4b6298a2d87" tvg-name="国庆假期最后一天 余姚高速迎来返程高峰" group-title="余姚 · 点播",国庆假期最后一天 余姚高速迎来返程高峰 (1:10, 22MB)
 https://mc-public.yynews.com.cn/17874998072328_hd.mp4?width=1280&height=720&isVertical=0&fsize=23083497&duration=70.0
-#EXTINF:-1 tvg-name="国庆假期 余姚服务区全力保障新能源车出行无忧" group-title="余姚 · 点播",国庆假期 余姚服务区全力保障新能源车出行无忧 (1:48, 34MB)
+#EXTINF:-1 tvg-id="YY-31d0214b5328" tvg-name="国庆假期 余姚服务区全力保障新能源车出行无忧" group-title="余姚 · 点播",国庆假期 余姚服务区全力保障新能源车出行无忧 (1:48, 34MB)
 https://mc-public.yynews.com.cn/17874993799300_hd.mp4?width=1280&height=720&isVertical=0&fsize=35299445&duration=108.0
-#EXTINF:-1 tvg-name="国庆假期 阳明古镇掀起国潮风" group-title="余姚 · 点播",国庆假期 阳明古镇掀起国潮风 (2:29, 48MB)
+#EXTINF:-1 tvg-id="YY-d5d294531d33" tvg-name="国庆假期 阳明古镇掀起国潮风" group-title="余姚 · 点播",国庆假期 阳明古镇掀起国潮风 (2:29, 48MB)
 https://mc-public.yynews.com.cn/17874976735368_hd.mp4?width=1280&height=720&isVertical=0&fsize=50670652&duration=149.0
-#EXTINF:-1 tvg-name="国庆假期 河姆渡考古遗址公园让游客沉浸式探寻史前文明" group-title="余姚 · 点播",国庆假期 河姆渡考古遗址公园让游客沉浸式探寻史前文明 (2:14, 45MB)
+#EXTINF:-1 tvg-id="YY-c3d26a444642" tvg-name="国庆假期 河姆渡考古遗址公园让游客沉浸式探寻史前文明" group-title="余姚 · 点播",国庆假期 河姆渡考古遗址公园让游客沉浸式探寻史前文明 (2:14, 45MB)
 https://mc-public.yynews.com.cn/17874970869512_hd.mp4?width=1280&height=720&isVertical=0&fsize=47251459&duration=134.0
-#EXTINF:-1 tvg-name="国庆假期 228国道余姚南段工程建设提速攻坚" group-title="余姚 · 点播",国庆假期 228国道余姚南段工程建设提速攻坚 (1:42, 32MB)
+#EXTINF:-1 tvg-id="YY-801f8fbd4e60" tvg-name="国庆假期 228国道余姚南段工程建设提速攻坚" group-title="余姚 · 点播",国庆假期 228国道余姚南段工程建设提速攻坚 (1:42, 32MB)
 https://mc-public.yynews.com.cn/17874963009992_hd.mp4?width=1280&height=720&isVertical=0&fsize=33860762&duration=102.0
-#EXTINF:-1 tvg-name="松原安全：深耕汽车被动安全系统领域 以科技创新激活产业发展新动能" group-title="余姚 · 点播",松原安全：深耕汽车被动安全系统领域 以科技创新激活产业发展新动能 (3:33, 70MB)
+#EXTINF:-1 tvg-id="YY-c322fd6248cb" tvg-name="松原安全：深耕汽车被动安全系统领域 以科技创新激活产业发展新动能" group-title="余姚 · 点播",松原安全：深耕汽车被动安全系统领域 以科技创新激活产业发展新动能 (3:33, 70MB)
 https://mc-public.yynews.com.cn/17874954011848_hd.mp4?width=1280&height=720&isVertical=0&fsize=73007818&duration=213.0
-#EXTINF:-1 tvg-name="万圣村举行第四届闯海文化主题活动" group-title="余姚 · 点播",万圣村举行第四届闯海文化主题活动 (0:54, 17MB)
+#EXTINF:-1 tvg-id="YY-c201194703bf" tvg-name="万圣村举行第四届闯海文化主题活动" group-title="余姚 · 点播",万圣村举行第四届闯海文化主题活动 (0:54, 17MB)
 https://mc-public.yynews.com.cn/17841849356424_hd.mp4?width=1280&height=720&isVertical=0&fsize=17327822&duration=54.0
-#EXTINF:-1 tvg-name="东海全面开渔 海鲜产品丰富市民菜篮子" group-title="余姚 · 点播",东海全面开渔 海鲜产品丰富市民菜篮子 (1:41, 33MB)
+#EXTINF:-1 tvg-id="YY-3af86d199176" tvg-name="东海全面开渔 海鲜产品丰富市民菜篮子" group-title="余姚 · 点播",东海全面开渔 海鲜产品丰富市民菜篮子 (1:41, 33MB)
 https://mc-public.yynews.com.cn/17841825470536_hd.mp4?width=1280&height=720&isVertical=0&fsize=34162796&duration=101.0
-#EXTINF:-1 tvg-name="学生国旗护卫队三十载守护“中国红”" group-title="余姚 · 点播",学生国旗护卫队三十载守护“中国红” (1:55, 35MB)
+#EXTINF:-1 tvg-id="YY-a2dd98e6b9b9" tvg-name="学生国旗护卫队三十载守护“中国红”" group-title="余姚 · 点播",学生国旗护卫队三十载守护“中国红” (1:55, 35MB)
 https://mc-public.yynews.com.cn/17841824567432_hd.mp4?width=1280&height=720&isVertical=0&fsize=36450814&duration=115.0
-#EXTINF:-1 tvg-name="国庆假期：乡村营地解锁休闲新体验" group-title="余姚 · 点播",国庆假期：乡村营地解锁休闲新体验 (1:45, 35MB)
+#EXTINF:-1 tvg-id="YY-d145ccc6b79d" tvg-name="国庆假期：乡村营地解锁休闲新体验" group-title="余姚 · 点播",国庆假期：乡村营地解锁休闲新体验 (1:45, 35MB)
 https://mc-public.yynews.com.cn/17841824090244_hd.mp4?width=1280&height=720&isVertical=0&fsize=36192012&duration=105.0
-#EXTINF:-1 tvg-name="国庆假期：余姚收费中心所多措并举保畅通" group-title="余姚 · 点播",国庆假期：余姚收费中心所多措并举保畅通 (1:20, 26MB)
+#EXTINF:-1 tvg-id="YY-d022828497e4" tvg-name="国庆假期：余姚收费中心所多措并举保畅通" group-title="余姚 · 点播",国庆假期：余姚收费中心所多措并举保畅通 (1:20, 26MB)
 https://mc-public.yynews.com.cn/17841823566664_hd.mp4?width=1280&height=720&isVertical=0&fsize=26835793&duration=80.0
-#EXTINF:-1 tvg-name="国庆假期：全市文旅活力迸发" group-title="余姚 · 点播",国庆假期：全市文旅活力迸发 (1:42, 32MB)
+#EXTINF:-1 tvg-id="YY-905e5d3ff15e" tvg-name="国庆假期：全市文旅活力迸发" group-title="余姚 · 点播",国庆假期：全市文旅活力迸发 (1:42, 32MB)
 https://mc-public.yynews.com.cn/17841822934344_hd.mp4?width=1280&height=720&isVertical=0&fsize=33424634&duration=102.0
-#EXTINF:-1 tvg-name="市十八届人大常委会举行第三十六次会议" group-title="余姚 · 点播",市十八届人大常委会举行第三十六次会议 (2:29, 50MB)
+#EXTINF:-1 tvg-id="YY-a4a00bdc2c66" tvg-name="市十八届人大常委会举行第三十六次会议" group-title="余姚 · 点播",市十八届人大常委会举行第三十六次会议 (2:29, 50MB)
 https://mc-public.yynews.com.cn/17841822388488_hd.mp4?width=1280&height=720&isVertical=0&fsize=52263198&duration=149.0
-#EXTINF:-1 tvg-name="国庆假期不停工 峻和科技开足马力冲刺全年目标" group-title="余姚 · 点播",国庆假期不停工 峻和科技开足马力冲刺全年目标 (2:08, 42MB)
+#EXTINF:-1 tvg-id="YY-b551fcee79f9" tvg-name="国庆假期不停工 峻和科技开足马力冲刺全年目标" group-title="余姚 · 点播",国庆假期不停工 峻和科技开足马力冲刺全年目标 (2:08, 42MB)
 https://mc-public.yynews.com.cn/17841821793544_hd.mp4?width=1280&height=720&isVertical=0&fsize=43611049&duration=128.0
-#EXTINF:-1 tvg-name="货车翻车司机被困 过路司机合力救援" group-title="余姚 · 点播",货车翻车司机被困 过路司机合力救援 (0:56, 18MB)
+#EXTINF:-1 tvg-id="YY-b9fa170093a7" tvg-name="货车翻车司机被困 过路司机合力救援" group-title="余姚 · 点播",货车翻车司机被困 过路司机合力救援 (0:56, 18MB)
 https://mc-public.yynews.com.cn/17836584961092_hd.mp4?width=1280&height=720&isVertical=0&fsize=18934310&duration=56.0
-#EXTINF:-1 tvg-name="铁路安全课走进凤山小学" group-title="余姚 · 点播",铁路安全课走进凤山小学 (0:22, 8MB)
+#EXTINF:-1 tvg-id="YY-e668ed330a22" tvg-name="铁路安全课走进凤山小学" group-title="余姚 · 点播",铁路安全课走进凤山小学 (0:22, 8MB)
 https://mc-public.yynews.com.cn/17836583228804_hd.mp4?width=1280&height=720&isVertical=0&fsize=7998835&duration=22.0
-#EXTINF:-1 tvg-name="国庆假期宠物寄养预定受欢迎" group-title="余姚 · 点播",国庆假期宠物寄养预定受欢迎 (1:23, 28MB)
+#EXTINF:-1 tvg-id="YY-02ee2793bb00" tvg-name="国庆假期宠物寄养预定受欢迎" group-title="余姚 · 点播",国庆假期宠物寄养预定受欢迎 (1:23, 28MB)
 https://mc-public.yynews.com.cn/17836582158472_hd.mp4?width=1280&height=720&isVertical=0&fsize=29029115&duration=83.0
-#EXTINF:-1 tvg-name="市供电公司对充电站开展节前专项检修保养" group-title="余姚 · 点播",市供电公司对充电站开展节前专项检修保养 (1:05, 21MB)
+#EXTINF:-1 tvg-id="YY-6d29b792b608" tvg-name="市供电公司对充电站开展节前专项检修保养" group-title="余姚 · 点播",市供电公司对充电站开展节前专项检修保养 (1:05, 21MB)
 https://mc-public.yynews.com.cn/17836580589000_hd.mp4?width=1280&height=720&isVertical=0&fsize=21659818&duration=65.0
-#EXTINF:-1 tvg-name="国庆假期我市天气先雨后晴气温适宜" group-title="余姚 · 点播",国庆假期我市天气先雨后晴气温适宜 (1:11, 23MB)
+#EXTINF:-1 tvg-id="YY-adc89340428c" tvg-name="国庆假期我市天气先雨后晴气温适宜" group-title="余姚 · 点播",国庆假期我市天气先雨后晴气温适宜 (1:11, 23MB)
 https://mc-public.yynews.com.cn/17836579452292_hd.mp4?width=1280&height=720&isVertical=0&fsize=24635226&duration=71.0
