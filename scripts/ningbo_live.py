@@ -10,7 +10,7 @@
   ./ningbo_live.py            # 生成 ningbo.m3u
   ./ningbo_live.py --probe    # 先探测各频道可用性再生成
 """
-import argparse, json, subprocess, sys, urllib.parse, urllib.request
+import argparse, hashlib, json, subprocess, sys, urllib.parse, urllib.request
 
 API = "https://cms.nj.nbtv.cn/"
 UA = "Mozilla/5.0 (Linux; Android 13) okhttp/4.9.0"
@@ -108,7 +108,11 @@ def build_city_fm(src_dir=None, probe_them=False):
         if probe_them and not probe(url):
             print(f"  ✗ {name}")
             continue
-        lines += [f'#EXTINF:-1 tvg-name="{name}" group-title="{grp}",{name}', url]
+        # tvg-id 必须唯一非空：部分 App 以它为键建索引，全空会把多台塌缩成 1 台
+        # tvg-id 用名称的稳定哈希，保证唯一且不含特殊字符
+        tid = "FM-" + hashlib.md5(name.encode("utf-8")).hexdigest()[:12]
+        lines += [f'#EXTINF:-1 tvg-id="{tid}" tvg-name="{name}" '
+                  f'group-title="{grp}",{name}', url]
         ok += 1
     return lines, ok
 
