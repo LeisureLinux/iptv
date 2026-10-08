@@ -1,13 +1,32 @@
 #EXTM3U
-# 宁波电视台（直播）—— 由 scripts/ningbo_live.py 自动生成
-# 源：宁波广电 App「宁聚」公开 CMS 接口 (cms.nj.nbtv.cn)
-# auth_key 有效期约 30 分钟 —— Orange Pi cron 每 15 分钟自动刷新。
+# 宁波电视台 / 宁波广播 —— 由 Cloudflare Worker 实时签名
+#
+# 本文件是「指令列表」：每个地址都指向 Worker 的实时签名端点，
+# 由 Worker 在每次请求时向宁波广电接口取新的 auth_key。
+#
+# 因此：
+#   · 订阅地址永不过期（不再有 30 分钟限制）
+#   · 不需要任何定时刷新任务
+#   · 不依赖自建主机（纯 Cloudflare）
+#
+# 实现详见 ~/codex/nbtv-worker/worker.js
 
+# ===== 电视 =====
 #EXTINF:-1 tvg-id="NBTV1.cn" tvg-name="宁波新闻综合" group-title="宁波 · 电视",宁波新闻综合
-https://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1791455407-6ac769a7db184-0-d8d8c599ff679b028292b714245f33a5
+https://iptv.freelamp.com/live/nbtv1.m3u8
 #EXTINF:-1 tvg-id="NBTV2.cn" tvg-name="宁波经济生活" group-title="宁波 · 电视",宁波经济生活
-https://liveplay.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1791455408-6ac769a8345d5-0-ce4a91a6b7d7657bd70a6a5d424200f8
+https://iptv.freelamp.com/live/nbtv2.m3u8
 #EXTINF:-1 tvg-id="NBTV3.cn" tvg-name="宁波都市文体" group-title="宁波 · 电视",宁波都市文体
-https://liveplay.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1791455408-6ac769a87cde6-0-3feaf3abfaada1743e06e08029855026
+https://iptv.freelamp.com/live/nbtv3.m3u8
 #EXTINF:-1 tvg-id="NBTV4.cn" tvg-name="宁波影视剧" group-title="宁波 · 电视",宁波影视剧
-https://liveplay.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1791455408-6ac769a8c905b-0-0c165b6795c83eb245329ef6549e6973
+https://iptv.freelamp.com/live/nbtv4.m3u8
+
+# ===== 广播（FM）=====
+#EXTINF:-1 tvg-id="FM920.cn" tvg-name="宁波新闻综合广播 FM92.0" group-title="宁波 · FM",宁波新闻综合广播 FM92.0
+https://iptv.freelamp.com/live/fm920.m3u8
+#EXTINF:-1 tvg-id="FM1029.cn" tvg-name="宁波经济广播 FM102.9" group-title="宁波 · FM",宁波经济广播 FM102.9
+https://iptv.freelamp.com/live/fm1029.m3u8
+#EXTINF:-1 tvg-id="FM939.cn" tvg-name="宁波交通广播 FM93.9" group-title="宁波 · FM",宁波交通广播 FM93.9
+https://iptv.freelamp.com/live/fm939.m3u8
+#EXTINF:-1 tvg-id="FM986.cn" tvg-name="宁波音乐广播 FM98.6" group-title="宁波 · FM",宁波音乐广播 FM98.6
+https://iptv.freelamp.com/live/fm986.m3u8

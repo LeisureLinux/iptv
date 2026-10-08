@@ -268,30 +268,35 @@ def load_entries(src_dir):
 
 
 def copy_ningbo(src_dir, out_dir):
-    """宁波列表由 ningbo_live.py 生成（auth_key 会过期，需实时签名）。
-    此处只做兜底：若生成失败则复制静态源文件。返回条目数。"""
+    """ningbo.m3u 现在指向 Cloudflare Worker 的实时签名端点
+    （https://iptv.freelamp.com/live/<ch>.m3u8），订阅地址永不过期，
+    因此【不再需要重新生成】—— 只校验文件存在与格式。
+
+    历史：曾由 ningbo_live.py 定时重签并发布，依赖 Orange Pi cron。
+    现由 Worker 实时签名取代（Worker 每次请求取新 key 并 302 到上游 CDN）。
+    """
+    out = os.path.join(out_dir, "ningbo.m3u")
+    if os.path.exists(out):
+        with open(out, encoding="utf-8") as fh:
+            return sum(1 for l in fh if l.startswith("#EXTINF"))
+    print(f"  警告: 缺少 {out}", file=sys.stderr)
+    return 0
+
+
+def gen_fm(out_dir):
+    """fm.m3u 仍由 ningbo_live.py 生成（宁波 4 个 FM 需签名 + 21 城市 FM 静态源）。"""
     import subprocess
     gen = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ningbo_live.py")
-    out = os.path.join(out_dir, "ningbo.m3u")
-    if os.path.exists(gen):
-        fm_out = os.path.join(out_dir, "fm.m3u")
-        r = subprocess.run([sys.executable, gen, "--probe",
-                            "-o", out, "--fm-output", fm_out],
-                           capture_output=True, text=True)
-        if r.returncode == 0:
-            with open(out, encoding="utf-8") as fh:
-                return sum(1 for l in fh if l.startswith("#EXTINF"))
-        print("  警告: ningbo_live.py 生成失败, 回退静态源", file=sys.stderr)
-
-    src = os.path.join(src_dir, "ningbo-cn.m3u")
-    if not os.path.exists(src):
-        print(f"  警告: 缺少 {src}", file=sys.stderr)
+    out = os.path.join(out_dir, "fm.m3u")
+    if not os.path.exists(gen):
         return 0
-    with open(src, encoding="utf-8") as fh:
-        text = fh.read()
-    with open(out, "w", encoding="utf-8", newline="\n") as fh:
-        fh.write(text)
-    return sum(1 for l in text.splitlines() if l.startswith("#EXTINF"))
+    r = subprocess.run([sys.executable, gen, "--fm-only", "--probe", "--fm-output", out],
+                       capture_output=True, text=True)
+    if r.returncode != 0:
+        print("  警告: fm 生成失败", file=sys.stderr)
+        return 0
+    with open(out, encoding="utf-8") as fh:
+        return sum(1 for l in fh if l.startswith("#EXTINF"))
 
 
 def gen_yuyao(out_dir):
@@ -403,10 +408,11 @@ def main():
           render(allrows, "全量 (中文 + 外国频道)"))
 
     nb = copy_ningbo(src_dir, out_dir)
+    fm = gen_fm(out_dir)
     yy = gen_yuyao(out_dir)
     print(f"  生成: all.m3u={len(allrows)}  china.m3u={len(china)}  "
           f"news.m3u={len(news)}  english.m3u={len(english)}  "
-          f"ningbo.m3u={nb}  yuyao.m3u={yy}")
+          f"ningbo.m3u={nb}  fm.m3u={fm}  yuyao.m3u={yy}")
     return 0
 
 
