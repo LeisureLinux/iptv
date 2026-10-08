@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-name="保庆花园：物业提升让居民住得更舒心" group-title="余姚 · 点播",保庆花园：物业提升让居民住得更舒心 (0:57, 18MB)
+https://mc-public.yynews.com.cn/17875002803396_hd.mp4?width=1280&height=720&isVertical=0&fsize=18958002&duration=57.0
+#EXTINF:-1 tvg-name="国庆假期最后一天 余姚高速迎来返程高峰" group-title="余姚 · 点播",国庆假期最后一天 余姚高速迎来返程高峰 (1:10, 22MB)
+https://mc-public.yynews.com.cn/17874998072328_hd.mp4?width=1280&height=720&isVertical=0&fsize=23083497&duration=70.0
+#EXTINF:-1 tvg-name="国庆假期 余姚服务区全力保障新能源车出行无忧" group-title="余姚 · 点播",国庆假期 余姚服务区全力保障新能源车出行无忧 (1:48, 34MB)
+https://mc-public.yynews.com.cn/17874993799300_hd.mp4?width=1280&height=720&isVertical=0&fsize=35299445&duration=108.0
+#EXTINF:-1 tvg-name="国庆假期 阳明古镇掀起国潮风" group-title="余姚 · 点播",国庆假期 阳明古镇掀起国潮风 (2:29, 48MB)
+https://mc-public.yynews.com.cn/17874976735368_hd.mp4?width=1280&height=720&isVertical=0&fsize=50670652&duration=149.0
+#EXTINF:-1 tvg-name="国庆假期 河姆渡考古遗址公园让游客沉浸式探寻史前文明" group-title="余姚 · 点播",国庆假期 河姆渡考古遗址公园让游客沉浸式探寻史前文明 (2:14, 45MB)
+https://mc-public.yynews.com.cn/17874970869512_hd.mp4?width=1280&height=720&isVertical=0&fsize=47251459&duration=134.0
+#EXTINF:-1 tvg-name="国庆假期 228国道余姚南段工程建设提速攻坚" group-title="余姚 · 点播",国庆假期 228国道余姚南段工程建设提速攻坚 (1:42, 32MB)
+https://mc-public.yynews.com.cn/17874963009992_hd.mp4?width=1280&height=720&isVertical=0&fsize=33860762&duration=102.0
+#EXTINF:-1 tvg-name="松原安全：深耕汽车被动安全系统领域 以科技创新激活产业发展新动能" group-title="余姚 · 点播",松原安全：深耕汽车被动安全系统领域 以科技创新激活产业发展新动能 (3:33, 70MB)
+https://mc-public.yynews.com.cn/17874954011848_hd.mp4?width=1280&height=720&isVertical=0&fsize=73007818&duration=213.0
 #EXTINF:-1 tvg-name="万圣村举行第四届闯海文化主题活动" group-title="余姚 · 点播",万圣村举行第四届闯海文化主题活动 (0:54, 17MB)
 https://mc-public.yynews.com.cn/17841849356424_hd.mp4?width=1280&height=720&isVertical=0&fsize=17327822&duration=54.0
 #EXTINF:-1 tvg-name="东海全面开渔 海鲜产品丰富市民菜篮子" group-title="余姚 · 点播",东海全面开渔 海鲜产品丰富市民菜篮子 (1:41, 33MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/17836582158472_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17836580589000_hd.mp4?width=1280&height=720&isVertical=0&fsize=21659818&duration=65.0
 #EXTINF:-1 tvg-name="国庆假期我市天气先雨后晴气温适宜" group-title="余姚 · 点播",国庆假期我市天气先雨后晴气温适宜 (1:11, 23MB)
 https://mc-public.yynews.com.cn/17836579452292_hd.mp4?width=1280&height=720&isVertical=0&fsize=24635226&duration=71.0
-#EXTINF:-1 tvg-name="我市举行2026年“姚江文化”学术研讨活动" group-title="余姚 · 点播",我市举行2026年“姚江文化”学术研讨活动 (1:40, 31MB)
-https://mc-public.yynews.com.cn/17836577937348_hd.mp4?width=1280&height=720&isVertical=0&fsize=32207601&duration=100.0
-#EXTINF:-1 tvg-name="余姚市迎国庆职工文艺晚会举行" group-title="余姚 · 点播",余姚市迎国庆职工文艺晚会举行 (1:22, 28MB)
-https://mc-public.yynews.com.cn/17836576106116_hd.mp4?width=1280&height=720&isVertical=0&fsize=28901100&duration=82.0
-#EXTINF:-1 tvg-name="四明山农文旅融合发展专场发布活动在我市举行" group-title="余姚 · 点播",四明山农文旅融合发展专场发布活动在我市举行 (1:26, 29MB)
-https://mc-public.yynews.com.cn/17836569419460_hd.mp4?width=1280&height=720&isVertical=0&fsize=30061597&duration=86.0
-#EXTINF:-1 tvg-name="沃勇特以“四不两直”方式检查安全生产工作" group-title="余姚 · 点播",沃勇特以“四不两直”方式检查安全生产工作 (2:15, 43MB)
-https://mc-public.yynews.com.cn/17836567988868_hd.mp4?width=1280&height=720&isVertical=0&fsize=44803067&duration=135.0
-#EXTINF:-1 tvg-name="我市向烈士敬献花篮仪式举行" group-title="余姚 · 点播",我市向烈士敬献花篮仪式举行 (2:21, 46MB)
-https://mc-public.yynews.com.cn/17836551759112_hd.mp4?width=1280&height=720&isVertical=0&fsize=47722840&duration=141.0
-#EXTINF:-1 tvg-name="出租房频繁出现蛇类 消防员及时上门处置" group-title="余姚 · 点播",出租房频繁出现蛇类 消防员及时上门处置 (1:03, 20MB)
-https://mc-public.yynews.com.cn/17830797578120_hd.mp4?width=1280&height=720&isVertical=0&fsize=20883609&duration=63.0
-#EXTINF:-1 tvg-name="国庆期间城区及泗门镇道路泊位免费停放" group-title="余姚 · 点播",国庆期间城区及泗门镇道路泊位免费停放 (0:41, 13MB)
-https://mc-public.yynews.com.cn/17830724812740_hd.mp4?width=1280&height=720&isVertical=0&fsize=13373923&duration=41.0
