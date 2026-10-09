@@ -23,7 +23,6 @@
   生成脚本本身按「先直连，失败再走 wpad.lan:8888 代理」取 feed。
 """
 import argparse
-import datetime
 import email.utils
 import hashlib
 import html
@@ -349,8 +348,7 @@ def build(out_path, limit, probe=False, listing=False):
         "#",
         "# ⚠️ 网络说明（实测）：路透 / WSJ / HBS / HBR / CNBC / Barron's 大陆可直连；",
         "#    标 [需代理] 的两组（Bloomberg=omny、FT 与经济学人=acast）大陆直连超时，需走代理/VPN。",
-        f"# 本次生成：{datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}"
-        f"，{len(rows)}/{len(SHOWS)} 档，{total} 集。",
+        "#",
         "",
     ]
     with open(out_path, "w", encoding="utf-8", newline="\n") as fh:
