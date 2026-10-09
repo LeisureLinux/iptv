@@ -268,12 +268,12 @@ def load_entries(src_dir):
 
 
 def copy_ningbo(src_dir, out_dir):
-    """ningbo.m3u 现在指向 Cloudflare Worker 的实时签名端点
+    """ningbo.m3u 指向 Cloudflare Worker 的实时签名端点
     （https://iptv.freelamp.com/live/<ch>.m3u8），订阅地址永不过期，
-    因此【不再需要重新生成】—— 只校验文件存在与格式。
+    因此【不需要任何定时刷新】—— 只校验文件存在与格式。
 
-    历史：曾由 ningbo_live.py 定时重签并发布，依赖 Orange Pi cron。
-    现由 Worker 实时签名取代（Worker 每次请求取新 key 并 302 到上游 CDN）。
+    历史：曾由 ningbo_live.py 定时重签（auth_key 仅 30 分钟有效），
+    依赖 Orange Pi cron；Worker 实时签名上线后二者均已停用。
     """
     out = os.path.join(out_dir, "ningbo.m3u")
     if os.path.exists(out):
@@ -284,7 +284,9 @@ def copy_ningbo(src_dir, out_dir):
 
 
 def gen_fm(out_dir):
-    """fm.m3u 仍由 ningbo_live.py 生成（宁波 4 个 FM 需签名 + 21 城市 FM 静态源）。"""
+    """fm.m3u：宁波 4 个 FM 已改走 Worker 实时签名（永不过期），
+    21 个城市 FM 是静态源 —— 故本表实际也不需要刷新，
+    保留生成步骤仅为初始化/应急重建用。"""
     import subprocess
     gen = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ningbo_live.py")
     out = os.path.join(out_dir, "fm.m3u")

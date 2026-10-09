@@ -1,7 +1,15 @@
 #EXTM3U
-# 宁波电视台（直播）—— 由 scripts/ningbo_live.py 自动生成
-# 源：宁波广电 App「宁聚」公开 CMS 接口 (cms.nj.nbtv.cn)
-# auth_key 有效期约 30 分钟 —— Orange Pi cron 每 15 分钟自动刷新。
+# 宁波电视台（直播）—— 由 Cloudflare Worker 实时签名
+#
+# 本文件是「指令列表」：地址指向 Worker 的实时签名端点，
+# 由 Worker 在每次请求时向宁波广电接口取新的 auth_key。
+#
+# 因此：
+#   · 订阅地址永不过期（不再有 30 分钟限制）
+#   · 不需要任何定时刷新任务
+#   · 不依赖自建主机（纯 Cloudflare）
+#
+# 广播（FM）见 fm.m3u；实现详见 ~/codex/nbtv-worker/worker.js
 
 #EXTINF:-1 tvg-id="NBTV1.cn" tvg-name="宁波新闻综合" group-title="宁波 · 电视",宁波新闻综合
 https://iptv.freelamp.com/live/nbtv1.m3u8

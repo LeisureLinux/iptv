@@ -3,10 +3,9 @@ name: Refresh finance podcasts
 # 财经播客是音频点播：各档更新频率不同（CNBC/路透日更，Odd Lots 周更，
 # HBS Cold Call 双周更），每天刷 2 次足够，避免无谓 commit。
 #
-# ⚠️ 与 ningbo/yuyao 不同，本任务必须在 GitHub runner 上跑：
-#    Bloomberg(omny)/FT/经济学人(acast) 在大陆直连超时，而 runner 位于美国，
-#    直连即可达，无需代理。故这里显式设 FPA_PROXY= 禁用代理，
-#    避免脚本去连内网 wpad.lan（runner 上不可达）。
+# ⚠️ 本任务必须跑在 GitHub runner（美国），不能放 Orange Pi（大陆）：
+#    Bloomberg(omny)/FT/经济学人(acast) 在大陆直连超时，而 runner 直连即可达。
+#    故下面显式设 FPA_PROXY= 禁用代理，避免脚本去连内网 wpad.lan（runner 不可达）。
 on:
   schedule:
     - cron: "20 3,15 * * *"

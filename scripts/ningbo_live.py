@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
-"""生成宁波电视台(NBTV1-4)可用播放列表。
+"""生成宁波电视台(NBTV1-4) 与宁波 FM 播放列表。
 
-原理：宁波广电 App「宁聚」(com.cutv.ningbo) 的公开 CMS 接口
-  https://cms.nj.nbtv.cn/?task=get-live&channelName=<ch>
-会返回带 auth_key 签名的直播地址。auth_key 有效期约 30 分钟，
-因此本脚本动态获取并写入 m3u。
+⚠️ ningbo.m3u（电视）已改为指向 Cloudflare Worker 的实时签名端点
+   （https://iptv.freelamp.com/live/<ch>.m3u8），订阅地址永不过期，
+   【不需要也不能用本脚本重新生成】—— 重跑只会把文件头覆盖成旧说明。
+   本脚本现在只用于生成 fm.m3u（--fm-only）。
+
+背景：早期 CBC 接口返回的 auth_key 仅 30 分钟有效，故需 cron 定期重签。
+     改用 Worker 实时签名后，签名在请求时完成，cron 已无必要（已移除）。
 
 用法:
-  ./ningbo_live.py            # 生成 ningbo.m3u
-  ./ningbo_live.py --probe    # 先探测各频道可用性再生成
+  ./ningbo_live.py --fm-only   # 生成 fm.m3u（当前唯一用途）
+  ./ningbo_live.py             # 生成 ningbo.m3u + fm.m3u（niche，一般不跑）
 """
 import argparse, hashlib, json, subprocess, sys, urllib.parse, urllib.request
 
@@ -165,9 +168,17 @@ def main():
     args = ap.parse_args()
 
     TV_HDR = [
-        "# 宁波电视台（直播）—— 由 scripts/ningbo_live.py 自动生成",
-        "# 源：宁波广电 App「宁聚」公开 CMS 接口 (cms.nj.nbtv.cn)",
-        "# auth_key 有效期约 30 分钟 —— Orange Pi cron 每 15 分钟自动刷新。",
+        "# 宁波电视台（直播）—— 由 Cloudflare Worker 实时签名",
+        "#",
+        "# 本文件是「指令列表」：地址指向 Worker 的实时签名端点，",
+        "# 由 Worker 在每次请求时向宁波广电接口取新的 auth_key。",
+        "#",
+        "# 因此：",
+        "#   · 订阅地址永不过期（不再有 30 分钟限制）",
+        "#   · 不需要任何定时刷新任务",
+        "#   · 不依赖自建主机（纯 Cloudflare）",
+        "#",
+        "# 广播（FM）见 fm.m3u；实现详见 ~/codex/nbtv-worker/worker.js",
     ]
     FM_HDR = [
         "# 调频广播（FM）—— 由 scripts/ningbo_live.py 自动生成",

@@ -33,9 +33,17 @@ https://iptv.freelamp.com/finance-podcast.m3u  财经播客（路透/WSJ/FT/彭�
 | `english.m3u` | 24 | 国外英语频道（已剔除印地/阿语/西语等非英语台） |
 | `ningbo.m3u` | 4 | 宁波电视台 4 路（Cloudflare Worker 实时签名，订阅永不过期） |
 | `fm.m3u` | 25 | 调频广播（宁波 4 路经 Worker 实时签名 + 21 城市 FM）|
-
 | `yuyao.m3u` | 20 | 余姚节目点播（mp4，非直播） |
 | `finance-podcast.m3u` | 300 | 财经播客音频（路透 / WSJ / FT / Bloomberg / 经济学人 / CNBC / Barron's / 哈佛商学院，25 档各 12 集） |
+
+### 自动刷新
+
+| 列表 | 定时任务 | 说明 |
+|---|---|---|
+| `finance-podcast.m3u` | GitHub Actions，每天 2 次 | 必须跑在 runner（美国）——Bloomberg/FT/经济学人 在大陆直连超时，runner 直连即可达 |
+| `yuyao.m3u` | GitHub Actions，每 2 小时 | 点播有更新时才产生 commit |
+| `ningbo.m3u` / `fm.m3u` | **无需刷新** | 已改为 Cloudflare Worker 实时签名，订阅地址永不过期（含宁波 4 个 FM） |
+| `all` / `china` / `news` / `english` | 无（手动） | 免费公开源，由 `./scripts/build.sh` 手动重建 |
 
 > **`finance-podcast.m3u` 说明**
 >
@@ -44,7 +52,6 @@ https://iptv.freelamp.com/finance-podcast.m3u  财经播客（路透/WSJ/FT/彭�
 >   标 `[需代理]` 的两组——Bloomberg（omny）、FT 与经济学人（acast）——大陆直连超时，需自备代理/VPN。
 > - 重新生成：`python3 scripts/finance_podcast.py`（`--limit N` 调每档集数，`--list` 看各档最新日期，`--probe` 逐条探测可播性）。
 > - 已剔除停更 feed：Money Talks（正片停 2025-04）与 Checks and Balance（停 2024-11），其内容已并入 The Intelligence。
-| `finance-podcast.m3u` | 144 | 财经播客音频（路透 / WSJ / FT / Bloomberg / 哈佛商学院，各 12 集） |
 
 ## 为什么不用 `raw.githubusercontent.com`
 
