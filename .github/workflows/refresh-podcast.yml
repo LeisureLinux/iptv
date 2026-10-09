@@ -1,0 +1,49 @@
+name: Refresh finance podcasts
+
+# 财经播客是音频点播：各档更新频率不同（CNBC/路透日更，Odd Lots 周更，
+# HBS Cold Call 双周更），每天刷 2 次足够，避免无谓 commit。
+#
+# ⚠️ 与 ningbo/yuyao 不同，本任务必须在 GitHub runner 上跑：
+#    Bloomberg(omny)/FT/经济学人(acast) 在大陆直连超时，而 runner 位于美国，
+#    直连即可达，无需代理。故这里显式设 FPA_PROXY= 禁用代理，
+#    避免脚本去连内网 wpad.lan（runner 上不可达）。
+on:
+  schedule:
+    - cron: "20 3,15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh finance-podcast.m3u
+        env:
+          FPA_PROXY: ""          # runner 在美国，直连即可达被墙源
+        run: python3 scripts/finance_podcast.py --limit 12 -o finance-podcast.m3u
+
+      - name: Validate
+        run: python3 scripts/validate.py . finance-podcast.m3u
+
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet -- finance-podcast.m3u; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add finance-podcast.m3u
+            if git diff --staged --quiet; then
+              echo "无变化"
+            else
+              git commit -m "chore: refresh finance-podcast.m3u"
+              git push
+            fi
+          else
+            echo "无变化"
+          fi

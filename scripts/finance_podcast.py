@@ -33,13 +33,18 @@ import re
 import sys
 import urllib.request
 
-PROXY = "http://wpad.lan:8888"
+# 代理可用环境变量覆盖：GitHub Actions 跑在美国，直连即可达 acast/omny，
+# 不需要（也访问不到）内网 wpad.lan。设 FPA_PROXY= 空值即完全禁用代理。
+PROXY = os.environ.get("FPA_PROXY", "http://wpad.lan:8888").strip() or None
 UA = "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 Safari/604.1"
 # 分档超时：直连快速失败（被墙的 6~7s 内就断），代理给足（FT 的 11MB feed 需 ~40s）
 TIMEOUT_DIRECT = 12
 TIMEOUT_PROXY = 75
 TIMEOUT_SMALL = 25   # 探测音频直链用
 WORKERS = 8          # 并发取 feed 数
+# 安全闸：只有「真的取失败」才启用。若某次抓取失败过多、条数不足预期的 60%，
+# 宁可不写、保留上一版，避免 cron 在供应商抖动时把好文件写成残缺版。
+MIN_RATIO = 0.6
 
 OUT = "finance-podcast.m3u"
 
@@ -144,10 +149,12 @@ def _get(url, proxy=None, timeout=TIMEOUT_DIRECT):
 
 def fetch(url, tries=2, proxy_only=False):
     """先直连（短超时、快速失败），不通再走代理（长超时）。
-    proxy_only=True 时直接走代理——已知被墙的源（acast/omny）直连必然超时，
-    跳过可省下每次十几秒的无谓等待（串行时总耗时会到十几分钟）。"""
+    proxy_only=True 时直接走代理——被墙的源（acast/omny）在大陆直连必然超时，
+    跳过可省下每次十几秒的无谓等待。
+    但若未配置代理（如 GitHub Actions 跑在美国，直连即可达），
+    则忽略 proxy_only 提示，一律直连，否则会白等超时。"""
     last = None
-    if not proxy_only:
+    if not proxy_only or not PROXY:
         for _ in range(tries):
             try:
                 return _get(url, None, TIMEOUT_DIRECT)
@@ -157,6 +164,18 @@ def fetch(url, tries=2, proxy_only=False):
                 last = e
             except Exception as e:
                 last = e
+        # 无代理可用时，直连是唯一出路，把直连超时放宽再试一轮
+        # （美国 runner 拉 FT 的 11MB feed 可能超过 12s）
+        if not PROXY:
+            try:
+                return _get(url, None, TIMEOUT_PROXY)
+            except http.client.IncompleteRead as e:
+                if e.partial:
+                    return e.partial
+                last = e
+            except Exception as e:
+                last = e
+            raise RuntimeError(f"直连失败（无代理可用）: {last}")
     for _ in range(tries):
         try:
             return _get(url, PROXY, TIMEOUT_PROXY)
@@ -225,15 +244,20 @@ def parse_items(raw):
 
 
 def audio_ok(url, timeout=TIMEOUT_SMALL):
-    """探测音频直链是否可播（Range 请求，期望 200/206）。"""
-    try:
-        req = urllib.request.Request(url, headers={
-            "User-Agent": UA, "Accept": "*/*", "Range": "bytes=0-2047"})
-        opener = urllib.request.build_opener(urllib.request.ProxyHandler({}))
-        with opener.open(req, timeout=timeout) as r:
-            return r.status in (200, 206)
-    except Exception:
-        return False
+    """探测音频直链是否可播（Range 请求，期望 200/206）。
+    先直连；若配了代理且直连失败，再用代理试（大陆环境下 omny/acast 必需）。"""
+    for proxy in ([None, PROXY] if PROXY else [None]):
+        try:
+            req = urllib.request.Request(url, headers={
+                "User-Agent": UA, "Accept": "*/*", "Range": "bytes=0-2047"})
+            ph = {"http": proxy, "https": proxy} if proxy else {}
+            opener = urllib.request.build_opener(urllib.request.ProxyHandler(ph))
+            with opener.open(req, timeout=timeout) as r:
+                if r.status in (200, 206):
+                    return True
+        except Exception:
+            continue
+    return False
 
 
 def host_of(url):
@@ -307,6 +331,15 @@ def build(out_path, limit, probe=False, listing=False):
         print(f"\n  合计 {total} 集（limit={limit}）")
         return
 
+    # 安全闸：仅当真的抓取失败、且条数明显不足时才拒绝写入
+    # （limit 小是用户自选，不算异常；失败才是异常）
+    failed = len(SHOWS) - len(rows)
+    expected = limit * len(SHOWS)
+    if failed and total < expected * MIN_RATIO:
+        print(f"  ❌ 仅取到 {total} 集（预期 {expected}，{failed}/{len(SHOWS)} 档失败），"
+              f"低于 {MIN_RATIO:.0%} 下限，保留原文件不覆盖", file=sys.stderr)
+        return 1
+
     header = [
         "#EXTM3U",
         "# 财经播客（音频点播）—— 路透 / WSJ / FT / Bloomberg / 经济学人 / CNBC / Barron's / 哈佛商学院",
@@ -316,13 +349,18 @@ def build(out_path, limit, probe=False, listing=False):
         "#",
         "# ⚠️ 网络说明（实测）：路透 / WSJ / HBS / HBR / CNBC / Barron's 大陆可直连；",
         "#    标 [需代理] 的两组（Bloomberg=omny、FT 与经济学人=acast）大陆直连超时，需走代理/VPN。",
+        f"# 本次生成：{datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}"
+        f"，{len(rows)}/{len(SHOWS)} 档，{total} 集。",
         "",
     ]
     with open(out_path, "w", encoding="utf-8", newline="\n") as fh:
         fh.write("\n".join(header) + "\n\n" + "\n\n".join(blocks) + "\n")
-    print(f"\n  ✅ 写入 {out_path}：{total} 集")
+    print(f"\n  ✅ 写入 {out_path}：{total} 集（{len(rows)}/{len(SHOWS)} 档）")
+    if failed:
+        print(f"  ⚠️  {failed} 档失败，已跳过", file=sys.stderr)
     if proxied:
         print(f"  ⚠️  需代理的主机: {', '.join(sorted(proxied))}")
+    return 0
 
 
 def main():
@@ -336,8 +374,8 @@ def main():
 
     root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     out_path = args.out if os.path.isabs(args.out) else os.path.join(root, args.out)
-    build(out_path, args.limit, args.probe, args.listing)
+    return build(out_path, args.limit, args.probe, args.listing)
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
