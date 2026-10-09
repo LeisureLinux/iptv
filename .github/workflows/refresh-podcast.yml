@@ -27,7 +27,7 @@ jobs:
       - name: Refresh finance-podcast.m3u
         env:
           FPA_PROXY: ""          # runner 在美国，直连即可达被墙源
-        run: python3 scripts/finance_podcast.py --limit 12 -o finance-podcast.m3u
+        run: python3 scripts/finance_podcast.py --limit 12 --out finance-podcast.m3u
 
       - name: Validate
         run: python3 scripts/validate.py . finance-podcast.m3u
