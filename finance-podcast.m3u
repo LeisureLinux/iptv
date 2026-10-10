@@ -10,6 +10,8 @@
 
 
 # ===== Reuters World News =====
+#EXTINF:-1 tvg-id="PC-69e1ae18d8f6" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-10] Delhi protests， Trump's Russia diesel deal and Panama quake
+https://pdst.fm/e/traffic.megaphone.fm/THRH4607164238.mp3
 #EXTINF:-1 tvg-id="PC-c90967409f42" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-09] US execution livestream， ICC sanctions， ICE defends NYC shooting (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH9484636978.mp3
 #EXTINF:-1 tvg-id="PC-3b80ad8d4534" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-08] Trump pauses Iran strikes， Microsoft visa suspension， French mayor (Updated)
@@ -32,8 +34,6 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH3353411814.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH5485307016.mp3
 #EXTINF:-1 tvg-id="PC-24b16a3b9e07" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-09-29] Trump's AI meeting， Lindsay Clancy， Cornell (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH3614848794.mp3
-#EXTINF:-1 tvg-id="PC-3c4944007521" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-09-28] UK airbase suspects released， Starship， and GOP's 'panic button' (Updated)
-https://pdst.fm/e/traffic.megaphone.fm/THRH1727456662.mp3
 
 # ===== WSJ The Journal =====
 #EXTINF:-1 tvg-id="PC-e33e51fba095" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-09] Can Xbox Get Back in the Game?
@@ -62,6 +62,8 @@ https://pdst.fm/e/traffic.megaphone.fm/WSJ2594346136.mp3
 https://pdst.fm/e/traffic.megaphone.fm/WSJ1508645273.mp3
 
 # ===== WSJ What's News =====
+#EXTINF:-1 tvg-id="PC-f05e7467c39d" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-10] What’s News in Markets: Refiners Cash In， AI Stocks Wobble， Homebuilder Blues
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/92b4013c-4b36-4a6a-b8a7-5bcc3659423a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=92b4013c-4b36-4a6a-b8a7-5bcc3659423a&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-136f8a6487dd" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-09] Older Americans Are Now the Richest Age Group
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4085f3a6-c5ca-46d7-a751-355ad4bb1b22/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4085f3a6-c5ca-46d7-a751-355ad4bb1b22&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-4fef84cb317f" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-09] Why Businesses Can’t Budget for AI
@@ -84,8 +86,6 @@ https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episod
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/a11ddea2-c9ac-4029-bf92-7cb960aa9907/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=a11ddea2-c9ac-4029-bf92-7cb960aa9907&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-268e9b8d5195" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-04] How Colleges Are Tackling the Enrollment Crunch
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/212ecaa8-0e8c-4cd7-a139-c4d0cef129c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=212ecaa8-0e8c-4cd7-a139-c4d0cef129c7&feed=BA5QWI2p
-#EXTINF:-1 tvg-id="PC-3e9b32cbb05f" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-03] What’s News in Markets: Nvidia’s Big Buyback， Cruise Comeback， Egg Glut
-https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/e53be2b5-a506-4c37-a3c7-3fbba8103f8f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=e53be2b5-a506-4c37-a3c7-3fbba8103f8f&feed=BA5QWI2p
 
 # ===== WSJ Tech News Briefing =====
 #EXTINF:-1 tvg-id="PC-dcfcf3d726d5" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-10-09] Anthropic Took the Lead in the AI Race. OpenAI Is Catching Up.
