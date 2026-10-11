@@ -36,6 +36,8 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH5485307016.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH3614848794.mp3
 
 # ===== WSJ The Journal =====
+#EXTINF:-1 tvg-id="PC-2460e11311dd" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-11] My Monday Morning: Ludwig Göransson
+https://pdst.fm/e/traffic.megaphone.fm/WSJ6382394653.mp3
 #EXTINF:-1 tvg-id="PC-e33e51fba095" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-09] Can Xbox Get Back in the Game?
 https://pdst.fm/e/traffic.megaphone.fm/WSJ4175348041.mp3
 #EXTINF:-1 tvg-id="PC-5b24697fcd4f" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-08] Rogue Pilots Are a Growing Safety Threat. No One Knows How to Stop Them.
@@ -58,10 +60,10 @@ https://pdst.fm/e/traffic.megaphone.fm/WSJ2026512465.mp3
 https://pdst.fm/e/traffic.megaphone.fm/WSJ9631360720.mp3
 #EXTINF:-1 tvg-id="PC-c67a67d78e17" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-09-29] How China Swiped the Secret to American Blueberries
 https://pdst.fm/e/traffic.megaphone.fm/WSJ2594346136.mp3
-#EXTINF:-1 tvg-id="PC-8f221db4ef0c" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-09-28] Why ‘What’s for Dinner?’ Is Harder than Ever
-https://pdst.fm/e/traffic.megaphone.fm/WSJ1508645273.mp3
 
 # ===== WSJ What's News =====
+#EXTINF:-1 tvg-id="PC-09506ef9eaa3" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-11] Why Gen Z Voters Are Reconsidering Their Support for Trump
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4a448a2c-c74c-474f-8df8-9949c55e4fbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4a448a2c-c74c-474f-8df8-9949c55e4fbf&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-f05e7467c39d" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-10] What’s News in Markets: Refiners Cash In， AI Stocks Wobble， Homebuilder Blues
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/92b4013c-4b36-4a6a-b8a7-5bcc3659423a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=92b4013c-4b36-4a6a-b8a7-5bcc3659423a&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-136f8a6487dd" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-09] Older Americans Are Now the Richest Age Group
@@ -84,8 +86,6 @@ https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episod
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/fca59183-e9f0-4fa3-a2d6-e0c6f696cf34/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=fca59183-e9f0-4fa3-a2d6-e0c6f696cf34&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-f9fcbef0dc38" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-05] Brazil’s Bolsonaros Are Back
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/a11ddea2-c9ac-4029-bf92-7cb960aa9907/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=a11ddea2-c9ac-4029-bf92-7cb960aa9907&feed=BA5QWI2p
-#EXTINF:-1 tvg-id="PC-268e9b8d5195" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-04] How Colleges Are Tackling the Enrollment Crunch
-https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/212ecaa8-0e8c-4cd7-a139-c4d0cef129c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=212ecaa8-0e8c-4cd7-a139-c4d0cef129c7&feed=BA5QWI2p
 
 # ===== WSJ Tech News Briefing =====
 #EXTINF:-1 tvg-id="PC-dcfcf3d726d5" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-10-09] Anthropic Took the Lead in the AI Race. OpenAI Is Catching Up.
@@ -114,6 +114,8 @@ https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episod
 https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/b8392c1e-9bff-4def-9481-dc7d76877afa/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=b8392c1e-9bff-4def-9481-dc7d76877afa&feed=ui_HbBma
 
 # ===== WSJ Take On the Week =====
+#EXTINF:-1 tvg-id="PC-6dd11cc1fdb9" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-10-11] Why Cash Is King in the Era of Higher Interest Rates
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/7bcfeab4-cb21-43dc-b3cc-f92f54377895/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=7bcfeab4-cb21-43dc-b3cc-f92f54377895&feed=4LDzav57
 #EXTINF:-1 tvg-id="PC-315ec94d7347" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-10-04] Why the SEC’s Proposal to Get Rid of Quarterly Reporting Is Bad for Investors
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/a8cc6bbf-a644-48f3-92da-e7eb402b6aed/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=a8cc6bbf-a644-48f3-92da-e7eb402b6aed&feed=4LDzav57
 #EXTINF:-1 tvg-id="PC-89f82a7b9ab7" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-09-27] Making Sense of Sky-High Treasury Yields
@@ -136,8 +138,6 @@ https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episod
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/fe1c9a0b-ed1d-4bde-87cc-cd79e93cbd0f/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=fe1c9a0b-ed1d-4bde-87cc-cd79e93cbd0f&feed=4LDzav57
 #EXTINF:-1 tvg-id="PC-b0ef6b40cc3d" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-07-19] How This $150B+ Wall Street Strategy Could Lower Your Taxes
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/78af9a44-3846-4be5-bb1a-e4d5150ced93/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=78af9a44-3846-4be5-bb1a-e4d5150ced93&feed=4LDzav57
-#EXTINF:-1 tvg-id="PC-301cf2dca8a1" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-07-12] Are Corporate Earnings in a Bubble? This Quarter Is a Test
-https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/54d1de5f-40aa-4517-88a9-160c124a9e83/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=54d1de5f-40aa-4517-88a9-160c124a9e83&feed=4LDzav57
 
 # ===== FT News Briefing =====
 #EXTINF:-1 tvg-id="PC-0c0743740537" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-10-09] SoftBank wants Gulf money to expand AI bet
