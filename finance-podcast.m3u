@@ -10,6 +10,8 @@
 
 
 # ===== Reuters World News =====
+#EXTINF:-1 tvg-id="PC-b305a331f9aa" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-12] Trump's energy ceasefire， new Riyadh strike and prediction markets
+https://pdst.fm/e/traffic.megaphone.fm/THRH7042508499.mp3
 #EXTINF:-1 tvg-id="PC-ef7b4d10208a" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-11] Saudi airport strike， Trump-Zelenskiy spat and 'cockroach' leader freed
 https://pdst.fm/e/traffic.megaphone.fm/THRH2934013380.mp3
 #EXTINF:-1 tvg-id="PC-69e1ae18d8f6" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-10] Delhi protests， Trump's Russia diesel deal and Panama quake
@@ -32,8 +34,6 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH4297810474.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH3225788458.mp3
 #EXTINF:-1 tvg-id="PC-c7d56fc57b37" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-01] Texas halts executions， Flydubai 'hero，' and AI Big Mac pricing (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH3353411814.mp3
-#EXTINF:-1 tvg-id="PC-f8d8b3bf10a6" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-09-30] Flydubai flight， AI safety pact， US leaves Iraq (Updated)
-https://pdst.fm/e/traffic.megaphone.fm/THRH5485307016.mp3
 
 # ===== WSJ The Journal =====
 #EXTINF:-1 tvg-id="PC-2460e11311dd" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-11] My Monday Morning: Ludwig Göransson
@@ -62,6 +62,8 @@ https://pdst.fm/e/traffic.megaphone.fm/WSJ9631360720.mp3
 https://pdst.fm/e/traffic.megaphone.fm/WSJ2594346136.mp3
 
 # ===== WSJ What's News =====
+#EXTINF:-1 tvg-id="PC-895e995c3152" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-12] Will Trump’s Russian Diesel Deal Lower Prices?
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/065c5168-ff13-457b-8659-b1ef58592715/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=065c5168-ff13-457b-8659-b1ef58592715&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-09506ef9eaa3" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-11] Why Gen Z Voters Are Reconsidering Their Support for Trump
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4a448a2c-c74c-474f-8df8-9949c55e4fbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4a448a2c-c74c-474f-8df8-9949c55e4fbf&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-f05e7467c39d" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-10] What’s News in Markets: Refiners Cash In， AI Stocks Wobble， Homebuilder Blues
@@ -84,10 +86,10 @@ https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episod
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/9bad9015-a096-403a-9818-560ffd1f4d50/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=9bad9015-a096-403a-9818-560ffd1f4d50&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-7151d3734e2a" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-05] Supreme Court Returns With Culture Wars Front and Center
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/fca59183-e9f0-4fa3-a2d6-e0c6f696cf34/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=fca59183-e9f0-4fa3-a2d6-e0c6f696cf34&feed=BA5QWI2p
-#EXTINF:-1 tvg-id="PC-f9fcbef0dc38" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-05] Brazil’s Bolsonaros Are Back
-https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/a11ddea2-c9ac-4029-bf92-7cb960aa9907/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=a11ddea2-c9ac-4029-bf92-7cb960aa9907&feed=BA5QWI2p
 
 # ===== WSJ Tech News Briefing =====
+#EXTINF:-1 tvg-id="PC-84b6e92f7ffc" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-10-12] The AI Computing Power Gold Rush
+https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/e64656bd-459c-40c4-883a-b15c320060ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=e64656bd-459c-40c4-883a-b15c320060ac&feed=ui_HbBma
 #EXTINF:-1 tvg-id="PC-dcfcf3d726d5" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-10-09] Anthropic Took the Lead in the AI Race. OpenAI Is Catching Up.
 https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/0b1cd63c-aabc-4496-b20e-26748cd95567/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=0b1cd63c-aabc-4496-b20e-26748cd95567&feed=ui_HbBma
 #EXTINF:-1 tvg-id="PC-9ac412c1a0d0" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-10-08] Why Cute Mascots Are the New Faces of AI
@@ -110,8 +112,6 @@ https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episod
 https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/d56e0b3e-8213-4670-b086-f033adfd0e17/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=d56e0b3e-8213-4670-b086-f033adfd0e17&feed=ui_HbBma
 #EXTINF:-1 tvg-id="PC-683d8372c67d" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-09-29] TNB Tech Minute: Smart-Ring Maker Oura Delays IPO
 https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/b123539f-f3cb-4783-b166-3f695633dc27/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=b123539f-f3cb-4783-b166-3f695633dc27&feed=ui_HbBma
-#EXTINF:-1 tvg-id="PC-4d07c0c37361" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-09-29] The Middle Schoolers Ditching Real Friends for AI Chatbots
-https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/b8392c1e-9bff-4def-9481-dc7d76877afa/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=b8392c1e-9bff-4def-9481-dc7d76877afa&feed=ui_HbBma
 
 # ===== WSJ Take On the Week =====
 #EXTINF:-1 tvg-id="PC-6dd11cc1fdb9" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-10-11] Why Cash Is King in the Era of Higher Interest Rates
@@ -140,6 +140,8 @@ https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episod
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/78af9a44-3846-4be5-bb1a-e4d5150ced93/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=78af9a44-3846-4be5-bb1a-e4d5150ced93&feed=4LDzav57
 
 # ===== FT News Briefing =====
+#EXTINF:-1 tvg-id="PC-8f6a16a2a0eb" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-10-12] Houthis attack Riyadh airport
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6acbda8e8f90a39dfc41799b/media.mp3
 #EXTINF:-1 tvg-id="PC-0c0743740537" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-10-09] SoftBank wants Gulf money to expand AI bet
 https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ac81a96eea51f2aa3e76f2f/media.mp3
 #EXTINF:-1 tvg-id="PC-5c0962e48255" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-10-08] Oil companies are full speed ahead in the Middle East
@@ -162,8 +164,6 @@ https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6abc4177e1bd8d0f19b5c051/med
 https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6abaf82e58bacc11cbf735c1/media.mp3
 #EXTINF:-1 tvg-id="PC-e7ad67bf761c" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-09-28] Andy Burnham’s first Labour conference as prime minister
 https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ab95bd95410c8e94c12692b/media.mp3
-#EXTINF:-1 tvg-id="PC-e7ab33b8431a" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-09-25] Bond rout pushes US mortgage rates past 7%
-https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ab5cbce864264ef3ec5abea/media.mp3
 
 # ===== Bloomberg Big Take =====
 #EXTINF:-1 tvg-id="PC-c5d535f0e6c2" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-10-11] Weekend Listen: In Defense of Melania
@@ -192,6 +192,8 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/c09af70b-8ecf-4b5c-a06a-b4d301570ea4/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 
 # ===== Bloomberg Odd Lots =====
+#EXTINF:-1 tvg-id="PC-a0414267eba9" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-10-12] Nate Soares on How AI Really Could Kill Us All
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f6fd1a43-7c77-47c2-ae42-b4e0016e2d9b/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 #EXTINF:-1 tvg-id="PC-8aef7b0c1ac1" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-10-09] How AI Is Upending the World of Mathematics
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f49c2ca3-dfe7-4a67-bc11-b4dd01463f66/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 #EXTINF:-1 tvg-id="PC-913ae248656b" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-10-08] What Everyone Gets Wrong About the Economic Problems in Europe
@@ -214,8 +216,6 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8e30cc48-c94f-47b3-b450-b4ca014b861f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 #EXTINF:-1 tvg-id="PC-89b6306fd0dd" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-09-19] A Goldman M&A Banker Helped Bring the Olympics to Los Angeles
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3c42dc4e-ca08-46cf-b2c6-b4c90112084e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
-#EXTINF:-1 tvg-id="PC-f1c096cd4e02" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-09-18] There's a Mind-Boggling Number of Rich People in America
-https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3715cbfc-b4cf-4840-bf1b-b4c8010bc9bb/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 
 # ===== Bloomberg Surveillance =====
 #EXTINF:-1 tvg-id="PC-5d528194c679" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-10] Supply Shocks Hit Your Wallet， Investor & Consumer Sentiments Diverge， Expensive Suburbs
@@ -244,6 +244,8 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1b0c2805-9805-43e6-9662-b4ab0110f413/e1f04f82-43ef-4d05-a72b-b4d70132923e/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 
 # ===== The Economist: The Intelligence =====
+#EXTINF:-1 tvg-id="PC-0bf2e3220278" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-10-12] Saudi under siege: Houthis attack airport
+https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6accaf58eea51f2aa376ee05/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=lFyEar8w0DxoO55qktrtbKNXI9SIu_bv6eGbgyCh9QE
 #EXTINF:-1 tvg-id="PC-10d8b2390a95" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-10-09] Saving your bacon: healthy-eating policy evolves
 https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6ac8c16cd3bfab176e10a5a7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=JyyUQTXMsyV1ot14RYJG4jbEdexAkA2EPtUJ0pvY-So
 #EXTINF:-1 tvg-id="PC-c3565be91e64" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-10-08] Valley of the shadow of debt: bond-market jitters
@@ -266,10 +268,10 @@ https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6abb8653ed4e198024b3
 https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6aba32b170b66274d96fb345/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=PHVdkS6jwj45vX2RmcZDH7NTCDQtcp62lejt4TXugLc
 #EXTINF:-1 tvg-id="PC-29c8c6b4d603" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-09-25] Big meet， little meat: the Trump-Xi summit
 https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6ab6401bbd67ce4b534215db/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=3X5xuxp_1TuJIEH8-y9O1CA5yVqYGu-ROTIhvkqfd0M
-#EXTINF:-1 tvg-id="PC-1f969da95126" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-09-24] Home disadvantage: risks in housing markets
-https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6ab4e209079b46c819b12f5e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=zx3qy_5FINNpADK-8y2qISPzeDgU0mVyOapirzK-FRs
 
 # ===== The Economist: 综合（各栏目） =====
+#EXTINF:-1 tvg-id="PC-9f076535b076" tvg-name="The Economist: 综合（各栏目）" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: 综合（各栏目）: [2026-10-12] Saudi under siege: Houthis attack airport
+https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6accaf58eea51f2aa376ee05/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=bTbDchcY3PoaoHto0YZM2PVkqKW7KfGvHyfMROp9ZTc
 #EXTINF:-1 tvg-id="PC-4e55dc7caa9b" tvg-name="The Economist: 综合（各栏目）" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: 综合（各栏目）: [2026-10-09] Saving your bacon: healthy-eating policy evolves
 https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6ac8c16cd3bfab176e10a5a7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ghiZ4ss4qRv6Zaqb5nhHOlfC0m2Aj5K80CksgsJg9cw
 #EXTINF:-1 tvg-id="PC-807734d3fbf7" tvg-name="The Economist: 综合（各栏目）" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: 综合（各栏目）: [2026-10-08] Valley of the shadow of debt: bond-market jitters
@@ -292,8 +294,6 @@ https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theecon
 https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6aba32b170b66274d96fb345/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=2wPYslr6liYsNPWF5hdFoqXznM_lxEGrYLihUV6iqBo
 #EXTINF:-1 tvg-id="PC-5dd7e4ce27f1" tvg-name="The Economist: 综合（各栏目）" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: 综合（各栏目）: [2026-09-25] Big meet， little meat: the Trump-Xi summit
 https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6ab6401bbd67ce4b534215db/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=BiSxXSUhtMDceOtb5tzJsty5g8xRh77bzbtPjO__nQ4
-#EXTINF:-1 tvg-id="PC-3c5977520aae" tvg-name="The Economist: 综合（各栏目）" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: 综合（各栏目）: [2026-09-24] Home disadvantage: risks in housing markets
-https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6ab4e209079b46c819b12f5e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=WoAVljw78-RHyhvPdkoXB13Z85b-D7g4JUHRyEcAppw
 
 # ===== CNBC Mad Money =====
 #EXTINF:-1 tvg-id="PC-d1d0e98b0305" tvg-name="CNBC Mad Money" group-title="播客 · CNBC",CNBC Mad Money: [2026-10-09] Mad Money w/ Jim Cramer 10/9/26
@@ -452,6 +452,8 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/af0ebaba-69c3-41e1-b7ec-6358d497273d/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=af0ebaba-69c3-41e1-b7ec-6358d497273d&feed=qltQrd_8
 
 # ===== CNBC Worldwide Exchange =====
+#EXTINF:-1 tvg-id="PC-3b686f0203ad" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-10-12] Geopolitical risks， bank earnings and AI drive market outlook 10/12/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/ccbaba4a-be0e-4336-b20e-a573eb330f20/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=ccbaba4a-be0e-4336-b20e-a573eb330f20&feed=Bt3ITxGl
 #EXTINF:-1 tvg-id="PC-2a69517fe75a" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-10-09] Morning Call 10/9/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/1c783108-17e8-443a-be65-04e8e4c6c604/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=1c783108-17e8-443a-be65-04e8e4c6c604&feed=Bt3ITxGl
 #EXTINF:-1 tvg-id="PC-c7588ba6ea58" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-10-08] Rising yields， AI momentum and media industry challenges 10/8/26
@@ -474,8 +476,6 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/f6bacb5d-ec47-450b-bdba-b50295ac4261/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=f6bacb5d-ec47-450b-bdba-b50295ac4261&feed=Bt3ITxGl
 #EXTINF:-1 tvg-id="PC-27d1d9c517d5" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-09-25] Morning Call 9/25/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/a46772e8-be31-4cdb-b651-daa48359bfd8/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=a46772e8-be31-4cdb-b651-daa48359bfd8&feed=Bt3ITxGl
-#EXTINF:-1 tvg-id="PC-f543b59e7a22" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-09-24] Markets， AI and rising yields test the rally 9/24/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/e7d1ba93-5fb5-4c24-86f6-7113336a12bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=e7d1ba93-5fb5-4c24-86f6-7113336a12bc&feed=Bt3ITxGl
 
 # ===== CNBC The Exchange =====
 #EXTINF:-1 tvg-id="PC-77748a2c0d18" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-10-09] SpaceX’s Starlink Push， The Real Price of Oil， and the NBA’s Big Bet 10/9/26
