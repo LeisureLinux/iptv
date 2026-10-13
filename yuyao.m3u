@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-3bbde966d49d" tvg-name="儿童意外多发 消防紧急救援" group-title="余姚 · 点播",儿童意外多发 消防紧急救援 (1:05, 20MB)
+https://mc-public.yynews.com.cn/17902477263556_hd.mp4?width=1280&height=720&isVertical=0&fsize=21049570&duration=65.0
+#EXTINF:-1 tvg-id="YY-88f68fa6fe89" tvg-name="厨房起火浓烟滚滚 保安队长秒变“救火先锋”" group-title="余姚 · 点播",厨房起火浓烟滚滚 保安队长秒变“救火先锋” (1:27, 29MB)
+https://mc-public.yynews.com.cn/17902473936648_hd.mp4?width=1280&height=720&isVertical=0&fsize=30004644&duration=87.0
+#EXTINF:-1 tvg-id="YY-af1bc4972a74" tvg-name="朱艺欣：从余姚到罗马 追逐音乐之梦" group-title="余姚 · 点播",朱艺欣：从余姚到罗马 追逐音乐之梦 (1:39, 33MB)
+https://mc-public.yynews.com.cn/17902468563720_hd.mp4?width=1280&height=720&isVertical=0&fsize=34136267&duration=99.0
+#EXTINF:-1 tvg-id="YY-9c74d642379b" tvg-name="大岚镇高山水稻迎来丰收" group-title="余姚 · 点播",大岚镇高山水稻迎来丰收 (1:12, 24MB)
+https://mc-public.yynews.com.cn/17902464079876_hd.mp4?width=1280&height=720&isVertical=0&fsize=25095070&duration=72.0
+#EXTINF:-1 tvg-id="YY-167fb1c9d8f5" tvg-name="电力先行 护航余姚“智”造持续提速" group-title="余姚 · 点播",电力先行 护航余姚“智”造持续提速 (2:22, 44MB)
+https://mc-public.yynews.com.cn/17902459215492_hd.mp4?width=1280&height=720&isVertical=0&fsize=46418290&duration=142.0
+#EXTINF:-1 tvg-id="YY-8a126b251444" tvg-name="系列报道《链上余姚》（一）：龙头引领 协同攻关 余姚光学产业链抢抓机遇提质跃升" group-title="余姚 · 点播",系列报道《链上余姚》（一）：龙头引领 协同攻关 余姚光学产业链抢抓机遇提质跃升 (3:47, 75MB)
+https://mc-public.yynews.com.cn/17902453328324_hd.mp4?width=1280&height=720&isVertical=0&fsize=78653309&duration=227.0
+#EXTINF:-1 tvg-id="YY-5d462eca9321" tvg-name="沃勇特调研人工智能相关企业、平台发展情况" group-title="余姚 · 点播",沃勇特调研人工智能相关企业、平台发展情况 (2:46, 53MB)
+https://mc-public.yynews.com.cn/17902445335176_hd.mp4?width=1280&height=720&isVertical=0&fsize=55264331&duration=166.0
 #EXTINF:-1 tvg-id="YY-24c45118f86a" tvg-name="四明聚焦｜​城区多家店铺存在占道经营等问题" group-title="余姚 · 点播",四明聚焦｜​城区多家店铺存在占道经营等问题 (1:45, 33MB)
 https://mc-public.yynews.com.cn/17892046033288_hd.mp4?width=1280&height=720&isVertical=0&fsize=35059571&duration=105.0
 #EXTINF:-1 tvg-id="YY-e825b4c66fe1" tvg-name="司机突发旧疾无法驾车 交警护送下高速" group-title="余姚 · 点播",司机突发旧疾无法驾车 交警护送下高速 (1:25, 27MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/17886000739268_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17885992404996_hd.mp4?width=1280&height=720&isVertical=0&fsize=34972957&duration=102.0
 #EXTINF:-1 tvg-id="YY-7a4af679f766" tvg-name="郑红敏：让中职德育有温度更有厚度" group-title="余姚 · 点播",郑红敏：让中职德育有温度更有厚度 (2:58, 57MB)
 https://mc-public.yynews.com.cn/17885973772804_hd.mp4?width=1280&height=720&isVertical=0&fsize=59514620&duration=178.0
-#EXTINF:-1 tvg-id="YY-564ca0fdc703" tvg-name="全省首个“分布式直流一体化”改造充电站在我市落地" group-title="余姚 · 点播",全省首个“分布式直流一体化”改造充电站在我市落地 (1:59, 38MB)
-https://mc-public.yynews.com.cn/17885968110532_hd.mp4?width=1280&height=720&isVertical=0&fsize=39336593&duration=119.0
-#EXTINF:-1 tvg-id="YY-c37a85102255" tvg-name="舜宇集团连续11年入围中国民营企业500强" group-title="余姚 · 点播",舜宇集团连续11年入围中国民营企业500强 (1:04, 19MB)
-https://mc-public.yynews.com.cn/17885960878404_hd.mp4?width=1280&height=720&isVertical=0&fsize=20239677&duration=64.0
-#EXTINF:-1 tvg-id="YY-e5cafc3c5911" tvg-name="泰速科技：以柔性智能制造装备抢滩新能源汽车市场" group-title="余姚 · 点播",泰速科技：以柔性智能制造装备抢滩新能源汽车市场 (2:49, 53MB)
-https://mc-public.yynews.com.cn/17885953760324_hd.mp4?width=1280&height=720&isVertical=0&fsize=55116353&duration=169.0
-#EXTINF:-1 tvg-id="YY-7ad9f6ca402e" tvg-name="市民闯红灯礼让消防车 交警明确不处罚" group-title="余姚 · 点播",市民闯红灯礼让消防车 交警明确不处罚 (1:15, 24MB)
-https://mc-public.yynews.com.cn/17880434375176_hd.mp4?width=1280&height=720&isVertical=0&fsize=25163709&duration=75.0
-#EXTINF:-1 tvg-id="YY-69fd009f0328" tvg-name="文卿：让岭南风味扎根余姚" group-title="余姚 · 点播",文卿：让岭南风味扎根余姚 (1:45, 34MB)
-https://mc-public.yynews.com.cn/17880428743172_hd.mp4?width=1280&height=720&isVertical=0&fsize=35554235&duration=105.0
-#EXTINF:-1 tvg-id="YY-77205d039661" tvg-name="“丈亭老街坊百年书局忆往事”文化分享活动举行" group-title="余姚 · 点播",“丈亭老街坊百年书局忆往事”文化分享活动举行 (1:01, 19MB)
-https://mc-public.yynews.com.cn/17880421387140_hd.mp4?width=1280&height=720&isVertical=0&fsize=20100396&duration=61.0
-#EXTINF:-1 tvg-id="YY-d6c152afd97e" tvg-name="“跟着戏曲游余姚”主题摄影展开展" group-title="余姚 · 点播",“跟着戏曲游余姚”主题摄影展开展 (1:14, 23MB)
-https://mc-public.yynews.com.cn/17880411528392_hd.mp4?width=1280&height=720&isVertical=0&fsize=23701772&duration=74.0
