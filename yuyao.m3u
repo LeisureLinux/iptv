@@ -6,6 +6,16 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-d458b675696a" tvg-name="市科技馆“自然造物家”昆虫标本展开展" group-title="余姚 · 点播",市科技馆“自然造物家”昆虫标本展开展 (3:58, 75MB)
+https://mc-public.yynews.com.cn/17908225269448_hd.mp4?width=1280&height=720&isVertical=0&fsize=78570597&duration=238.0
+#EXTINF:-1 tvg-id="YY-c18241855188" tvg-name="山东少女跨省见网友 民警及时劝阻助其回家" group-title="余姚 · 点播",山东少女跨省见网友 民警及时劝阻助其回家 (1:34, 29MB)
+https://mc-public.yynews.com.cn/17908127277956_hd.mp4?width=1280&height=720&isVertical=0&fsize=30172086&duration=94.0
+#EXTINF:-1 tvg-id="YY-d88c1052b129" tvg-name="流感进入高发期 接种疫苗科学防护" group-title="余姚 · 点播",流感进入高发期 接种疫苗科学防护 (1:33, 29MB)
+https://mc-public.yynews.com.cn/17908123160324_hd.mp4?width=1280&height=720&isVertical=0&fsize=30881200&duration=93.0
+#EXTINF:-1 tvg-id="YY-f7e58d66893a" tvg-name="我市第三批“共享电工”结业上岗" group-title="余姚 · 点播",我市第三批“共享电工”结业上岗 (1:19, 25MB)
+https://mc-public.yynews.com.cn/17908117314628_hd.mp4?width=1280&height=720&isVertical=0&fsize=25866716&duration=79.0
+#EXTINF:-1 tvg-id="YY-90636bc55bc2" tvg-name="节后机票价格“大跳水” 长线赏秋线路受青睐" group-title="余姚 · 点播",节后机票价格“大跳水” 长线赏秋线路受青睐 (1:43, 32MB)
+https://mc-public.yynews.com.cn/17908111362696_hd.mp4?width=1280&height=720&isVertical=0&fsize=33751342&duration=103.0
 #EXTINF:-1 tvg-id="YY-285d93ee32d9" tvg-name="沉浸式文旅新业态点亮乡村“假日经济”" group-title="余姚 · 点播",沉浸式文旅新业态点亮乡村“假日经济” (1:59, 39MB)
 https://mc-public.yynews.com.cn/17908106933956_hd.mp4?width=1280&height=720&isVertical=0&fsize=40980288&duration=119.0
 #EXTINF:-1 tvg-id="YY-3c39df4ad64a" tvg-name="我市企业积极备战第140届广交会" group-title="余姚 · 点播",我市企业积极备战第140届广交会 (2:39, 53MB)
@@ -36,13 +46,3 @@ https://mc-public.yynews.com.cn/17892025633156_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17892017122568_hd.mp4?width=1280&height=720&isVertical=0&fsize=29654856&duration=90.0
 #EXTINF:-1 tvg-id="YY-94a1f6ee0fe9" tvg-name="王冠予：带孩子们走进“虫虫”世界" group-title="余姚 · 点播",王冠予：带孩子们走进“虫虫”世界 (1:56, 39MB)
 https://mc-public.yynews.com.cn/17892008396100_hd.mp4?width=1280&height=720&isVertical=0&fsize=40632788&duration=116.0
-#EXTINF:-1 tvg-id="YY-3859d39de01e" tvg-name="第十七届“急救白金十分钟——全国自救互救日”浙江站（余姚点）活动举行" group-title="余姚 · 点播",第十七届“急救白金十分钟——全国自救互救日”浙江站（余姚点）活动举行 (1:10, 23MB)
-https://mc-public.yynews.com.cn/17892000094024_hd.mp4?width=1280&height=720&isVertical=0&fsize=24044805&duration=70.0
-#EXTINF:-1 tvg-id="YY-34fbebb43215" tvg-name="中美对等降税清单公布 我市小家电企业抢抓机遇拓市场" group-title="余姚 · 点播",中美对等降税清单公布 我市小家电企业抢抓机遇拓市场 (2:04, 40MB)
-https://mc-public.yynews.com.cn/17891987217160_hd.mp4?width=1280&height=720&isVertical=0&fsize=41807450&duration=124.0
-#EXTINF:-1 tvg-id="YY-fa860e73cffb" tvg-name="沃勇特赴梨洲街道燕窝村调研" group-title="余姚 · 点播",沃勇特赴梨洲街道燕窝村调研 (2:24, 46MB)
-https://mc-public.yynews.com.cn/17891971776324_hd.mp4?width=1280&height=720&isVertical=0&fsize=48215992&duration=144.0
-#EXTINF:-1 tvg-id="YY-2216fd25654c" tvg-name="高速上车辆燃油耗尽 司机竟徒步去服务区买油" group-title="余姚 · 点播",高速上车辆燃油耗尽 司机竟徒步去服务区买油 (1:06, 23MB)
-https://mc-public.yynews.com.cn/17886011384072_hd.mp4?width=1280&height=720&isVertical=0&fsize=23693408&duration=66.0
-#EXTINF:-1 tvg-id="YY-7169c8e574cc" tvg-name="城区桂花陆续开放" group-title="余姚 · 点播",城区桂花陆续开放 (1:07, 21MB)
-https://mc-public.yynews.com.cn/17886007268936_hd.mp4?width=1280&height=720&isVertical=0&fsize=22258731&duration=67.0
