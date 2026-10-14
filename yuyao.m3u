@@ -6,6 +6,12 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-285d93ee32d9" tvg-name="沉浸式文旅新业态点亮乡村“假日经济”" group-title="余姚 · 点播",沉浸式文旅新业态点亮乡村“假日经济” (1:59, 39MB)
+https://mc-public.yynews.com.cn/17908106933956_hd.mp4?width=1280&height=720&isVertical=0&fsize=40980288&duration=119.0
+#EXTINF:-1 tvg-id="YY-3c39df4ad64a" tvg-name="我市企业积极备战第140届广交会" group-title="余姚 · 点播",我市企业积极备战第140届广交会 (2:39, 53MB)
+https://mc-public.yynews.com.cn/17908102306824_hd.mp4?width=1280&height=720&isVertical=0&fsize=55742828&duration=159.0
+#EXTINF:-1 tvg-id="YY-3ce1b38d3872" tvg-name="《链上余姚》系列报道（二）：“链”上发力 余姚半导体产业聚势崛起" group-title="余姚 · 点播",《链上余姚》系列报道（二）：“链”上发力 余姚半导体产业聚势崛起 (3:29, 67MB)
+https://mc-public.yynews.com.cn/17908097192196_hd.mp4?width=1280&height=720&isVertical=0&fsize=70615491&duration=209.0
 #EXTINF:-1 tvg-id="YY-3bbde966d49d" tvg-name="儿童意外多发 消防紧急救援" group-title="余姚 · 点播",儿童意外多发 消防紧急救援 (1:05, 20MB)
 https://mc-public.yynews.com.cn/17902477263556_hd.mp4?width=1280&height=720&isVertical=0&fsize=21049570&duration=65.0
 #EXTINF:-1 tvg-id="YY-88f68fa6fe89" tvg-name="厨房起火浓烟滚滚 保安队长秒变“救火先锋”" group-title="余姚 · 点播",厨房起火浓烟滚滚 保安队长秒变“救火先锋” (1:27, 29MB)
@@ -40,9 +46,3 @@ https://mc-public.yynews.com.cn/17891971776324_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17886011384072_hd.mp4?width=1280&height=720&isVertical=0&fsize=23693408&duration=66.0
 #EXTINF:-1 tvg-id="YY-7169c8e574cc" tvg-name="城区桂花陆续开放" group-title="余姚 · 点播",城区桂花陆续开放 (1:07, 21MB)
 https://mc-public.yynews.com.cn/17886007268936_hd.mp4?width=1280&height=720&isVertical=0&fsize=22258731&duration=67.0
-#EXTINF:-1 tvg-id="YY-12ab53bfefe2" tvg-name="未来一周我市天气晴多雨少" group-title="余姚 · 点播",未来一周我市天气晴多雨少 (0:43, 14MB)
-https://mc-public.yynews.com.cn/17886000739268_hd.mp4?width=1280&height=720&isVertical=0&fsize=14255057&duration=43.0
-#EXTINF:-1 tvg-id="YY-058f7526d36c" tvg-name="姚江社区打造家门口“老有所乐”课堂" group-title="余姚 · 点播",姚江社区打造家门口“老有所乐”课堂 (1:42, 33MB)
-https://mc-public.yynews.com.cn/17885992404996_hd.mp4?width=1280&height=720&isVertical=0&fsize=34972957&duration=102.0
-#EXTINF:-1 tvg-id="YY-7a4af679f766" tvg-name="郑红敏：让中职德育有温度更有厚度" group-title="余姚 · 点播",郑红敏：让中职德育有温度更有厚度 (2:58, 57MB)
-https://mc-public.yynews.com.cn/17885973772804_hd.mp4?width=1280&height=720&isVertical=0&fsize=59514620&duration=178.0
