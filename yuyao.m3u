@@ -6,8 +6,22 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
-#EXTINF:-1 tvg-id="YY-d458b675696a" tvg-name="市科技馆“自然造物家”昆虫标本展开展" group-title="余姚 · 点播",市科技馆“自然造物家”昆虫标本展开展 (3:58, 75MB)
-https://mc-public.yynews.com.cn/17908225269448_hd.mp4?width=1280&height=720&isVertical=0&fsize=78570597&duration=238.0
+#EXTINF:-1 tvg-id="YY-dd3aee515bab" tvg-name="河姆渡景区周边环境有待提升" group-title="余姚 · 点播",河姆渡景区周边环境有待提升 (1:44, 34MB)
+https://mc-public.yynews.com.cn/17913680937352_hd.mp4?width=1280&height=720&isVertical=0&fsize=35925037&duration=104.0
+#EXTINF:-1 tvg-id="YY-5a4f39b64e87" tvg-name="陈锞：多彩壁画让历史文化“活”起来" group-title="余姚 · 点播",陈锞：多彩壁画让历史文化“活”起来 (1:46, 34MB)
+https://mc-public.yynews.com.cn/17913677822276_hd.mp4?width=1280&height=720&isVertical=0&fsize=35534716&duration=106.0
+#EXTINF:-1 tvg-id="YY-07e9881e11ab" tvg-name="星耀四明重阳暖心影像展开展" group-title="余姚 · 点播",星耀四明重阳暖心影像展开展 (1:02, 20MB)
+https://mc-public.yynews.com.cn/17913674027844_hd.mp4?width=1280&height=720&isVertical=0&fsize=20946426&duration=62.0
+#EXTINF:-1 tvg-id="YY-41b593607b40" tvg-name="世南小学少先队主题活动重温长征精神" group-title="余姚 · 点播",世南小学少先队主题活动重温长征精神 (2:00, 40MB)
+https://mc-public.yynews.com.cn/17913670417988_hd.mp4?width=1280&height=720&isVertical=0&fsize=41565513&duration=120.0
+#EXTINF:-1 tvg-id="YY-dd4b0950ca9f" tvg-name="库车市阳明小学师生来姚交流学习" group-title="余姚 · 点播",库车市阳明小学师生来姚交流学习 (1:14, 24MB)
+https://mc-public.yynews.com.cn/17913667654344_hd.mp4?width=1280&height=720&isVertical=0&fsize=25308395&duration=74.0
+#EXTINF:-1 tvg-id="YY-27002bd8067c" tvg-name="市第五十六届中小学生田径运动会开幕" group-title="余姚 · 点播",市第五十六届中小学生田径运动会开幕 (1:04, 20MB)
+https://mc-public.yynews.com.cn/17913663762696_hd.mp4?width=1280&height=720&isVertical=0&fsize=20782477&duration=64.0
+#EXTINF:-1 tvg-id="YY-4074c3d799be" tvg-name="湖畔云庭：三方合力小区旧貌换新颜" group-title="余姚 · 点播",湖畔云庭：三方合力小区旧貌换新颜 (1:53, 37MB)
+https://mc-public.yynews.com.cn/17913660732744_hd.mp4?width=1280&height=720&isVertical=0&fsize=38812760&duration=113.0
+#EXTINF:-1 tvg-id="YY-df38ae2e395a" tvg-name="系列报道《链上余姚》（三）：机器人产业链加速崛起 余姚打造智能制造新引擎" group-title="余姚 · 点播",系列报道《链上余姚》（三）：机器人产业链加速崛起 余姚打造智能制造新引擎 (2:48, 55MB)
+https://mc-public.yynews.com.cn/17913654947716_hd.mp4?width=1280&height=720&isVertical=0&fsize=57611685&duration=168.0
 #EXTINF:-1 tvg-id="YY-c18241855188" tvg-name="山东少女跨省见网友 民警及时劝阻助其回家" group-title="余姚 · 点播",山东少女跨省见网友 民警及时劝阻助其回家 (1:34, 29MB)
 https://mc-public.yynews.com.cn/17908127277956_hd.mp4?width=1280&height=720&isVertical=0&fsize=30172086&duration=94.0
 #EXTINF:-1 tvg-id="YY-d88c1052b129" tvg-name="流感进入高发期 接种疫苗科学防护" group-title="余姚 · 点播",流感进入高发期 接种疫苗科学防护 (1:33, 29MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/17902468563720_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17902464079876_hd.mp4?width=1280&height=720&isVertical=0&fsize=25095070&duration=72.0
 #EXTINF:-1 tvg-id="YY-167fb1c9d8f5" tvg-name="电力先行 护航余姚“智”造持续提速" group-title="余姚 · 点播",电力先行 护航余姚“智”造持续提速 (2:22, 44MB)
 https://mc-public.yynews.com.cn/17902459215492_hd.mp4?width=1280&height=720&isVertical=0&fsize=46418290&duration=142.0
-#EXTINF:-1 tvg-id="YY-8a126b251444" tvg-name="系列报道《链上余姚》（一）：龙头引领 协同攻关 余姚光学产业链抢抓机遇提质跃升" group-title="余姚 · 点播",系列报道《链上余姚》（一）：龙头引领 协同攻关 余姚光学产业链抢抓机遇提质跃升 (3:47, 75MB)
-https://mc-public.yynews.com.cn/17902453328324_hd.mp4?width=1280&height=720&isVertical=0&fsize=78653309&duration=227.0
-#EXTINF:-1 tvg-id="YY-5d462eca9321" tvg-name="沃勇特调研人工智能相关企业、平台发展情况" group-title="余姚 · 点播",沃勇特调研人工智能相关企业、平台发展情况 (2:46, 53MB)
-https://mc-public.yynews.com.cn/17902445335176_hd.mp4?width=1280&height=720&isVertical=0&fsize=55264331&duration=166.0
-#EXTINF:-1 tvg-id="YY-24c45118f86a" tvg-name="四明聚焦｜​城区多家店铺存在占道经营等问题" group-title="余姚 · 点播",四明聚焦｜​城区多家店铺存在占道经营等问题 (1:45, 33MB)
-https://mc-public.yynews.com.cn/17892046033288_hd.mp4?width=1280&height=720&isVertical=0&fsize=35059571&duration=105.0
-#EXTINF:-1 tvg-id="YY-e825b4c66fe1" tvg-name="司机突发旧疾无法驾车 交警护送下高速" group-title="余姚 · 点播",司机突发旧疾无法驾车 交警护送下高速 (1:25, 27MB)
-https://mc-public.yynews.com.cn/17892032752968_hd.mp4?width=1280&height=720&isVertical=0&fsize=27797976&duration=85.0
-#EXTINF:-1 tvg-id="YY-c52f077cc274" tvg-name="丈亭老街“飘”出咖啡味 老巷新生焕发文旅活力" group-title="余姚 · 点播",丈亭老街“飘”出咖啡味 老巷新生焕发文旅活力 (1:36, 30MB)
-https://mc-public.yynews.com.cn/17892025633156_hd.mp4?width=1280&height=720&isVertical=0&fsize=31215590&duration=96.0
-#EXTINF:-1 tvg-id="YY-a1b37d12c615" tvg-name="“秋日经济”升温 限定好物解锁金秋浪漫" group-title="余姚 · 点播",“秋日经济”升温 限定好物解锁金秋浪漫 (1:30, 28MB)
-https://mc-public.yynews.com.cn/17892017122568_hd.mp4?width=1280&height=720&isVertical=0&fsize=29654856&duration=90.0
-#EXTINF:-1 tvg-id="YY-94a1f6ee0fe9" tvg-name="王冠予：带孩子们走进“虫虫”世界" group-title="余姚 · 点播",王冠予：带孩子们走进“虫虫”世界 (1:56, 39MB)
-https://mc-public.yynews.com.cn/17892008396100_hd.mp4?width=1280&height=720&isVertical=0&fsize=40632788&duration=116.0
