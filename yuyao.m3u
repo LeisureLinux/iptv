@@ -6,6 +6,22 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-e12de2affaea" tvg-name="食品安全点检活动走进养老机构" group-title="余姚 · 点播",食品安全点检活动走进养老机构 (0:57, 18MB)
+https://mc-public.yynews.com.cn/17919180525124_hd.mp4?width=1280&height=720&isVertical=0&fsize=18996886&duration=57.0
+#EXTINF:-1 tvg-id="YY-bbac77f40991" tvg-name="我市举行主题情景剧展演暨青年干部风采展示活动" group-title="余姚 · 点播",我市举行主题情景剧展演暨青年干部风采展示活动 (1:30, 29MB)
+https://mc-public.yynews.com.cn/17919178707140_hd.mp4?width=1280&height=720&isVertical=0&fsize=29999310&duration=90.0
+#EXTINF:-1 tvg-id="YY-4902ab39845f" tvg-name="吉文金属合金温冲首线投产" group-title="余姚 · 点播",吉文金属合金温冲首线投产 (1:57, 35MB)
+https://mc-public.yynews.com.cn/17919172732996_hd.mp4?width=1280&height=720&isVertical=0&fsize=36601709&duration=117.0
+#EXTINF:-1 tvg-id="YY-ff8f8b4c37b7" tvg-name="浙籍文艺名家、全省文联代表沉浸式感受史前文明与姚江文脉" group-title="余姚 · 点播",浙籍文艺名家、全省文联代表沉浸式感受史前文明与姚江文脉 (1:49, 36MB)
+https://mc-public.yynews.com.cn/17919167365700_hd.mp4?width=1280&height=720&isVertical=0&fsize=37309555&duration=109.0
+#EXTINF:-1 tvg-id="YY-63552b6c2f9e" tvg-name="系列报道《链上余姚》（四）：智造赋能 集群发力 余姚小家电产业链加速向新突围" group-title="余姚 · 点播",系列报道《链上余姚》（四）：智造赋能 集群发力 余姚小家电产业链加速向新突围 (2:55, 59MB)
+https://mc-public.yynews.com.cn/17919162477188_hd.mp4?width=1280&height=720&isVertical=0&fsize=61532812&duration=175.0
+#EXTINF:-1 tvg-id="YY-fdd1f3469a5a" tvg-name="宁波市交通建设工程平安百年品质工程建设现场观摩会在姚举行" group-title="余姚 · 点播",宁波市交通建设工程平安百年品质工程建设现场观摩会在姚举行 (1:25, 28MB)
+https://mc-public.yynews.com.cn/17919154235204_hd.mp4?width=1280&height=720&isVertical=0&fsize=29195842&duration=85.0
+#EXTINF:-1 tvg-id="YY-affe55ac8232" tvg-name="市银辉志愿者联合会广场志愿服务活动举行" group-title="余姚 · 点播",市银辉志愿者联合会广场志愿服务活动举行 (1:23, 28MB)
+https://mc-public.yynews.com.cn/17919150543880_hd.mp4?width=1280&height=720&isVertical=0&fsize=29216353&duration=83.0
+#EXTINF:-1 tvg-id="YY-c9aedd5743b9" tvg-name="全市数字政府2.0建设工作例会召开" group-title="余姚 · 点播",全市数字政府2.0建设工作例会召开 (2:11, 42MB)
+https://mc-public.yynews.com.cn/17919143907780_hd.mp4?width=1280&height=720&isVertical=0&fsize=44017067&duration=131.0
 #EXTINF:-1 tvg-id="YY-dd3aee515bab" tvg-name="河姆渡景区周边环境有待提升" group-title="余姚 · 点播",河姆渡景区周边环境有待提升 (1:44, 34MB)
 https://mc-public.yynews.com.cn/17913680937352_hd.mp4?width=1280&height=720&isVertical=0&fsize=35925037&duration=104.0
 #EXTINF:-1 tvg-id="YY-5a4f39b64e87" tvg-name="陈锞：多彩壁画让历史文化“活”起来" group-title="余姚 · 点播",陈锞：多彩壁画让历史文化“活”起来 (1:46, 34MB)
@@ -30,19 +46,3 @@ https://mc-public.yynews.com.cn/17908123160324_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17908117314628_hd.mp4?width=1280&height=720&isVertical=0&fsize=25866716&duration=79.0
 #EXTINF:-1 tvg-id="YY-90636bc55bc2" tvg-name="节后机票价格“大跳水” 长线赏秋线路受青睐" group-title="余姚 · 点播",节后机票价格“大跳水” 长线赏秋线路受青睐 (1:43, 32MB)
 https://mc-public.yynews.com.cn/17908111362696_hd.mp4?width=1280&height=720&isVertical=0&fsize=33751342&duration=103.0
-#EXTINF:-1 tvg-id="YY-285d93ee32d9" tvg-name="沉浸式文旅新业态点亮乡村“假日经济”" group-title="余姚 · 点播",沉浸式文旅新业态点亮乡村“假日经济” (1:59, 39MB)
-https://mc-public.yynews.com.cn/17908106933956_hd.mp4?width=1280&height=720&isVertical=0&fsize=40980288&duration=119.0
-#EXTINF:-1 tvg-id="YY-3c39df4ad64a" tvg-name="我市企业积极备战第140届广交会" group-title="余姚 · 点播",我市企业积极备战第140届广交会 (2:39, 53MB)
-https://mc-public.yynews.com.cn/17908102306824_hd.mp4?width=1280&height=720&isVertical=0&fsize=55742828&duration=159.0
-#EXTINF:-1 tvg-id="YY-3ce1b38d3872" tvg-name="《链上余姚》系列报道（二）：“链”上发力 余姚半导体产业聚势崛起" group-title="余姚 · 点播",《链上余姚》系列报道（二）：“链”上发力 余姚半导体产业聚势崛起 (3:29, 67MB)
-https://mc-public.yynews.com.cn/17908097192196_hd.mp4?width=1280&height=720&isVertical=0&fsize=70615491&duration=209.0
-#EXTINF:-1 tvg-id="YY-3bbde966d49d" tvg-name="儿童意外多发 消防紧急救援" group-title="余姚 · 点播",儿童意外多发 消防紧急救援 (1:05, 20MB)
-https://mc-public.yynews.com.cn/17902477263556_hd.mp4?width=1280&height=720&isVertical=0&fsize=21049570&duration=65.0
-#EXTINF:-1 tvg-id="YY-88f68fa6fe89" tvg-name="厨房起火浓烟滚滚 保安队长秒变“救火先锋”" group-title="余姚 · 点播",厨房起火浓烟滚滚 保安队长秒变“救火先锋” (1:27, 29MB)
-https://mc-public.yynews.com.cn/17902473936648_hd.mp4?width=1280&height=720&isVertical=0&fsize=30004644&duration=87.0
-#EXTINF:-1 tvg-id="YY-af1bc4972a74" tvg-name="朱艺欣：从余姚到罗马 追逐音乐之梦" group-title="余姚 · 点播",朱艺欣：从余姚到罗马 追逐音乐之梦 (1:39, 33MB)
-https://mc-public.yynews.com.cn/17902468563720_hd.mp4?width=1280&height=720&isVertical=0&fsize=34136267&duration=99.0
-#EXTINF:-1 tvg-id="YY-9c74d642379b" tvg-name="大岚镇高山水稻迎来丰收" group-title="余姚 · 点播",大岚镇高山水稻迎来丰收 (1:12, 24MB)
-https://mc-public.yynews.com.cn/17902464079876_hd.mp4?width=1280&height=720&isVertical=0&fsize=25095070&duration=72.0
-#EXTINF:-1 tvg-id="YY-167fb1c9d8f5" tvg-name="电力先行 护航余姚“智”造持续提速" group-title="余姚 · 点播",电力先行 护航余姚“智”造持续提速 (2:22, 44MB)
-https://mc-public.yynews.com.cn/17902459215492_hd.mp4?width=1280&height=720&isVertical=0&fsize=46418290&duration=142.0
