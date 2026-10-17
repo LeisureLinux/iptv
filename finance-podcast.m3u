@@ -10,6 +10,8 @@
 
 
 # ===== Reuters World News =====
+#EXTINF:-1 tvg-id="PC-b6beecda4e49" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-17] Trump drops Russia sanctions， Israeli settlers attack US photojournalist， Oregon police say teacher and parent stopped school shooter
+https://pdst.fm/e/traffic.megaphone.fm/THRH5040019612.mp3
 #EXTINF:-1 tvg-id="PC-1b8a4d24734a" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-16] Zacharia out， Zelenskiy slams diesel deal， Oregon shooting (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH9344240752.mp3
 #EXTINF:-1 tvg-id="PC-10d0c79d75c9" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-15] Ukraine oil strike， Fort Hood execution， AI stock slide (Updated)
@@ -32,8 +34,6 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH6934024754.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH5573851474.mp3
 #EXTINF:-1 tvg-id="PC-fcea3bf6aa03" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-06] Trump's California comments， France protests， Cornell rally (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH7818149560.mp3
-#EXTINF:-1 tvg-id="PC-4a7cb0d0c3dd" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-05] Yemen retakes Strait， Spain early election， Nobels (Updated)
-https://pdst.fm/e/traffic.megaphone.fm/THRH7848350394.mp3
 
 # ===== WSJ The Journal =====
 #EXTINF:-1 tvg-id="PC-1cae2a52ad32" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-16] The $275 Million Margaritaville Drama
@@ -62,6 +62,8 @@ https://pdst.fm/e/traffic.megaphone.fm/WSJ7129291929.mp3
 https://pdst.fm/e/traffic.megaphone.fm/WSJ7923565426.mp3
 
 # ===== WSJ What's News =====
+#EXTINF:-1 tvg-id="PC-6a87cfc76a57" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-17] What’s News in Markets: CoreWeave Selloff， Apple Milestone， Borrowing Boom
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/42598fb0-b2cd-4953-8da7-38d24685b8e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=42598fb0-b2cd-4953-8da7-38d24685b8e3&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-dc16d29ed4d1" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-16] Katie Zacharia Is Out as White House Press Secretary
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/82817a6a-8c46-4c4c-a6e9-c5ba4bb13fc8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=82817a6a-8c46-4c4c-a6e9-c5ba4bb13fc8&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-490164410e7c" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-16] AI Has an Insurance Problem
@@ -84,8 +86,6 @@ https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episod
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/8b1360ac-2114-447f-bb68-20a214bc2dee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=8b1360ac-2114-447f-bb68-20a214bc2dee&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-895e995c3152" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-12] Will Trump’s Russian Diesel Deal Lower Prices?
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/065c5168-ff13-457b-8659-b1ef58592715/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=065c5168-ff13-457b-8659-b1ef58592715&feed=BA5QWI2p
-#EXTINF:-1 tvg-id="PC-09506ef9eaa3" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-11] Why Gen Z Voters Are Reconsidering Their Support for Trump
-https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4a448a2c-c74c-474f-8df8-9949c55e4fbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4a448a2c-c74c-474f-8df8-9949c55e4fbf&feed=BA5QWI2p
 
 # ===== WSJ Tech News Briefing =====
 #EXTINF:-1 tvg-id="PC-f85eaeeddf94" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-10-16] How Does Apple’s Siri Compete In an Agentic World?
@@ -192,6 +192,8 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/7148d069-ff16-423d-94c4-b4d901234d99/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 
 # ===== Bloomberg Odd Lots =====
+#EXTINF:-1 tvg-id="PC-1a5ef7da62e2" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-10-17] David Byrne Explains How Forgotten Ideas Come Back to Life
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/80a8c551-836d-45b7-9004-b4e600024717/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 #EXTINF:-1 tvg-id="PC-82fb7abe70f5" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-10-16] The French Political Crisis That's Turning Into a Debt Crisis
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9eaa512a-78cf-4f3a-b125-b4e401078052/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 #EXTINF:-1 tvg-id="PC-6a05f5f69ab9" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-10-15] Jeff Yan's Plan to Bring the Entire Financial Industry Onto Hyperliquid
@@ -214,10 +216,10 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/77d27e49-f26e-4c79-8913-b4cf01192cf5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 #EXTINF:-1 tvg-id="PC-280b4fabfa4c" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-09-24] AI Is Upending the Lives of People Who Do Social Media Professionally
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7f51b2eb-0524-4cf5-b654-b4ce0132f318/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
-#EXTINF:-1 tvg-id="PC-292271b11325" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-09-21] How LA Is Quietly Becoming America's New Industrial Tech Hub
-https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8d30821d-cf7d-4147-b00e-b4cb01647404/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 
 # ===== Bloomberg Surveillance =====
+#EXTINF:-1 tvg-id="PC-72a69139d6be" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-17] Bank Earnings， Why Consumers Are 'Roughed Up' & Real Estate Trends
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1b0c2805-9805-43e6-9662-b4ab0110f413/d1838b5d-83d8-4288-9aea-b4e50155cf9a/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 #EXTINF:-1 tvg-id="PC-c2b2dc89b833" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-16] Bloomberg Surveillance TV: October 16th， 2026
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/3151a8cd-ed4e-4d65-b48a-b4e5011084e8/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 #EXTINF:-1 tvg-id="PC-543b0785aa7e" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-16] AI Integration and Stock Fears
@@ -240,8 +242,6 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/67bfccca-71b9-4fd5-93c4-b4e100e5d49b/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 #EXTINF:-1 tvg-id="PC-5d528194c679" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-10] Supply Shocks Hit Your Wallet， Investor & Consumer Sentiments Diverge， Expensive Suburbs
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1b0c2805-9805-43e6-9662-b4ab0110f413/3892ab6f-0d44-4566-8ecf-b4de0152fce7/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
-#EXTINF:-1 tvg-id="PC-654c1a64682c" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-09] Bloomberg Surveillance TV: October 9th， 2026
-https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/878ff274-03a3-4edb-b2a8-b4de010fbc6b/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 
 # ===== The Economist: The Intelligence =====
 #EXTINF:-1 tvg-id="PC-82c4803b27de" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-10-16] Schrödinger’s chat: can AI and scientists co-exist?
