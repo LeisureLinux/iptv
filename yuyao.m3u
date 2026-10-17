@@ -6,6 +6,22 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-e039cddb449b" tvg-name="河姆渡遗址景区周边环境启动全面整改" group-title="余姚 · 点播",河姆渡遗址景区周边环境启动全面整改 (2:08, 41MB)
+https://mc-public.yynews.com.cn/17924899996100_hd.mp4?width=1280&height=720&isVertical=0&fsize=43128337&duration=128.0
+#EXTINF:-1 tvg-id="YY-f606438e5726" tvg-name="警方查获4名非法改装摩托车人员" group-title="余姚 · 点播",警方查获4名非法改装摩托车人员 (0:59, 19MB)
+https://mc-public.yynews.com.cn/17924899174024_hd.mp4?width=1280&height=720&isVertical=0&fsize=20330294&duration=59.0
+#EXTINF:-1 tvg-id="YY-ee7198216237" tvg-name="周末气温将攀升至30°C以上" group-title="余姚 · 点播",周末气温将攀升至30°C以上 (0:57, 20MB)
+https://mc-public.yynews.com.cn/17924898274760_hd.mp4?width=1280&height=720&isVertical=0&fsize=20682651&duration=57.0
+#EXTINF:-1 tvg-id="YY-0cb3da412141" tvg-name="大闸蟹集中上市" group-title="余姚 · 点播",大闸蟹集中上市 (1:07, 22MB)
+https://mc-public.yynews.com.cn/17924897431684_hd.mp4?width=1280&height=720&isVertical=0&fsize=23079606&duration=67.0
+#EXTINF:-1 tvg-id="YY-4815444e7130" tvg-name="斗门村举行金秋诗会" group-title="余姚 · 点播",斗门村举行金秋诗会 (1:03, 21MB)
+https://mc-public.yynews.com.cn/17924896591880_hd.mp4?width=1280&height=720&isVertical=0&fsize=21659939&duration=63.0
+#EXTINF:-1 tvg-id="YY-1f5ccc09df52" tvg-name="系列报道《链上余姚》（五）：从“感知”到“守护” 余姚汽车产业链向“新”而行" group-title="余姚 · 点播",系列报道《链上余姚》（五）：从“感知”到“守护” 余姚汽车产业链向“新”而行 (3:04, 58MB)
+https://mc-public.yynews.com.cn/17924895835972_hd.mp4?width=1280&height=720&isVertical=0&fsize=61309555&duration=184.0
+#EXTINF:-1 tvg-id="YY-2af4172a3958" tvg-name="市领导看望慰问高龄老人" group-title="余姚 · 点播",市领导看望慰问高龄老人 (0:49, 16MB)
+https://mc-public.yynews.com.cn/17924894963588_hd.mp4?width=1280&height=720&isVertical=0&fsize=16341517&duration=49.0
+#EXTINF:-1 tvg-id="YY-a8071054ead1" tvg-name="2026年省外浙籍文艺名家助力浙江文艺发展交流活动在姚举行" group-title="余姚 · 点播",2026年省外浙籍文艺名家助力浙江文艺发展交流活动在姚举行 (3:07, 59MB)
+https://mc-public.yynews.com.cn/17924893898376_hd.mp4?width=1280&height=720&isVertical=0&fsize=62347226&duration=187.0
 #EXTINF:-1 tvg-id="YY-e12de2affaea" tvg-name="食品安全点检活动走进养老机构" group-title="余姚 · 点播",食品安全点检活动走进养老机构 (0:57, 18MB)
 https://mc-public.yynews.com.cn/17919180525124_hd.mp4?width=1280&height=720&isVertical=0&fsize=18996886&duration=57.0
 #EXTINF:-1 tvg-id="YY-bbac77f40991" tvg-name="我市举行主题情景剧展演暨青年干部风采展示活动" group-title="余姚 · 点播",我市举行主题情景剧展演暨青年干部风采展示活动 (1:30, 29MB)
@@ -30,19 +46,3 @@ https://mc-public.yynews.com.cn/17913677822276_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17913674027844_hd.mp4?width=1280&height=720&isVertical=0&fsize=20946426&duration=62.0
 #EXTINF:-1 tvg-id="YY-41b593607b40" tvg-name="世南小学少先队主题活动重温长征精神" group-title="余姚 · 点播",世南小学少先队主题活动重温长征精神 (2:00, 40MB)
 https://mc-public.yynews.com.cn/17913670417988_hd.mp4?width=1280&height=720&isVertical=0&fsize=41565513&duration=120.0
-#EXTINF:-1 tvg-id="YY-dd4b0950ca9f" tvg-name="库车市阳明小学师生来姚交流学习" group-title="余姚 · 点播",库车市阳明小学师生来姚交流学习 (1:14, 24MB)
-https://mc-public.yynews.com.cn/17913667654344_hd.mp4?width=1280&height=720&isVertical=0&fsize=25308395&duration=74.0
-#EXTINF:-1 tvg-id="YY-27002bd8067c" tvg-name="市第五十六届中小学生田径运动会开幕" group-title="余姚 · 点播",市第五十六届中小学生田径运动会开幕 (1:04, 20MB)
-https://mc-public.yynews.com.cn/17913663762696_hd.mp4?width=1280&height=720&isVertical=0&fsize=20782477&duration=64.0
-#EXTINF:-1 tvg-id="YY-4074c3d799be" tvg-name="湖畔云庭：三方合力小区旧貌换新颜" group-title="余姚 · 点播",湖畔云庭：三方合力小区旧貌换新颜 (1:53, 37MB)
-https://mc-public.yynews.com.cn/17913660732744_hd.mp4?width=1280&height=720&isVertical=0&fsize=38812760&duration=113.0
-#EXTINF:-1 tvg-id="YY-df38ae2e395a" tvg-name="系列报道《链上余姚》（三）：机器人产业链加速崛起 余姚打造智能制造新引擎" group-title="余姚 · 点播",系列报道《链上余姚》（三）：机器人产业链加速崛起 余姚打造智能制造新引擎 (2:48, 55MB)
-https://mc-public.yynews.com.cn/17913654947716_hd.mp4?width=1280&height=720&isVertical=0&fsize=57611685&duration=168.0
-#EXTINF:-1 tvg-id="YY-c18241855188" tvg-name="山东少女跨省见网友 民警及时劝阻助其回家" group-title="余姚 · 点播",山东少女跨省见网友 民警及时劝阻助其回家 (1:34, 29MB)
-https://mc-public.yynews.com.cn/17908127277956_hd.mp4?width=1280&height=720&isVertical=0&fsize=30172086&duration=94.0
-#EXTINF:-1 tvg-id="YY-d88c1052b129" tvg-name="流感进入高发期 接种疫苗科学防护" group-title="余姚 · 点播",流感进入高发期 接种疫苗科学防护 (1:33, 29MB)
-https://mc-public.yynews.com.cn/17908123160324_hd.mp4?width=1280&height=720&isVertical=0&fsize=30881200&duration=93.0
-#EXTINF:-1 tvg-id="YY-f7e58d66893a" tvg-name="我市第三批“共享电工”结业上岗" group-title="余姚 · 点播",我市第三批“共享电工”结业上岗 (1:19, 25MB)
-https://mc-public.yynews.com.cn/17908117314628_hd.mp4?width=1280&height=720&isVertical=0&fsize=25866716&duration=79.0
-#EXTINF:-1 tvg-id="YY-90636bc55bc2" tvg-name="节后机票价格“大跳水” 长线赏秋线路受青睐" group-title="余姚 · 点播",节后机票价格“大跳水” 长线赏秋线路受青睐 (1:43, 32MB)
-https://mc-public.yynews.com.cn/17908111362696_hd.mp4?width=1280&height=720&isVertical=0&fsize=33751342&duration=103.0
