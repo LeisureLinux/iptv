@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-e6a95f0cf6c3" tvg-name="一周新闻回顾" group-title="余姚 · 点播",一周新闻回顾 (3:48, 74MB)
+https://mc-public.yynews.com.cn/17930276529028_hd.mp4?width=1280&height=720&isVertical=0&fsize=77384378&duration=228.0
+#EXTINF:-1 tvg-id="YY-540395d50138" tvg-name="翁方村举行重阳敬老活动" group-title="余姚 · 点播",翁方村举行重阳敬老活动 (0:53, 18MB)
+https://mc-public.yynews.com.cn/17930275944712_hd.mp4?width=1280&height=720&isVertical=0&fsize=18379323&duration=53.0
+#EXTINF:-1 tvg-id="YY-923051894cbc" tvg-name="市第20届街道社区老年人运动会举行" group-title="余姚 · 点播",市第20届街道社区老年人运动会举行 (0:35, 12MB)
+https://mc-public.yynews.com.cn/17930271616392_hd.mp4?width=1280&height=720&isVertical=0&fsize=12163262&duration=35.0
+#EXTINF:-1 tvg-id="YY-9347292767f7" tvg-name="市养老护理职业技能竞赛举行" group-title="余姚 · 点播",市养老护理职业技能竞赛举行 (1:29, 29MB)
+https://mc-public.yynews.com.cn/17930271025608_hd.mp4?width=1280&height=720&isVertical=0&fsize=29975299&duration=89.0
+#EXTINF:-1 tvg-id="YY-21b55b34d679" tvg-name="余姚合唱团：用歌声展现新时代职工昂扬奋进的精神面貌" group-title="余姚 · 点播",余姚合唱团：用歌声展现新时代职工昂扬奋进的精神面貌 (1:44, 33MB)
+https://mc-public.yynews.com.cn/17930270553732_hd.mp4?width=1280&height=720&isVertical=0&fsize=34199196&duration=104.0
+#EXTINF:-1 tvg-id="YY-695d8f81439d" tvg-name="我市13万亩单季晚稻进入集中收割期" group-title="余姚 · 点播",我市13万亩单季晚稻进入集中收割期 (1:35, 30MB)
+https://mc-public.yynews.com.cn/17930269980292_hd.mp4?width=1280&height=720&isVertical=0&fsize=31954526&duration=95.0
+#EXTINF:-1 tvg-id="YY-a307e3526e96" tvg-name="系列报道《链上余姚》（六）：强链延链提质效 余姚食品产业跑出升级加速度" group-title="余姚 · 点播",系列报道《链上余姚》（六）：强链延链提质效 余姚食品产业跑出升级加速度 (4:00, 73MB)
+https://mc-public.yynews.com.cn/17930269350664_hd.mp4?width=1280&height=720&isVertical=0&fsize=76835971&duration=240.0
 #EXTINF:-1 tvg-id="YY-e039cddb449b" tvg-name="河姆渡遗址景区周边环境启动全面整改" group-title="余姚 · 点播",河姆渡遗址景区周边环境启动全面整改 (2:08, 41MB)
 https://mc-public.yynews.com.cn/17924899996100_hd.mp4?width=1280&height=720&isVertical=0&fsize=43128337&duration=128.0
 #EXTINF:-1 tvg-id="YY-f606438e5726" tvg-name="警方查获4名非法改装摩托车人员" group-title="余姚 · 点播",警方查获4名非法改装摩托车人员 (0:59, 19MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/17919172732996_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17919167365700_hd.mp4?width=1280&height=720&isVertical=0&fsize=37309555&duration=109.0
 #EXTINF:-1 tvg-id="YY-63552b6c2f9e" tvg-name="系列报道《链上余姚》（四）：智造赋能 集群发力 余姚小家电产业链加速向新突围" group-title="余姚 · 点播",系列报道《链上余姚》（四）：智造赋能 集群发力 余姚小家电产业链加速向新突围 (2:55, 59MB)
 https://mc-public.yynews.com.cn/17919162477188_hd.mp4?width=1280&height=720&isVertical=0&fsize=61532812&duration=175.0
-#EXTINF:-1 tvg-id="YY-fdd1f3469a5a" tvg-name="宁波市交通建设工程平安百年品质工程建设现场观摩会在姚举行" group-title="余姚 · 点播",宁波市交通建设工程平安百年品质工程建设现场观摩会在姚举行 (1:25, 28MB)
-https://mc-public.yynews.com.cn/17919154235204_hd.mp4?width=1280&height=720&isVertical=0&fsize=29195842&duration=85.0
-#EXTINF:-1 tvg-id="YY-affe55ac8232" tvg-name="市银辉志愿者联合会广场志愿服务活动举行" group-title="余姚 · 点播",市银辉志愿者联合会广场志愿服务活动举行 (1:23, 28MB)
-https://mc-public.yynews.com.cn/17919150543880_hd.mp4?width=1280&height=720&isVertical=0&fsize=29216353&duration=83.0
-#EXTINF:-1 tvg-id="YY-c9aedd5743b9" tvg-name="全市数字政府2.0建设工作例会召开" group-title="余姚 · 点播",全市数字政府2.0建设工作例会召开 (2:11, 42MB)
-https://mc-public.yynews.com.cn/17919143907780_hd.mp4?width=1280&height=720&isVertical=0&fsize=44017067&duration=131.0
-#EXTINF:-1 tvg-id="YY-dd3aee515bab" tvg-name="河姆渡景区周边环境有待提升" group-title="余姚 · 点播",河姆渡景区周边环境有待提升 (1:44, 34MB)
-https://mc-public.yynews.com.cn/17913680937352_hd.mp4?width=1280&height=720&isVertical=0&fsize=35925037&duration=104.0
-#EXTINF:-1 tvg-id="YY-5a4f39b64e87" tvg-name="陈锞：多彩壁画让历史文化“活”起来" group-title="余姚 · 点播",陈锞：多彩壁画让历史文化“活”起来 (1:46, 34MB)
-https://mc-public.yynews.com.cn/17913677822276_hd.mp4?width=1280&height=720&isVertical=0&fsize=35534716&duration=106.0
-#EXTINF:-1 tvg-id="YY-07e9881e11ab" tvg-name="星耀四明重阳暖心影像展开展" group-title="余姚 · 点播",星耀四明重阳暖心影像展开展 (1:02, 20MB)
-https://mc-public.yynews.com.cn/17913674027844_hd.mp4?width=1280&height=720&isVertical=0&fsize=20946426&duration=62.0
-#EXTINF:-1 tvg-id="YY-41b593607b40" tvg-name="世南小学少先队主题活动重温长征精神" group-title="余姚 · 点播",世南小学少先队主题活动重温长征精神 (2:00, 40MB)
-https://mc-public.yynews.com.cn/17913670417988_hd.mp4?width=1280&height=720&isVertical=0&fsize=41565513&duration=120.0
