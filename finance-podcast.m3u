@@ -10,6 +10,8 @@
 
 
 # ===== Reuters World News =====
+#EXTINF:-1 tvg-id="PC-076e7a1abde0" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-19] France curfew， Russian energy strikes， Trump's golf course fight (Updated)
+https://pdst.fm/e/traffic.megaphone.fm/THRH1513700445.mp3
 #EXTINF:-1 tvg-id="PC-67c026eed3cb" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-18] France unrest， Canada military base， Pope Leo and Siberian bears
 https://pdst.fm/e/traffic.megaphone.fm/THRH7346887569.mp3
 #EXTINF:-1 tvg-id="PC-b6beecda4e49" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-17] Trump drops Russia sanctions， Israeli settlers attack US photojournalist， Oregon police say teacher and parent stopped school shooter
@@ -32,10 +34,10 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH4607164238.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH9484636978.mp3
 #EXTINF:-1 tvg-id="PC-3b80ad8d4534" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-08] Trump pauses Iran strikes， Microsoft visa suspension， French mayor (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH6934024754.mp3
-#EXTINF:-1 tvg-id="PC-26420ff527e4" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-07] Christa Pike hearing， October 7 and mortgage rate spikes (Updated)
-https://pdst.fm/e/traffic.megaphone.fm/THRH5573851474.mp3
 
 # ===== WSJ The Journal =====
+#EXTINF:-1 tvg-id="PC-585ab69adecf" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-19] Tension and Tirades Inside the U.S. Treasury
+https://pdst.fm/e/traffic.megaphone.fm/WSJ3154297257.mp3
 #EXTINF:-1 tvg-id="PC-3e22f02bcc17" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-18] My Monday Morning: Gayle King
 https://pdst.fm/e/traffic.megaphone.fm/WSJ6419773563.mp3
 #EXTINF:-1 tvg-id="PC-1cae2a52ad32" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-16] The $275 Million Margaritaville Drama
@@ -58,10 +60,10 @@ https://pdst.fm/e/traffic.megaphone.fm/WSJ2404447853.mp3
 https://pdst.fm/e/traffic.megaphone.fm/WSJ9296716921.mp3
 #EXTINF:-1 tvg-id="PC-e140312b1836" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-07] Red， White and Who? The Anti-AI Voters
 https://pdst.fm/e/traffic.megaphone.fm/WSJ5712818857.mp3
-#EXTINF:-1 tvg-id="PC-4afb658b9e78" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-06] Is Xi Jinping’s Health Declining?
-https://pdst.fm/e/traffic.megaphone.fm/WSJ7129291929.mp3
 
 # ===== WSJ What's News =====
+#EXTINF:-1 tvg-id="PC-4e2040a330bf" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-19] Violent Rioting Sweeps France
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/35433320-e939-489a-b523-cf754a01ebaf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=35433320-e939-489a-b523-cf754a01ebaf&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-d23d1a8e8146" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-18] Will Gen Z Hand Democrats a ‘Blue Wave’ in the Midterms?
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/1dce7d25-c258-4b2e-b019-806786184d62/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=1dce7d25-c258-4b2e-b019-806786184d62&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-6a87cfc76a57" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-17] What’s News in Markets: CoreWeave Selloff， Apple Milestone， Borrowing Boom
@@ -84,8 +86,6 @@ https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episod
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/83569796-169a-4ee4-9a05-c30e39702ed0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=83569796-169a-4ee4-9a05-c30e39702ed0&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-feffc64ecba3" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-13] IMF Warns AI’s Riches Are Increasingly Concentrated
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/07e3745c-22d6-45df-995c-a897f1810dcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=07e3745c-22d6-45df-995c-a897f1810dcc&feed=BA5QWI2p
-#EXTINF:-1 tvg-id="PC-37ce80d0d544" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-12] Justice Department Steps Up Illegal-Voting Prosecutions
-https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/8b1360ac-2114-447f-bb68-20a214bc2dee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=8b1360ac-2114-447f-bb68-20a214bc2dee&feed=BA5QWI2p
 
 # ===== WSJ Tech News Briefing =====
 #EXTINF:-1 tvg-id="PC-55b8ecd6e3be" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-10-19] How This Dot-Com Era CEO Is Navigating The AI Boom
@@ -218,6 +218,10 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/77d27e49-f26e-4c79-8913-b4cf01192cf5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 
 # ===== Bloomberg Surveillance =====
+#EXTINF:-1 tvg-id="PC-2fd37d54a544" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-19] Bloomberg Surveillance TV: October 19th， 2026
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/c296d2ce-f2d1-4d87-8e76-b4e8011e5a0d/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-3ba274d4bf2e" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-19] Potential Market Rebound and Shipping Latest
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/a470e8a4-08ea-451d-b0e1-b4e800ddebf8/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 #EXTINF:-1 tvg-id="PC-72a69139d6be" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-17] Bank Earnings， Why Consumers Are 'Roughed Up' & Real Estate Trends
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1b0c2805-9805-43e6-9662-b4ab0110f413/d1838b5d-83d8-4288-9aea-b4e50155cf9a/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 #EXTINF:-1 tvg-id="PC-c2b2dc89b833" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-16] Bloomberg Surveillance TV: October 16th， 2026
@@ -238,10 +242,6 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/6a30b190-a372-41bd-9a35-b4e200e494d7/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 #EXTINF:-1 tvg-id="PC-3d16b76a88c1" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-12] Bloomberg Surveillance TV: October 12th， 2026
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/2aee3652-0a9a-4d6d-921e-b4e100ff03e8/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
-#EXTINF:-1 tvg-id="PC-211fc4a593a6" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-12] Upward Pressure on Yields and Equities
-https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/67bfccca-71b9-4fd5-93c4-b4e100e5d49b/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
-#EXTINF:-1 tvg-id="PC-5d528194c679" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-10] Supply Shocks Hit Your Wallet， Investor & Consumer Sentiments Diverge， Expensive Suburbs
-https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1b0c2805-9805-43e6-9662-b4ab0110f413/3892ab6f-0d44-4566-8ecf-b4de0152fce7/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 
 # ===== The Economist: The Intelligence =====
 #EXTINF:-1 tvg-id="PC-9f2c30392a9c" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-10-19] Independence eh? Canada’s referendum
@@ -348,6 +348,8 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6-9e42-7f843e9567e5/episodes/667605f5-77b0-4f8d-9343-16b096d05576/audio/128/default.mp3?aid=rss_feed&awCollectionId=b7b89f33-e5b5-46a6-9e42-7f843e9567e5&awEpisodeId=667605f5-77b0-4f8d-9343-16b096d05576&feed=szW8tJ16
 
 # ===== CNBC Closing Bell =====
+#EXTINF:-1 tvg-id="PC-5455119ca369" tvg-name="CNBC Closing Bell" group-title="播客 · CNBC",CNBC Closing Bell: [2026-10-19] Closing Bell: 10/19/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/c31295a4-9c9e-4f79-91ea-fede12377cec/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=c31295a4-9c9e-4f79-91ea-fede12377cec&feed=Nh1wIaXT
 #EXTINF:-1 tvg-id="PC-c429b264f64c" tvg-name="CNBC Closing Bell" group-title="播客 · CNBC",CNBC Closing Bell: [2026-10-16] Closing Bell Overtime: 10/16/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/003d3c5f-1d8e-4a84-8cca-40b91d498f15/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=003d3c5f-1d8e-4a84-8cca-40b91d498f15&feed=Nh1wIaXT
 #EXTINF:-1 tvg-id="PC-fc17eec320c9" tvg-name="CNBC Closing Bell" group-title="播客 · CNBC",CNBC Closing Bell: [2026-10-16] Closing Bell: 10/16/26
@@ -356,11 +358,11 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/555f5e2c-2dd9-4532-af0a-205f542ae10a/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=555f5e2c-2dd9-4532-af0a-205f542ae10a&feed=Nh1wIaXT
 #EXTINF:-1 tvg-id="PC-df1d25f64ebe" tvg-name="CNBC Closing Bell" group-title="播客 · CNBC",CNBC Closing Bell: [2026-10-15] Closing Bell: 10/15/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/a439d1a3-bd97-402a-9a2e-18ba1154d0ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=a439d1a3-bd97-402a-9a2e-18ba1154d0ed&feed=Nh1wIaXT
-#EXTINF:-1 tvg-id="PC-3da6192b408c" tvg-name="CNBC Closing Bell" group-title="播客 · CNBC",CNBC Closing Bell: [2026-10-14] AI Trade Faces a Reality Check 10/14/26
+#EXTINF:-1 tvg-id="PC-3da6192b408c" tvg-name="CNBC Closing Bell" group-title="播客 · CNBC",CNBC Closing Bell: [2026-10-14] Closing Bell Overtime: AI Trade Faces a Reality Check 10/14/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/53223fee-72e7-4c27-b04e-48568220c98c/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=53223fee-72e7-4c27-b04e-48568220c98c&feed=Nh1wIaXT
 #EXTINF:-1 tvg-id="PC-ef3ed1fa9501" tvg-name="CNBC Closing Bell" group-title="播客 · CNBC",CNBC Closing Bell: [2026-10-14] Closing Bell 10/14/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/0bd1a632-40ce-4278-9725-8900fc7c5ae9/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=0bd1a632-40ce-4278-9725-8900fc7c5ae9&feed=Nh1wIaXT
-#EXTINF:-1 tvg-id="PC-cb1232e3c29e" tvg-name="CNBC Closing Bell" group-title="播客 · CNBC",CNBC Closing Bell: [2026-10-13] Tech Takes a Breather; Dyna’s “Taku” Robot Visits the Set 10/13/26
+#EXTINF:-1 tvg-id="PC-cb1232e3c29e" tvg-name="CNBC Closing Bell" group-title="播客 · CNBC",CNBC Closing Bell: [2026-10-13] Closing Bell Overtime Tech Takes a Breather; Dyna’s “Taku” Robot Visits the Set 10/13/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/cc248d8e-af4f-47fe-be6b-f377e868c52d/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=cc248d8e-af4f-47fe-be6b-f377e868c52d&feed=Nh1wIaXT
 #EXTINF:-1 tvg-id="PC-cbe067e12821" tvg-name="CNBC Closing Bell" group-title="播客 · CNBC",CNBC Closing Bell: [2026-10-13] Closing Bell 10/13/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/73f9e90b-5fca-434c-b091-d3d892f6f714/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=73f9e90b-5fca-434c-b091-d3d892f6f714&feed=Nh1wIaXT
@@ -370,10 +372,10 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/0aba292e-db5e-4d93-970e-41d467b05630/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=0aba292e-db5e-4d93-970e-41d467b05630&feed=Nh1wIaXT
 #EXTINF:-1 tvg-id="PC-3056bb46c32d" tvg-name="CNBC Closing Bell" group-title="播客 · CNBC",CNBC Closing Bell: [2026-10-09] Closing Bell Overtime 10/9/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/8d901817-d343-444d-8e85-ead41a39e81b/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=8d901817-d343-444d-8e85-ead41a39e81b&feed=Nh1wIaXT
-#EXTINF:-1 tvg-id="PC-8175cc1a64ac" tvg-name="CNBC Closing Bell" group-title="播客 · CNBC",CNBC Closing Bell: [2026-10-09] Closing Bell 10/9/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/496a886a-4fec-44a3-8e5b-1a745bb9bab6/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=496a886a-4fec-44a3-8e5b-1a745bb9bab6&feed=Nh1wIaXT
 
 # ===== CNBC Power Lunch =====
+#EXTINF:-1 tvg-id="PC-dbfb3346ce06" tvg-name="CNBC Power Lunch" group-title="播客 · CNBC",CNBC Power Lunch: [2026-10-19] Global Markets， AI Debt Concerns， Energy Stock Ideas 10/19/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d/episodes/8dcbc2df-38f4-4fd6-bcca-7fd0550571ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d&awEpisodeId=8dcbc2df-38f4-4fd6-bcca-7fd0550571ff&feed=_qvRgwME
 #EXTINF:-1 tvg-id="PC-b0a0de218131" tvg-name="CNBC Power Lunch" group-title="播客 · CNBC",CNBC Power Lunch: [2026-10-16] Top Stock Ideas， Growing U.S. Debt， AI & The Restaurant Industry 10/16/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d/episodes/bd7d04e6-4d5e-49fa-929a-3f4e068ef5a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d&awEpisodeId=bd7d04e6-4d5e-49fa-929a-3f4e068ef5a5&feed=_qvRgwME
 #EXTINF:-1 tvg-id="PC-78ecad053764" tvg-name="CNBC Power Lunch" group-title="播客 · CNBC",CNBC Power Lunch: [2026-10-15] Reaction to PPI Data， TeraWulf CEO Interview， Global Energy Markets 10/15/26
@@ -396,10 +398,14 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9c1a7910-3bc1-4b12
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d/episodes/c31cb395-a3c8-4ce6-bf73-6524ef4027f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d&awEpisodeId=c31cb395-a3c8-4ce6-bf73-6524ef4027f0&feed=_qvRgwME
 #EXTINF:-1 tvg-id="PC-eb98fcee2382" tvg-name="CNBC Power Lunch" group-title="播客 · CNBC",CNBC Power Lunch: [2026-10-02] Jobs Report Reaction， Grok Bot Opportunity， Congress & College Sports 10/2/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d/episodes/c1e57c01-9790-47dd-b66c-2979eb2a7269/audio/128/default.mp3?aid=rss_feed&awCollectionId=9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d&awEpisodeId=c1e57c01-9790-47dd-b66c-2979eb2a7269&feed=_qvRgwME
-#EXTINF:-1 tvg-id="PC-2ff7af1c3ca3" tvg-name="CNBC Power Lunch" group-title="播客 · CNBC",CNBC Power Lunch: [2026-10-01] Mortgage Rates Hit Multi-Year High， Can Nike Be Saved?， Powering Data Center Demand 10/1/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d/episodes/a9e3dda5-8f23-414a-94d1-37416d6b6dbf/audio/128/default.mp3?aid=rss_feed&awCollectionId=9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d&awEpisodeId=a9e3dda5-8f23-414a-94d1-37416d6b6dbf&feed=_qvRgwME
 
 # ===== CNBC Squawk on the Street =====
+#EXTINF:-1 tvg-id="PC-9af7e214a18e" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-10-19] 11AM Hour: EQT Chairman， TD Bank Vice Chair & Anthropic Gets Philanthropic 10/19/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/276b4872-ac50-4cd7-81e5-1c92776cac16/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=276b4872-ac50-4cd7-81e5-1c92776cac16&feed=GcylmXl7
+#EXTINF:-1 tvg-id="PC-92cc882a6c01" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-10-19] 10AM Hour: Geopolitical Risks for the Market， AI Rebound Coming? Fifth Third CEO on Earnings 10/19/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/7c246601-dc61-440d-b022-79abfcaf7b1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=7c246601-dc61-440d-b022-79abfcaf7b1a&feed=GcylmXl7
+#EXTINF:-1 tvg-id="PC-dcf741c7bddf" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-10-19] Squawk on the Street 10/19/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/bfc7a27b-2242-4637-811d-7e46c29dc842/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=bfc7a27b-2242-4637-811d-7e46c29dc842&feed=GcylmXl7
 #EXTINF:-1 tvg-id="PC-8d3ec3dc17f9" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-10-16] 11AM Hour: Apple’s iPhone Duo Goes on Sale， Tesla Unveils Roadster， Proofpoint CEO on $6.3B Cyber Security Deal 10/16/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/7e88b136-35bf-4896-869b-af0a9cf86279/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=7e88b136-35bf-4896-869b-af0a9cf86279&feed=GcylmXl7
 #EXTINF:-1 tvg-id="PC-e32763aab1fa" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-10-16] 10AM Hour: AI Trade Faces More Pain， Interactive Broker’s Thomas Peterffy， Citizen Financial CEO on Earnings 10/16/26
@@ -418,14 +424,10 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/a0ad6ef3-65c8-4f33-8fec-009d8809703c/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=a0ad6ef3-65c8-4f33-8fec-009d8809703c&feed=GcylmXl7
 #EXTINF:-1 tvg-id="PC-4a918879d50c" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-10-14] 10AM Hour: Bank of America CEO on Earnings， FBI Arrests Saudi OpenAI Employee， Meta’s Muse Boost 10/14/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/16429dbb-bcdd-4ce5-8a5f-bc24b210a5e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=16429dbb-bcdd-4ce5-8a5f-bc24b210a5e6&feed=GcylmXl7
-#EXTINF:-1 tvg-id="PC-fe74b001873d" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-10-14] 9am Hour: Exclusive: BlackRock’s Larry Fink， CPI Runs Hot， BofA’s $1.2B Fine 10/14/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/2ce10f2d-8bbf-47a5-8bde-b019b366e0a4/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=2ce10f2d-8bbf-47a5-8bde-b019b366e0a4&feed=GcylmXl7
-#EXTINF:-1 tvg-id="PC-0b068f161d47" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-10-13] CNBC Investing Club: Cramer’s Morning Take on Wells Fargo 10/13/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/c4825aaf-7e06-4a24-a6ab-27a75d521528/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=c4825aaf-7e06-4a24-a6ab-27a75d521528&feed=GcylmXl7
-#EXTINF:-1 tvg-id="PC-528de23e7011" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-10-13] 11AM Hour: Dell CEO on AI， Wells Fargo CFO on Earnings & UnitedHealth's Beat and Raise 10/13/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/52003ce1-4b5e-43e3-8f11-5c877c850952/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=52003ce1-4b5e-43e3-8f11-5c877c850952&feed=GcylmXl7
 
 # ===== CNBC Halftime Report =====
+#EXTINF:-1 tvg-id="PC-d3fcd6899e4f" tvg-name="CNBC Halftime Report" group-title="播客 · CNBC",CNBC Halftime Report: [2026-10-19] Managing Risk in a Volatile Market 10/19/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/58ea301f-3799-4748-a531-dfc1faea0355/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=58ea301f-3799-4748-a531-dfc1faea0355&feed=qltQrd_8
 #EXTINF:-1 tvg-id="PC-82f2058da7fb" tvg-name="CNBC Halftime Report" group-title="播客 · CNBC",CNBC Halftime Report: [2026-10-16] AI debt Fears Fuel Tech Volatility: The Investment Committee's Strategy 10/16/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/4b334687-0007-45ad-b694-08282fa8f79a/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=4b334687-0007-45ad-b694-08282fa8f79a&feed=qltQrd_8
 #EXTINF:-1 tvg-id="PC-627d5f1ca00a" tvg-name="CNBC Halftime Report" group-title="播客 · CNBC",CNBC Halftime Report: [2026-10-15] The AI Trade in Focus: Altimeter's Brad Gerstner joins 'Halftime Report' live in San Francisco 10/15/26
@@ -448,10 +450,10 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/d1b02c75-5c02-4a81-a558-bedf23335445/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=d1b02c75-5c02-4a81-a558-bedf23335445&feed=qltQrd_8
 #EXTINF:-1 tvg-id="PC-aa9ec9599494" tvg-name="CNBC Halftime Report" group-title="播客 · CNBC",CNBC Halftime Report: [2026-10-02] Trading Stocks as Yields Rise: The Investment Committee's Portfolio Strategy 10/2/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/7ae99db1-5c5a-46f9-9b20-a58dcd3c83c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=7ae99db1-5c5a-46f9-9b20-a58dcd3c83c0&feed=qltQrd_8
-#EXTINF:-1 tvg-id="PC-dfa9de1d4fc2" tvg-name="CNBC Halftime Report" group-title="播客 · CNBC",CNBC Halftime Report: [2026-10-01] The Investment Committee's Q4 Strategy 10/1/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/2a9b7bcf-4f44-4d2c-963e-36e2bb0c0ae1/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=2a9b7bcf-4f44-4d2c-963e-36e2bb0c0ae1&feed=qltQrd_8
 
 # ===== CNBC Worldwide Exchange =====
+#EXTINF:-1 tvg-id="PC-b2a8e9cb02ee" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-10-19] Morning Call 10/19/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/fe81e983-e79e-496f-b2ea-d890f14e4591/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=fe81e983-e79e-496f-b2ea-d890f14e4591&feed=Bt3ITxGl
 #EXTINF:-1 tvg-id="PC-94dc78302b73" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-10-16] Morning Call 10/16/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/66fd2c46-26db-41a9-a13a-406e3f9a81da/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=66fd2c46-26db-41a9-a13a-406e3f9a81da&feed=Bt3ITxGl
 #EXTINF:-1 tvg-id="PC-9cf488d367c4" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-10-15] AI debt risks， tech sell-off and inflation 10/15/26
@@ -474,10 +476,10 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/1635ce3f-1dc9-4177-88a9-51b9dde3afbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=1635ce3f-1dc9-4177-88a9-51b9dde3afbb&feed=Bt3ITxGl
 #EXTINF:-1 tvg-id="PC-c57a5038786e" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-10-02] Morning Call 10/2/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/63c9cc83-31cc-46ea-99c1-d6ffd2198ad0/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=63c9cc83-31cc-46ea-99c1-d6ffd2198ad0&feed=Bt3ITxGl
-#EXTINF:-1 tvg-id="PC-14f920f893b1" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-10-01] Morning Call 10/1/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/cf609cc8-c5d2-4ed5-973b-83daeb7d1d26/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=cf609cc8-c5d2-4ed5-973b-83daeb7d1d26&feed=Bt3ITxGl
 
 # ===== CNBC The Exchange =====
+#EXTINF:-1 tvg-id="PC-9760aa39d74f" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-10-19] Bull Case for Coreweave， Putin Suggests Summit， and the Read on Retail 10/19/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/414f2afd-d143-439f-8042-725ff782bbd5/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=414f2afd-d143-439f-8042-725ff782bbd5&feed=tc4zxWgX
 #EXTINF:-1 tvg-id="PC-de188c0cf413" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-10-16] Flying Cars， Deep Value in Korea， and Tech on Deck 10/16/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/782e43e3-7bdd-40dd-8796-07081b690056/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=782e43e3-7bdd-40dd-8796-07081b690056&feed=tc4zxWgX
 #EXTINF:-1 tvg-id="PC-996d0efefbf0" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-10-15] Risk off， Rate Reprieve and a new OpenAI Lawsuit 10/15/26
@@ -500,8 +502,6 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/dae6ae39-6959-4781-9418-6760c624ce6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=dae6ae39-6959-4781-9418-6760c624ce6a&feed=tc4zxWgX
 #EXTINF:-1 tvg-id="PC-16afd73327f0" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-10-02] A Jobs Jolt， Mayer’s New Venture， and Can Nike Pick Up the “Pace”? 10/2/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/3d21b14d-592f-46bd-a989-b981870c5e99/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=3d21b14d-592f-46bd-a989-b981870c5e99&feed=tc4zxWgX
-#EXTINF:-1 tvg-id="PC-ebe6bcf3e819" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-10-01] Under-the-Rader AI Plays， Housing Shift， and Sneaker Softness 10/1/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/f823fb99-37e0-4105-97ce-de6433a5c26c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=f823fb99-37e0-4105-97ce-de6433a5c26c&feed=tc4zxWgX
 
 # ===== Barron's Streetwise =====
 #EXTINF:-1 tvg-id="PC-571130e338da" tvg-name="Barron's Streetwise" group-title="播客 · Barron's 巴伦周刊",Barron's Streetwise: [2026-10-16] The Disruption Scorecard
@@ -530,6 +530,8 @@ https://dowjones.simplecastaudio.com/465a72cb-c317-4047-8d32-5f91eb260095/episod
 https://dowjones.simplecastaudio.com/465a72cb-c317-4047-8d32-5f91eb260095/episodes/108dad7f-b935-4b18-b99c-e7b97e8a9720/audio/128/default.mp3?aid=rss_feed&awCollectionId=465a72cb-c317-4047-8d32-5f91eb260095&awEpisodeId=108dad7f-b935-4b18-b99c-e7b97e8a9720&feed=zuVCxwR_
 
 # ===== Barron's Live =====
+#EXTINF:-1 tvg-id="PC-b8a0d9638868" tvg-name="Barron's Live" group-title="播客 · Barron's 巴伦周刊",Barron's Live: [2026-10-19] How To Invest In AI Now With Janus Henderson’s Jonathan Cofsky
+https://dowjones.simplecastaudio.com/fe30a23b-9a6c-4ef3-aebe-ffd83da0b186/episodes/47899040-dba3-431d-abfe-bed77ee7ad39/audio/128/default.mp3?aid=rss_feed&awCollectionId=fe30a23b-9a6c-4ef3-aebe-ffd83da0b186&awEpisodeId=47899040-dba3-431d-abfe-bed77ee7ad39&feed=XyZBmBkh
 #EXTINF:-1 tvg-id="PC-fce72c8129cc" tvg-name="Barron's Live" group-title="播客 · Barron's 巴伦周刊",Barron's Live: [2026-10-13] Batter Up! Investing in the Sports Boom with Gabelli Funds’ Chris Marangi
 https://dowjones.simplecastaudio.com/fe30a23b-9a6c-4ef3-aebe-ffd83da0b186/episodes/118e9538-17ec-4ccc-abcb-66dd6e4ed976/audio/128/default.mp3?aid=rss_feed&awCollectionId=fe30a23b-9a6c-4ef3-aebe-ffd83da0b186&awEpisodeId=118e9538-17ec-4ccc-abcb-66dd6e4ed976&feed=XyZBmBkh
 #EXTINF:-1 tvg-id="PC-af1af51e6d33" tvg-name="Barron's Live" group-title="播客 · Barron's 巴伦周刊",Barron's Live: [2026-10-06] Where Are Markets Headed? A Technical Analyst Sizes Up the Latest Turmoil
@@ -552,8 +554,6 @@ https://dowjones.simplecastaudio.com/fe30a23b-9a6c-4ef3-aebe-ffd83da0b186/episod
 https://dowjones.simplecastaudio.com/fe30a23b-9a6c-4ef3-aebe-ffd83da0b186/episodes/c166249e-30a8-45e4-b068-c61a23a80df6/audio/128/default.mp3?aid=rss_feed&awCollectionId=fe30a23b-9a6c-4ef3-aebe-ffd83da0b186&awEpisodeId=c166249e-30a8-45e4-b068-c61a23a80df6&feed=XyZBmBkh
 #EXTINF:-1 tvg-id="PC-c2263da0c129" tvg-name="Barron's Live" group-title="播客 · Barron's 巴伦周刊",Barron's Live: [2026-07-29] Surfing the AI Spending Wave with Tom Essaye
 https://dowjones.simplecastaudio.com/fe30a23b-9a6c-4ef3-aebe-ffd83da0b186/episodes/7b1f3b17-b0c1-457f-92db-37d7b739fc51/audio/128/default.mp3?aid=rss_feed&awCollectionId=fe30a23b-9a6c-4ef3-aebe-ffd83da0b186&awEpisodeId=7b1f3b17-b0c1-457f-92db-37d7b739fc51&feed=XyZBmBkh
-#EXTINF:-1 tvg-id="PC-f2c5c6f5038c" tvg-name="Barron's Live" group-title="播客 · Barron's 巴伦周刊",Barron's Live: [2026-07-20] The Bullish Trend Is Your Friend: Talking Stocks With Sam Stovall
-https://dowjones.simplecastaudio.com/fe30a23b-9a6c-4ef3-aebe-ffd83da0b186/episodes/529cfbb6-2554-413d-bde5-8dc3d27dc0d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=fe30a23b-9a6c-4ef3-aebe-ffd83da0b186&awEpisodeId=529cfbb6-2554-413d-bde5-8dc3d27dc0d7&feed=XyZBmBkh
 
 # ===== Barron's Advisor =====
 #EXTINF:-1 tvg-id="PC-e6af443d22c6" tvg-name="Barron's Advisor" group-title="播客 · Barron's 巴伦周刊",Barron's Advisor: [2026-10-13] Breanna Rae Blaney: The Advisor’s Role When AI Knows the Answers
