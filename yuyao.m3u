@@ -6,6 +6,22 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-10b1060908e8" tvg-name="遵循秋季养生之道 科学调养安然度秋" group-title="余姚 · 点播",遵循秋季养生之道 科学调养安然度秋 (1:45, 33MB)
+https://mc-public.yynews.com.cn/17941312543880_hd.mp4?width=1280&height=720&isVertical=0&fsize=34398748&duration=105.0
+#EXTINF:-1 tvg-id="YY-d362782f7dcf" tvg-name="大将桥村“龙虾大道”改造提升工程全面完工" group-title="余姚 · 点播",大将桥村“龙虾大道”改造提升工程全面完工 (1:03, 20MB)
+https://mc-public.yynews.com.cn/17941308861444_hd.mp4?width=1280&height=720&isVertical=0&fsize=21215264&duration=63.0
+#EXTINF:-1 tvg-id="YY-18bcfab81fff" tvg-name="河姆渡镇群众文化艺术中心启用" group-title="余姚 · 点播",河姆渡镇群众文化艺术中心启用 (0:47, 14MB)
+https://mc-public.yynews.com.cn/17941306374280_hd.mp4?width=1280&height=720&isVertical=0&fsize=15112180&duration=47.0
+#EXTINF:-1 tvg-id="YY-27e0ed37fada" tvg-name="“浙里墨韵 诗润童心——小学经典古诗文美育公益展”浙江省首展在姚举行" group-title="余姚 · 点播",“浙里墨韵 诗润童心——小学经典古诗文美育公益展”浙江省首展在姚举行 (1:36, 31MB)
+https://mc-public.yynews.com.cn/17941299996744_hd.mp4?width=1280&height=720&isVertical=0&fsize=32500426&duration=96.0
+#EXTINF:-1 tvg-id="YY-b12ca753c28b" tvg-name="“溯源与重燃”余姚科举文化专题学术活动举行" group-title="余姚 · 点播",“溯源与重燃”余姚科举文化专题学术活动举行 (0:57, 18MB)
+https://mc-public.yynews.com.cn/17941293758916_hd.mp4?width=1280&height=720&isVertical=0&fsize=19273730&duration=57.0
+#EXTINF:-1 tvg-id="YY-10483d3b929c" tvg-name="我市老年助餐服务覆盖城乡" group-title="余姚 · 点播",我市老年助餐服务覆盖城乡 (1:52, 35MB)
+https://mc-public.yynews.com.cn/17941291156488_hd.mp4?width=1280&height=720&isVertical=0&fsize=36879100&duration=112.0
+#EXTINF:-1 tvg-id="YY-de23acee9dc2" tvg-name="“科技红娘”牵线搭桥 产学研协同赋能余姚制造业转型升级" group-title="余姚 · 点播",“科技红娘”牵线搭桥 产学研协同赋能余姚制造业转型升级 (2:51, 54MB)
+https://mc-public.yynews.com.cn/17941288758980_hd.mp4?width=1280&height=720&isVertical=0&fsize=56578204&duration=171.0
+#EXTINF:-1 tvg-id="YY-fd98744029a4" tvg-name="市发改局高质量推进民生实事工程" group-title="余姚 · 点播",市发改局高质量推进民生实事工程 (2:49, 54MB)
+https://mc-public.yynews.com.cn/17941283817416_hd.mp4?width=1280&height=720&isVertical=0&fsize=57091112&duration=169.0
 #EXTINF:-1 tvg-id="YY-e6a95f0cf6c3" tvg-name="一周新闻回顾" group-title="余姚 · 点播",一周新闻回顾 (3:48, 74MB)
 https://mc-public.yynews.com.cn/17930276529028_hd.mp4?width=1280&height=720&isVertical=0&fsize=77384378&duration=228.0
 #EXTINF:-1 tvg-id="YY-540395d50138" tvg-name="翁方村举行重阳敬老活动" group-title="余姚 · 点播",翁方村举行重阳敬老活动 (0:53, 18MB)
@@ -30,19 +46,3 @@ https://mc-public.yynews.com.cn/17924898274760_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17924897431684_hd.mp4?width=1280&height=720&isVertical=0&fsize=23079606&duration=67.0
 #EXTINF:-1 tvg-id="YY-4815444e7130" tvg-name="斗门村举行金秋诗会" group-title="余姚 · 点播",斗门村举行金秋诗会 (1:03, 21MB)
 https://mc-public.yynews.com.cn/17924896591880_hd.mp4?width=1280&height=720&isVertical=0&fsize=21659939&duration=63.0
-#EXTINF:-1 tvg-id="YY-1f5ccc09df52" tvg-name="系列报道《链上余姚》（五）：从“感知”到“守护” 余姚汽车产业链向“新”而行" group-title="余姚 · 点播",系列报道《链上余姚》（五）：从“感知”到“守护” 余姚汽车产业链向“新”而行 (3:04, 58MB)
-https://mc-public.yynews.com.cn/17924895835972_hd.mp4?width=1280&height=720&isVertical=0&fsize=61309555&duration=184.0
-#EXTINF:-1 tvg-id="YY-2af4172a3958" tvg-name="市领导看望慰问高龄老人" group-title="余姚 · 点播",市领导看望慰问高龄老人 (0:49, 16MB)
-https://mc-public.yynews.com.cn/17924894963588_hd.mp4?width=1280&height=720&isVertical=0&fsize=16341517&duration=49.0
-#EXTINF:-1 tvg-id="YY-a8071054ead1" tvg-name="2026年省外浙籍文艺名家助力浙江文艺发展交流活动在姚举行" group-title="余姚 · 点播",2026年省外浙籍文艺名家助力浙江文艺发展交流活动在姚举行 (3:07, 59MB)
-https://mc-public.yynews.com.cn/17924893898376_hd.mp4?width=1280&height=720&isVertical=0&fsize=62347226&duration=187.0
-#EXTINF:-1 tvg-id="YY-e12de2affaea" tvg-name="食品安全点检活动走进养老机构" group-title="余姚 · 点播",食品安全点检活动走进养老机构 (0:57, 18MB)
-https://mc-public.yynews.com.cn/17919180525124_hd.mp4?width=1280&height=720&isVertical=0&fsize=18996886&duration=57.0
-#EXTINF:-1 tvg-id="YY-bbac77f40991" tvg-name="我市举行主题情景剧展演暨青年干部风采展示活动" group-title="余姚 · 点播",我市举行主题情景剧展演暨青年干部风采展示活动 (1:30, 29MB)
-https://mc-public.yynews.com.cn/17919178707140_hd.mp4?width=1280&height=720&isVertical=0&fsize=29999310&duration=90.0
-#EXTINF:-1 tvg-id="YY-4902ab39845f" tvg-name="吉文金属合金温冲首线投产" group-title="余姚 · 点播",吉文金属合金温冲首线投产 (1:57, 35MB)
-https://mc-public.yynews.com.cn/17919172732996_hd.mp4?width=1280&height=720&isVertical=0&fsize=36601709&duration=117.0
-#EXTINF:-1 tvg-id="YY-ff8f8b4c37b7" tvg-name="浙籍文艺名家、全省文联代表沉浸式感受史前文明与姚江文脉" group-title="余姚 · 点播",浙籍文艺名家、全省文联代表沉浸式感受史前文明与姚江文脉 (1:49, 36MB)
-https://mc-public.yynews.com.cn/17919167365700_hd.mp4?width=1280&height=720&isVertical=0&fsize=37309555&duration=109.0
-#EXTINF:-1 tvg-id="YY-63552b6c2f9e" tvg-name="系列报道《链上余姚》（四）：智造赋能 集群发力 余姚小家电产业链加速向新突围" group-title="余姚 · 点播",系列报道《链上余姚》（四）：智造赋能 集群发力 余姚小家电产业链加速向新突围 (2:55, 59MB)
-https://mc-public.yynews.com.cn/17919162477188_hd.mp4?width=1280&height=720&isVertical=0&fsize=61532812&duration=175.0
