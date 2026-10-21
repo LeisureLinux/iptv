@@ -6,6 +6,22 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-cc27332c2535" tvg-name="两男子手持警示牌站高速 后方车辆紧急避让险翻车" group-title="余姚 · 点播",两男子手持警示牌站高速 后方车辆紧急避让险翻车 (1:32, 30MB)
+https://mc-public.yynews.com.cn/17946893053384_hd.mp4?width=1280&height=720&isVertical=0&fsize=31611239&duration=92.0
+#EXTINF:-1 tvg-id="YY-8ab5714910e6" tvg-name="儿童户外体能锻炼受热捧" group-title="余姚 · 点播",儿童户外体能锻炼受热捧 (1:19, 26MB)
+https://mc-public.yynews.com.cn/17946888081732_hd.mp4?width=1280&height=720&isVertical=0&fsize=27168070&duration=79.0
+#EXTINF:-1 tvg-id="YY-7580c9f89b6e" tvg-name="蘑法农园：田园微度假玩出“蘑”法" group-title="余姚 · 点播",蘑法农园：田园微度假玩出“蘑”法 (1:38, 32MB)
+https://mc-public.yynews.com.cn/17946885446728_hd.mp4?width=1280&height=720&isVertical=0&fsize=33416503&duration=98.0
+#EXTINF:-1 tvg-id="YY-881f0cf1ff10" tvg-name="泰国师生团来姚开展学习交流" group-title="余姚 · 点播",泰国师生团来姚开展学习交流 (1:29, 28MB)
+https://mc-public.yynews.com.cn/17946880863556_hd.mp4?width=1280&height=720&isVertical=0&fsize=29810069&duration=89.0
+#EXTINF:-1 tvg-id="YY-5aa4ed92a4d9" tvg-name="城东新区月梅路周边空间整治工程即将全面完工" group-title="余姚 · 点播",城东新区月梅路周边空间整治工程即将全面完工 (1:19, 25MB)
+https://mc-public.yynews.com.cn/17946875451588_hd.mp4?width=1280&height=720&isVertical=0&fsize=25825334&duration=79.0
+#EXTINF:-1 tvg-id="YY-296f87fda5cf" tvg-name="金雨科技新基地电力专线一次性送电成功" group-title="余姚 · 点播",金雨科技新基地电力专线一次性送电成功 (1:44, 33MB)
+https://mc-public.yynews.com.cn/17946871803460_hd.mp4?width=1280&height=720&isVertical=0&fsize=34094444&duration=104.0
+#EXTINF:-1 tvg-id="YY-46f7a65391a2" tvg-name="抢抓“双十一”消费旺季 我市企业开足马力备货出货" group-title="余姚 · 点播",抢抓“双十一”消费旺季 我市企业开足马力备货出货 (2:15, 43MB)
+https://mc-public.yynews.com.cn/17946866760580_hd.mp4?width=1280&height=720&isVertical=0&fsize=44746265&duration=135.0
+#EXTINF:-1 tvg-id="YY-a646df963d06" tvg-name="阳明街道：实干蓄势提质效 持续激活发展动能" group-title="余姚 · 点播",阳明街道：实干蓄势提质效 持续激活发展动能 (2:48, 53MB)
+https://mc-public.yynews.com.cn/17946859665032_hd.mp4?width=1280&height=720&isVertical=0&fsize=55952026&duration=168.0
 #EXTINF:-1 tvg-id="YY-10b1060908e8" tvg-name="遵循秋季养生之道 科学调养安然度秋" group-title="余姚 · 点播",遵循秋季养生之道 科学调养安然度秋 (1:45, 33MB)
 https://mc-public.yynews.com.cn/17941312543880_hd.mp4?width=1280&height=720&isVertical=0&fsize=34398748&duration=105.0
 #EXTINF:-1 tvg-id="YY-d362782f7dcf" tvg-name="大将桥村“龙虾大道”改造提升工程全面完工" group-title="余姚 · 点播",大将桥村“龙虾大道”改造提升工程全面完工 (1:03, 20MB)
@@ -30,19 +46,3 @@ https://mc-public.yynews.com.cn/17930275944712_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17930271616392_hd.mp4?width=1280&height=720&isVertical=0&fsize=12163262&duration=35.0
 #EXTINF:-1 tvg-id="YY-9347292767f7" tvg-name="市养老护理职业技能竞赛举行" group-title="余姚 · 点播",市养老护理职业技能竞赛举行 (1:29, 29MB)
 https://mc-public.yynews.com.cn/17930271025608_hd.mp4?width=1280&height=720&isVertical=0&fsize=29975299&duration=89.0
-#EXTINF:-1 tvg-id="YY-21b55b34d679" tvg-name="余姚合唱团：用歌声展现新时代职工昂扬奋进的精神面貌" group-title="余姚 · 点播",余姚合唱团：用歌声展现新时代职工昂扬奋进的精神面貌 (1:44, 33MB)
-https://mc-public.yynews.com.cn/17930270553732_hd.mp4?width=1280&height=720&isVertical=0&fsize=34199196&duration=104.0
-#EXTINF:-1 tvg-id="YY-695d8f81439d" tvg-name="我市13万亩单季晚稻进入集中收割期" group-title="余姚 · 点播",我市13万亩单季晚稻进入集中收割期 (1:35, 30MB)
-https://mc-public.yynews.com.cn/17930269980292_hd.mp4?width=1280&height=720&isVertical=0&fsize=31954526&duration=95.0
-#EXTINF:-1 tvg-id="YY-a307e3526e96" tvg-name="系列报道《链上余姚》（六）：强链延链提质效 余姚食品产业跑出升级加速度" group-title="余姚 · 点播",系列报道《链上余姚》（六）：强链延链提质效 余姚食品产业跑出升级加速度 (4:00, 73MB)
-https://mc-public.yynews.com.cn/17930269350664_hd.mp4?width=1280&height=720&isVertical=0&fsize=76835971&duration=240.0
-#EXTINF:-1 tvg-id="YY-e039cddb449b" tvg-name="河姆渡遗址景区周边环境启动全面整改" group-title="余姚 · 点播",河姆渡遗址景区周边环境启动全面整改 (2:08, 41MB)
-https://mc-public.yynews.com.cn/17924899996100_hd.mp4?width=1280&height=720&isVertical=0&fsize=43128337&duration=128.0
-#EXTINF:-1 tvg-id="YY-f606438e5726" tvg-name="警方查获4名非法改装摩托车人员" group-title="余姚 · 点播",警方查获4名非法改装摩托车人员 (0:59, 19MB)
-https://mc-public.yynews.com.cn/17924899174024_hd.mp4?width=1280&height=720&isVertical=0&fsize=20330294&duration=59.0
-#EXTINF:-1 tvg-id="YY-ee7198216237" tvg-name="周末气温将攀升至30°C以上" group-title="余姚 · 点播",周末气温将攀升至30°C以上 (0:57, 20MB)
-https://mc-public.yynews.com.cn/17924898274760_hd.mp4?width=1280&height=720&isVertical=0&fsize=20682651&duration=57.0
-#EXTINF:-1 tvg-id="YY-0cb3da412141" tvg-name="大闸蟹集中上市" group-title="余姚 · 点播",大闸蟹集中上市 (1:07, 22MB)
-https://mc-public.yynews.com.cn/17924897431684_hd.mp4?width=1280&height=720&isVertical=0&fsize=23079606&duration=67.0
-#EXTINF:-1 tvg-id="YY-4815444e7130" tvg-name="斗门村举行金秋诗会" group-title="余姚 · 点播",斗门村举行金秋诗会 (1:03, 21MB)
-https://mc-public.yynews.com.cn/17924896591880_hd.mp4?width=1280&height=720&isVertical=0&fsize=21659939&duration=63.0
