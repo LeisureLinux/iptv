@@ -6,6 +6,22 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-d991d8ee03e2" tvg-name="两处路段公共空间归于民" group-title="余姚 · 点播",两处路段公共空间归于民 (2:17, 44MB)
+https://mc-public.yynews.com.cn/17952343177732_hd.mp4?width=1280&height=720&isVertical=0&fsize=46500718&duration=137.0
+#EXTINF:-1 tvg-id="YY-3a627504fdc9" tvg-name="车辆高速出口突发自燃 交警快速处置化险为夷" group-title="余姚 · 点播",车辆高速出口突发自燃 交警快速处置化险为夷 (1:27, 28MB)
+https://mc-public.yynews.com.cn/17952342558152_hd.mp4?width=1280&height=720&isVertical=0&fsize=29874091&duration=87.0
+#EXTINF:-1 tvg-id="YY-da30a9db37ee" tvg-name="“四明村色”钟昌山古村落油画作品展开展" group-title="余姚 · 点播",“四明村色”钟昌山古村落油画作品展开展 (0:44, 14MB)
+https://mc-public.yynews.com.cn/17952339926536_hd.mp4?width=1280&height=720&isVertical=0&fsize=14513814&duration=44.0
+#EXTINF:-1 tvg-id="YY-a119a6b965c3" tvg-name="公积金装修提取新政昨起实施" group-title="余姚 · 点播",公积金装修提取新政昨起实施 (1:13, 23MB)
+https://mc-public.yynews.com.cn/17952336140804_hd.mp4?width=1280&height=720&isVertical=0&fsize=24395347&duration=73.0
+#EXTINF:-1 tvg-id="YY-64ef2ad07017" tvg-name="市政府与宁波开投集团签署战略合作协议" group-title="余姚 · 点播",市政府与宁波开投集团签署战略合作协议 (1:22, 27MB)
+https://mc-public.yynews.com.cn/17952332045576_hd.mp4?width=1280&height=720&isVertical=0&fsize=28179731&duration=82.0
+#EXTINF:-1 tvg-id="YY-98a9133e404a" tvg-name="市委理论学习中心组举行《与时俱进的浙江精神》专题学习会" group-title="余姚 · 点播",市委理论学习中心组举行《与时俱进的浙江精神》专题学习会 (1:48, 37MB)
+https://mc-public.yynews.com.cn/17952329686981_hd.mp4?width=1280&height=720&isVertical=0&fsize=38666817&duration=108.0
+#EXTINF:-1 tvg-id="YY-6ec1d7f42614" tvg-name="市委常委会会议召开" group-title="余姚 · 点播",市委常委会会议召开 (1:46, 36MB)
+https://mc-public.yynews.com.cn/17952323611336_hd.mp4?width=1280&height=720&isVertical=0&fsize=38013262&duration=106.0
+#EXTINF:-1 tvg-id="YY-6b68b6d7a94d" tvg-name="傅祖民来姚联系指导县乡两级人大换届选举工作" group-title="余姚 · 点播",傅祖民来姚联系指导县乡两级人大换届选举工作 (2:33, 50MB)
+https://mc-public.yynews.com.cn/17952317869896_hd.mp4?width=1280&height=720&isVertical=0&fsize=52934322&duration=153.0
 #EXTINF:-1 tvg-id="YY-cc27332c2535" tvg-name="两男子手持警示牌站高速 后方车辆紧急避让险翻车" group-title="余姚 · 点播",两男子手持警示牌站高速 后方车辆紧急避让险翻车 (1:32, 30MB)
 https://mc-public.yynews.com.cn/17946893053384_hd.mp4?width=1280&height=720&isVertical=0&fsize=31611239&duration=92.0
 #EXTINF:-1 tvg-id="YY-8ab5714910e6" tvg-name="儿童户外体能锻炼受热捧" group-title="余姚 · 点播",儿童户外体能锻炼受热捧 (1:19, 26MB)
@@ -30,19 +46,3 @@ https://mc-public.yynews.com.cn/17941308861444_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17941306374280_hd.mp4?width=1280&height=720&isVertical=0&fsize=15112180&duration=47.0
 #EXTINF:-1 tvg-id="YY-27e0ed37fada" tvg-name="“浙里墨韵 诗润童心——小学经典古诗文美育公益展”浙江省首展在姚举行" group-title="余姚 · 点播",“浙里墨韵 诗润童心——小学经典古诗文美育公益展”浙江省首展在姚举行 (1:36, 31MB)
 https://mc-public.yynews.com.cn/17941299996744_hd.mp4?width=1280&height=720&isVertical=0&fsize=32500426&duration=96.0
-#EXTINF:-1 tvg-id="YY-b12ca753c28b" tvg-name="“溯源与重燃”余姚科举文化专题学术活动举行" group-title="余姚 · 点播",“溯源与重燃”余姚科举文化专题学术活动举行 (0:57, 18MB)
-https://mc-public.yynews.com.cn/17941293758916_hd.mp4?width=1280&height=720&isVertical=0&fsize=19273730&duration=57.0
-#EXTINF:-1 tvg-id="YY-10483d3b929c" tvg-name="我市老年助餐服务覆盖城乡" group-title="余姚 · 点播",我市老年助餐服务覆盖城乡 (1:52, 35MB)
-https://mc-public.yynews.com.cn/17941291156488_hd.mp4?width=1280&height=720&isVertical=0&fsize=36879100&duration=112.0
-#EXTINF:-1 tvg-id="YY-de23acee9dc2" tvg-name="“科技红娘”牵线搭桥 产学研协同赋能余姚制造业转型升级" group-title="余姚 · 点播",“科技红娘”牵线搭桥 产学研协同赋能余姚制造业转型升级 (2:51, 54MB)
-https://mc-public.yynews.com.cn/17941288758980_hd.mp4?width=1280&height=720&isVertical=0&fsize=56578204&duration=171.0
-#EXTINF:-1 tvg-id="YY-fd98744029a4" tvg-name="市发改局高质量推进民生实事工程" group-title="余姚 · 点播",市发改局高质量推进民生实事工程 (2:49, 54MB)
-https://mc-public.yynews.com.cn/17941283817416_hd.mp4?width=1280&height=720&isVertical=0&fsize=57091112&duration=169.0
-#EXTINF:-1 tvg-id="YY-e6a95f0cf6c3" tvg-name="一周新闻回顾" group-title="余姚 · 点播",一周新闻回顾 (3:48, 74MB)
-https://mc-public.yynews.com.cn/17930276529028_hd.mp4?width=1280&height=720&isVertical=0&fsize=77384378&duration=228.0
-#EXTINF:-1 tvg-id="YY-540395d50138" tvg-name="翁方村举行重阳敬老活动" group-title="余姚 · 点播",翁方村举行重阳敬老活动 (0:53, 18MB)
-https://mc-public.yynews.com.cn/17930275944712_hd.mp4?width=1280&height=720&isVertical=0&fsize=18379323&duration=53.0
-#EXTINF:-1 tvg-id="YY-923051894cbc" tvg-name="市第20届街道社区老年人运动会举行" group-title="余姚 · 点播",市第20届街道社区老年人运动会举行 (0:35, 12MB)
-https://mc-public.yynews.com.cn/17930271616392_hd.mp4?width=1280&height=720&isVertical=0&fsize=12163262&duration=35.0
-#EXTINF:-1 tvg-id="YY-9347292767f7" tvg-name="市养老护理职业技能竞赛举行" group-title="余姚 · 点播",市养老护理职业技能竞赛举行 (1:29, 29MB)
-https://mc-public.yynews.com.cn/17930271025608_hd.mp4?width=1280&height=720&isVertical=0&fsize=29975299&duration=89.0
