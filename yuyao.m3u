@@ -6,6 +6,22 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-23fa502a4bfc" tvg-name="余姚铁骑开道护送病危患者家属及时到院签字" group-title="余姚 · 点播",余姚铁骑开道护送病危患者家属及时到院签字 (1:28, 29MB)
+https://mc-public.yynews.com.cn/17957909067208_hd.mp4?width=1280&height=720&isVertical=0&fsize=30804832&duration=88.0
+#EXTINF:-1 tvg-id="YY-3c50ec6a3500" tvg-name="龙泉社区开展文明好习惯养成主题活动" group-title="余姚 · 点播",龙泉社区开展文明好习惯养成主题活动 (0:58, 18MB)
+https://mc-public.yynews.com.cn/17957903610568_hd.mp4?width=1280&height=720&isVertical=0&fsize=18849477&duration=58.0
+#EXTINF:-1 tvg-id="YY-d7b04aa0379e" tvg-name="斗门村：荒田变花海 绘就美丽秋日画卷" group-title="余姚 · 点播",斗门村：荒田变花海 绘就美丽秋日画卷 (1:25, 26MB)
+https://mc-public.yynews.com.cn/17957899259908_hd.mp4?width=1280&height=720&isVertical=0&fsize=27570796&duration=85.0
+#EXTINF:-1 tvg-id="YY-2d1a11378c6a" tvg-name="余姚队主场惜败安吉队" group-title="余姚 · 点播",余姚队主场惜败安吉队 (1:58, 38MB)
+https://mc-public.yynews.com.cn/17957894975428_hd.mp4?width=1280&height=720&isVertical=0&fsize=39935915&duration=118.0
+#EXTINF:-1 tvg-id="YY-ae46cbf8a2ec" tvg-name="纪念长征胜利90周年红色宣讲活动举行" group-title="余姚 · 点播",纪念长征胜利90周年红色宣讲活动举行 (2:36, 50MB)
+https://mc-public.yynews.com.cn/17957889693956_hd.mp4?width=1280&height=720&isVertical=0&fsize=52506901&duration=156.0
+#EXTINF:-1 tvg-id="YY-b69e38e85d1e" tvg-name="市经信局：全周期管控强服务 推动制造业投资跑出“加速度”" group-title="余姚 · 点播",市经信局：全周期管控强服务 推动制造业投资跑出“加速度” (2:43, 53MB)
+https://mc-public.yynews.com.cn/17957884457736_hd.mp4?width=1280&height=720&isVertical=0&fsize=55154688&duration=163.0
+#EXTINF:-1 tvg-id="YY-5ed02cf19546" tvg-name="我市启动防台风IV级应急响应" group-title="余姚 · 点播",我市启动防台风IV级应急响应 (1:30, 29MB)
+https://mc-public.yynews.com.cn/17957883599364_hd.mp4?width=1280&height=720&isVertical=0&fsize=30522725&duration=90.0
+#EXTINF:-1 tvg-id="YY-cf8f4c2af2a0" tvg-name="我市举行四明知行房企破产实务沙龙" group-title="余姚 · 点播",我市举行四明知行房企破产实务沙龙 (1:49, 35MB)
+https://mc-public.yynews.com.cn/17957875920136_hd.mp4?width=1280&height=720&isVertical=0&fsize=36328147&duration=109.0
 #EXTINF:-1 tvg-id="YY-d991d8ee03e2" tvg-name="两处路段公共空间归于民" group-title="余姚 · 点播",两处路段公共空间归于民 (2:17, 44MB)
 https://mc-public.yynews.com.cn/17952343177732_hd.mp4?width=1280&height=720&isVertical=0&fsize=46500718&duration=137.0
 #EXTINF:-1 tvg-id="YY-3a627504fdc9" tvg-name="车辆高速出口突发自燃 交警快速处置化险为夷" group-title="余姚 · 点播",车辆高速出口突发自燃 交警快速处置化险为夷 (1:27, 28MB)
@@ -30,19 +46,3 @@ https://mc-public.yynews.com.cn/17946888081732_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17946885446728_hd.mp4?width=1280&height=720&isVertical=0&fsize=33416503&duration=98.0
 #EXTINF:-1 tvg-id="YY-881f0cf1ff10" tvg-name="泰国师生团来姚开展学习交流" group-title="余姚 · 点播",泰国师生团来姚开展学习交流 (1:29, 28MB)
 https://mc-public.yynews.com.cn/17946880863556_hd.mp4?width=1280&height=720&isVertical=0&fsize=29810069&duration=89.0
-#EXTINF:-1 tvg-id="YY-5aa4ed92a4d9" tvg-name="城东新区月梅路周边空间整治工程即将全面完工" group-title="余姚 · 点播",城东新区月梅路周边空间整治工程即将全面完工 (1:19, 25MB)
-https://mc-public.yynews.com.cn/17946875451588_hd.mp4?width=1280&height=720&isVertical=0&fsize=25825334&duration=79.0
-#EXTINF:-1 tvg-id="YY-296f87fda5cf" tvg-name="金雨科技新基地电力专线一次性送电成功" group-title="余姚 · 点播",金雨科技新基地电力专线一次性送电成功 (1:44, 33MB)
-https://mc-public.yynews.com.cn/17946871803460_hd.mp4?width=1280&height=720&isVertical=0&fsize=34094444&duration=104.0
-#EXTINF:-1 tvg-id="YY-46f7a65391a2" tvg-name="抢抓“双十一”消费旺季 我市企业开足马力备货出货" group-title="余姚 · 点播",抢抓“双十一”消费旺季 我市企业开足马力备货出货 (2:15, 43MB)
-https://mc-public.yynews.com.cn/17946866760580_hd.mp4?width=1280&height=720&isVertical=0&fsize=44746265&duration=135.0
-#EXTINF:-1 tvg-id="YY-a646df963d06" tvg-name="阳明街道：实干蓄势提质效 持续激活发展动能" group-title="余姚 · 点播",阳明街道：实干蓄势提质效 持续激活发展动能 (2:48, 53MB)
-https://mc-public.yynews.com.cn/17946859665032_hd.mp4?width=1280&height=720&isVertical=0&fsize=55952026&duration=168.0
-#EXTINF:-1 tvg-id="YY-10b1060908e8" tvg-name="遵循秋季养生之道 科学调养安然度秋" group-title="余姚 · 点播",遵循秋季养生之道 科学调养安然度秋 (1:45, 33MB)
-https://mc-public.yynews.com.cn/17941312543880_hd.mp4?width=1280&height=720&isVertical=0&fsize=34398748&duration=105.0
-#EXTINF:-1 tvg-id="YY-d362782f7dcf" tvg-name="大将桥村“龙虾大道”改造提升工程全面完工" group-title="余姚 · 点播",大将桥村“龙虾大道”改造提升工程全面完工 (1:03, 20MB)
-https://mc-public.yynews.com.cn/17941308861444_hd.mp4?width=1280&height=720&isVertical=0&fsize=21215264&duration=63.0
-#EXTINF:-1 tvg-id="YY-18bcfab81fff" tvg-name="河姆渡镇群众文化艺术中心启用" group-title="余姚 · 点播",河姆渡镇群众文化艺术中心启用 (0:47, 14MB)
-https://mc-public.yynews.com.cn/17941306374280_hd.mp4?width=1280&height=720&isVertical=0&fsize=15112180&duration=47.0
-#EXTINF:-1 tvg-id="YY-27e0ed37fada" tvg-name="“浙里墨韵 诗润童心——小学经典古诗文美育公益展”浙江省首展在姚举行" group-title="余姚 · 点播",“浙里墨韵 诗润童心——小学经典古诗文美育公益展”浙江省首展在姚举行 (1:36, 31MB)
-https://mc-public.yynews.com.cn/17941299996744_hd.mp4?width=1280&height=720&isVertical=0&fsize=32500426&duration=96.0
