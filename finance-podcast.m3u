@@ -10,6 +10,8 @@
 
 
 # ===== Reuters World News =====
+#EXTINF:-1 tvg-id="PC-de90d54f1468" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-24] US Starlink requests， Alaska's Senate race and Serbia's elections
+https://pdst.fm/e/traffic.megaphone.fm/THRH8855222616.mp3
 #EXTINF:-1 tvg-id="PC-f853b643bee6" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-23] Melania ceasefire， Banks block AI agents， Trump's evangelicals (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH7919384006.mp3
 #EXTINF:-1 tvg-id="PC-50d97fe27a7b" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-22] PHP hacks， Russia-Ukraine strikes， Brazil's phone problem (Updated)
@@ -32,8 +34,6 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH8318047279.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH8838542587.mp3
 #EXTINF:-1 tvg-id="PC-8997b3b84a2b" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-13] Guilfoyle fired， IMF outlook， Black Sea strikes (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH7177075065.mp3
-#EXTINF:-1 tvg-id="PC-b305a331f9aa" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-12] Omar raid， diesel deal pushback， prediction markets
-https://pdst.fm/e/traffic.megaphone.fm/THRH7042508499.mp3
 
 # ===== WSJ The Journal =====
 #EXTINF:-1 tvg-id="PC-5edbd99d813b" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-23] The Money Problem Fueling France’s Riots
@@ -62,6 +62,8 @@ https://pdst.fm/e/traffic.megaphone.fm/WSJ2653851086.mp3
 https://pdst.fm/e/traffic.megaphone.fm/WSJ7148289371.mp3
 
 # ===== WSJ What's News =====
+#EXTINF:-1 tvg-id="PC-a580023f0a7b" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-24] What’s News in Markets: Meta’s AI Bill， IBM’s Comeback， Musk Explores Merger
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/6a6297dd-034e-402a-864f-55b40c4ef64f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=6a6297dd-034e-402a-864f-55b40c4ef64f&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-e3b16440eb39" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-23] Why Calling a Democrat a Socialist Isn’t the Insult It Once Was
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/131d3391-ce55-40ff-8f56-228d72c85baa/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=131d3391-ce55-40ff-8f56-228d72c85baa&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-0e4cf78801f5" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-23] AI Rout Finds a Floor. For Now.
@@ -84,8 +86,6 @@ https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episod
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/35433320-e939-489a-b523-cf754a01ebaf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=35433320-e939-489a-b523-cf754a01ebaf&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-d23d1a8e8146" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-18] Will Gen Z Hand Democrats a ‘Blue Wave’ in the Midterms?
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/1dce7d25-c258-4b2e-b019-806786184d62/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=1dce7d25-c258-4b2e-b019-806786184d62&feed=BA5QWI2p
-#EXTINF:-1 tvg-id="PC-6a87cfc76a57" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-17] What’s News in Markets: CoreWeave Selloff， Apple Milestone， Borrowing Boom
-https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/42598fb0-b2cd-4953-8da7-38d24685b8e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=42598fb0-b2cd-4953-8da7-38d24685b8e3&feed=BA5QWI2p
 
 # ===== WSJ Tech News Briefing =====
 #EXTINF:-1 tvg-id="PC-412ad23a0cdb" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-10-23] How Does America’s Cheapest EV Hold Up on a Road Trip?
@@ -218,6 +218,8 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/201de292-b347-44a2-8ad4-b4dc016defab/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 
 # ===== Bloomberg Surveillance =====
+#EXTINF:-1 tvg-id="PC-914d414eb25d" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-24] Affordability In Focus Ahead of Midterms; US National Wealth Tax Debate
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1b0c2805-9805-43e6-9662-b4ab0110f413/485a590c-2d31-4909-9872-b4ec014a8cb1/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 #EXTINF:-1 tvg-id="PC-7acbc2f1a899" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-23] Bloomberg Surveillance TV: October 23rd， 2026
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/4ee41ed5-a69d-43a6-9b3b-b4ec0114a645/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 #EXTINF:-1 tvg-id="PC-047b250a291e" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-23] AI Scares and Inflation
@@ -240,8 +242,6 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1b0c2805-9805-43e6-9662-b4ab0110f413/d1838b5d-83d8-4288-9aea-b4e50155cf9a/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 #EXTINF:-1 tvg-id="PC-c2b2dc89b833" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-16] Bloomberg Surveillance TV: October 16th， 2026
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/3151a8cd-ed4e-4d65-b48a-b4e5011084e8/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
-#EXTINF:-1 tvg-id="PC-543b0785aa7e" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-10-16] AI Integration and Stock Fears
-https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/b809438c-9775-48f6-9208-b4e500e60773/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 
 # ===== The Economist: The Intelligence =====
 #EXTINF:-1 tvg-id="PC-a36e30df782d" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-10-23] Songs of disenchantment: the sorrow of Nigeria
