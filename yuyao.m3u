@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-0ca8656b7dc5" tvg-name="四明聚焦|牟山镇部分公厕卫生堪忧" group-title="余姚 · 点播",四明聚焦|牟山镇部分公厕卫生堪忧 (1:58, 37MB)
+https://mc-public.yynews.com.cn/17963358041028_hd.mp4?width=1280&height=720&isVertical=0&fsize=38757127&duration=118.0
+#EXTINF:-1 tvg-id="YY-a63ca11457a8" tvg-name="我市迎来首波“双十一”快递高峰" group-title="余姚 · 点播",我市迎来首波“双十一”快递高峰 (1:46, 33MB)
+https://mc-public.yynews.com.cn/17963352334088_hd.mp4?width=1280&height=720&isVertical=0&fsize=34713251&duration=106.0
+#EXTINF:-1 tvg-id="YY-fee1f4999c7c" tvg-name="黄山西路（西环南路-开丰路）道路新建工程完工" group-title="余姚 · 点播",黄山西路（西环南路-开丰路）道路新建工程完工 (1:06, 21MB)
+https://mc-public.yynews.com.cn/17963346593224_hd.mp4?width=1280&height=720&isVertical=0&fsize=22025988&duration=66.0
+#EXTINF:-1 tvg-id="YY-a6b3bea7f2d7" tvg-name="迎战台风“蔷琵” 全市小区物业提前筑牢防汛屏障" group-title="余姚 · 点播",迎战台风“蔷琵” 全市小区物业提前筑牢防汛屏障 (1:02, 21MB)
+https://mc-public.yynews.com.cn/17963341714564_hd.mp4?width=1280&height=720&isVertical=0&fsize=21588968&duration=62.0
+#EXTINF:-1 tvg-id="YY-339be0e9d2df" tvg-name="市防指启动防台风|||级响应" group-title="余姚 · 点播",市防指启动防台风|||级响应 (1:42, 36MB)
+https://mc-public.yynews.com.cn/17963337671620_hd.mp4?width=1280&height=720&isVertical=0&fsize=37710929&duration=102.0
+#EXTINF:-1 tvg-id="YY-c04a9032456c" tvg-name="科渼莳：深耕美妆细分赛道 让国货防晒产品扬帆海外" group-title="余姚 · 点播",科渼莳：深耕美妆细分赛道 让国货防晒产品扬帆海外 (2:59, 57MB)
+https://mc-public.yynews.com.cn/17963332935940_hd.mp4?width=1280&height=720&isVertical=0&fsize=60243265&duration=179.0
+#EXTINF:-1 tvg-id="YY-47155e0c868f" tvg-name="我市今年前三季度对美出口回暖" group-title="余姚 · 点播",我市今年前三季度对美出口回暖 (2:55, 56MB)
+https://mc-public.yynews.com.cn/17963326664520_hd.mp4?width=1280&height=720&isVertical=0&fsize=58209891&duration=175.0
 #EXTINF:-1 tvg-id="YY-23fa502a4bfc" tvg-name="余姚铁骑开道护送病危患者家属及时到院签字" group-title="余姚 · 点播",余姚铁骑开道护送病危患者家属及时到院签字 (1:28, 29MB)
 https://mc-public.yynews.com.cn/17957909067208_hd.mp4?width=1280&height=720&isVertical=0&fsize=30804832&duration=88.0
 #EXTINF:-1 tvg-id="YY-3c50ec6a3500" tvg-name="龙泉社区开展文明好习惯养成主题活动" group-title="余姚 · 点播",龙泉社区开展文明好习惯养成主题活动 (0:58, 18MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/17952339926536_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17952336140804_hd.mp4?width=1280&height=720&isVertical=0&fsize=24395347&duration=73.0
 #EXTINF:-1 tvg-id="YY-64ef2ad07017" tvg-name="市政府与宁波开投集团签署战略合作协议" group-title="余姚 · 点播",市政府与宁波开投集团签署战略合作协议 (1:22, 27MB)
 https://mc-public.yynews.com.cn/17952332045576_hd.mp4?width=1280&height=720&isVertical=0&fsize=28179731&duration=82.0
-#EXTINF:-1 tvg-id="YY-98a9133e404a" tvg-name="市委理论学习中心组举行《与时俱进的浙江精神》专题学习会" group-title="余姚 · 点播",市委理论学习中心组举行《与时俱进的浙江精神》专题学习会 (1:48, 37MB)
-https://mc-public.yynews.com.cn/17952329686981_hd.mp4?width=1280&height=720&isVertical=0&fsize=38666817&duration=108.0
-#EXTINF:-1 tvg-id="YY-6ec1d7f42614" tvg-name="市委常委会会议召开" group-title="余姚 · 点播",市委常委会会议召开 (1:46, 36MB)
-https://mc-public.yynews.com.cn/17952323611336_hd.mp4?width=1280&height=720&isVertical=0&fsize=38013262&duration=106.0
-#EXTINF:-1 tvg-id="YY-6b68b6d7a94d" tvg-name="傅祖民来姚联系指导县乡两级人大换届选举工作" group-title="余姚 · 点播",傅祖民来姚联系指导县乡两级人大换届选举工作 (2:33, 50MB)
-https://mc-public.yynews.com.cn/17952317869896_hd.mp4?width=1280&height=720&isVertical=0&fsize=52934322&duration=153.0
-#EXTINF:-1 tvg-id="YY-cc27332c2535" tvg-name="两男子手持警示牌站高速 后方车辆紧急避让险翻车" group-title="余姚 · 点播",两男子手持警示牌站高速 后方车辆紧急避让险翻车 (1:32, 30MB)
-https://mc-public.yynews.com.cn/17946893053384_hd.mp4?width=1280&height=720&isVertical=0&fsize=31611239&duration=92.0
-#EXTINF:-1 tvg-id="YY-8ab5714910e6" tvg-name="儿童户外体能锻炼受热捧" group-title="余姚 · 点播",儿童户外体能锻炼受热捧 (1:19, 26MB)
-https://mc-public.yynews.com.cn/17946888081732_hd.mp4?width=1280&height=720&isVertical=0&fsize=27168070&duration=79.0
-#EXTINF:-1 tvg-id="YY-7580c9f89b6e" tvg-name="蘑法农园：田园微度假玩出“蘑”法" group-title="余姚 · 点播",蘑法农园：田园微度假玩出“蘑”法 (1:38, 32MB)
-https://mc-public.yynews.com.cn/17946885446728_hd.mp4?width=1280&height=720&isVertical=0&fsize=33416503&duration=98.0
-#EXTINF:-1 tvg-id="YY-881f0cf1ff10" tvg-name="泰国师生团来姚开展学习交流" group-title="余姚 · 点播",泰国师生团来姚开展学习交流 (1:29, 28MB)
-https://mc-public.yynews.com.cn/17946880863556_hd.mp4?width=1280&height=720&isVertical=0&fsize=29810069&duration=89.0
