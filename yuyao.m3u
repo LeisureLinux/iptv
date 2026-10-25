@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-e6a95f0cf6c3" tvg-name="一周新闻回顾" group-title="余姚 · 点播",一周新闻回顾 (3:09, 58MB)
+https://mc-public.yynews.com.cn/17968854058628_hd.mp4?width=1280&height=720&isVertical=0&fsize=61314844&duration=189.0
+#EXTINF:-1 tvg-id="YY-6686ba8f161f" tvg-name="超员车上高速 警企联动成功拦截" group-title="余姚 · 点播",超员车上高速 警企联动成功拦截 (1:12, 23MB)
+https://mc-public.yynews.com.cn/17968847360132_hd.mp4?width=1280&height=720&isVertical=0&fsize=23639716&duration=72.0
+#EXTINF:-1 tvg-id="YY-68bea0635423" tvg-name="秋季鼻炎高发 中医调理科学应对" group-title="余姚 · 点播",秋季鼻炎高发 中医调理科学应对 (1:31, 29MB)
+https://mc-public.yynews.com.cn/17968844026948_hd.mp4?width=1280&height=720&isVertical=0&fsize=30614461&duration=91.0
+#EXTINF:-1 tvg-id="YY-cb71b9b5471f" tvg-name="宁波市正始中学学生走进二六市村开展主题研学活动" group-title="余姚 · 点播",宁波市正始中学学生走进二六市村开展主题研学活动 (1:06, 20MB)
+https://mc-public.yynews.com.cn/17968840323656_hd.mp4?width=1280&height=720&isVertical=0&fsize=20736568&duration=66.0
+#EXTINF:-1 tvg-id="YY-afdd0fe2d2ff" tvg-name="我市开展夜间交通违法攻坚整治" group-title="余姚 · 点播",我市开展夜间交通违法攻坚整治 (1:41, 33MB)
+https://mc-public.yynews.com.cn/17968837003396_hd.mp4?width=1280&height=720&isVertical=0&fsize=34939121&duration=101.0
+#EXTINF:-1 tvg-id="YY-7ee3d5ff3bcb" tvg-name="市供电公司首个110千伏属地化自主施工项目顺利投运" group-title="余姚 · 点播",市供电公司首个110千伏属地化自主施工项目顺利投运 (1:36, 31MB)
+https://mc-public.yynews.com.cn/17968832015240_hd.mp4?width=1280&height=720&isVertical=0&fsize=32151456&duration=96.0
+#EXTINF:-1 tvg-id="YY-2173f480acd7" tvg-name="更大集团：深耕精密制造领域 加速布局新能源与机器人赛道" group-title="余姚 · 点播",更大集团：深耕精密制造领域 加速布局新能源与机器人赛道 (2:39, 51MB)
+https://mc-public.yynews.com.cn/17968828268932_hd.mp4?width=1280&height=720&isVertical=0&fsize=53496034&duration=159.0
 #EXTINF:-1 tvg-id="YY-0ca8656b7dc5" tvg-name="四明聚焦|牟山镇部分公厕卫生堪忧" group-title="余姚 · 点播",四明聚焦|牟山镇部分公厕卫生堪忧 (1:58, 37MB)
 https://mc-public.yynews.com.cn/17963358041028_hd.mp4?width=1280&height=720&isVertical=0&fsize=38757127&duration=118.0
 #EXTINF:-1 tvg-id="YY-a63ca11457a8" tvg-name="我市迎来首波“双十一”快递高峰" group-title="余姚 · 点播",我市迎来首波“双十一”快递高峰 (1:46, 33MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/17957894975428_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17957889693956_hd.mp4?width=1280&height=720&isVertical=0&fsize=52506901&duration=156.0
 #EXTINF:-1 tvg-id="YY-b69e38e85d1e" tvg-name="市经信局：全周期管控强服务 推动制造业投资跑出“加速度”" group-title="余姚 · 点播",市经信局：全周期管控强服务 推动制造业投资跑出“加速度” (2:43, 53MB)
 https://mc-public.yynews.com.cn/17957884457736_hd.mp4?width=1280&height=720&isVertical=0&fsize=55154688&duration=163.0
-#EXTINF:-1 tvg-id="YY-5ed02cf19546" tvg-name="我市启动防台风IV级应急响应" group-title="余姚 · 点播",我市启动防台风IV级应急响应 (1:30, 29MB)
-https://mc-public.yynews.com.cn/17957883599364_hd.mp4?width=1280&height=720&isVertical=0&fsize=30522725&duration=90.0
-#EXTINF:-1 tvg-id="YY-cf8f4c2af2a0" tvg-name="我市举行四明知行房企破产实务沙龙" group-title="余姚 · 点播",我市举行四明知行房企破产实务沙龙 (1:49, 35MB)
-https://mc-public.yynews.com.cn/17957875920136_hd.mp4?width=1280&height=720&isVertical=0&fsize=36328147&duration=109.0
-#EXTINF:-1 tvg-id="YY-d991d8ee03e2" tvg-name="两处路段公共空间归于民" group-title="余姚 · 点播",两处路段公共空间归于民 (2:17, 44MB)
-https://mc-public.yynews.com.cn/17952343177732_hd.mp4?width=1280&height=720&isVertical=0&fsize=46500718&duration=137.0
-#EXTINF:-1 tvg-id="YY-3a627504fdc9" tvg-name="车辆高速出口突发自燃 交警快速处置化险为夷" group-title="余姚 · 点播",车辆高速出口突发自燃 交警快速处置化险为夷 (1:27, 28MB)
-https://mc-public.yynews.com.cn/17952342558152_hd.mp4?width=1280&height=720&isVertical=0&fsize=29874091&duration=87.0
-#EXTINF:-1 tvg-id="YY-da30a9db37ee" tvg-name="“四明村色”钟昌山古村落油画作品展开展" group-title="余姚 · 点播",“四明村色”钟昌山古村落油画作品展开展 (0:44, 14MB)
-https://mc-public.yynews.com.cn/17952339926536_hd.mp4?width=1280&height=720&isVertical=0&fsize=14513814&duration=44.0
-#EXTINF:-1 tvg-id="YY-a119a6b965c3" tvg-name="公积金装修提取新政昨起实施" group-title="余姚 · 点播",公积金装修提取新政昨起实施 (1:13, 23MB)
-https://mc-public.yynews.com.cn/17952336140804_hd.mp4?width=1280&height=720&isVertical=0&fsize=24395347&duration=73.0
-#EXTINF:-1 tvg-id="YY-64ef2ad07017" tvg-name="市政府与宁波开投集团签署战略合作协议" group-title="余姚 · 点播",市政府与宁波开投集团签署战略合作协议 (1:22, 27MB)
-https://mc-public.yynews.com.cn/17952332045576_hd.mp4?width=1280&height=720&isVertical=0&fsize=28179731&duration=82.0
