@@ -6,6 +6,18 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-3af660f1d9f4" tvg-name="凤山街道：商圈焕新激活消费活力 全力冲刺全年目标任务" group-title="余姚 · 点播",凤山街道：商圈焕新激活消费活力 全力冲刺全年目标任务 (2:59, 58MB)
+https://mc-public.yynews.com.cn/17979971581188_hd.mp4?width=1280&height=720&isVertical=0&fsize=61149065&duration=179.0
+#EXTINF:-1 tvg-id="YY-6cb0b88c1c68" tvg-name="“姚优净”工程农村生活污水治理项目顺利完工" group-title="余姚 · 点播",“姚优净”工程农村生活污水治理项目顺利完工 (0:59, 20MB)
+https://mc-public.yynews.com.cn/17979967395076_hd.mp4?width=1280&height=720&isVertical=0&fsize=20593711&duration=59.0
+#EXTINF:-1 tvg-id="YY-5a894232d08a" tvg-name="斗门村“双富”工程改出新气象" group-title="余姚 · 点播",斗门村“双富”工程改出新气象 (1:55, 37MB)
+https://mc-public.yynews.com.cn/17979965465668_hd.mp4?width=1280&height=720&isVertical=0&fsize=38328358&duration=115.0
+#EXTINF:-1 tvg-id="YY-53d01833caed" tvg-name="全市前三季度发放住房公积金个人贷款8.91亿元" group-title="余姚 · 点播",全市前三季度发放住房公积金个人贷款8.91亿元 (1:27, 28MB)
+https://mc-public.yynews.com.cn/17979960373060_hd.mp4?width=1280&height=720&isVertical=0&fsize=29002038&duration=87.0
+#EXTINF:-1 tvg-id="YY-129e957b5218" tvg-name="吉利达：紧盯消费升级趋势 创新驱动新品迭代" group-title="余姚 · 点播",吉利达：紧盯消费升级趋势 创新驱动新品迭代 (2:39, 50MB)
+https://mc-public.yynews.com.cn/17979953145736_hd.mp4?width=1280&height=720&isVertical=0&fsize=51997793&duration=159.0
+#EXTINF:-1 tvg-id="YY-d9ca6f22b1a0" tvg-name="抢抓口腔护理风口 余姚电动牙刷扬帆全球市场" group-title="余姚 · 点播",抢抓口腔护理风口 余姚电动牙刷扬帆全球市场 (2:57, 59MB)
+https://mc-public.yynews.com.cn/17979946944900_hd.mp4?width=1280&height=720&isVertical=0&fsize=61587161&duration=177.0
 #EXTINF:-1 tvg-id="YY-e6a95f0cf6c3" tvg-name="一周新闻回顾" group-title="余姚 · 点播",一周新闻回顾 (3:09, 58MB)
 https://mc-public.yynews.com.cn/17968854058628_hd.mp4?width=1280&height=720&isVertical=0&fsize=61314844&duration=189.0
 #EXTINF:-1 tvg-id="YY-6686ba8f161f" tvg-name="超员车上高速 警企联动成功拦截" group-title="余姚 · 点播",超员车上高速 警企联动成功拦截 (1:12, 23MB)
@@ -34,15 +46,3 @@ https://mc-public.yynews.com.cn/17963337671620_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17963332935940_hd.mp4?width=1280&height=720&isVertical=0&fsize=60243265&duration=179.0
 #EXTINF:-1 tvg-id="YY-47155e0c868f" tvg-name="我市今年前三季度对美出口回暖" group-title="余姚 · 点播",我市今年前三季度对美出口回暖 (2:55, 56MB)
 https://mc-public.yynews.com.cn/17963326664520_hd.mp4?width=1280&height=720&isVertical=0&fsize=58209891&duration=175.0
-#EXTINF:-1 tvg-id="YY-23fa502a4bfc" tvg-name="余姚铁骑开道护送病危患者家属及时到院签字" group-title="余姚 · 点播",余姚铁骑开道护送病危患者家属及时到院签字 (1:28, 29MB)
-https://mc-public.yynews.com.cn/17957909067208_hd.mp4?width=1280&height=720&isVertical=0&fsize=30804832&duration=88.0
-#EXTINF:-1 tvg-id="YY-3c50ec6a3500" tvg-name="龙泉社区开展文明好习惯养成主题活动" group-title="余姚 · 点播",龙泉社区开展文明好习惯养成主题活动 (0:58, 18MB)
-https://mc-public.yynews.com.cn/17957903610568_hd.mp4?width=1280&height=720&isVertical=0&fsize=18849477&duration=58.0
-#EXTINF:-1 tvg-id="YY-d7b04aa0379e" tvg-name="斗门村：荒田变花海 绘就美丽秋日画卷" group-title="余姚 · 点播",斗门村：荒田变花海 绘就美丽秋日画卷 (1:25, 26MB)
-https://mc-public.yynews.com.cn/17957899259908_hd.mp4?width=1280&height=720&isVertical=0&fsize=27570796&duration=85.0
-#EXTINF:-1 tvg-id="YY-2d1a11378c6a" tvg-name="余姚队主场惜败安吉队" group-title="余姚 · 点播",余姚队主场惜败安吉队 (1:58, 38MB)
-https://mc-public.yynews.com.cn/17957894975428_hd.mp4?width=1280&height=720&isVertical=0&fsize=39935915&duration=118.0
-#EXTINF:-1 tvg-id="YY-ae46cbf8a2ec" tvg-name="纪念长征胜利90周年红色宣讲活动举行" group-title="余姚 · 点播",纪念长征胜利90周年红色宣讲活动举行 (2:36, 50MB)
-https://mc-public.yynews.com.cn/17957889693956_hd.mp4?width=1280&height=720&isVertical=0&fsize=52506901&duration=156.0
-#EXTINF:-1 tvg-id="YY-b69e38e85d1e" tvg-name="市经信局：全周期管控强服务 推动制造业投资跑出“加速度”" group-title="余姚 · 点播",市经信局：全周期管控强服务 推动制造业投资跑出“加速度” (2:43, 53MB)
-https://mc-public.yynews.com.cn/17957884457736_hd.mp4?width=1280&height=720&isVertical=0&fsize=55154688&duration=163.0
