@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-5df596124077" tvg-name="牟山镇公厕变干净了" group-title="余姚 · 点播",牟山镇公厕变干净了 (1:53, 35MB)
+https://mc-public.yynews.com.cn/17985513436740_hd.mp4?width=1280&height=720&isVertical=0&fsize=37026212&duration=113.0
+#EXTINF:-1 tvg-id="YY-071953c394c0" tvg-name="女子误踩捕兽夹 救援人员紧急营救" group-title="余姚 · 点播",女子误踩捕兽夹 救援人员紧急营救 (1:07, 22MB)
+https://mc-public.yynews.com.cn/17985508785540_hd.mp4?width=1280&height=720&isVertical=0&fsize=23508947&duration=67.0
+#EXTINF:-1 tvg-id="YY-d7f28e54d14a" tvg-name="万家怡：发挥专业所长 为社区IP注入活力" group-title="余姚 · 点播",万家怡：发挥专业所长 为社区IP注入活力 (2:16, 43MB)
+https://mc-public.yynews.com.cn/17985505303044_hd.mp4?width=1280&height=720&isVertical=0&fsize=45049552&duration=136.0
+#EXTINF:-1 tvg-id="YY-f55894116287" tvg-name="“橙光集市”热闹开集 温情致敬环卫工人" group-title="余姚 · 点播",“橙光集市”热闹开集 温情致敬环卫工人 (0:48, 15MB)
+https://mc-public.yynews.com.cn/17985501892424_hd.mp4?width=1280&height=720&isVertical=0&fsize=16073093&duration=48.0
+#EXTINF:-1 tvg-id="YY-589b3f7650c7" tvg-name="多方联动综合改造 老小区焕发新活力" group-title="余姚 · 点播",多方联动综合改造 老小区焕发新活力 (2:31, 49MB)
+https://mc-public.yynews.com.cn/17985498063748_hd.mp4?width=1280&height=720&isVertical=0&fsize=50963305&duration=151.0
+#EXTINF:-1 tvg-id="YY-7f08e0eb9be8" tvg-name="煜昌电器：智造升级拓市场 移动照明“点亮”全球" group-title="余姚 · 点播",煜昌电器：智造升级拓市场 移动照明“点亮”全球 (2:46, 54MB)
+https://mc-public.yynews.com.cn/17985491970884_hd.mp4?width=1280&height=720&isVertical=0&fsize=56600135&duration=166.0
+#EXTINF:-1 tvg-id="YY-6ec1d7f42614" tvg-name="市委常委会会议召开" group-title="余姚 · 点播",市委常委会会议召开 (2:29, 47MB)
+https://mc-public.yynews.com.cn/17985485569416_hd.mp4?width=1280&height=720&isVertical=0&fsize=49787530&duration=149.0
 #EXTINF:-1 tvg-id="YY-3af660f1d9f4" tvg-name="凤山街道：商圈焕新激活消费活力 全力冲刺全年目标任务" group-title="余姚 · 点播",凤山街道：商圈焕新激活消费活力 全力冲刺全年目标任务 (2:59, 58MB)
 https://mc-public.yynews.com.cn/17979971581188_hd.mp4?width=1280&height=720&isVertical=0&fsize=61149065&duration=179.0
 #EXTINF:-1 tvg-id="YY-6cb0b88c1c68" tvg-name="“姚优净”工程农村生活污水治理项目顺利完工" group-title="余姚 · 点播",“姚优净”工程农村生活污水治理项目顺利完工 (0:59, 20MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/17968837003396_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17968832015240_hd.mp4?width=1280&height=720&isVertical=0&fsize=32151456&duration=96.0
 #EXTINF:-1 tvg-id="YY-2173f480acd7" tvg-name="更大集团：深耕精密制造领域 加速布局新能源与机器人赛道" group-title="余姚 · 点播",更大集团：深耕精密制造领域 加速布局新能源与机器人赛道 (2:39, 51MB)
 https://mc-public.yynews.com.cn/17968828268932_hd.mp4?width=1280&height=720&isVertical=0&fsize=53496034&duration=159.0
-#EXTINF:-1 tvg-id="YY-0ca8656b7dc5" tvg-name="四明聚焦|牟山镇部分公厕卫生堪忧" group-title="余姚 · 点播",四明聚焦|牟山镇部分公厕卫生堪忧 (1:58, 37MB)
-https://mc-public.yynews.com.cn/17963358041028_hd.mp4?width=1280&height=720&isVertical=0&fsize=38757127&duration=118.0
-#EXTINF:-1 tvg-id="YY-a63ca11457a8" tvg-name="我市迎来首波“双十一”快递高峰" group-title="余姚 · 点播",我市迎来首波“双十一”快递高峰 (1:46, 33MB)
-https://mc-public.yynews.com.cn/17963352334088_hd.mp4?width=1280&height=720&isVertical=0&fsize=34713251&duration=106.0
-#EXTINF:-1 tvg-id="YY-fee1f4999c7c" tvg-name="黄山西路（西环南路-开丰路）道路新建工程完工" group-title="余姚 · 点播",黄山西路（西环南路-开丰路）道路新建工程完工 (1:06, 21MB)
-https://mc-public.yynews.com.cn/17963346593224_hd.mp4?width=1280&height=720&isVertical=0&fsize=22025988&duration=66.0
-#EXTINF:-1 tvg-id="YY-a6b3bea7f2d7" tvg-name="迎战台风“蔷琵” 全市小区物业提前筑牢防汛屏障" group-title="余姚 · 点播",迎战台风“蔷琵” 全市小区物业提前筑牢防汛屏障 (1:02, 21MB)
-https://mc-public.yynews.com.cn/17963341714564_hd.mp4?width=1280&height=720&isVertical=0&fsize=21588968&duration=62.0
-#EXTINF:-1 tvg-id="YY-339be0e9d2df" tvg-name="市防指启动防台风|||级响应" group-title="余姚 · 点播",市防指启动防台风|||级响应 (1:42, 36MB)
-https://mc-public.yynews.com.cn/17963337671620_hd.mp4?width=1280&height=720&isVertical=0&fsize=37710929&duration=102.0
-#EXTINF:-1 tvg-id="YY-c04a9032456c" tvg-name="科渼莳：深耕美妆细分赛道 让国货防晒产品扬帆海外" group-title="余姚 · 点播",科渼莳：深耕美妆细分赛道 让国货防晒产品扬帆海外 (2:59, 57MB)
-https://mc-public.yynews.com.cn/17963332935940_hd.mp4?width=1280&height=720&isVertical=0&fsize=60243265&duration=179.0
-#EXTINF:-1 tvg-id="YY-47155e0c868f" tvg-name="我市今年前三季度对美出口回暖" group-title="余姚 · 点播",我市今年前三季度对美出口回暖 (2:55, 56MB)
-https://mc-public.yynews.com.cn/17963326664520_hd.mp4?width=1280&height=720&isVertical=0&fsize=58209891&duration=175.0
