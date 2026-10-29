@@ -6,6 +6,18 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-c0a874a8158d" tvg-name="女子卷入车底 众人合力施救" group-title="余姚 · 点播",女子卷入车底 众人合力施救 (1:41, 33MB)
+https://mc-public.yynews.com.cn/17991094062916_hd.mp4?width=1280&height=720&isVertical=0&fsize=34860040&duration=101.0
+#EXTINF:-1 tvg-id="YY-2089b1d699e8" tvg-name="浙BA球员主题明信片今日首发" group-title="余姚 · 点播",浙BA球员主题明信片今日首发 (1:32, 30MB)
+https://mc-public.yynews.com.cn/17991078023688_hd.mp4?width=1280&height=720&isVertical=0&fsize=31249352&duration=92.0
+#EXTINF:-1 tvg-id="YY-2557eb5fbd76" tvg-name="余姚队75:63主场拿下江山队" group-title="余姚 · 点播",余姚队75:63主场拿下江山队 (2:26, 47MB)
+https://mc-public.yynews.com.cn/17991071496904_hd.mp4?width=1280&height=720&isVertical=0&fsize=49649466&duration=146.0
+#EXTINF:-1 tvg-id="YY-f3e5fb70c70b" tvg-name="浙派民居修缮提速 老村落焕发新活力" group-title="余姚 · 点播",浙派民居修缮提速 老村落焕发新活力 (2:25, 47MB)
+https://mc-public.yynews.com.cn/17991063104708_hd.mp4?width=1280&height=720&isVertical=0&fsize=49553820&duration=145.0
+#EXTINF:-1 tvg-id="YY-466113b2a161" tvg-name="市科技局：聚力创新强根基 科创赋能高质量发展" group-title="余姚 · 点播",市科技局：聚力创新强根基 科创赋能高质量发展 (2:47, 55MB)
+https://mc-public.yynews.com.cn/17991057994500_hd.mp4?width=1280&height=720&isVertical=0&fsize=57508473&duration=167.0
+#EXTINF:-1 tvg-id="YY-167fdf3b0c57" tvg-name="市政协举行全会提案现场办理会暨小区物业服务提升工作推进会" group-title="余姚 · 点播",市政协举行全会提案现场办理会暨小区物业服务提升工作推进会 (3:14, 62MB)
+https://mc-public.yynews.com.cn/17991049791684_hd.mp4?width=1280&height=720&isVertical=0&fsize=65113531&duration=194.0
 #EXTINF:-1 tvg-id="YY-5df596124077" tvg-name="牟山镇公厕变干净了" group-title="余姚 · 点播",牟山镇公厕变干净了 (1:53, 35MB)
 https://mc-public.yynews.com.cn/17985513436740_hd.mp4?width=1280&height=720&isVertical=0&fsize=37026212&duration=113.0
 #EXTINF:-1 tvg-id="YY-071953c394c0" tvg-name="女子误踩捕兽夹 救援人员紧急营救" group-title="余姚 · 点播",女子误踩捕兽夹 救援人员紧急营救 (1:07, 22MB)
@@ -34,15 +46,3 @@ https://mc-public.yynews.com.cn/17979953145736_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17979946944900_hd.mp4?width=1280&height=720&isVertical=0&fsize=61587161&duration=177.0
 #EXTINF:-1 tvg-id="YY-e6a95f0cf6c3" tvg-name="一周新闻回顾" group-title="余姚 · 点播",一周新闻回顾 (3:09, 58MB)
 https://mc-public.yynews.com.cn/17968854058628_hd.mp4?width=1280&height=720&isVertical=0&fsize=61314844&duration=189.0
-#EXTINF:-1 tvg-id="YY-6686ba8f161f" tvg-name="超员车上高速 警企联动成功拦截" group-title="余姚 · 点播",超员车上高速 警企联动成功拦截 (1:12, 23MB)
-https://mc-public.yynews.com.cn/17968847360132_hd.mp4?width=1280&height=720&isVertical=0&fsize=23639716&duration=72.0
-#EXTINF:-1 tvg-id="YY-68bea0635423" tvg-name="秋季鼻炎高发 中医调理科学应对" group-title="余姚 · 点播",秋季鼻炎高发 中医调理科学应对 (1:31, 29MB)
-https://mc-public.yynews.com.cn/17968844026948_hd.mp4?width=1280&height=720&isVertical=0&fsize=30614461&duration=91.0
-#EXTINF:-1 tvg-id="YY-cb71b9b5471f" tvg-name="宁波市正始中学学生走进二六市村开展主题研学活动" group-title="余姚 · 点播",宁波市正始中学学生走进二六市村开展主题研学活动 (1:06, 20MB)
-https://mc-public.yynews.com.cn/17968840323656_hd.mp4?width=1280&height=720&isVertical=0&fsize=20736568&duration=66.0
-#EXTINF:-1 tvg-id="YY-afdd0fe2d2ff" tvg-name="我市开展夜间交通违法攻坚整治" group-title="余姚 · 点播",我市开展夜间交通违法攻坚整治 (1:41, 33MB)
-https://mc-public.yynews.com.cn/17968837003396_hd.mp4?width=1280&height=720&isVertical=0&fsize=34939121&duration=101.0
-#EXTINF:-1 tvg-id="YY-7ee3d5ff3bcb" tvg-name="市供电公司首个110千伏属地化自主施工项目顺利投运" group-title="余姚 · 点播",市供电公司首个110千伏属地化自主施工项目顺利投运 (1:36, 31MB)
-https://mc-public.yynews.com.cn/17968832015240_hd.mp4?width=1280&height=720&isVertical=0&fsize=32151456&duration=96.0
-#EXTINF:-1 tvg-id="YY-2173f480acd7" tvg-name="更大集团：深耕精密制造领域 加速布局新能源与机器人赛道" group-title="余姚 · 点播",更大集团：深耕精密制造领域 加速布局新能源与机器人赛道 (2:39, 51MB)
-https://mc-public.yynews.com.cn/17968828268932_hd.mp4?width=1280&height=720&isVertical=0&fsize=53496034&duration=159.0
