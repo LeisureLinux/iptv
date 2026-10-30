@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-d77aec0e4879" tvg-name="以为抽血能“翻盘”？一查竟然是醉驾" group-title="余姚 · 点播",以为抽血能“翻盘”？一查竟然是醉驾 (1:31, 30MB)
+https://mc-public.yynews.com.cn/17996471309576_hd.mp4?width=1280&height=720&isVertical=0&fsize=31576446&duration=91.0
+#EXTINF:-1 tvg-id="YY-22e0daffa8c3" tvg-name="长安社区举行社区文化艺术节" group-title="余姚 · 点播",长安社区举行社区文化艺术节 (0:38, 12MB)
+https://mc-public.yynews.com.cn/17996467536200_hd.mp4?width=1280&height=720&isVertical=0&fsize=12560154&duration=38.0
+#EXTINF:-1 tvg-id="YY-ff35dc08568c" tvg-name="农贸市场提档升级 智慧便民惠民生" group-title="余姚 · 点播",农贸市场提档升级 智慧便民惠民生 (2:02, 39MB)
+https://mc-public.yynews.com.cn/17996464089864_hd.mp4?width=1280&height=720&isVertical=0&fsize=41402144&duration=122.0
+#EXTINF:-1 tvg-id="YY-2861da053b07" tvg-name="钱百君：守护古老民俗技艺 为传统非遗注入活力" group-title="余姚 · 点播",钱百君：守护古老民俗技艺 为传统非遗注入活力 (2:04, 39MB)
+https://mc-public.yynews.com.cn/17996458644484_hd.mp4?width=1280&height=720&isVertical=0&fsize=41385953&duration=124.0
+#EXTINF:-1 tvg-id="YY-614ce8d3d0bf" tvg-name="浙江万里学院余姚校区建设加速推进" group-title="余姚 · 点播",浙江万里学院余姚校区建设加速推进 (2:00, 39MB)
+https://mc-public.yynews.com.cn/17996453452996_hd.mp4?width=1280&height=720&isVertical=0&fsize=41403370&duration=120.0
+#EXTINF:-1 tvg-id="YY-68127ee50fb3" tvg-name="艾斯伯格：竞逐户外经济新赛道 便携制冷产品俏销全球" group-title="余姚 · 点播",艾斯伯格：竞逐户外经济新赛道 便携制冷产品俏销全球 (2:39, 51MB)
+https://mc-public.yynews.com.cn/17996449879556_hd.mp4?width=1280&height=720&isVertical=0&fsize=53268797&duration=159.0
+#EXTINF:-1 tvg-id="YY-06e0cb650549" tvg-name="市政府举行第69次常务会议" group-title="余姚 · 点播",市政府举行第69次常务会议 (2:23, 42MB)
+https://mc-public.yynews.com.cn/17996442071812_hd.mp4?width=1280&height=720&isVertical=0&fsize=43947151&duration=143.0
 #EXTINF:-1 tvg-id="YY-c0a874a8158d" tvg-name="女子卷入车底 众人合力施救" group-title="余姚 · 点播",女子卷入车底 众人合力施救 (1:41, 33MB)
 https://mc-public.yynews.com.cn/17991094062916_hd.mp4?width=1280&height=720&isVertical=0&fsize=34860040&duration=101.0
 #EXTINF:-1 tvg-id="YY-2089b1d699e8" tvg-name="浙BA球员主题明信片今日首发" group-title="余姚 · 点播",浙BA球员主题明信片今日首发 (1:32, 30MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/17985498063748_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17985491970884_hd.mp4?width=1280&height=720&isVertical=0&fsize=56600135&duration=166.0
 #EXTINF:-1 tvg-id="YY-6ec1d7f42614" tvg-name="市委常委会会议召开" group-title="余姚 · 点播",市委常委会会议召开 (2:29, 47MB)
 https://mc-public.yynews.com.cn/17985485569416_hd.mp4?width=1280&height=720&isVertical=0&fsize=49787530&duration=149.0
-#EXTINF:-1 tvg-id="YY-3af660f1d9f4" tvg-name="凤山街道：商圈焕新激活消费活力 全力冲刺全年目标任务" group-title="余姚 · 点播",凤山街道：商圈焕新激活消费活力 全力冲刺全年目标任务 (2:59, 58MB)
-https://mc-public.yynews.com.cn/17979971581188_hd.mp4?width=1280&height=720&isVertical=0&fsize=61149065&duration=179.0
-#EXTINF:-1 tvg-id="YY-6cb0b88c1c68" tvg-name="“姚优净”工程农村生活污水治理项目顺利完工" group-title="余姚 · 点播",“姚优净”工程农村生活污水治理项目顺利完工 (0:59, 20MB)
-https://mc-public.yynews.com.cn/17979967395076_hd.mp4?width=1280&height=720&isVertical=0&fsize=20593711&duration=59.0
-#EXTINF:-1 tvg-id="YY-5a894232d08a" tvg-name="斗门村“双富”工程改出新气象" group-title="余姚 · 点播",斗门村“双富”工程改出新气象 (1:55, 37MB)
-https://mc-public.yynews.com.cn/17979965465668_hd.mp4?width=1280&height=720&isVertical=0&fsize=38328358&duration=115.0
-#EXTINF:-1 tvg-id="YY-53d01833caed" tvg-name="全市前三季度发放住房公积金个人贷款8.91亿元" group-title="余姚 · 点播",全市前三季度发放住房公积金个人贷款8.91亿元 (1:27, 28MB)
-https://mc-public.yynews.com.cn/17979960373060_hd.mp4?width=1280&height=720&isVertical=0&fsize=29002038&duration=87.0
-#EXTINF:-1 tvg-id="YY-129e957b5218" tvg-name="吉利达：紧盯消费升级趋势 创新驱动新品迭代" group-title="余姚 · 点播",吉利达：紧盯消费升级趋势 创新驱动新品迭代 (2:39, 50MB)
-https://mc-public.yynews.com.cn/17979953145736_hd.mp4?width=1280&height=720&isVertical=0&fsize=51997793&duration=159.0
-#EXTINF:-1 tvg-id="YY-d9ca6f22b1a0" tvg-name="抢抓口腔护理风口 余姚电动牙刷扬帆全球市场" group-title="余姚 · 点播",抢抓口腔护理风口 余姚电动牙刷扬帆全球市场 (2:57, 59MB)
-https://mc-public.yynews.com.cn/17979946944900_hd.mp4?width=1280&height=720&isVertical=0&fsize=61587161&duration=177.0
-#EXTINF:-1 tvg-id="YY-e6a95f0cf6c3" tvg-name="一周新闻回顾" group-title="余姚 · 点播",一周新闻回顾 (3:09, 58MB)
-https://mc-public.yynews.com.cn/17968854058628_hd.mp4?width=1280&height=720&isVertical=0&fsize=61314844&duration=189.0
