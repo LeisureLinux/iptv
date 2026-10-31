@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-90733f67dd08" tvg-name="袁毛线建筑垃圾堆成山 饮用水源安全受影响" group-title="余姚 · 点播",袁毛线建筑垃圾堆成山 饮用水源安全受影响 (2:07, 41MB)
+https://mc-public.yynews.com.cn/18002871647300_hd.mp4?width=1280&height=720&isVertical=0&fsize=43491067&duration=127.0
+#EXTINF:-1 tvg-id="YY-1e3a2263bc4f" tvg-name="梨洲街道：稳增长 促转型 优环境 工业经济攀“高”创“新”" group-title="余姚 · 点播",梨洲街道：稳增长 促转型 优环境 工业经济攀“高”创“新” (2:56, 55MB)
+https://mc-public.yynews.com.cn/18002871686084_hd.mp4?width=1280&height=720&isVertical=0&fsize=58057962&duration=176.0
+#EXTINF:-1 tvg-id="YY-375b9b00dab0" tvg-name="晴暖短暂回归 冷空气接踵而至" group-title="余姚 · 点播",晴暖短暂回归 冷空气接踵而至 (0:43, 14MB)
+https://mc-public.yynews.com.cn/18002871600968_hd.mp4?width=1280&height=720&isVertical=0&fsize=14179116&duration=43.0
+#EXTINF:-1 tvg-id="YY-eccc7ef4ad7a" tvg-name="沃勇特调研走访文艺名家" group-title="余姚 · 点播",沃勇特调研走访文艺名家 (2:34, 50MB)
+https://mc-public.yynews.com.cn/18002871614980_hd.mp4?width=1280&height=720&isVertical=0&fsize=52533249&duration=154.0
+#EXTINF:-1 tvg-id="YY-5313af5d9596" tvg-name="全市前三季度经济社会形势分析会举行" group-title="余姚 · 点播",全市前三季度经济社会形势分析会举行 (3:13, 60MB)
+https://mc-public.yynews.com.cn/18002871631492_hd.mp4?width=1280&height=720&isVertical=0&fsize=63159772&duration=193.0
+#EXTINF:-1 tvg-id="YY-9d7d3f3dd93e" tvg-name="富巷社区:巧手做药枕 温情暖人心" group-title="余姚 · 点播",富巷社区:巧手做药枕 温情暖人心 (0:45, 14MB)
+https://mc-public.yynews.com.cn/18002871583176_hd.mp4?width=1280&height=720&isVertical=0&fsize=14833627&duration=45.0
+#EXTINF:-1 tvg-id="YY-2db7b6b54d0f" tvg-name="市人大常委会召开代表建议办理工作绩效评估会" group-title="余姚 · 点播",市人大常委会召开代表建议办理工作绩效评估会 (2:14, 43MB)
+https://mc-public.yynews.com.cn/18002871568392_hd.mp4?width=1280&height=720&isVertical=0&fsize=45176407&duration=134.0
 #EXTINF:-1 tvg-id="YY-d77aec0e4879" tvg-name="以为抽血能“翻盘”？一查竟然是醉驾" group-title="余姚 · 点播",以为抽血能“翻盘”？一查竟然是醉驾 (1:31, 30MB)
 https://mc-public.yynews.com.cn/17996471309576_hd.mp4?width=1280&height=720&isVertical=0&fsize=31576446&duration=91.0
 #EXTINF:-1 tvg-id="YY-22e0daffa8c3" tvg-name="长安社区举行社区文化艺术节" group-title="余姚 · 点播",长安社区举行社区文化艺术节 (0:38, 12MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/17991063104708_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/17991057994500_hd.mp4?width=1280&height=720&isVertical=0&fsize=57508473&duration=167.0
 #EXTINF:-1 tvg-id="YY-167fdf3b0c57" tvg-name="市政协举行全会提案现场办理会暨小区物业服务提升工作推进会" group-title="余姚 · 点播",市政协举行全会提案现场办理会暨小区物业服务提升工作推进会 (3:14, 62MB)
 https://mc-public.yynews.com.cn/17991049791684_hd.mp4?width=1280&height=720&isVertical=0&fsize=65113531&duration=194.0
-#EXTINF:-1 tvg-id="YY-5df596124077" tvg-name="牟山镇公厕变干净了" group-title="余姚 · 点播",牟山镇公厕变干净了 (1:53, 35MB)
-https://mc-public.yynews.com.cn/17985513436740_hd.mp4?width=1280&height=720&isVertical=0&fsize=37026212&duration=113.0
-#EXTINF:-1 tvg-id="YY-071953c394c0" tvg-name="女子误踩捕兽夹 救援人员紧急营救" group-title="余姚 · 点播",女子误踩捕兽夹 救援人员紧急营救 (1:07, 22MB)
-https://mc-public.yynews.com.cn/17985508785540_hd.mp4?width=1280&height=720&isVertical=0&fsize=23508947&duration=67.0
-#EXTINF:-1 tvg-id="YY-d7f28e54d14a" tvg-name="万家怡：发挥专业所长 为社区IP注入活力" group-title="余姚 · 点播",万家怡：发挥专业所长 为社区IP注入活力 (2:16, 43MB)
-https://mc-public.yynews.com.cn/17985505303044_hd.mp4?width=1280&height=720&isVertical=0&fsize=45049552&duration=136.0
-#EXTINF:-1 tvg-id="YY-f55894116287" tvg-name="“橙光集市”热闹开集 温情致敬环卫工人" group-title="余姚 · 点播",“橙光集市”热闹开集 温情致敬环卫工人 (0:48, 15MB)
-https://mc-public.yynews.com.cn/17985501892424_hd.mp4?width=1280&height=720&isVertical=0&fsize=16073093&duration=48.0
-#EXTINF:-1 tvg-id="YY-589b3f7650c7" tvg-name="多方联动综合改造 老小区焕发新活力" group-title="余姚 · 点播",多方联动综合改造 老小区焕发新活力 (2:31, 49MB)
-https://mc-public.yynews.com.cn/17985498063748_hd.mp4?width=1280&height=720&isVertical=0&fsize=50963305&duration=151.0
-#EXTINF:-1 tvg-id="YY-7f08e0eb9be8" tvg-name="煜昌电器：智造升级拓市场 移动照明“点亮”全球" group-title="余姚 · 点播",煜昌电器：智造升级拓市场 移动照明“点亮”全球 (2:46, 54MB)
-https://mc-public.yynews.com.cn/17985491970884_hd.mp4?width=1280&height=720&isVertical=0&fsize=56600135&duration=166.0
-#EXTINF:-1 tvg-id="YY-6ec1d7f42614" tvg-name="市委常委会会议召开" group-title="余姚 · 点播",市委常委会会议召开 (2:29, 47MB)
-https://mc-public.yynews.com.cn/17985485569416_hd.mp4?width=1280&height=720&isVertical=0&fsize=49787530&duration=149.0
