@@ -10,6 +10,8 @@
 
 
 # ===== Reuters World News =====
+#EXTINF:-1 tvg-id="PC-dc5b0c9fe542" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-31] Judge blocks DOJ threats， Italy strike， Burnham 'open to slave trade apology'
+https://pdst.fm/e/traffic.megaphone.fm/THRH9274813553.mp3
 #EXTINF:-1 tvg-id="PC-8bbf474d6355" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-30] Crypto hack， tech stocks dip， remembering Patrick Stewart (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH7395862530.mp3
 #EXTINF:-1 tvg-id="PC-95268c62d62f" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-29] Alaska Senate dispute， Spain mourns， Bolsonaro's declaration (Updated)
@@ -32,8 +34,6 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH1449050641.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH4680718624.mp3
 #EXTINF:-1 tvg-id="PC-299c4d23fb00" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-20] Macron's twilight， Trump's approval and AI hacking
 https://pdst.fm/e/traffic.megaphone.fm/THRH5824648444.mp3
-#EXTINF:-1 tvg-id="PC-076e7a1abde0" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-19] France curfew， Russian energy strikes， Trump's golf course fight (Updated)
-https://pdst.fm/e/traffic.megaphone.fm/THRH1513700445.mp3
 
 # ===== WSJ The Journal =====
 #EXTINF:-1 tvg-id="PC-dc1b20a263b1" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-30] Is AI Running Out of Money to Borrow?
@@ -62,6 +62,8 @@ https://pdst.fm/e/traffic.megaphone.fm/WSJ2601135661.mp3
 https://pdst.fm/e/traffic.megaphone.fm/WSJ3154297257.mp3
 
 # ===== WSJ What's News =====
+#EXTINF:-1 tvg-id="PC-6183ead070ba" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-31] What’s News in Markets: AI Selloff Deepens， Tech Earnings Disappoint， Binance Hack
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/5c2331f1-47b3-42ed-ad76-f04e3bac0793/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=5c2331f1-47b3-42ed-ad76-f04e3bac0793&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-32d04076121d" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-30] Welcome to the Prediction-Market Election
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/c39a5955-eda3-45ba-a80c-d1bfc1fb0dee/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=c39a5955-eda3-45ba-a80c-d1bfc1fb0dee&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-dc978ee1d4a1" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-30] How UPS and FedEx Are Riding Diesel Costs to Higher Revenues
@@ -84,8 +86,6 @@ https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episod
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/c56011e1-1fd1-4775-b3f1-f2b9b3b12add/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=c56011e1-1fd1-4775-b3f1-f2b9b3b12add&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-71c2e1a49952" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-26] The Internet Isn’t Buying Trump’s Economic Claims
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/1b54382e-a972-4fe2-887f-4ae1a445fc76/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=1b54382e-a972-4fe2-887f-4ae1a445fc76&feed=BA5QWI2p
-#EXTINF:-1 tvg-id="PC-39c991bdbf13" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-10-25] Social Security Is Breaking and Congress Doesn’t Have a Plan
-https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/21d639dd-bdb1-486b-9274-9a5ac80f62e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=21d639dd-bdb1-486b-9274-9a5ac80f62e6&feed=BA5QWI2p
 
 # ===== WSJ Tech News Briefing =====
 #EXTINF:-1 tvg-id="PC-5a515120e574" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-10-30] How Anthropic Beat OpenAI to Wall Street
