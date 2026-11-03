@@ -6,6 +6,24 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-a71280a0ec6c" tvg-name="袁毛线被曝光建筑垃圾点位已全部清零" group-title="余姚 · 点播",袁毛线被曝光建筑垃圾点位已全部清零 (1:51, 35MB)
+https://mc-public.yynews.com.cn/18018738062724_hd.mp4?width=1280&height=720&isVertical=0&fsize=36459001&duration=111.0
+#EXTINF:-1 tvg-id="YY-af3eab2d7286" tvg-name="2026余姚四明山登山系列赛启幕" group-title="余姚 · 点播",2026余姚四明山登山系列赛启幕 (1:09, 23MB)
+https://mc-public.yynews.com.cn/18018732438728_hd.mp4?width=1280&height=720&isVertical=0&fsize=23864100&duration=69.0
+#EXTINF:-1 tvg-id="YY-993689bc3038" tvg-name="阳明心学研学活动举行" group-title="余姚 · 点播",阳明心学研学活动举行 (0:35, 10MB)
+https://mc-public.yynews.com.cn/18018727699460_hd.mp4?width=1280&height=720&isVertical=0&fsize=10915749&duration=35.0
+#EXTINF:-1 tvg-id="YY-9f2eba5ba369" tvg-name="2026中天阁论道——“从阳明心学到当代中国”吴晓波专场在姚举行" group-title="余姚 · 点播",2026中天阁论道——“从阳明心学到当代中国”吴晓波专场在姚举行 (1:19, 25MB)
+https://mc-public.yynews.com.cn/18018723193156_hd.mp4?width=1280&height=720&isVertical=0&fsize=26462089&duration=79.0
+#EXTINF:-1 tvg-id="YY-bd4ba465a5db" tvg-name="兰江街道：存量挖潜增后劲 科创赋能稳增长 全力冲刺全年经济红" group-title="余姚 · 点播",兰江街道：存量挖潜增后劲 科创赋能稳增长 全力冲刺全年经济红 (2:59, 56MB)
+https://mc-public.yynews.com.cn/18018717279044_hd.mp4?width=1280&height=720&isVertical=0&fsize=58741491&duration=179.0
+#EXTINF:-1 tvg-id="YY-8b3c1c4e6ed3" tvg-name="2026中塑（余姚）塑料新材料产业发展大会材料开发与工艺革新论坛举行" group-title="余姚 · 点播",2026中塑（余姚）塑料新材料产业发展大会材料开发与工艺革新论坛举行 (1:10, 23MB)
+https://mc-public.yynews.com.cn/18018711986308_hd.mp4?width=1280&height=720&isVertical=0&fsize=23902678&duration=70.0
+#EXTINF:-1 tvg-id="YY-ee22cbe254a0" tvg-name="2026中塑（余姚）塑料新材料产业发展大会市场分析与交易策略论坛举行" group-title="余姚 · 点播",2026中塑（余姚）塑料新材料产业发展大会市场分析与交易策略论坛举行 (1:14, 24MB)
+https://mc-public.yynews.com.cn/18018708699784_hd.mp4?width=1280&height=720&isVertical=0&fsize=24838372&duration=74.0
+#EXTINF:-1 tvg-id="YY-2f484b878a58" tvg-name="2026中塑（余姚）塑料新材料产业发展大会主旨论坛举行" group-title="余姚 · 点播",2026中塑（余姚）塑料新材料产业发展大会主旨论坛举行 (1:32, 29MB)
+https://mc-public.yynews.com.cn/18018707458312_hd.mp4?width=1280&height=720&isVertical=0&fsize=30020111&duration=92.0
+#EXTINF:-1 tvg-id="YY-447d172c8612" tvg-name="2026阳明心学大会在姚举行" group-title="余姚 · 点播",2026阳明心学大会在姚举行 (4:34, 89MB)
+https://mc-public.yynews.com.cn/18018701886408_hd.mp4?width=1280&height=720&isVertical=0&fsize=93425047&duration=274.0
 #EXTINF:-1 tvg-id="YY-7946e52cae71" tvg-name="市委常委会(扩大)会议召开" group-title="余姚 · 点播",市委常委会(扩大)会议召开 (3:22, 65MB)
 https://mc-public.yynews.com.cn/18008282530180_hd.mp4?width=1280&height=720&isVertical=0&fsize=68584532&duration=202.0
 #EXTINF:-1 tvg-id="YY-5acfa7675841" tvg-name="阳明心学与商道实践研讨会举行" group-title="余姚 · 点播",阳明心学与商道实践研讨会举行 (2:05, 41MB)
@@ -28,21 +46,3 @@ https://mc-public.yynews.com.cn/18002871686084_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18002871600968_hd.mp4?width=1280&height=720&isVertical=0&fsize=14179116&duration=43.0
 #EXTINF:-1 tvg-id="YY-eccc7ef4ad7a" tvg-name="沃勇特调研走访文艺名家" group-title="余姚 · 点播",沃勇特调研走访文艺名家 (2:34, 50MB)
 https://mc-public.yynews.com.cn/18002871614980_hd.mp4?width=1280&height=720&isVertical=0&fsize=52533249&duration=154.0
-#EXTINF:-1 tvg-id="YY-5313af5d9596" tvg-name="全市前三季度经济社会形势分析会举行" group-title="余姚 · 点播",全市前三季度经济社会形势分析会举行 (3:13, 60MB)
-https://mc-public.yynews.com.cn/18002871631492_hd.mp4?width=1280&height=720&isVertical=0&fsize=63159772&duration=193.0
-#EXTINF:-1 tvg-id="YY-9d7d3f3dd93e" tvg-name="富巷社区:巧手做药枕 温情暖人心" group-title="余姚 · 点播",富巷社区:巧手做药枕 温情暖人心 (0:45, 14MB)
-https://mc-public.yynews.com.cn/18002871583176_hd.mp4?width=1280&height=720&isVertical=0&fsize=14833627&duration=45.0
-#EXTINF:-1 tvg-id="YY-2db7b6b54d0f" tvg-name="市人大常委会召开代表建议办理工作绩效评估会" group-title="余姚 · 点播",市人大常委会召开代表建议办理工作绩效评估会 (2:14, 43MB)
-https://mc-public.yynews.com.cn/18002871568392_hd.mp4?width=1280&height=720&isVertical=0&fsize=45176407&duration=134.0
-#EXTINF:-1 tvg-id="YY-d77aec0e4879" tvg-name="以为抽血能“翻盘”？一查竟然是醉驾" group-title="余姚 · 点播",以为抽血能“翻盘”？一查竟然是醉驾 (1:31, 30MB)
-https://mc-public.yynews.com.cn/17996471309576_hd.mp4?width=1280&height=720&isVertical=0&fsize=31576446&duration=91.0
-#EXTINF:-1 tvg-id="YY-22e0daffa8c3" tvg-name="长安社区举行社区文化艺术节" group-title="余姚 · 点播",长安社区举行社区文化艺术节 (0:38, 12MB)
-https://mc-public.yynews.com.cn/17996467536200_hd.mp4?width=1280&height=720&isVertical=0&fsize=12560154&duration=38.0
-#EXTINF:-1 tvg-id="YY-ff35dc08568c" tvg-name="农贸市场提档升级 智慧便民惠民生" group-title="余姚 · 点播",农贸市场提档升级 智慧便民惠民生 (2:02, 39MB)
-https://mc-public.yynews.com.cn/17996464089864_hd.mp4?width=1280&height=720&isVertical=0&fsize=41402144&duration=122.0
-#EXTINF:-1 tvg-id="YY-2861da053b07" tvg-name="钱百君：守护古老民俗技艺 为传统非遗注入活力" group-title="余姚 · 点播",钱百君：守护古老民俗技艺 为传统非遗注入活力 (2:04, 39MB)
-https://mc-public.yynews.com.cn/17996458644484_hd.mp4?width=1280&height=720&isVertical=0&fsize=41385953&duration=124.0
-#EXTINF:-1 tvg-id="YY-614ce8d3d0bf" tvg-name="浙江万里学院余姚校区建设加速推进" group-title="余姚 · 点播",浙江万里学院余姚校区建设加速推进 (2:00, 39MB)
-https://mc-public.yynews.com.cn/17996453452996_hd.mp4?width=1280&height=720&isVertical=0&fsize=41403370&duration=120.0
-#EXTINF:-1 tvg-id="YY-68127ee50fb3" tvg-name="艾斯伯格：竞逐户外经济新赛道 便携制冷产品俏销全球" group-title="余姚 · 点播",艾斯伯格：竞逐户外经济新赛道 便携制冷产品俏销全球 (2:39, 51MB)
-https://mc-public.yynews.com.cn/17996449879556_hd.mp4?width=1280&height=720&isVertical=0&fsize=53268797&duration=159.0
