@@ -6,6 +6,24 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-4f3458effaa5" tvg-name="黄湖村老年大学成立十周年" group-title="余姚 · 点播",黄湖村老年大学成立十周年 (0:39, 13MB)
+https://mc-public.yynews.com.cn/18024276000324_hd.mp4?width=1280&height=720&isVertical=0&fsize=13234810&duration=39.0
+#EXTINF:-1 tvg-id="YY-f3ee0330467d" tvg-name="市癌症康复协会举行第十三届秋季运动会" group-title="余姚 · 点播",市癌症康复协会举行第十三届秋季运动会 (0:35, 11MB)
+https://mc-public.yynews.com.cn/18024274055108_hd.mp4?width=1280&height=720&isVertical=0&fsize=11874882&duration=35.0
+#EXTINF:-1 tvg-id="YY-602135cf344e" tvg-name="余姚队73:84客场不敌普陀队" group-title="余姚 · 点播",余姚队73:84客场不敌普陀队 (1:49, 36MB)
+https://mc-public.yynews.com.cn/18024271772040_hd.mp4?width=1280&height=720&isVertical=0&fsize=37498795&duration=109.0
+#EXTINF:-1 tvg-id="YY-aaf0eac311d3" tvg-name="我市举行第三届塑界分享脱口秀" group-title="余姚 · 点播",我市举行第三届塑界分享脱口秀 (0:54, 17MB)
+https://mc-public.yynews.com.cn/18024268206728_hd.mp4?width=1280&height=720&isVertical=0&fsize=18225178&duration=54.0
+#EXTINF:-1 tvg-id="YY-95e11d513be2" tvg-name="500余家企业携创新产品亮相塑博会" group-title="余姚 · 点播",500余家企业携创新产品亮相塑博会 (2:26, 47MB)
+https://mc-public.yynews.com.cn/18024264222792_hd.mp4?width=1280&height=720&isVertical=0&fsize=49513338&duration=146.0
+#EXTINF:-1 tvg-id="YY-2a37ee4d34d6" tvg-name="第二十七届中国塑料博览会开幕" group-title="余姚 · 点播",第二十七届中国塑料博览会开幕 (1:28, 29MB)
+https://mc-public.yynews.com.cn/18024259805000_hd.mp4?width=1280&height=720&isVertical=0&fsize=30219989&duration=88.0
+#EXTINF:-1 tvg-id="YY-7b548a904aac" tvg-name="市政府与市总工会联席会议举行" group-title="余姚 · 点播",市政府与市总工会联席会议举行 (2:27, 49MB)
+https://mc-public.yynews.com.cn/18024256118984_hd.mp4?width=1280&height=720&isVertical=0&fsize=51845837&duration=147.0
+#EXTINF:-1 tvg-id="YY-9bf8a3f3febf" tvg-name="市领导赴塑博会展馆参观巡馆并会见客商" group-title="余姚 · 点播",市领导赴塑博会展馆参观巡馆并会见客商 (2:28, 48MB)
+https://mc-public.yynews.com.cn/18024251075140_hd.mp4?width=1280&height=720&isVertical=0&fsize=50587599&duration=148.0
+#EXTINF:-1 tvg-id="YY-c9635e345b68" tvg-name="中国地方志与中华优秀传统文化论坛“王阳明与地方志”分论坛在姚举行" group-title="余姚 · 点播",中国地方志与中华优秀传统文化论坛“王阳明与地方志”分论坛在姚举行 (1:26, 27MB)
+https://mc-public.yynews.com.cn/18024245348424_hd.mp4?width=1280&height=720&isVertical=0&fsize=28385495&duration=86.0
 #EXTINF:-1 tvg-id="YY-a71280a0ec6c" tvg-name="袁毛线被曝光建筑垃圾点位已全部清零" group-title="余姚 · 点播",袁毛线被曝光建筑垃圾点位已全部清零 (1:51, 35MB)
 https://mc-public.yynews.com.cn/18018738062724_hd.mp4?width=1280&height=720&isVertical=0&fsize=36459001&duration=111.0
 #EXTINF:-1 tvg-id="YY-af3eab2d7286" tvg-name="2026余姚四明山登山系列赛启幕" group-title="余姚 · 点播",2026余姚四明山登山系列赛启幕 (1:09, 23MB)
@@ -28,21 +46,3 @@ https://mc-public.yynews.com.cn/18018701886408_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18008282530180_hd.mp4?width=1280&height=720&isVertical=0&fsize=68584532&duration=202.0
 #EXTINF:-1 tvg-id="YY-5acfa7675841" tvg-name="阳明心学与商道实践研讨会举行" group-title="余姚 · 点播",阳明心学与商道实践研讨会举行 (2:05, 41MB)
 https://mc-public.yynews.com.cn/18008282464452_hd.mp4?width=1280&height=720&isVertical=0&fsize=42800089&duration=125.0
-#EXTINF:-1 tvg-id="YY-c6fbec4fedc7" tvg-name="市人大常委会专题询问环境治理“微民生”工作" group-title="余姚 · 点播",市人大常委会专题询问环境治理“微民生”工作 (2:12, 42MB)
-https://mc-public.yynews.com.cn/18008282495496_hd.mp4?width=1280&height=720&isVertical=0&fsize=44559408&duration=132.0
-#EXTINF:-1 tvg-id="YY-5ba4695f76dc" tvg-name="城市社科院第三十四次院长联席会议在姚召开" group-title="余姚 · 点播",城市社科院第三十四次院长联席会议在姚召开 (2:51, 55MB)
-https://mc-public.yynews.com.cn/18008282515016_hd.mp4?width=1280&height=720&isVertical=0&fsize=57850905&duration=171.0
-#EXTINF:-1 tvg-id="YY-d2d2e9fe4a84" tvg-name="王阳明心学主题书画展开展" group-title="余姚 · 点播",王阳明心学主题书画展开展 (1:50, 36MB)
-https://mc-public.yynews.com.cn/18008282481924_hd.mp4?width=1280&height=720&isVertical=0&fsize=37671805&duration=110.0
-#EXTINF:-1 tvg-id="YY-e429154cf4fd" tvg-name="与会嘉宾共话阳明心学商道实践" group-title="余姚 · 点播",与会嘉宾共话阳明心学商道实践 (2:59, 56MB)
-https://mc-public.yynews.com.cn/18008282434628_hd.mp4?width=1280&height=720&isVertical=0&fsize=58565359&duration=179.0
-#EXTINF:-1 tvg-id="YY-a5131ae037b1" tvg-name="纪念王阳明诞辰554周年礼贤仪典举行" group-title="余姚 · 点播",纪念王阳明诞辰554周年礼贤仪典举行 (0:58, 19MB)
-https://mc-public.yynews.com.cn/18008282449156_hd.mp4?width=1280&height=720&isVertical=0&fsize=19819341&duration=58.0
-#EXTINF:-1 tvg-id="YY-90733f67dd08" tvg-name="袁毛线建筑垃圾堆成山 饮用水源安全受影响" group-title="余姚 · 点播",袁毛线建筑垃圾堆成山 饮用水源安全受影响 (2:07, 41MB)
-https://mc-public.yynews.com.cn/18002871647300_hd.mp4?width=1280&height=720&isVertical=0&fsize=43491067&duration=127.0
-#EXTINF:-1 tvg-id="YY-1e3a2263bc4f" tvg-name="梨洲街道：稳增长 促转型 优环境 工业经济攀“高”创“新”" group-title="余姚 · 点播",梨洲街道：稳增长 促转型 优环境 工业经济攀“高”创“新” (2:56, 55MB)
-https://mc-public.yynews.com.cn/18002871686084_hd.mp4?width=1280&height=720&isVertical=0&fsize=58057962&duration=176.0
-#EXTINF:-1 tvg-id="YY-375b9b00dab0" tvg-name="晴暖短暂回归 冷空气接踵而至" group-title="余姚 · 点播",晴暖短暂回归 冷空气接踵而至 (0:43, 14MB)
-https://mc-public.yynews.com.cn/18002871600968_hd.mp4?width=1280&height=720&isVertical=0&fsize=14179116&duration=43.0
-#EXTINF:-1 tvg-id="YY-eccc7ef4ad7a" tvg-name="沃勇特调研走访文艺名家" group-title="余姚 · 点播",沃勇特调研走访文艺名家 (2:34, 50MB)
-https://mc-public.yynews.com.cn/18002871614980_hd.mp4?width=1280&height=720&isVertical=0&fsize=52533249&duration=154.0
