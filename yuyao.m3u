@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-5c30b534e7ef" tvg-name="2026年余姚市涉企监管“明白人”培训会举行" group-title="余姚 · 点播",2026年余姚市涉企监管“明白人”培训会举行 (1:28, 28MB)
+https://mc-public.yynews.com.cn/18029788761604_hd.mp4?width=1280&height=720&isVertical=0&fsize=29422582&duration=88.0
+#EXTINF:-1 tvg-id="YY-acea099cb1bd" tvg-name="走进塑博会：绿色创新助推塑料产业低碳转型提速" group-title="余姚 · 点播",走进塑博会：绿色创新助推塑料产业低碳转型提速 (1:38, 32MB)
+https://mc-public.yynews.com.cn/18029785078212_hd.mp4?width=1280&height=720&isVertical=0&fsize=33721212&duration=98.0
+#EXTINF:-1 tvg-id="YY-83a0c6a9e307" tvg-name="走进塑博会：智能装备“向新发力” 塑造塑料产业升级新优势" group-title="余姚 · 点播",走进塑博会：智能装备“向新发力” 塑造塑料产业升级新优势 (1:56, 38MB)
+https://mc-public.yynews.com.cn/18029778604808_hd.mp4?width=1280&height=720&isVertical=0&fsize=39829054&duration=116.0
+#EXTINF:-1 tvg-id="YY-e9e4b0d30ae7" tvg-name="我市举行两场塑化产业交流会" group-title="余姚 · 点播",我市举行两场塑化产业交流会 (1:00, 19MB)
+https://mc-public.yynews.com.cn/18029772774980_hd.mp4?width=1280&height=720&isVertical=0&fsize=19807280&duration=60.0
+#EXTINF:-1 tvg-id="YY-ea8d1394b667" tvg-name="2026中塑（余姚）塑料新材料产业发展大会暨第四届PBT高峰论坛举行" group-title="余姚 · 点播",2026中塑（余姚）塑料新材料产业发展大会暨第四届PBT高峰论坛举行 (1:24, 27MB)
+https://mc-public.yynews.com.cn/18029769895748_hd.mp4?width=1280&height=720&isVertical=0&fsize=27906856&duration=84.0
+#EXTINF:-1 tvg-id="YY-97ee74b080da" tvg-name="市住建局：深耕“小切口”城市更新 持续提升城市宜居品质" group-title="余姚 · 点播",市住建局：深耕“小切口”城市更新 持续提升城市宜居品质 (2:55, 55MB)
+https://mc-public.yynews.com.cn/18029759738500_hd.mp4?width=1280&height=720&isVertical=0&fsize=58173800&duration=175.0
+#EXTINF:-1 tvg-id="YY-3abb292c6629" tvg-name="澳乐比：加快新品研发 以创新驱动“出海”提速" group-title="余姚 · 点播",澳乐比：加快新品研发 以创新驱动“出海”提速 (2:37, 48MB)
+https://mc-public.yynews.com.cn/18029753789448_hd.mp4?width=1280&height=720&isVertical=0&fsize=49836047&duration=157.0
 #EXTINF:-1 tvg-id="YY-4f3458effaa5" tvg-name="黄湖村老年大学成立十周年" group-title="余姚 · 点播",黄湖村老年大学成立十周年 (0:39, 13MB)
 https://mc-public.yynews.com.cn/18024276000324_hd.mp4?width=1280&height=720&isVertical=0&fsize=13234810&duration=39.0
 #EXTINF:-1 tvg-id="YY-f3ee0330467d" tvg-name="市癌症康复协会举行第十三届秋季运动会" group-title="余姚 · 点播",市癌症康复协会举行第十三届秋季运动会 (0:35, 11MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/18018732438728_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18018727699460_hd.mp4?width=1280&height=720&isVertical=0&fsize=10915749&duration=35.0
 #EXTINF:-1 tvg-id="YY-9f2eba5ba369" tvg-name="2026中天阁论道——“从阳明心学到当代中国”吴晓波专场在姚举行" group-title="余姚 · 点播",2026中天阁论道——“从阳明心学到当代中国”吴晓波专场在姚举行 (1:19, 25MB)
 https://mc-public.yynews.com.cn/18018723193156_hd.mp4?width=1280&height=720&isVertical=0&fsize=26462089&duration=79.0
-#EXTINF:-1 tvg-id="YY-bd4ba465a5db" tvg-name="兰江街道：存量挖潜增后劲 科创赋能稳增长 全力冲刺全年经济红" group-title="余姚 · 点播",兰江街道：存量挖潜增后劲 科创赋能稳增长 全力冲刺全年经济红 (2:59, 56MB)
-https://mc-public.yynews.com.cn/18018717279044_hd.mp4?width=1280&height=720&isVertical=0&fsize=58741491&duration=179.0
-#EXTINF:-1 tvg-id="YY-8b3c1c4e6ed3" tvg-name="2026中塑（余姚）塑料新材料产业发展大会材料开发与工艺革新论坛举行" group-title="余姚 · 点播",2026中塑（余姚）塑料新材料产业发展大会材料开发与工艺革新论坛举行 (1:10, 23MB)
-https://mc-public.yynews.com.cn/18018711986308_hd.mp4?width=1280&height=720&isVertical=0&fsize=23902678&duration=70.0
-#EXTINF:-1 tvg-id="YY-ee22cbe254a0" tvg-name="2026中塑（余姚）塑料新材料产业发展大会市场分析与交易策略论坛举行" group-title="余姚 · 点播",2026中塑（余姚）塑料新材料产业发展大会市场分析与交易策略论坛举行 (1:14, 24MB)
-https://mc-public.yynews.com.cn/18018708699784_hd.mp4?width=1280&height=720&isVertical=0&fsize=24838372&duration=74.0
-#EXTINF:-1 tvg-id="YY-2f484b878a58" tvg-name="2026中塑（余姚）塑料新材料产业发展大会主旨论坛举行" group-title="余姚 · 点播",2026中塑（余姚）塑料新材料产业发展大会主旨论坛举行 (1:32, 29MB)
-https://mc-public.yynews.com.cn/18018707458312_hd.mp4?width=1280&height=720&isVertical=0&fsize=30020111&duration=92.0
-#EXTINF:-1 tvg-id="YY-447d172c8612" tvg-name="2026阳明心学大会在姚举行" group-title="余姚 · 点播",2026阳明心学大会在姚举行 (4:34, 89MB)
-https://mc-public.yynews.com.cn/18018701886408_hd.mp4?width=1280&height=720&isVertical=0&fsize=93425047&duration=274.0
-#EXTINF:-1 tvg-id="YY-7946e52cae71" tvg-name="市委常委会(扩大)会议召开" group-title="余姚 · 点播",市委常委会(扩大)会议召开 (3:22, 65MB)
-https://mc-public.yynews.com.cn/18008282530180_hd.mp4?width=1280&height=720&isVertical=0&fsize=68584532&duration=202.0
-#EXTINF:-1 tvg-id="YY-5acfa7675841" tvg-name="阳明心学与商道实践研讨会举行" group-title="余姚 · 点播",阳明心学与商道实践研讨会举行 (2:05, 41MB)
-https://mc-public.yynews.com.cn/18008282464452_hd.mp4?width=1280&height=720&isVertical=0&fsize=42800089&duration=125.0
