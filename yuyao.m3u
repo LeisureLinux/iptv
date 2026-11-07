@@ -6,6 +6,22 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-1a1763f85a02" tvg-name="黄家埠村公厕脏乱差亟待整治" group-title="余姚 · 点播",黄家埠村公厕脏乱差亟待整治 (2:08, 39MB)
+https://mc-public.yynews.com.cn/18041175821188_hd.mp4?width=1280&height=720&isVertical=0&fsize=40728086&duration=128.0
+#EXTINF:-1 tvg-id="YY-fa8451b59dd4" tvg-name="我市下周以阴雨天气为主" group-title="余姚 · 点播",我市下周以阴雨天气为主 (0:50, 16MB)
+https://mc-public.yynews.com.cn/18041164961096_hd.mp4?width=1280&height=720&isVertical=0&fsize=16654328&duration=50.0
+#EXTINF:-1 tvg-id="YY-bf12cd4aa013" tvg-name="富巷社区举办“秋收蔬果游园会”活动" group-title="余姚 · 点播",富巷社区举办“秋收蔬果游园会”活动 (0:24, 8MB)
+https://mc-public.yynews.com.cn/18041160161096_hd.mp4?width=1280&height=720&isVertical=0&fsize=7878877&duration=24.0
+#EXTINF:-1 tvg-id="YY-8631d5f367bd" tvg-name="市公安局交管大队违法处理大厅积极做好窗口服务工作" group-title="余姚 · 点播",市公安局交管大队违法处理大厅积极做好窗口服务工作 (1:28, 28MB)
+https://mc-public.yynews.com.cn/18041154583496_hd.mp4?width=1280&height=720&isVertical=0&fsize=29838763&duration=88.0
+#EXTINF:-1 tvg-id="YY-612403ce5913" tvg-name="稻香鳖肥效益高 “一田双收”走出致富新路" group-title="余姚 · 点播",稻香鳖肥效益高 “一田双收”走出致富新路 (2:26, 47MB)
+https://mc-public.yynews.com.cn/18041145919432_hd.mp4?width=1280&height=720&isVertical=0&fsize=48867104&duration=146.0
+#EXTINF:-1 tvg-id="YY-19240848d4a6" tvg-name="朗霞街道：土地二次开发“零增地” 撬动产业提质增效" group-title="余姚 · 点播",朗霞街道：土地二次开发“零增地” 撬动产业提质增效 (3:23, 64MB)
+https://mc-public.yynews.com.cn/18041133825672_hd.mp4?width=1280&height=720&isVertical=0&fsize=67264536&duration=203.0
+#EXTINF:-1 tvg-id="YY-1afb6fe88b03" tvg-name="我市举行“119”消防宣传月启动仪式" group-title="余姚 · 点播",我市举行“119”消防宣传月启动仪式 (0:57, 19MB)
+https://mc-public.yynews.com.cn/18041122882568_hd.mp4?width=1280&height=720&isVertical=0&fsize=19601737&duration=57.0
+#EXTINF:-1 tvg-id="YY-e63444d954cf" tvg-name="我市前三季度进出口总值同比增长12.7%" group-title="余姚 · 点播",我市前三季度进出口总值同比增长12.7% (3:41, 70MB)
+https://mc-public.yynews.com.cn/18041115571336_hd.mp4?width=1280&height=720&isVertical=0&fsize=73390859&duration=221.0
 #EXTINF:-1 tvg-id="YY-1ced01debb17" tvg-name="我市作家符利群长篇小说《天下待访》出版" group-title="余姚 · 点播",我市作家符利群长篇小说《天下待访》出版 (1:24, 25MB)
 https://mc-public.yynews.com.cn/18035328359560_hd.mp4?width=1280&height=720&isVertical=0&fsize=26184306&duration=84.0
 #EXTINF:-1 tvg-id="YY-7551943eb9bd" tvg-name="迎战“双十一” 极兔宁波转运中心智能分拣提速增效" group-title="余姚 · 点播",迎战“双十一” 极兔宁波转运中心智能分拣提速增效 (1:38, 32MB)
@@ -30,19 +46,3 @@ https://mc-public.yynews.com.cn/18029785078212_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18029778604808_hd.mp4?width=1280&height=720&isVertical=0&fsize=39829054&duration=116.0
 #EXTINF:-1 tvg-id="YY-e9e4b0d30ae7" tvg-name="我市举行两场塑化产业交流会" group-title="余姚 · 点播",我市举行两场塑化产业交流会 (1:00, 19MB)
 https://mc-public.yynews.com.cn/18029772774980_hd.mp4?width=1280&height=720&isVertical=0&fsize=19807280&duration=60.0
-#EXTINF:-1 tvg-id="YY-ea8d1394b667" tvg-name="2026中塑（余姚）塑料新材料产业发展大会暨第四届PBT高峰论坛举行" group-title="余姚 · 点播",2026中塑（余姚）塑料新材料产业发展大会暨第四届PBT高峰论坛举行 (1:24, 27MB)
-https://mc-public.yynews.com.cn/18029769895748_hd.mp4?width=1280&height=720&isVertical=0&fsize=27906856&duration=84.0
-#EXTINF:-1 tvg-id="YY-97ee74b080da" tvg-name="市住建局：深耕“小切口”城市更新 持续提升城市宜居品质" group-title="余姚 · 点播",市住建局：深耕“小切口”城市更新 持续提升城市宜居品质 (2:55, 55MB)
-https://mc-public.yynews.com.cn/18029759738500_hd.mp4?width=1280&height=720&isVertical=0&fsize=58173800&duration=175.0
-#EXTINF:-1 tvg-id="YY-3abb292c6629" tvg-name="澳乐比：加快新品研发 以创新驱动“出海”提速" group-title="余姚 · 点播",澳乐比：加快新品研发 以创新驱动“出海”提速 (2:37, 48MB)
-https://mc-public.yynews.com.cn/18029753789448_hd.mp4?width=1280&height=720&isVertical=0&fsize=49836047&duration=157.0
-#EXTINF:-1 tvg-id="YY-4f3458effaa5" tvg-name="黄湖村老年大学成立十周年" group-title="余姚 · 点播",黄湖村老年大学成立十周年 (0:39, 13MB)
-https://mc-public.yynews.com.cn/18024276000324_hd.mp4?width=1280&height=720&isVertical=0&fsize=13234810&duration=39.0
-#EXTINF:-1 tvg-id="YY-f3ee0330467d" tvg-name="市癌症康复协会举行第十三届秋季运动会" group-title="余姚 · 点播",市癌症康复协会举行第十三届秋季运动会 (0:35, 11MB)
-https://mc-public.yynews.com.cn/18024274055108_hd.mp4?width=1280&height=720&isVertical=0&fsize=11874882&duration=35.0
-#EXTINF:-1 tvg-id="YY-602135cf344e" tvg-name="余姚队73:84客场不敌普陀队" group-title="余姚 · 点播",余姚队73:84客场不敌普陀队 (1:49, 36MB)
-https://mc-public.yynews.com.cn/18024271772040_hd.mp4?width=1280&height=720&isVertical=0&fsize=37498795&duration=109.0
-#EXTINF:-1 tvg-id="YY-aaf0eac311d3" tvg-name="我市举行第三届塑界分享脱口秀" group-title="余姚 · 点播",我市举行第三届塑界分享脱口秀 (0:54, 17MB)
-https://mc-public.yynews.com.cn/18024268206728_hd.mp4?width=1280&height=720&isVertical=0&fsize=18225178&duration=54.0
-#EXTINF:-1 tvg-id="YY-95e11d513be2" tvg-name="500余家企业携创新产品亮相塑博会" group-title="余姚 · 点播",500余家企业携创新产品亮相塑博会 (2:26, 47MB)
-https://mc-public.yynews.com.cn/18024264222792_hd.mp4?width=1280&height=720&isVertical=0&fsize=49513338&duration=146.0
