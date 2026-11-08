@@ -10,6 +10,8 @@
 
 
 # ===== Reuters World News =====
+#EXTINF:-1 tvg-id="PC-9919b147a46e" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-08] Israel government talks， Poland shooting and AI shopping
+https://pdst.fm/e/traffic.megaphone.fm/THRH2491583205.mp3
 #EXTINF:-1 tvg-id="PC-b86a1aedd5bd" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-07] Stephen Miller， Paraguay's new president and Apple's hidden word list
 https://pdst.fm/e/traffic.megaphone.fm/THRH5283263777.mp3
 #EXTINF:-1 tvg-id="PC-b3c1e9d35076" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-06] Susie Wiles replaced， tech stocks rebound， Cybertruck wind down (Updated)
@@ -32,8 +34,6 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH1307986179.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH9274813553.mp3
 #EXTINF:-1 tvg-id="PC-8bbf474d6355" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-30] Crypto hack， tech stocks dip， remembering Patrick Stewart (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH7395862530.mp3
-#EXTINF:-1 tvg-id="PC-95268c62d62f" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-10-29] Alaska Senate dispute， Spain mourns， Bolsonaro's declaration (Updated)
-https://pdst.fm/e/traffic.megaphone.fm/THRH7897280670.mp3
 
 # ===== WSJ The Journal =====
 #EXTINF:-1 tvg-id="PC-05fe82a811fe" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-11-06] The Russian Officer Secretly Working for Ukraine
@@ -62,6 +62,8 @@ https://pdst.fm/e/traffic.megaphone.fm/WSJ6103201904.mp3
 https://pdst.fm/e/traffic.megaphone.fm/WSJ9518877989.mp3
 
 # ===== WSJ What's News =====
+#EXTINF:-1 tvg-id="PC-c3cd9e47abfc" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-08] Democrats Promised to Fix the Economy. Can They?
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4965932a-cca1-47af-aba9-8deceff6b607/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4965932a-cca1-47af-aba9-8deceff6b607&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-c9f3e44068fa" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-07] What’s News in Markets: AI Blues， Musk Under the Microscope， Housing Hope
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/0e475146-7398-4d41-a7ae-ac7ab467dab1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=0e475146-7398-4d41-a7ae-ac7ab467dab1&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-9e5a91c31f8e" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-06] Elon Musk Says Good-Bye to Tesla’s Cybertruck… and Hello to Texas Democrats
@@ -84,8 +86,6 @@ https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episod
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/3c2d80c5-f632-4533-8a79-3d3d505d7094/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=3c2d80c5-f632-4533-8a79-3d3d505d7094&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-d334de4aca47" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-02] Does Democrats’ Future Lie With Moderates or Progressives?
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/437b9558-8e04-4596-a99d-b4719865ff84/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=437b9558-8e04-4596-a99d-b4719865ff84&feed=BA5QWI2p
-#EXTINF:-1 tvg-id="PC-b3c99e7e77cd" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-02] Democratic Dust-up Puts Must-Win Seat at Risk
-https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/779309fe-3a93-40c4-aa48-db43c82092f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=779309fe-3a93-40c4-aa48-db43c82092f6&feed=BA5QWI2p
 
 # ===== WSJ Tech News Briefing =====
 #EXTINF:-1 tvg-id="PC-7bd010f7c373" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-11-06] AI Data Centers Face a Voter Revolt
@@ -114,6 +114,8 @@ https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episod
 https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/3a850aa2-0720-4f80-b0c7-001480aec5f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=3a850aa2-0720-4f80-b0c7-001480aec5f3&feed=ui_HbBma
 
 # ===== WSJ Take On the Week =====
+#EXTINF:-1 tvg-id="PC-c44a35ce80c2" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-11-08] Can Everyday Investors Beat the Pros in an AI Selloff?
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/090ac92a-b88b-4293-b003-e77b8a7b3cf9/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=090ac92a-b88b-4293-b003-e77b8a7b3cf9&feed=4LDzav57
 #EXTINF:-1 tvg-id="PC-d277dffb9516" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-11-01] Tech Stocks and AI Bonds Are Tumbling. Is the AI Trade in Trouble?
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/3611b084-15f9-4df8-a681-93cc308ad311/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=3611b084-15f9-4df8-a681-93cc308ad311&feed=4LDzav57
 #EXTINF:-1 tvg-id="PC-04b1deece747" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-10-25] How AI Regulation Could Help the Public—and Investors Too
@@ -136,8 +138,6 @@ https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episod
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/a9878928-4ce0-4c8b-a104-0933d053f407/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=a9878928-4ce0-4c8b-a104-0933d053f407&feed=4LDzav57
 #EXTINF:-1 tvg-id="PC-77ad7325f124" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-08-16] How to Make Inflation Work for Your Portfolio
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/a176b5ca-b29c-4c44-a3d6-d4c3909f56b1/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=a176b5ca-b29c-4c44-a3d6-d4c3909f56b1&feed=4LDzav57
-#EXTINF:-1 tvg-id="PC-b15823dd72c2" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-08-09] How AI Spending Is Fueling the Economy Overall
-https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/463dbdbe-bddc-4aec-b0a5-c9bec2ef0982/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=463dbdbe-bddc-4aec-b0a5-c9bec2ef0982&feed=4LDzav57
 
 # ===== FT News Briefing =====
 #EXTINF:-1 tvg-id="PC-1f55d8b2ae16" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-11-07] Martin Wolf on the US midterms: What will the Democrats do next?
@@ -166,6 +166,8 @@ https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6adfe6218a43f7149995534c/med
 https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6adf4072dd5d6293db7252e4/media.mp3
 
 # ===== Bloomberg Big Take =====
+#EXTINF:-1 tvg-id="PC-6f2a9baf3605" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-08] Weekend Listen: Composer Max Richter on AI and Music’s Future
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/c414edf4-e508-420b-8fec-b4fa016cec0a/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 #EXTINF:-1 tvg-id="PC-22818e13b6d2" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-06] The New AI Trade Is FOGO: ‘Fear of Getting Obliterated’
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/5446b2c6-e01e-4eb3-a4b4-b4fa0156b73d/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 #EXTINF:-1 tvg-id="PC-79e90c0be158" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-05] The Economic Levers Democrats Will Try to Pull Without Trump
@@ -188,8 +190,6 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/e602e4aa-1865-4bd6-9a74-b4f1015e0d21/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 #EXTINF:-1 tvg-id="PC-b772e13fab77" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-10-27] Anthropic's S-1
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/49861f97-a649-4827-9281-b4f00155b4cf/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
-#EXTINF:-1 tvg-id="PC-7622733fd68d" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-10-26] Does France Answer to Its Citizens or the Bond Market?
-https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/b925ce5c-e668-4db5-aff8-b4ef01630259/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 
 # ===== Bloomberg Odd Lots =====
 #EXTINF:-1 tvg-id="PC-b742caa6fb24" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-11-06] The Macro Implications of the Blue Tsunami
