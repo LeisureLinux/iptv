@@ -6,6 +6,22 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-78fe4731c1c3" tvg-name="男子驾驶摩托车强行冲卡逃逸被拘留" group-title="余姚 · 点播",男子驾驶摩托车强行冲卡逃逸被拘留 (2:32, 46MB)
+https://mc-public.yynews.com.cn/18057412129284_hd.mp4?width=1280&height=720&isVertical=0&fsize=48512958&duration=152.0
+#EXTINF:-1 tvg-id="YY-ee924b5ef502" tvg-name="我与作家面对面公益讲座举行" group-title="余姚 · 点播",我与作家面对面公益讲座举行 (1:21, 26MB)
+https://mc-public.yynews.com.cn/18057407804808_hd.mp4?width=1280&height=720&isVertical=0&fsize=27251396&duration=81.0
+#EXTINF:-1 tvg-id="YY-4652e1844222" tvg-name="2026健峰国际CEO论坛在姚举行" group-title="余姚 · 点播",2026健峰国际CEO论坛在姚举行 (1:09, 22MB)
+https://mc-public.yynews.com.cn/18057404495172_hd.mp4?width=1280&height=720&isVertical=0&fsize=22976230&duration=69.0
+#EXTINF:-1 tvg-id="YY-127c2a9998b5" tvg-name="我市举行“119”消防宣传月主题嘉年华活动" group-title="余姚 · 点播",我市举行“119”消防宣传月主题嘉年华活动 (2:00, 39MB)
+https://mc-public.yynews.com.cn/18057401759876_hd.mp4?width=1280&height=720&isVertical=0&fsize=41348853&duration=120.0
+#EXTINF:-1 tvg-id="YY-d4dd81a55b59" tvg-name="“名城强市一线行”融媒主题采访行动启动" group-title="余姚 · 点播",“名城强市一线行”融媒主题采访行动启动 (1:27, 27MB)
+https://mc-public.yynews.com.cn/18057394474692_hd.mp4?width=1280&height=720&isVertical=0&fsize=28832572&duration=87.0
+#EXTINF:-1 tvg-id="YY-2b0f4cf44c45" tvg-name="黄山未来社区道路建设进入收尾阶段" group-title="余姚 · 点播",黄山未来社区道路建设进入收尾阶段 (1:09, 23MB)
+https://mc-public.yynews.com.cn/18057390466696_hd.mp4?width=1280&height=720&isVertical=0&fsize=23653394&duration=69.0
+#EXTINF:-1 tvg-id="YY-5e002d345880" tvg-name="王阳明艺术馆、胡晋美术馆双馆联开" group-title="余姚 · 点播",王阳明艺术馆、胡晋美术馆双馆联开 (1:43, 33MB)
+https://mc-public.yynews.com.cn/18057389707976_hd.mp4?width=1280&height=720&isVertical=0&fsize=34180268&duration=103.0
+#EXTINF:-1 tvg-id="YY-f51766eb6e1f" tvg-name="低塘街道：科创赋能 向新提质 拼抢冲刺决胜全年目标" group-title="余姚 · 点播",低塘街道：科创赋能 向新提质 拼抢冲刺决胜全年目标 (2:49, 55MB)
+https://mc-public.yynews.com.cn/18057385053444_hd.mp4?width=1280&height=720&isVertical=0&fsize=57225916&duration=169.0
 #EXTINF:-1 tvg-id="YY-e6a95f0cf6c3" tvg-name="一周新闻回顾" group-title="余姚 · 点播",一周新闻回顾 (5:16, 99MB)
 https://mc-public.yynews.com.cn/18046409078660_hd.mp4?width=1280&height=720&isVertical=0&fsize=104214508&duration=316.0
 #EXTINF:-1 tvg-id="YY-a054b7740ce5" tvg-name="秋季蛇类频繁入宅 消防上门处置忙" group-title="余姚 · 点播",秋季蛇类频繁入宅 消防上门处置忙 (1:00, 20MB)
@@ -30,19 +46,3 @@ https://mc-public.yynews.com.cn/18041154583496_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18041145919432_hd.mp4?width=1280&height=720&isVertical=0&fsize=48867104&duration=146.0
 #EXTINF:-1 tvg-id="YY-19240848d4a6" tvg-name="朗霞街道：土地二次开发“零增地” 撬动产业提质增效" group-title="余姚 · 点播",朗霞街道：土地二次开发“零增地” 撬动产业提质增效 (3:23, 64MB)
 https://mc-public.yynews.com.cn/18041133825672_hd.mp4?width=1280&height=720&isVertical=0&fsize=67264536&duration=203.0
-#EXTINF:-1 tvg-id="YY-1afb6fe88b03" tvg-name="我市举行“119”消防宣传月启动仪式" group-title="余姚 · 点播",我市举行“119”消防宣传月启动仪式 (0:57, 19MB)
-https://mc-public.yynews.com.cn/18041122882568_hd.mp4?width=1280&height=720&isVertical=0&fsize=19601737&duration=57.0
-#EXTINF:-1 tvg-id="YY-e63444d954cf" tvg-name="我市前三季度进出口总值同比增长12.7%" group-title="余姚 · 点播",我市前三季度进出口总值同比增长12.7% (3:41, 70MB)
-https://mc-public.yynews.com.cn/18041115571336_hd.mp4?width=1280&height=720&isVertical=0&fsize=73390859&duration=221.0
-#EXTINF:-1 tvg-id="YY-1ced01debb17" tvg-name="我市作家符利群长篇小说《天下待访》出版" group-title="余姚 · 点播",我市作家符利群长篇小说《天下待访》出版 (1:24, 25MB)
-https://mc-public.yynews.com.cn/18035328359560_hd.mp4?width=1280&height=720&isVertical=0&fsize=26184306&duration=84.0
-#EXTINF:-1 tvg-id="YY-7551943eb9bd" tvg-name="迎战“双十一” 极兔宁波转运中心智能分拣提速增效" group-title="余姚 · 点播",迎战“双十一” 极兔宁波转运中心智能分拣提速增效 (1:38, 32MB)
-https://mc-public.yynews.com.cn/18035321775556_hd.mp4?width=1280&height=720&isVertical=0&fsize=33536302&duration=98.0
-#EXTINF:-1 tvg-id="YY-b3ed85458644" tvg-name="我市举行消防行业职业技能大赛" group-title="余姚 · 点播",我市举行消防行业职业技能大赛 (1:30, 29MB)
-https://mc-public.yynews.com.cn/18035316943176_hd.mp4?width=1280&height=720&isVertical=0&fsize=30015501&duration=90.0
-#EXTINF:-1 tvg-id="YY-be86c2d74d79" tvg-name="我市举行校园食材配送企业开放日活动" group-title="余姚 · 点播",我市举行校园食材配送企业开放日活动 (1:30, 29MB)
-https://mc-public.yynews.com.cn/18035310346180_hd.mp4?width=1280&height=720&isVertical=0&fsize=30500466&duration=90.0
-#EXTINF:-1 tvg-id="YY-ec21122e5975" tvg-name="2026松阳·余姚文化走亲文艺演出举行" group-title="余姚 · 点播",2026松阳·余姚文化走亲文艺演出举行 (1:00, 19MB)
-https://mc-public.yynews.com.cn/18035302492292_hd.mp4?width=1280&height=720&isVertical=0&fsize=20150141&duration=60.0
-#EXTINF:-1 tvg-id="YY-b18278dc7063" tvg-name="2026年全国“四季村晚”秋季示范展示活动走进柿林村" group-title="余姚 · 点播",2026年全国“四季村晚”秋季示范展示活动走进柿林村 (1:54, 38MB)
-https://mc-public.yynews.com.cn/18035295765444_hd.mp4?width=1280&height=720&isVertical=0&fsize=39568439&duration=114.0
