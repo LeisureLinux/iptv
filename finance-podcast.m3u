@@ -10,7 +10,7 @@
 
 
 # ===== Reuters World News =====
-#EXTINF:-1 tvg-id="PC-a530a8fd71af" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-10] FBI Nvidia probe， Hegseth impeachment vote and Russia-Ukraine talks
+#EXTINF:-1 tvg-id="PC-a530a8fd71af" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-10] Hegseth， FBI Nvidia probe， Anthropic valuation (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH6910415486.mp3
 #EXTINF:-1 tvg-id="PC-fff3c54bba82" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-09] Nvidia spy probe， Russell Brand sentenced， Black Sea tensions (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH6631130161.mp3
@@ -62,6 +62,8 @@ https://pdst.fm/e/traffic.megaphone.fm/WSJ4321196173.mp3
 https://pdst.fm/e/traffic.megaphone.fm/WSJ6103201904.mp3
 
 # ===== WSJ What's News =====
+#EXTINF:-1 tvg-id="PC-4fff46c13a3b" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-10] Investors Weigh Fallout from Nvidia Spy Scandal
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/29513efc-7673-462f-a226-08f37e291002/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=29513efc-7673-462f-a226-08f37e291002&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-68d5c687df9a" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-09] Broad Market Rally Leaves Nvidia Decline an Outlier
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/2d832f5e-1809-4cda-b495-2129ead722e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=2d832f5e-1809-4cda-b495-2129ead722e0&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-10f56aaddee3" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-09] What Does Beijing Know About Nvidia’s Jensen Huang?
@@ -84,8 +86,6 @@ https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episod
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/d6c6ff85-db74-4557-948d-789d904491fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=d6c6ff85-db74-4557-948d-789d904491fb&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-76a013006257" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-04] A Blue Wave Just Swept Congress
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/880d35a3-d70b-453e-ad61-af068a1f4b5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=880d35a3-d70b-453e-ad61-af068a1f4b5d&feed=BA5QWI2p
-#EXTINF:-1 tvg-id="PC-6ba1f01269b7" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-03] As Midterm Election Results Roll In， These Are the Races to Watch
-https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/8e1d4caa-55e6-40c9-a5e6-2a39a8ee88c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=8e1d4caa-55e6-40c9-a5e6-2a39a8ee88c9&feed=BA5QWI2p
 
 # ===== WSJ Tech News Briefing =====
 #EXTINF:-1 tvg-id="PC-c9362bc09c1d" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-11-10] What the Jensen Huang Investigation Means for Nvidia
@@ -218,6 +218,10 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/fc8d0d2b-9eb1-4ed2-bdfb-b4e9015241dc/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 
 # ===== Bloomberg Surveillance =====
+#EXTINF:-1 tvg-id="PC-efc31cc87ff9" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-11-10] Bloomberg Surveillance TV: November 10th， 2026
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/f230069a-24b8-4af2-840a-b4fe0115c671/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
+#EXTINF:-1 tvg-id="PC-fad61bb89b51" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-11-10] Stocks， Bonds Fall as CPI Data Fuel Fed-Hike Bets
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/31965bb2-e470-4914-a000-b4fe00f70777/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 #EXTINF:-1 tvg-id="PC-22ed0ae96302" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-11-09] Bloomberg Surveillance TV: November 9th， 2026
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/bab5b54f-54f2-4be9-aae1-b4fd011a10fb/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 #EXTINF:-1 tvg-id="PC-d104b94cc640" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-11-09] Stocks Rise as Dip-Buyers Shrug Off Nvidia Woes
@@ -238,10 +242,6 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/5f7abc2c-50fc-420f-955a-b4f80123fcec/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 #EXTINF:-1 tvg-id="PC-37e1dbadf582" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-11-04] Dem Midterm Sweep
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/49330726-0e0a-4740-9d3c-b4f800f5c925/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
-#EXTINF:-1 tvg-id="PC-d225490e56e5" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-11-03] Bloomberg Surveillance TV: November 3rd， 2026
-https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/f07edaae-7e45-47ad-b25f-b4f70124008e/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
-#EXTINF:-1 tvg-id="PC-7a0477af8caa" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-11-03] Tech， Markets， and the Midterms
-https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/068af1f5-6acd-42d5-915a-b4f700f3e99c/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 
 # ===== The Economist: The Intelligence =====
 #EXTINF:-1 tvg-id="PC-2b6b72fa9f3e" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-11-10] When chips are down: Nvidia CEO’s risky relationship
@@ -374,6 +374,8 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/e74d3834-8265-44a7-9f7a-7faea05468b8/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=e74d3834-8265-44a7-9f7a-7faea05468b8&feed=Nh1wIaXT
 
 # ===== CNBC Power Lunch =====
+#EXTINF:-1 tvg-id="PC-668a062d910a" tvg-name="CNBC Power Lunch" group-title="播客 · CNBC",CNBC Power Lunch: [2026-11-10] Nvidia Fallout， AI IPO Frenzy and Rate Hike Risks
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d/episodes/4fe9c625-b19b-44d3-a9be-de4d56255667/audio/128/default.mp3?aid=rss_feed&awCollectionId=9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d&awEpisodeId=4fe9c625-b19b-44d3-a9be-de4d56255667&feed=_qvRgwME
 #EXTINF:-1 tvg-id="PC-1571519322ec" tvg-name="CNBC Power Lunch" group-title="播客 · CNBC",CNBC Power Lunch: [2026-11-09] Nvidia Investigation， AI Stock Rally and Data Center Power Demand
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d/episodes/9aac2e1e-91db-4c28-a0f6-9530289e3f6e/audio/128/default.mp3?aid=rss_feed&awCollectionId=9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d&awEpisodeId=9aac2e1e-91db-4c28-a0f6-9530289e3f6e&feed=_qvRgwME
 #EXTINF:-1 tvg-id="PC-88c2697b7271" tvg-name="CNBC Power Lunch" group-title="播客 · CNBC",CNBC Power Lunch: [2026-11-06] Tech Sell-Off， AI Repricing and Washington Shakeup
@@ -396,10 +398,16 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9c1a7910-3bc1-4b12
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d/episodes/c8c4fe5f-06e2-498b-b40c-382f0af8a0b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d&awEpisodeId=c8c4fe5f-06e2-498b-b40c-382f0af8a0b3&feed=_qvRgwME
 #EXTINF:-1 tvg-id="PC-ef4cbc62f253" tvg-name="CNBC Power Lunch" group-title="播客 · CNBC",CNBC Power Lunch: [2026-10-26] Previewing Big Tech Earnings， Anthropic IPO Announcement， Countdown to Midterms 10/26/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d/episodes/3a5dbc6d-0553-45a6-bec1-9702089dbe42/audio/128/default.mp3?aid=rss_feed&awCollectionId=9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d&awEpisodeId=3a5dbc6d-0553-45a6-bec1-9702089dbe42&feed=_qvRgwME
-#EXTINF:-1 tvg-id="PC-ebe2e8112f4b" tvg-name="CNBC Power Lunch" group-title="播客 · CNBC",CNBC Power Lunch: [2026-10-23] Oil Hits 5-Month High， iPhone Duo Launch， Weekend Sports Slate 10/23/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d/episodes/cd0b5dcf-50ee-4e4d-9210-7f707281301d/audio/128/default.mp3?aid=rss_feed&awCollectionId=9c1a7910-3bc1-4b12-9f5e-bd6526e7fe1d&awEpisodeId=cd0b5dcf-50ee-4e4d-9210-7f707281301d&feed=_qvRgwME
 
 # ===== CNBC Squawk on the Street =====
+#EXTINF:-1 tvg-id="PC-d4bf88c186ff" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-11-10] CNBC Investing Club: Cramer's Morning Take on Nvidia 11/10/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/24e1f48a-c558-41d8-a2d2-d79de6527af0/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=24e1f48a-c558-41d8-a2d2-d79de6527af0&feed=GcylmXl7
+#EXTINF:-1 tvg-id="PC-5bc846721844" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-11-10] 11AM Hour: Zillow CEO， Oracle CFO & the Road to Anthropic's IPO 11/10/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/874979d6-d34b-4e35-9595-c568b6c21280/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=874979d6-d34b-4e35-9595-c568b6c21280&feed=GcylmXl7
+#EXTINF:-1 tvg-id="PC-b99a90989755" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-11-10] 10AM Hour: Anthropic Sets IPO Price Range， Fallout at Nvidia， David Zervos on CPI Print & Calls for Rate Hikes 11/10/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/41970800-285c-4ef8-9a56-56f2c9334b89/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=41970800-285c-4ef8-9a56-56f2c9334b89&feed=GcylmXl7
+#EXTINF:-1 tvg-id="PC-d79c27bd2f78" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-11-10] 9AM HOUR: Anthropic Sets IPO Price Range， Nvidia Shares Extend Losses on Jensen Huang Investigation 11/10/26
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/a8ee9f25-3ee8-486d-88e0-70b1b1d9444d/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=a8ee9f25-3ee8-486d-88e0-70b1b1d9444d&feed=GcylmXl7
 #EXTINF:-1 tvg-id="PC-dbf580824ee6" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-11-09] 11AM Hour: Goldman Sachs CEO David Solomon， Former Treasury Secretary Jack Lew & Nvidia Investigates CEO Jensen Huang 11/9/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/c3a31fc7-fe8a-44ab-9e68-c18469302e32/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=c3a31fc7-fe8a-44ab-9e68-c18469302e32&feed=GcylmXl7
 #EXTINF:-1 tvg-id="PC-99006701605c" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-11-09] 10AM Hour: Nvidia CEO Jensen Huang’s Affair with Alleged Chinese Spy， Future of the AI Trade， Gwyneth Paltrow on OpenAI Investment 11/9/26
@@ -416,16 +424,10 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/2799d82a-6871-44cf-b5fc-00e6128604c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=2799d82a-6871-44cf-b5fc-00e6128604c6&feed=GcylmXl7
 #EXTINF:-1 tvg-id="PC-6da2ca29d9f5" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-11-05] 10AM Hour: Tech Stocks Plunge， Chip Stocks Have Worst Day Since March 2020， Arm CEO on Impact of Midterms and Data Center Pushback
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/8028a89b-4633-4213-813e-6413475739ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=8028a89b-4633-4213-813e-6413475739ba&feed=GcylmXl7
-#EXTINF:-1 tvg-id="PC-21151bf390a1" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-11-05] 9AM HOUR: Dow's Big Post-Election Rally Takes a Detour， Nasdaq Sell-Off， Arm CEO 'First on CNBC' 11/5/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/b2041061-b104-4c81-863b-9f34030aa036/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=b2041061-b104-4c81-863b-9f34030aa036&feed=GcylmXl7
-#EXTINF:-1 tvg-id="PC-8cdf265af6bf" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-11-04] CNBC Investing Club: Cramer's Morning Take on Home Depot 11/4/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/94e89e90-8f86-44d5-ae80-b2bb7373e102/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=94e89e90-8f86-44d5-ae80-b2bb7373e102&feed=GcylmXl7
-#EXTINF:-1 tvg-id="PC-f2b56828f0fa" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-11-04] 11AM Hour: Stocks Rally After Midterm Elections， Circle CEO on Earnings & CVS to Split Up 11/4/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/dbeb5d9e-e46c-4499-820e-b1ebcb3df622/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=dbeb5d9e-e46c-4499-820e-b1ebcb3df622&feed=GcylmXl7
-#EXTINF:-1 tvg-id="PC-e3ec17fb39b8" tvg-name="CNBC Squawk on the Street" group-title="播客 · CNBC",CNBC Squawk on the Street: [2026-11-04] 10AM Hour: Stocks Rip on Back of Democratic Midterm Victories， Orlando Bravo on Election and Tech， AMD CEO on Data Center Demand 11/4/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/6b40b0ac-a012-4b08-ba64-a6155e532a9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=6b40b0ac-a012-4b08-ba64-a6155e532a9e&feed=GcylmXl7
 
 # ===== CNBC Halftime Report =====
+#EXTINF:-1 tvg-id="PC-e87d571f074f" tvg-name="CNBC Halftime Report" group-title="播客 · CNBC",CNBC Halftime Report: [2026-11-10] NVIDIA Fallout， Anthropic IPO and Hot CPI Hit Markets
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/58cc2b58-be18-4cff-a419-baa17f083fa2/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=58cc2b58-be18-4cff-a419-baa17f083fa2&feed=qltQrd_8
 #EXTINF:-1 tvg-id="PC-c2b17ff773b4" tvg-name="CNBC Halftime Report" group-title="播客 · CNBC",CNBC Halftime Report: [2026-11-09] NVIDIA Fallout and AI Trade Rotation
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/479b2e96-4eae-486f-9f7d-56b6689cbdee/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=479b2e96-4eae-486f-9f7d-56b6689cbdee&feed=qltQrd_8
 #EXTINF:-1 tvg-id="PC-d68e534a3e3d" tvg-name="CNBC Halftime Report" group-title="播客 · CNBC",CNBC Halftime Report: [2026-11-06] More Tech Trouble Ahead? 11/6/26
@@ -448,10 +450,10 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/ad000b9d-2e50-47f2-bd7c-d798cdb1cc20/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=ad000b9d-2e50-47f2-bd7c-d798cdb1cc20&feed=qltQrd_8
 #EXTINF:-1 tvg-id="PC-7eac8288e7c5" tvg-name="CNBC Halftime Report" group-title="播客 · CNBC",CNBC Halftime Report: [2026-10-26] The Investment Committee Prepares for a Pivotal Week 10/26/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/ae6a663f-1c39-48c8-81bb-621140c1ce51/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=ae6a663f-1c39-48c8-81bb-621140c1ce51&feed=qltQrd_8
-#EXTINF:-1 tvg-id="PC-83c70a0f7403" tvg-name="CNBC Halftime Report" group-title="播客 · CNBC",CNBC Halftime Report: [2026-10-23] Shifting Sentiment and Sliding Semis: The Investment Committee's Strategy 10/23/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/254b998a-36ce-4c17-9b8b-2974a5b81c6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=254b998a-36ce-4c17-9b8b-2974a5b81c6d&feed=qltQrd_8
 
 # ===== CNBC Worldwide Exchange =====
+#EXTINF:-1 tvg-id="PC-cc88b2340c4f" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-11-10] Nvidia China Probe， Allstate CEO Tom Wilson & Blue Origin Data Centers
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/521fe32b-f874-4327-bb9f-a25327345eb5/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=521fe32b-f874-4327-bb9f-a25327345eb5&feed=Bt3ITxGl
 #EXTINF:-1 tvg-id="PC-79d8a9cfd9bd" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-11-09] NVIDIA Probe， AI Export Controls and the Market Risk Ahead
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/b0e41e59-0571-423f-aa56-a06d890818c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=b0e41e59-0571-423f-aa56-a06d890818c9&feed=Bt3ITxGl
 #EXTINF:-1 tvg-id="PC-79de7bdfcb79" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-11-06] AI Sell-Off， Data Center Policy and the Space Race After Midterms 11/6/26
@@ -474,10 +476,12 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/d0e91e79-4e86-4a7c-9ef8-f3fba2592851/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=d0e91e79-4e86-4a7c-9ef8-f3fba2592851&feed=Bt3ITxGl
 #EXTINF:-1 tvg-id="PC-0e7870d808f5" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-10-26] Morning Call 10/26/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/792148aa-cee5-4312-9a9d-73cc298d0ebf/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=792148aa-cee5-4312-9a9d-73cc298d0ebf&feed=Bt3ITxGl
-#EXTINF:-1 tvg-id="PC-e4e64f523a4d" tvg-name="CNBC Worldwide Exchange" group-title="播客 · CNBC",CNBC Worldwide Exchange: [2026-10-23] Market rotation， AI and oil risks 10/23/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/04f0d741-80e7-4bb4-9be4-a4fcc61db758/episodes/bab7d3e5-0798-474b-ae81-58bd8f21d0b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=04f0d741-80e7-4bb4-9be4-a4fcc61db758&awEpisodeId=bab7d3e5-0798-474b-ae81-58bd8f21d0b6&feed=Bt3ITxGl
 
 # ===== CNBC The Exchange =====
+#EXTINF:-1 tvg-id="PC-ba97e33338dd" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-11-10] Nvidia Selloff， Fed Hike Odds and AI IPOs Rattle Markets
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/0e9e4452-f741-4718-b8d6-002983ef2f42/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=0e9e4452-f741-4718-b8d6-002983ef2f42&feed=tc4zxWgX
+#EXTINF:-1 tvg-id="PC-bfe529afe587" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-11-09] NVIDIA Spy Probe， AI Risks and Market Rally
+https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/81c7538d-9232-41f1-aea1-6c95d672f927/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=81c7538d-9232-41f1-aea1-6c95d672f927&feed=tc4zxWgX
 #EXTINF:-1 tvg-id="PC-5241b20f6788" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-11-06] Mary Daly on Rate Hikes， AI Sell-Off and Jobs Friday 11/6/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/d05f73c6-af77-4c65-909f-f871c3317241/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=d05f73c6-af77-4c65-909f-f871c3317241&feed=tc4zxWgX
 #EXTINF:-1 tvg-id="PC-67eead19e18a" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-11-05] AI Stock Sell-Off: Tech Rout， Data Centers and Market Volatility
@@ -498,10 +502,6 @@ https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/35eb6c56-0114-45cd-880b-ea4a7e25dca6/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=35eb6c56-0114-45cd-880b-ea4a7e25dca6&feed=tc4zxWgX
 #EXTINF:-1 tvg-id="PC-b6324eaa2856" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-10-26] Anthropic’s Public IPO Filing， Big Tech on Deck， and Down the (AI)sle 10/26/26
 https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/04ac03e3-68d8-4536-bdaf-547adbbbe06b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=04ac03e3-68d8-4536-bdaf-547adbbbe06b&feed=tc4zxWgX
-#EXTINF:-1 tvg-id="PC-c06cd7edefad" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-10-23] The Exchange 10/23/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/9c9ffd83-5d6b-4226-91ee-e70eb08c94c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=9c9ffd83-5d6b-4226-91ee-e70eb08c94c9&feed=tc4zxWgX
-#EXTINF:-1 tvg-id="PC-2920c0079f89" tvg-name="CNBC The Exchange" group-title="播客 · CNBC",CNBC The Exchange: [2026-10-22] Capital Concerns Hammer the AI Trade 10/22/26
-https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/6238655f-ae42-419d-a14c-edccbf577d8e/episodes/1473fdea-a2ce-4edb-87eb-781b5a6c67bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=6238655f-ae42-419d-a14c-edccbf577d8e&awEpisodeId=1473fdea-a2ce-4edb-87eb-781b5a6c67bd&feed=tc4zxWgX
 
 # ===== Barron's Streetwise =====
 #EXTINF:-1 tvg-id="PC-a12d892c7c5d" tvg-name="Barron's Streetwise" group-title="播客 · Barron's 巴伦周刊",Barron's Streetwise: [2026-11-06] America’s Debt Reckoning: 5 Paths Forward
@@ -556,6 +556,8 @@ https://dowjones.simplecastaudio.com/fe30a23b-9a6c-4ef3-aebe-ffd83da0b186/episod
 https://dowjones.simplecastaudio.com/fe30a23b-9a6c-4ef3-aebe-ffd83da0b186/episodes/6941a38d-5d64-46b5-9e10-fff0bd9b2248/audio/128/default.mp3?aid=rss_feed&awCollectionId=fe30a23b-9a6c-4ef3-aebe-ffd83da0b186&awEpisodeId=6941a38d-5d64-46b5-9e10-fff0bd9b2248&feed=XyZBmBkh
 
 # ===== Barron's Advisor =====
+#EXTINF:-1 tvg-id="PC-2cb1072f3b3b" tvg-name="Barron's Advisor" group-title="播客 · Barron's 巴伦周刊",Barron's Advisor: [2026-11-10] James Taylor: Advisors Who Don’t Embrace AI Will Be Left Behind
+https://dowjones.simplecastaudio.com/1f4d2356-2b1d-4e94-8214-218a0482c55f/episodes/394c4955-d8bd-40e7-8f23-55f5a3974288/audio/128/default.mp3?aid=rss_feed&awCollectionId=1f4d2356-2b1d-4e94-8214-218a0482c55f&awEpisodeId=394c4955-d8bd-40e7-8f23-55f5a3974288&feed=BzvzPbSM
 #EXTINF:-1 tvg-id="PC-08397b0df342" tvg-name="Barron's Advisor" group-title="播客 · Barron's 巴伦周刊",Barron's Advisor: [2026-11-03] Matt Ludmer: When Success Stops Feeling Like Success
 https://dowjones.simplecastaudio.com/1f4d2356-2b1d-4e94-8214-218a0482c55f/episodes/7a440acc-765a-406c-8c2c-b98c17504d6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=1f4d2356-2b1d-4e94-8214-218a0482c55f&awEpisodeId=7a440acc-765a-406c-8c2c-b98c17504d6a&feed=BzvzPbSM
 #EXTINF:-1 tvg-id="PC-873aea771a1f" tvg-name="Barron's Advisor" group-title="播客 · Barron's 巴伦周刊",Barron's Advisor: [2026-10-27] Erin Moriarity: How I Generated More Than 100 Million YouTube Views
@@ -578,10 +580,10 @@ https://dowjones.simplecastaudio.com/1f4d2356-2b1d-4e94-8214-218a0482c55f/episod
 https://dowjones.simplecastaudio.com/1f4d2356-2b1d-4e94-8214-218a0482c55f/episodes/be220edd-d307-4b77-83af-2314f47ea63e/audio/128/default.mp3?aid=rss_feed&awCollectionId=1f4d2356-2b1d-4e94-8214-218a0482c55f&awEpisodeId=be220edd-d307-4b77-83af-2314f47ea63e&feed=BzvzPbSM
 #EXTINF:-1 tvg-id="PC-8e40e65600eb" tvg-name="Barron's Advisor" group-title="播客 · Barron's 巴伦周刊",Barron's Advisor: [2026-08-25] Andrei Pop: Using an AI Workforce to Scale Your RIA
 https://dowjones.simplecastaudio.com/1f4d2356-2b1d-4e94-8214-218a0482c55f/episodes/b22eecbf-0224-4bb0-b520-b766fccc0745/audio/128/default.mp3?aid=rss_feed&awCollectionId=1f4d2356-2b1d-4e94-8214-218a0482c55f&awEpisodeId=b22eecbf-0224-4bb0-b520-b766fccc0745&feed=BzvzPbSM
-#EXTINF:-1 tvg-id="PC-fa6139d23b28" tvg-name="Barron's Advisor" group-title="播客 · Barron's 巴伦周刊",Barron's Advisor: [2026-08-18] Andrew Goldberg: Solving for Liquidity Concerns in Private Investments
-https://dowjones.simplecastaudio.com/1f4d2356-2b1d-4e94-8214-218a0482c55f/episodes/aea12472-d324-40e8-b36f-0456741496f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=1f4d2356-2b1d-4e94-8214-218a0482c55f&awEpisodeId=aea12472-d324-40e8-b36f-0456741496f2&feed=BzvzPbSM
 
 # ===== HBR IdeaCast =====
+#EXTINF:-1 tvg-id="PC-34336f4316ab" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: [2026-11-10] What Customers Really Value—and Why Leaders Keep Getting It Wrong
+https://audio.hbr.org/ideacast/20261109142610_825380-WhatCustomersReallyValueandWhyLeadersKeepGettingItWrong.mp3
 #EXTINF:-1 tvg-id="PC-cd3757120b07" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: [2026-11-03] The Topics We Avoid at Work—and How to Start Talking About Them
 https://audio.hbr.org/ideacast/20261102141503_127701-TheTopicsWeAvoidatWorkandHowtoStartTalkingAboutThem.mp3
 #EXTINF:-1 tvg-id="PC-de0d22667be8" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: [2026-10-27] Staying Principled in a Time of Uncertainty
@@ -604,10 +606,10 @@ https://audio.hbr.org/ideacast/20260923133912_482972-HowAIIsChangingCommunicatio
 https://audio.hbr.org/ideacast/20260921132656_495101-WhatNewCEOsGetWrongAbouttheJob.mp3
 #EXTINF:-1 tvg-id="PC-540de361c9c4" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: [2026-09-17] How AI Is Changing Talent， Not Just Tasks: Rethinking Where Human Judgment Matters Most
 https://audio.hbr.org/ideacast/20260916132643_129426-HowAIIsChangingTalentNotJustTasks_RethinkingWhereHumanJudgmentMattersMost.mp3
-#EXTINF:-1 tvg-id="PC-982dedaa9d23" tvg-name="HBR IdeaCast" group-title="播客 · 哈佛商学院 HBS",HBR IdeaCast: [2026-09-15] What It Takes to Make Progress When the Future Feels Out of Control
-https://audio.hbr.org/ideacast/20260914123952_772802-WhatItTakestoMakeProgressWhentheFutureFeelsOutofControl.mp3
 
 # ===== HBS Cold Call =====
+#EXTINF:-1 tvg-id="PC-7e2c221e72a0" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: [2026-11-10] When a Short Seller Came for Samsonite Over Accounting Flaws
+https://audio.hbr.org/cold-call/20261109145411_961470-WhenaShortSellerCameforSamsoniteOverAccountingFlaws.mp3
 #EXTINF:-1 tvg-id="PC-113179965147" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: [2026-10-27] How the CEO of Rolls-Royce Turned an Underperforming Company Around
 https://audio.hbr.org/cold-call/20261023121100_297247-HowtheCEOofRolls-RoyceTurnedanUnderperformingCompanyAround.mp3
 #EXTINF:-1 tvg-id="PC-06e9903d9ccf" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: [2026-10-13] Restructuring Mobile Game Giant Supercell for a Turnaround
@@ -630,8 +632,6 @@ https://audio.hbr.org/cold-call/20260731120025-WhyMetaphysicAILookedtoHollywoodf
 https://audio.hbr.org/cold-call/20260717104946-HowaMuseumMarketingTeamUsedAItoBringPeopleClosertoArt.mp3
 #EXTINF:-1 tvg-id="PC-b7efee5e9178" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: [2026-07-07] Are We Entering a New Age of Creativity with the Help of AI?
 https://audio.hbr.org/cold-call/20260702093609-AreWeEnteringaNewAgeofCreativitywiththeHelpofAI_.mp3
-#EXTINF:-1 tvg-id="PC-b628b6365ca5" tvg-name="HBS Cold Call" group-title="播客 · 哈佛商学院 HBS",HBS Cold Call: [2026-06-23] How School of Rock Created Structure in Order to Scale with Agility and Creativity
-https://audio.hbr.org/cold-call/20260618123231-HowSchoolofRockCreatedStructureinOrdertoScalewithAgilityandCreativity.mp3
 
 # ===== HBS Managing the Future of Work =====
 #EXTINF:-1 tvg-id="PC-cc4bfd48cd59" tvg-name="HBS Managing the Future of Work" group-title="播客 · 哈佛商学院 HBS",HBS Managing the Future of Work: [2026-10-23] Coursera's Greg Hart: From MOOCs to skills for the AI economy
