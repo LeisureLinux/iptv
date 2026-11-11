@@ -6,6 +6,18 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-aff693b26c9a" tvg-name="黄家埠镇公厕整改完成" group-title="余姚 · 点播",黄家埠镇公厕整改完成 (1:49, 33MB)
+https://mc-public.yynews.com.cn/18063018597188_hd.mp4?width=1280&height=720&isVertical=0&fsize=34762083&duration=109.0
+#EXTINF:-1 tvg-id="YY-d79760864788" tvg-name="货车运输遗撒致路面污染 执法部门从严查处追责" group-title="余姚 · 点播",货车运输遗撒致路面污染 执法部门从严查处追责 (2:11, 41MB)
+https://mc-public.yynews.com.cn/18062953618504_hd.mp4?width=1280&height=720&isVertical=0&fsize=42741585&duration=131.0
+#EXTINF:-1 tvg-id="YY-3e37c84407f5" tvg-name="徐伟雄：坚守弹棉老手艺 温暖冬日旧时光" group-title="余姚 · 点播",徐伟雄：坚守弹棉老手艺 温暖冬日旧时光 (2:08, 40MB)
+https://mc-public.yynews.com.cn/18062948985544_hd.mp4?width=1280&height=720&isVertical=0&fsize=42374003&duration=128.0
+#EXTINF:-1 tvg-id="YY-76100088ea00" tvg-name="我市打造首个网络餐饮规范化聚集区" group-title="余姚 · 点播",我市打造首个网络餐饮规范化聚集区 (1:55, 37MB)
+https://mc-public.yynews.com.cn/18062944561988_hd.mp4?width=1280&height=720&isVertical=0&fsize=38895947&duration=115.0
+#EXTINF:-1 tvg-id="YY-8367781168d5" tvg-name="抢抓“双十一”窗口期 共富工坊激活乡村振兴新动能" group-title="余姚 · 点播",抢抓“双十一”窗口期 共富工坊激活乡村振兴新动能 (2:31, 50MB)
+https://mc-public.yynews.com.cn/18062941115144_hd.mp4?width=1280&height=720&isVertical=0&fsize=52309145&duration=151.0
+#EXTINF:-1 tvg-id="YY-bba04675a18a" tvg-name="禾盈电器：以创新产品抢占海外新市场" group-title="余姚 · 点播",禾盈电器：以创新产品抢占海外新市场 (2:32, 52MB)
+https://mc-public.yynews.com.cn/18062933583620_hd.mp4?width=1280&height=720&isVertical=0&fsize=54294049&duration=152.0
 #EXTINF:-1 tvg-id="YY-78fe4731c1c3" tvg-name="男子驾驶摩托车强行冲卡逃逸被拘留" group-title="余姚 · 点播",男子驾驶摩托车强行冲卡逃逸被拘留 (2:32, 46MB)
 https://mc-public.yynews.com.cn/18057412129284_hd.mp4?width=1280&height=720&isVertical=0&fsize=48512958&duration=152.0
 #EXTINF:-1 tvg-id="YY-ee924b5ef502" tvg-name="我与作家面对面公益讲座举行" group-title="余姚 · 点播",我与作家面对面公益讲座举行 (1:21, 26MB)
@@ -34,15 +46,3 @@ https://mc-public.yynews.com.cn/18046381570184_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18046373327752_hd.mp4?width=1280&height=720&isVertical=0&fsize=41203210&duration=125.0
 #EXTINF:-1 tvg-id="YY-757db66e2aca" tvg-name="前三季度我市GDP同比增长6.3%" group-title="余姚 · 点播",前三季度我市GDP同比增长6.3% (3:07, 61MB)
 https://mc-public.yynews.com.cn/18046361032456_hd.mp4?width=1280&height=720&isVertical=0&fsize=63532466&duration=187.0
-#EXTINF:-1 tvg-id="YY-1a1763f85a02" tvg-name="黄家埠村公厕脏乱差亟待整治" group-title="余姚 · 点播",黄家埠村公厕脏乱差亟待整治 (2:08, 39MB)
-https://mc-public.yynews.com.cn/18041175821188_hd.mp4?width=1280&height=720&isVertical=0&fsize=40728086&duration=128.0
-#EXTINF:-1 tvg-id="YY-fa8451b59dd4" tvg-name="我市下周以阴雨天气为主" group-title="余姚 · 点播",我市下周以阴雨天气为主 (0:50, 16MB)
-https://mc-public.yynews.com.cn/18041164961096_hd.mp4?width=1280&height=720&isVertical=0&fsize=16654328&duration=50.0
-#EXTINF:-1 tvg-id="YY-bf12cd4aa013" tvg-name="富巷社区举办“秋收蔬果游园会”活动" group-title="余姚 · 点播",富巷社区举办“秋收蔬果游园会”活动 (0:24, 8MB)
-https://mc-public.yynews.com.cn/18041160161096_hd.mp4?width=1280&height=720&isVertical=0&fsize=7878877&duration=24.0
-#EXTINF:-1 tvg-id="YY-8631d5f367bd" tvg-name="市公安局交管大队违法处理大厅积极做好窗口服务工作" group-title="余姚 · 点播",市公安局交管大队违法处理大厅积极做好窗口服务工作 (1:28, 28MB)
-https://mc-public.yynews.com.cn/18041154583496_hd.mp4?width=1280&height=720&isVertical=0&fsize=29838763&duration=88.0
-#EXTINF:-1 tvg-id="YY-612403ce5913" tvg-name="稻香鳖肥效益高 “一田双收”走出致富新路" group-title="余姚 · 点播",稻香鳖肥效益高 “一田双收”走出致富新路 (2:26, 47MB)
-https://mc-public.yynews.com.cn/18041145919432_hd.mp4?width=1280&height=720&isVertical=0&fsize=48867104&duration=146.0
-#EXTINF:-1 tvg-id="YY-19240848d4a6" tvg-name="朗霞街道：土地二次开发“零增地” 撬动产业提质增效" group-title="余姚 · 点播",朗霞街道：土地二次开发“零增地” 撬动产业提质增效 (3:23, 64MB)
-https://mc-public.yynews.com.cn/18041133825672_hd.mp4?width=1280&height=720&isVertical=0&fsize=67264536&duration=203.0
