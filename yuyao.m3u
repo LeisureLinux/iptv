@@ -6,6 +6,18 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-6c047ba29ed5" tvg-name="泗门一滨水公厕长期封闭闲置" group-title="余姚 · 点播",泗门一滨水公厕长期封闭闲置 (1:41, 32MB)
+https://mc-public.yynews.com.cn/18068485687432_hd.mp4?width=1280&height=720&isVertical=0&fsize=33423146&duration=101.0
+#EXTINF:-1 tvg-id="YY-431857826763" tvg-name="“小小食安检验员”实验室开放日活动举行" group-title="余姚 · 点播",“小小食安检验员”实验室开放日活动举行 (1:18, 25MB)
+https://mc-public.yynews.com.cn/18068481916040_hd.mp4?width=1280&height=720&isVertical=0&fsize=26443283&duration=78.0
+#EXTINF:-1 tvg-id="YY-6dc84c22ef42" tvg-name="“吊红”压枝销路稳 共富工坊铺就村民增收路" group-title="余姚 · 点播",“吊红”压枝销路稳 共富工坊铺就村民增收路 (1:59, 38MB)
+https://mc-public.yynews.com.cn/18068478139908_hd.mp4?width=1280&height=720&isVertical=0&fsize=39460822&duration=119.0
+#EXTINF:-1 tvg-id="YY-28d8976f94a3" tvg-name="泗门镇：“强产兴城”跑出加速度 奋力打造“名城强市”样板" group-title="余姚 · 点播",泗门镇：“强产兴城”跑出加速度 奋力打造“名城强市”样板 (2:48, 54MB)
+https://mc-public.yynews.com.cn/18068473450244_hd.mp4?width=1280&height=720&isVertical=0&fsize=56577824&duration=168.0
+#EXTINF:-1 tvg-id="YY-3a0cc9c3c9f7" tvg-name="市政协开展重点提案办理民主评议暨提案“回头看”活动" group-title="余姚 · 点播",市政协开展重点提案办理民主评议暨提案“回头看”活动 (2:14, 46MB)
+https://mc-public.yynews.com.cn/18068463858052_hd.mp4?width=1280&height=720&isVertical=0&fsize=48435468&duration=134.0
+#EXTINF:-1 tvg-id="YY-c8db30e19a72" tvg-name="市政府与市法院、市检察院联席会议举行" group-title="余姚 · 点播",市政府与市法院、市检察院联席会议举行 (3:17, 64MB)
+https://mc-public.yynews.com.cn/18068459722116_hd.mp4?width=1280&height=720&isVertical=0&fsize=66952420&duration=197.0
 #EXTINF:-1 tvg-id="YY-aff693b26c9a" tvg-name="黄家埠镇公厕整改完成" group-title="余姚 · 点播",黄家埠镇公厕整改完成 (1:49, 33MB)
 https://mc-public.yynews.com.cn/18063018597188_hd.mp4?width=1280&height=720&isVertical=0&fsize=34762083&duration=109.0
 #EXTINF:-1 tvg-id="YY-d79760864788" tvg-name="货车运输遗撒致路面污染 执法部门从严查处追责" group-title="余姚 · 点播",货车运输遗撒致路面污染 执法部门从严查处追责 (2:11, 41MB)
@@ -34,15 +46,3 @@ https://mc-public.yynews.com.cn/18057390466696_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18057389707976_hd.mp4?width=1280&height=720&isVertical=0&fsize=34180268&duration=103.0
 #EXTINF:-1 tvg-id="YY-f51766eb6e1f" tvg-name="低塘街道：科创赋能 向新提质 拼抢冲刺决胜全年目标" group-title="余姚 · 点播",低塘街道：科创赋能 向新提质 拼抢冲刺决胜全年目标 (2:49, 55MB)
 https://mc-public.yynews.com.cn/18057385053444_hd.mp4?width=1280&height=720&isVertical=0&fsize=57225916&duration=169.0
-#EXTINF:-1 tvg-id="YY-e6a95f0cf6c3" tvg-name="一周新闻回顾" group-title="余姚 · 点播",一周新闻回顾 (5:16, 99MB)
-https://mc-public.yynews.com.cn/18046409078660_hd.mp4?width=1280&height=720&isVertical=0&fsize=104214508&duration=316.0
-#EXTINF:-1 tvg-id="YY-a054b7740ce5" tvg-name="秋季蛇类频繁入宅 消防上门处置忙" group-title="余姚 · 点播",秋季蛇类频繁入宅 消防上门处置忙 (1:00, 20MB)
-https://mc-public.yynews.com.cn/18046395428808_hd.mp4?width=1280&height=720&isVertical=0&fsize=20552524&duration=60.0
-#EXTINF:-1 tvg-id="YY-cc9fd17d269f" tvg-name="柿林村：“吊红”熟了引客来 以旅兴村绘新景" group-title="余姚 · 点播",柿林村：“吊红”熟了引客来 以旅兴村绘新景 (1:57, 40MB)
-https://mc-public.yynews.com.cn/18046389701060_hd.mp4?width=1280&height=720&isVertical=0&fsize=41574679&duration=117.0
-#EXTINF:-1 tvg-id="YY-0c89a88e1ecf" tvg-name="余姚队67:84不敌杭州队" group-title="余姚 · 点播",余姚队67:84不敌杭州队 (1:47, 34MB)
-https://mc-public.yynews.com.cn/18046381570184_hd.mp4?width=1280&height=720&isVertical=0&fsize=35571211&duration=107.0
-#EXTINF:-1 tvg-id="YY-d3ab58ec1c10" tvg-name="第二十七届中国塑料博览会圆满落幕" group-title="余姚 · 点播",第二十七届中国塑料博览会圆满落幕 (2:05, 39MB)
-https://mc-public.yynews.com.cn/18046373327752_hd.mp4?width=1280&height=720&isVertical=0&fsize=41203210&duration=125.0
-#EXTINF:-1 tvg-id="YY-757db66e2aca" tvg-name="前三季度我市GDP同比增长6.3%" group-title="余姚 · 点播",前三季度我市GDP同比增长6.3% (3:07, 61MB)
-https://mc-public.yynews.com.cn/18046361032456_hd.mp4?width=1280&height=720&isVertical=0&fsize=63532466&duration=187.0
