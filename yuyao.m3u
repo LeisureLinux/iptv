@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-477510582180" tvg-name="雨天路面湿滑 三辆车高速失控掉头" group-title="余姚 · 点播",雨天路面湿滑 三辆车高速失控掉头 (1:25, 29MB)
+https://mc-public.yynews.com.cn/18073996694404_hd.mp4?width=1280&height=720&isVertical=0&fsize=30434813&duration=85.0
+#EXTINF:-1 tvg-id="YY-c3399f127827" tvg-name="市职技校教师用智慧课堂破解体育教学难题" group-title="余姚 · 点播",市职技校教师用智慧课堂破解体育教学难题 (2:20, 44MB)
+https://mc-public.yynews.com.cn/18073984577032_hd.mp4?width=1280&height=720&isVertical=0&fsize=46215791&duration=140.0
+#EXTINF:-1 tvg-id="YY-78c8638af282" tvg-name="鹿亭乡：共富工坊铺就村民增收路" group-title="余姚 · 点播",鹿亭乡：共富工坊铺就村民增收路 (2:33, 49MB)
+https://mc-public.yynews.com.cn/18073988990916_hd.mp4?width=1280&height=720&isVertical=0&fsize=51805491&duration=153.0
+#EXTINF:-1 tvg-id="YY-78c18f75429d" tvg-name="余姚队客场负于台州队" group-title="余姚 · 点播",余姚队客场负于台州队 (1:47, 34MB)
+https://mc-public.yynews.com.cn/18073991818248_hd.mp4?width=1280&height=720&isVertical=0&fsize=35938476&duration=107.0
+#EXTINF:-1 tvg-id="YY-1f4f2c1dfae9" tvg-name="今年城区新增公共停车位超1000个" group-title="余姚 · 点播",今年城区新增公共停车位超1000个 (1:09, 22MB)
+https://mc-public.yynews.com.cn/18073990470724_hd.mp4?width=1280&height=720&isVertical=0&fsize=23504115&duration=69.0
+#EXTINF:-1 tvg-id="YY-43ca4052ed08" tvg-name="露营经济持续升温 铭弘户外赶单忙" group-title="余姚 · 点播",露营经济持续升温 铭弘户外赶单忙 (2:01, 41MB)
+https://mc-public.yynews.com.cn/18073989744068_hd.mp4?width=1280&height=720&isVertical=0&fsize=42579469&duration=121.0
+#EXTINF:-1 tvg-id="YY-80873205c129" tvg-name="前三季度我市智能光伏产业链增加值同比增长近四成" group-title="余姚 · 点播",前三季度我市智能光伏产业链增加值同比增长近四成 (2:34, 53MB)
+https://mc-public.yynews.com.cn/18073962161864_hd.mp4?width=1280&height=720&isVertical=0&fsize=55391521&duration=154.0
 #EXTINF:-1 tvg-id="YY-6c047ba29ed5" tvg-name="泗门一滨水公厕长期封闭闲置" group-title="余姚 · 点播",泗门一滨水公厕长期封闭闲置 (1:41, 32MB)
 https://mc-public.yynews.com.cn/18068485687432_hd.mp4?width=1280&height=720&isVertical=0&fsize=33423146&duration=101.0
 #EXTINF:-1 tvg-id="YY-431857826763" tvg-name="“小小食安检验员”实验室开放日活动举行" group-title="余姚 · 点播",“小小食安检验员”实验室开放日活动举行 (1:18, 25MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/18062941115144_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18062933583620_hd.mp4?width=1280&height=720&isVertical=0&fsize=54294049&duration=152.0
 #EXTINF:-1 tvg-id="YY-78fe4731c1c3" tvg-name="男子驾驶摩托车强行冲卡逃逸被拘留" group-title="余姚 · 点播",男子驾驶摩托车强行冲卡逃逸被拘留 (2:32, 46MB)
 https://mc-public.yynews.com.cn/18057412129284_hd.mp4?width=1280&height=720&isVertical=0&fsize=48512958&duration=152.0
-#EXTINF:-1 tvg-id="YY-ee924b5ef502" tvg-name="我与作家面对面公益讲座举行" group-title="余姚 · 点播",我与作家面对面公益讲座举行 (1:21, 26MB)
-https://mc-public.yynews.com.cn/18057407804808_hd.mp4?width=1280&height=720&isVertical=0&fsize=27251396&duration=81.0
-#EXTINF:-1 tvg-id="YY-4652e1844222" tvg-name="2026健峰国际CEO论坛在姚举行" group-title="余姚 · 点播",2026健峰国际CEO论坛在姚举行 (1:09, 22MB)
-https://mc-public.yynews.com.cn/18057404495172_hd.mp4?width=1280&height=720&isVertical=0&fsize=22976230&duration=69.0
-#EXTINF:-1 tvg-id="YY-127c2a9998b5" tvg-name="我市举行“119”消防宣传月主题嘉年华活动" group-title="余姚 · 点播",我市举行“119”消防宣传月主题嘉年华活动 (2:00, 39MB)
-https://mc-public.yynews.com.cn/18057401759876_hd.mp4?width=1280&height=720&isVertical=0&fsize=41348853&duration=120.0
-#EXTINF:-1 tvg-id="YY-d4dd81a55b59" tvg-name="“名城强市一线行”融媒主题采访行动启动" group-title="余姚 · 点播",“名城强市一线行”融媒主题采访行动启动 (1:27, 27MB)
-https://mc-public.yynews.com.cn/18057394474692_hd.mp4?width=1280&height=720&isVertical=0&fsize=28832572&duration=87.0
-#EXTINF:-1 tvg-id="YY-2b0f4cf44c45" tvg-name="黄山未来社区道路建设进入收尾阶段" group-title="余姚 · 点播",黄山未来社区道路建设进入收尾阶段 (1:09, 23MB)
-https://mc-public.yynews.com.cn/18057390466696_hd.mp4?width=1280&height=720&isVertical=0&fsize=23653394&duration=69.0
-#EXTINF:-1 tvg-id="YY-5e002d345880" tvg-name="王阳明艺术馆、胡晋美术馆双馆联开" group-title="余姚 · 点播",王阳明艺术馆、胡晋美术馆双馆联开 (1:43, 33MB)
-https://mc-public.yynews.com.cn/18057389707976_hd.mp4?width=1280&height=720&isVertical=0&fsize=34180268&duration=103.0
-#EXTINF:-1 tvg-id="YY-f51766eb6e1f" tvg-name="低塘街道：科创赋能 向新提质 拼抢冲刺决胜全年目标" group-title="余姚 · 点播",低塘街道：科创赋能 向新提质 拼抢冲刺决胜全年目标 (2:49, 55MB)
-https://mc-public.yynews.com.cn/18057385053444_hd.mp4?width=1280&height=720&isVertical=0&fsize=57225916&duration=169.0
