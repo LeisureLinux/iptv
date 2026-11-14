@@ -6,6 +6,24 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-0ee0133fce6b" tvg-name="男童被反锁卧室 消防及时救援" group-title="余姚 · 点播",男童被反锁卧室 消防及时救援 (0:42, 13MB)
+https://mc-public.yynews.com.cn/18080225162692_hd.mp4?width=1280&height=720&isVertical=0&fsize=13589007&duration=42.0
+#EXTINF:-1 tvg-id="YY-6beba037afb1" tvg-name="轮胎“出逃”占车道 后车避让撞护栏" group-title="余姚 · 点播",轮胎“出逃”占车道 后车避让撞护栏 (1:23, 27MB)
+https://mc-public.yynews.com.cn/18080219098696_hd.mp4?width=1280&height=720&isVertical=0&fsize=28575699&duration=83.0
+#EXTINF:-1 tvg-id="YY-d5405ac9cd81" tvg-name="未来一周我市将迎来多次降雨过程" group-title="余姚 · 点播",未来一周我市将迎来多次降雨过程 (0:40, 13MB)
+https://mc-public.yynews.com.cn/18080210776776_hd.mp4?width=1280&height=720&isVertical=0&fsize=13410630&duration=40.0
+#EXTINF:-1 tvg-id="YY-1bae95ed6301" tvg-name="糖尿病科普义诊走进庙弄村" group-title="余姚 · 点播",糖尿病科普义诊走进庙弄村 (0:45, 14MB)
+https://mc-public.yynews.com.cn/18080202485252_hd.mp4?width=1280&height=720&isVertical=0&fsize=14462898&duration=45.0
+#EXTINF:-1 tvg-id="YY-faadd239e241" tvg-name="市市场监管局开展“百姓点检”活动" group-title="余姚 · 点播",市市场监管局开展“百姓点检”活动 (1:02, 20MB)
+https://mc-public.yynews.com.cn/18080196195528_hd.mp4?width=1280&height=720&isVertical=0&fsize=21190585&duration=62.0
+#EXTINF:-1 tvg-id="YY-31a91f59109d" tvg-name="“双十一”期间取暖小家电热销" group-title="余姚 · 点播",“双十一”期间取暖小家电热销 (1:22, 26MB)
+https://mc-public.yynews.com.cn/18080188813960_hd.mp4?width=1280&height=720&isVertical=0&fsize=26852298&duration=82.0
+#EXTINF:-1 tvg-id="YY-196c497669f4" tvg-name="马渚镇：科创蓄力项目提速 实干冲刺全年红" group-title="余姚 · 点播",马渚镇：科创蓄力项目提速 实干冲刺全年红 (3:32, 69MB)
+https://mc-public.yynews.com.cn/18080178659012_hd.mp4?width=1280&height=720&isVertical=0&fsize=71965254&duration=212.0
+#EXTINF:-1 tvg-id="YY-f4d4870a89e8" tvg-name="市委理论学习中心组举行安全生产专题学习会" group-title="余姚 · 点播",市委理论学习中心组举行安全生产专题学习会 (2:44, 53MB)
+https://mc-public.yynews.com.cn/18080091788936_hd.mp4?width=1280&height=720&isVertical=0&fsize=55472874&duration=164.0
+#EXTINF:-1 tvg-id="YY-6ec1d7f42614" tvg-name="市委常委会会议召开" group-title="余姚 · 点播",市委常委会会议召开 (1:50, 36MB)
+https://mc-public.yynews.com.cn/18080047867652_hd.mp4?width=1280&height=720&isVertical=0&fsize=38062755&duration=110.0
 #EXTINF:-1 tvg-id="YY-477510582180" tvg-name="雨天路面湿滑 三辆车高速失控掉头" group-title="余姚 · 点播",雨天路面湿滑 三辆车高速失控掉头 (1:25, 29MB)
 https://mc-public.yynews.com.cn/18073996694404_hd.mp4?width=1280&height=720&isVertical=0&fsize=30434813&duration=85.0
 #EXTINF:-1 tvg-id="YY-c3399f127827" tvg-name="市职技校教师用智慧课堂破解体育教学难题" group-title="余姚 · 点播",市职技校教师用智慧课堂破解体育教学难题 (2:20, 44MB)
@@ -28,21 +46,3 @@ https://mc-public.yynews.com.cn/18068481916040_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18068478139908_hd.mp4?width=1280&height=720&isVertical=0&fsize=39460822&duration=119.0
 #EXTINF:-1 tvg-id="YY-28d8976f94a3" tvg-name="泗门镇：“强产兴城”跑出加速度 奋力打造“名城强市”样板" group-title="余姚 · 点播",泗门镇：“强产兴城”跑出加速度 奋力打造“名城强市”样板 (2:48, 54MB)
 https://mc-public.yynews.com.cn/18068473450244_hd.mp4?width=1280&height=720&isVertical=0&fsize=56577824&duration=168.0
-#EXTINF:-1 tvg-id="YY-3a0cc9c3c9f7" tvg-name="市政协开展重点提案办理民主评议暨提案“回头看”活动" group-title="余姚 · 点播",市政协开展重点提案办理民主评议暨提案“回头看”活动 (2:14, 46MB)
-https://mc-public.yynews.com.cn/18068463858052_hd.mp4?width=1280&height=720&isVertical=0&fsize=48435468&duration=134.0
-#EXTINF:-1 tvg-id="YY-c8db30e19a72" tvg-name="市政府与市法院、市检察院联席会议举行" group-title="余姚 · 点播",市政府与市法院、市检察院联席会议举行 (3:17, 64MB)
-https://mc-public.yynews.com.cn/18068459722116_hd.mp4?width=1280&height=720&isVertical=0&fsize=66952420&duration=197.0
-#EXTINF:-1 tvg-id="YY-aff693b26c9a" tvg-name="黄家埠镇公厕整改完成" group-title="余姚 · 点播",黄家埠镇公厕整改完成 (1:49, 33MB)
-https://mc-public.yynews.com.cn/18063018597188_hd.mp4?width=1280&height=720&isVertical=0&fsize=34762083&duration=109.0
-#EXTINF:-1 tvg-id="YY-d79760864788" tvg-name="货车运输遗撒致路面污染 执法部门从严查处追责" group-title="余姚 · 点播",货车运输遗撒致路面污染 执法部门从严查处追责 (2:11, 41MB)
-https://mc-public.yynews.com.cn/18062953618504_hd.mp4?width=1280&height=720&isVertical=0&fsize=42741585&duration=131.0
-#EXTINF:-1 tvg-id="YY-3e37c84407f5" tvg-name="徐伟雄：坚守弹棉老手艺 温暖冬日旧时光" group-title="余姚 · 点播",徐伟雄：坚守弹棉老手艺 温暖冬日旧时光 (2:08, 40MB)
-https://mc-public.yynews.com.cn/18062948985544_hd.mp4?width=1280&height=720&isVertical=0&fsize=42374003&duration=128.0
-#EXTINF:-1 tvg-id="YY-76100088ea00" tvg-name="我市打造首个网络餐饮规范化聚集区" group-title="余姚 · 点播",我市打造首个网络餐饮规范化聚集区 (1:55, 37MB)
-https://mc-public.yynews.com.cn/18062944561988_hd.mp4?width=1280&height=720&isVertical=0&fsize=38895947&duration=115.0
-#EXTINF:-1 tvg-id="YY-8367781168d5" tvg-name="抢抓“双十一”窗口期 共富工坊激活乡村振兴新动能" group-title="余姚 · 点播",抢抓“双十一”窗口期 共富工坊激活乡村振兴新动能 (2:31, 50MB)
-https://mc-public.yynews.com.cn/18062941115144_hd.mp4?width=1280&height=720&isVertical=0&fsize=52309145&duration=151.0
-#EXTINF:-1 tvg-id="YY-bba04675a18a" tvg-name="禾盈电器：以创新产品抢占海外新市场" group-title="余姚 · 点播",禾盈电器：以创新产品抢占海外新市场 (2:32, 52MB)
-https://mc-public.yynews.com.cn/18062933583620_hd.mp4?width=1280&height=720&isVertical=0&fsize=54294049&duration=152.0
-#EXTINF:-1 tvg-id="YY-78fe4731c1c3" tvg-name="男子驾驶摩托车强行冲卡逃逸被拘留" group-title="余姚 · 点播",男子驾驶摩托车强行冲卡逃逸被拘留 (2:32, 46MB)
-https://mc-public.yynews.com.cn/18057412129284_hd.mp4?width=1280&height=720&isVertical=0&fsize=48512958&duration=152.0
