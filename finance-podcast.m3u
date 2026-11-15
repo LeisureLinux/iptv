@@ -10,6 +10,8 @@
 
 
 # ===== Reuters World News =====
+#EXTINF:-1 tvg-id="PC-6c1f960c23a8" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-15] Aviation routers， SpaceX， COP31 and young male voters
+https://pdst.fm/e/traffic.megaphone.fm/THRH5858707424.mp3
 #EXTINF:-1 tvg-id="PC-1d0386447fea" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-14] FAA restores flights， Trump plans nuclear talks in China and SS United States' final voyage
 https://pdst.fm/e/traffic.megaphone.fm/THRH9771832534.mp3
 #EXTINF:-1 tvg-id="PC-22e9619784db" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-13] FAA issues ground stop， Nvidia and Microsoft latest， Pope returns to Peru (Update)
@@ -32,8 +34,6 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH2843102372.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH2126475733.mp3
 #EXTINF:-1 tvg-id="PC-583e2496e704" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-05] Trump's first post-midterm speech， Musk scrutiny， Alaska and Mississippi keep counting
 https://pdst.fm/e/traffic.megaphone.fm/THRH2599345629.mp3
-#EXTINF:-1 tvg-id="PC-6f1a1040d29e" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-04] El-Sayed， midterms firsts and global reactions
-https://pdst.fm/e/traffic.megaphone.fm/THRH1439791983.mp3
 
 # ===== WSJ The Journal =====
 #EXTINF:-1 tvg-id="PC-1f027f39866c" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-11-15] Why Schwab’s CEO Is Betting on a Post-Midterm Rally
@@ -166,9 +166,11 @@ https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ae92f9185d3a4476285ae02/med
 https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6ae7cc5fc89efe5866e85367/media.mp3
 
 # ===== Bloomberg Big Take =====
+#EXTINF:-1 tvg-id="PC-7600f9ac2a14" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-15] Weekend Listen: How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/e0913328-ccb6-4d4e-b0f5-b50300d9f97a/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 #EXTINF:-1 tvg-id="PC-cff0360105f1" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-13] The Climate Is Changing in Ways Models Couldn’t Predict
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/bd14813e-4e15-4f06-b71c-b5010158f5ff/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
-#EXTINF:-1 tvg-id="PC-eab577810b92" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-12] A Fall From Grace So Extraordinary It Seems Made for Hollywood
+#EXTINF:-1 tvg-id="PC-eab577810b92" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-12] A Fall From Grace so Extraordinary It Seems Made for Hollywood
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/fc5fa854-70ad-4df3-aa35-b50001585c2d/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 #EXTINF:-1 tvg-id="PC-60649fb0a614" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-11] What Changes for Iran， Israel， Ukraine and China Under a Flipped US Congress
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/181c2de6-0a66-430b-95f0-b4ff015af0ea/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
@@ -188,8 +190,6 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/c9835822-8e90-4439-a73b-b4f80083bd16/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 #EXTINF:-1 tvg-id="PC-36bdce60c3fb" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-03] The Legal Fight Nightmare Scenario for the US Midterms
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/70669ab1-4e68-4358-a6e6-b4f601845178/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
-#EXTINF:-1 tvg-id="PC-bed907d80ba9" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-02] Binance， North Korea and the Crypto Heist Boom
-https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/9effcdb6-728e-42b3-a97b-b4f60164e3e3/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 
 # ===== Bloomberg Odd Lots =====
 #EXTINF:-1 tvg-id="PC-de8233d7fce0" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-11-14] How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era
