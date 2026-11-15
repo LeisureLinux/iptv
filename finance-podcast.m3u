@@ -36,6 +36,8 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH2599345629.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH1439791983.mp3
 
 # ===== WSJ The Journal =====
+#EXTINF:-1 tvg-id="PC-1f027f39866c" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-11-15] Why Schwab’s CEO Is Betting on a Post-Midterm Rally
+https://pdst.fm/e/traffic.megaphone.fm/WSJ4429663609.mp3
 #EXTINF:-1 tvg-id="PC-c62ff1e1650b" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-11-13] How the Job Market Fell Into a Deep Freeze
 https://pdst.fm/e/traffic.megaphone.fm/WSJ7578977205.mp3
 #EXTINF:-1 tvg-id="PC-7a849dc0a696" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-11-12] What is Nvidia Without Jensen Huang?
@@ -58,10 +60,10 @@ https://pdst.fm/e/traffic.megaphone.fm/WSJ6548198560.mp3
 https://pdst.fm/e/traffic.megaphone.fm/WSJ8510901217.mp3
 #EXTINF:-1 tvg-id="PC-dc1b20a263b1" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-30] Is AI Running Out of Money to Borrow?
 https://pdst.fm/e/traffic.megaphone.fm/WSJ7887703823.mp3
-#EXTINF:-1 tvg-id="PC-f2c69587cf18" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-10-29] Why Billionaires Are Giving Money to Kids
-https://pdst.fm/e/traffic.megaphone.fm/WSJ1455267791.mp3
 
 # ===== WSJ What's News =====
+#EXTINF:-1 tvg-id="PC-56d8a1cbd3be" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-15] Where Does Nvidia Go From Here?
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/e2201d42-1110-4f2d-ba31-ce352348b5d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=e2201d42-1110-4f2d-ba31-ce352348b5d4&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-20eb9fa208ae" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-14] What’s News in Markets: Nvidia’s Next Chapter， Coreweave’s Bullish Backlog， Microsoft’s Global Outage
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/db97bafb-7d8c-4ac7-b7d2-d31afb877a0b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=db97bafb-7d8c-4ac7-b7d2-d31afb877a0b&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-3b69463d7f69" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-13] Flights Grounded Across the U.S.
@@ -84,8 +86,6 @@ https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episod
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/2d832f5e-1809-4cda-b495-2129ead722e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=2d832f5e-1809-4cda-b495-2129ead722e0&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-10f56aaddee3" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-09] What Does Beijing Know About Nvidia’s Jensen Huang?
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/1e34de24-55f2-4156-b832-49784d29e27f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=1e34de24-55f2-4156-b832-49784d29e27f&feed=BA5QWI2p
-#EXTINF:-1 tvg-id="PC-c3cd9e47abfc" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-08] Democrats Promised to Fix the Economy. Can They?
-https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4965932a-cca1-47af-aba9-8deceff6b607/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4965932a-cca1-47af-aba9-8deceff6b607&feed=BA5QWI2p
 
 # ===== WSJ Tech News Briefing =====
 #EXTINF:-1 tvg-id="PC-c3214e0b30b1" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-11-13] Where Does Nvidia Go From Here?
@@ -114,6 +114,8 @@ https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episod
 https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/b19005fe-40a4-438c-866e-ab4f60f67895/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=b19005fe-40a4-438c-866e-ab4f60f67895&feed=ui_HbBma
 
 # ===== WSJ Take On the Week =====
+#EXTINF:-1 tvg-id="PC-cf3e385122cd" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-11-15] How Anthropic’s IPO Reshapes the AI Investment Landscape
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/f0288c60-b372-4e88-85a8-0ac2155683b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=f0288c60-b372-4e88-85a8-0ac2155683b0&feed=4LDzav57
 #EXTINF:-1 tvg-id="PC-c44a35ce80c2" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-11-08] Can Everyday Investors Beat the Pros in an AI Selloff?
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/090ac92a-b88b-4293-b003-e77b8a7b3cf9/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=090ac92a-b88b-4293-b003-e77b8a7b3cf9&feed=4LDzav57
 #EXTINF:-1 tvg-id="PC-d277dffb9516" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-11-01] Tech Stocks and AI Bonds Are Tumbling. Is the AI Trade in Trouble?
@@ -136,8 +138,6 @@ https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episod
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/4a0fb2aa-8b32-4a30-94f2-e45da4e44ac3/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=4a0fb2aa-8b32-4a30-94f2-e45da4e44ac3&feed=4LDzav57
 #EXTINF:-1 tvg-id="PC-7dea57648705" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-08-23] What Fed Chair Kevin Warsh’s Jackson Hole Debut Means for Nervous Markets
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/a9878928-4ce0-4c8b-a104-0933d053f407/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=a9878928-4ce0-4c8b-a104-0933d053f407&feed=4LDzav57
-#EXTINF:-1 tvg-id="PC-77ad7325f124" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-08-16] How to Make Inflation Work for Your Portfolio
-https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/a176b5ca-b29c-4c44-a3d6-d4c3909f56b1/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=a176b5ca-b29c-4c44-a3d6-d4c3909f56b1&feed=4LDzav57
 
 # ===== FT News Briefing =====
 #EXTINF:-1 tvg-id="PC-b80503b4a8c1" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-11-14] Martin Wolf on the US midterms: Trump loses. European populism lives on.
