@@ -6,6 +6,26 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-8e03a0e46047" tvg-name="黄鼠狼被卡孔洞 消防员及时解救" group-title="余姚 · 点播",黄鼠狼被卡孔洞 消防员及时解救 (1:00, 19MB)
+https://mc-public.yynews.com.cn/18096113106692_hd.mp4?width=1280&height=720&isVertical=0&fsize=20060124&duration=60.0
+#EXTINF:-1 tvg-id="YY-9e084d603855" tvg-name="路遇货车起火 公交司机伸出援手" group-title="余姚 · 点播",路遇货车起火 公交司机伸出援手 (1:09, 22MB)
+https://mc-public.yynews.com.cn/18096112446660_hd.mp4?width=1280&height=720&isVertical=0&fsize=22597854&duration=69.0
+#EXTINF:-1 tvg-id="YY-206229f44af8" tvg-name="林宝林：深耕柑橘种植七年 让橘园成为致富园" group-title="余姚 · 点播",林宝林：深耕柑橘种植七年 让橘园成为致富园 (1:16, 24MB)
+https://mc-public.yynews.com.cn/18096108025732_hd.mp4?width=1280&height=720&isVertical=0&fsize=25639940&duration=76.0
+#EXTINF:-1 tvg-id="YY-4489e7691b2b" tvg-name="阳明街道为残疾群众送温暖" group-title="余姚 · 点播",阳明街道为残疾群众送温暖 (0:25, 8MB)
+https://mc-public.yynews.com.cn/18096105290116_hd.mp4?width=1280&height=720&isVertical=0&fsize=8404377&duration=25.0
+#EXTINF:-1 tvg-id="YY-e35f279defcf" tvg-name="市天然气公司启动管道阀门井标准化编号全覆盖工作" group-title="余姚 · 点播",市天然气公司启动管道阀门井标准化编号全覆盖工作 (0:56, 19MB)
+https://mc-public.yynews.com.cn/18096103058564_hd.mp4?width=1280&height=720&isVertical=0&fsize=19473019&duration=56.0
+#EXTINF:-1 tvg-id="YY-ede76dec3ecd" tvg-name="宁波至余姚城际铁路牟山站配套工程完成竣工验收" group-title="余姚 · 点播",宁波至余姚城际铁路牟山站配套工程完成竣工验收 (0:47, 15MB)
+https://mc-public.yynews.com.cn/18096100218692_hd.mp4?width=1280&height=720&isVertical=0&fsize=16007214&duration=47.0
+#EXTINF:-1 tvg-id="YY-c8367024d65f" tvg-name="绿谷工坊：专注产品创新 让中国抹茶香飘海内外" group-title="余姚 · 点播",绿谷工坊：专注产品创新 让中国抹茶香飘海内外 (2:24, 47MB)
+https://mc-public.yynews.com.cn/18096092335620_hd.mp4?width=1280&height=720&isVertical=0&fsize=48997854&duration=144.0
+#EXTINF:-1 tvg-id="YY-4f1a886e216b" tvg-name="市文化和广电旅游体育局：文脉润城 好戏出圈 余姚全域旅游跑出加速度" group-title="余姚 · 点播",市文化和广电旅游体育局：文脉润城 好戏出圈 余姚全域旅游跑出加速度 (2:48, 52MB)
+https://mc-public.yynews.com.cn/18096089347592_hd.mp4?width=1280&height=720&isVertical=0&fsize=55013105&duration=168.0
+#EXTINF:-1 tvg-id="YY-286c7f6ab947" tvg-name="江南墨韵·长三角书画艺术交流展开展" group-title="余姚 · 点播",江南墨韵·长三角书画艺术交流展开展 (0:47, 14MB)
+https://mc-public.yynews.com.cn/18096084619848_hd.mp4?width=1280&height=720&isVertical=0&fsize=15158522&duration=47.0
+#EXTINF:-1 tvg-id="YY-06ade0256b63" tvg-name="第七届中国哲学家学术研讨会在姚举行" group-title="余姚 · 点播",第七届中国哲学家学术研讨会在姚举行 (2:11, 42MB)
+https://mc-public.yynews.com.cn/18096082371656_hd.mp4?width=1280&height=720&isVertical=0&fsize=43957245&duration=131.0
 #EXTINF:-1 tvg-id="YY-e6a95f0cf6c3" tvg-name="一周新闻回顾" group-title="余姚 · 点播",一周新闻回顾 (4:00, 77MB)
 https://mc-public.yynews.com.cn/18085401088900_hd.mp4?width=1280&height=720&isVertical=0&fsize=81188728&duration=240.0
 #EXTINF:-1 tvg-id="YY-aa4695c8d95d" tvg-name="四明聚焦｜​泗门镇滨水公厕预计春节后投用" group-title="余姚 · 点播",四明聚焦｜​泗门镇滨水公厕预计春节后投用 (1:35, 30MB)
@@ -26,23 +46,3 @@ https://mc-public.yynews.com.cn/18080219098696_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18080210776776_hd.mp4?width=1280&height=720&isVertical=0&fsize=13410630&duration=40.0
 #EXTINF:-1 tvg-id="YY-1bae95ed6301" tvg-name="糖尿病科普义诊走进庙弄村" group-title="余姚 · 点播",糖尿病科普义诊走进庙弄村 (0:45, 14MB)
 https://mc-public.yynews.com.cn/18080202485252_hd.mp4?width=1280&height=720&isVertical=0&fsize=14462898&duration=45.0
-#EXTINF:-1 tvg-id="YY-faadd239e241" tvg-name="市市场监管局开展“百姓点检”活动" group-title="余姚 · 点播",市市场监管局开展“百姓点检”活动 (1:02, 20MB)
-https://mc-public.yynews.com.cn/18080196195528_hd.mp4?width=1280&height=720&isVertical=0&fsize=21190585&duration=62.0
-#EXTINF:-1 tvg-id="YY-31a91f59109d" tvg-name="“双十一”期间取暖小家电热销" group-title="余姚 · 点播",“双十一”期间取暖小家电热销 (1:22, 26MB)
-https://mc-public.yynews.com.cn/18080188813960_hd.mp4?width=1280&height=720&isVertical=0&fsize=26852298&duration=82.0
-#EXTINF:-1 tvg-id="YY-196c497669f4" tvg-name="马渚镇：科创蓄力项目提速 实干冲刺全年红" group-title="余姚 · 点播",马渚镇：科创蓄力项目提速 实干冲刺全年红 (3:32, 69MB)
-https://mc-public.yynews.com.cn/18080178659012_hd.mp4?width=1280&height=720&isVertical=0&fsize=71965254&duration=212.0
-#EXTINF:-1 tvg-id="YY-f4d4870a89e8" tvg-name="市委理论学习中心组举行安全生产专题学习会" group-title="余姚 · 点播",市委理论学习中心组举行安全生产专题学习会 (2:44, 53MB)
-https://mc-public.yynews.com.cn/18080091788936_hd.mp4?width=1280&height=720&isVertical=0&fsize=55472874&duration=164.0
-#EXTINF:-1 tvg-id="YY-6ec1d7f42614" tvg-name="市委常委会会议召开" group-title="余姚 · 点播",市委常委会会议召开 (1:50, 36MB)
-https://mc-public.yynews.com.cn/18080047867652_hd.mp4?width=1280&height=720&isVertical=0&fsize=38062755&duration=110.0
-#EXTINF:-1 tvg-id="YY-477510582180" tvg-name="雨天路面湿滑 三辆车高速失控掉头" group-title="余姚 · 点播",雨天路面湿滑 三辆车高速失控掉头 (1:25, 29MB)
-https://mc-public.yynews.com.cn/18073996694404_hd.mp4?width=1280&height=720&isVertical=0&fsize=30434813&duration=85.0
-#EXTINF:-1 tvg-id="YY-c3399f127827" tvg-name="市职技校教师用智慧课堂破解体育教学难题" group-title="余姚 · 点播",市职技校教师用智慧课堂破解体育教学难题 (2:20, 44MB)
-https://mc-public.yynews.com.cn/18073984577032_hd.mp4?width=1280&height=720&isVertical=0&fsize=46215791&duration=140.0
-#EXTINF:-1 tvg-id="YY-78c8638af282" tvg-name="鹿亭乡：共富工坊铺就村民增收路" group-title="余姚 · 点播",鹿亭乡：共富工坊铺就村民增收路 (2:33, 49MB)
-https://mc-public.yynews.com.cn/18073988990916_hd.mp4?width=1280&height=720&isVertical=0&fsize=51805491&duration=153.0
-#EXTINF:-1 tvg-id="YY-78c18f75429d" tvg-name="余姚队客场负于台州队" group-title="余姚 · 点播",余姚队客场负于台州队 (1:47, 34MB)
-https://mc-public.yynews.com.cn/18073991818248_hd.mp4?width=1280&height=720&isVertical=0&fsize=35938476&duration=107.0
-#EXTINF:-1 tvg-id="YY-1f4f2c1dfae9" tvg-name="今年城区新增公共停车位超1000个" group-title="余姚 · 点播",今年城区新增公共停车位超1000个 (1:09, 22MB)
-https://mc-public.yynews.com.cn/18073990470724_hd.mp4?width=1280&height=720&isVertical=0&fsize=23504115&duration=69.0
