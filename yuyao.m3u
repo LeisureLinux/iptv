@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-a0c034019712" tvg-name="秋色引客来 脏乱扫人兴" group-title="余姚 · 点播",秋色引客来 脏乱扫人兴 (2:39, 51MB)
+https://mc-public.yynews.com.cn/18101671160200_hd.mp4?width=1280&height=720&isVertical=0&fsize=53920833&duration=159.0
+#EXTINF:-1 tvg-id="YY-4d7b6da35c79" tvg-name="共富工坊带动社区居民增收" group-title="余姚 · 点播",共富工坊带动社区居民增收 (2:06, 40MB)
+https://mc-public.yynews.com.cn/18101667122312_hd.mp4?width=1280&height=720&isVertical=0&fsize=42356147&duration=126.0
+#EXTINF:-1 tvg-id="YY-0fb6df3c5338" tvg-name="肖振良：银发映初心 余热暖乡邻" group-title="余姚 · 点播",肖振良：银发映初心 余热暖乡邻 (2:07, 38MB)
+https://mc-public.yynews.com.cn/18101661797508_hd.mp4?width=1280&height=720&isVertical=0&fsize=40261554&duration=127.0
+#EXTINF:-1 tvg-id="YY-95b809a65b02" tvg-name="我市10万亩连作晚稻进入集中收割期" group-title="余姚 · 点播",我市10万亩连作晚稻进入集中收割期 (1:05, 22MB)
+https://mc-public.yynews.com.cn/18101653279428_hd.mp4?width=1280&height=720&isVertical=0&fsize=22879275&duration=65.0
+#EXTINF:-1 tvg-id="YY-6eb23e125149" tvg-name="我市新增9家国家级专精特新“小巨人”企业" group-title="余姚 · 点播",我市新增9家国家级专精特新“小巨人”企业 (1:34, 30MB)
+https://mc-public.yynews.com.cn/18101649767748_hd.mp4?width=1280&height=720&isVertical=0&fsize=31948314&duration=94.0
+#EXTINF:-1 tvg-id="YY-084d76d43416" tvg-name="《王阳明小故事》系列微短剧首发上线" group-title="余姚 · 点播",《王阳明小故事》系列微短剧首发上线 (1:12, 23MB)
+https://mc-public.yynews.com.cn/18101643645256_hd.mp4?width=1280&height=720&isVertical=0&fsize=24350123&duration=72.0
+#EXTINF:-1 tvg-id="YY-f20aa19bdfe4" tvg-name="系列报道《山海同行一一余姚松阳山海协作》(一)：同心共筑产业园 造血强工兴山乡" group-title="余姚 · 点播",系列报道《山海同行一一余姚松阳山海协作》(一)：同心共筑产业园 造血强工兴山乡 (3:39, 71MB)
+https://mc-public.yynews.com.cn/18101635883972_hd.mp4?width=1280&height=720&isVertical=0&fsize=74106744&duration=219.0
 #EXTINF:-1 tvg-id="YY-8e03a0e46047" tvg-name="黄鼠狼被卡孔洞 消防员及时解救" group-title="余姚 · 点播",黄鼠狼被卡孔洞 消防员及时解救 (1:00, 19MB)
 https://mc-public.yynews.com.cn/18096113106692_hd.mp4?width=1280&height=720&isVertical=0&fsize=20060124&duration=60.0
 #EXTINF:-1 tvg-id="YY-9e084d603855" tvg-name="路遇货车起火 公交司机伸出援手" group-title="余姚 · 点播",路遇货车起火 公交司机伸出援手 (1:09, 22MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/18085401088900_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18085382455624_hd.mp4?width=1280&height=720&isVertical=0&fsize=31530508&duration=95.0
 #EXTINF:-1 tvg-id="YY-04672555dfa0" tvg-name="市公安局成功拦截8万元被骗资金" group-title="余姚 · 点播",市公安局成功拦截8万元被骗资金 (1:47, 35MB)
 https://mc-public.yynews.com.cn/18085371445444_hd.mp4?width=1280&height=720&isVertical=0&fsize=36257195&duration=107.0
-#EXTINF:-1 tvg-id="YY-37c8ab4cdc06" tvg-name="城区及姚西北地区大口径裸露过河（桥）管道专项防腐维保工程完工" group-title="余姚 · 点播",城区及姚西北地区大口径裸露过河（桥）管道专项防腐维保工程完工 (1:03, 19MB)
-https://mc-public.yynews.com.cn/18085360334088_hd.mp4?width=1280&height=720&isVertical=0&fsize=20248802&duration=63.0
-#EXTINF:-1 tvg-id="YY-d22f0d584fb7" tvg-name="沃勇特调研全国文明城市建设工作" group-title="余姚 · 点播",沃勇特调研全国文明城市建设工作 (2:39, 52MB)
-https://mc-public.yynews.com.cn/18090796891912_hd.mp4?width=1280&height=720&isVertical=0&fsize=54556299&duration=159.0
-#EXTINF:-1 tvg-id="YY-29f2ab4719d2" tvg-name="市委理论学习中心组举行学习贯彻党的二十届五中全会精神专题学习会" group-title="余姚 · 点播",市委理论学习中心组举行学习贯彻党的二十届五中全会精神专题学习会 (3:04, 61MB)
-https://mc-public.yynews.com.cn/18085336625672_hd.mp4?width=1280&height=720&isVertical=0&fsize=63952070&duration=184.0
-#EXTINF:-1 tvg-id="YY-0ee0133fce6b" tvg-name="男童被反锁卧室 消防及时救援" group-title="余姚 · 点播",男童被反锁卧室 消防及时救援 (0:42, 13MB)
-https://mc-public.yynews.com.cn/18080225162692_hd.mp4?width=1280&height=720&isVertical=0&fsize=13589007&duration=42.0
-#EXTINF:-1 tvg-id="YY-6beba037afb1" tvg-name="轮胎“出逃”占车道 后车避让撞护栏" group-title="余姚 · 点播",轮胎“出逃”占车道 后车避让撞护栏 (1:23, 27MB)
-https://mc-public.yynews.com.cn/18080219098696_hd.mp4?width=1280&height=720&isVertical=0&fsize=28575699&duration=83.0
-#EXTINF:-1 tvg-id="YY-d5405ac9cd81" tvg-name="未来一周我市将迎来多次降雨过程" group-title="余姚 · 点播",未来一周我市将迎来多次降雨过程 (0:40, 13MB)
-https://mc-public.yynews.com.cn/18080210776776_hd.mp4?width=1280&height=720&isVertical=0&fsize=13410630&duration=40.0
-#EXTINF:-1 tvg-id="YY-1bae95ed6301" tvg-name="糖尿病科普义诊走进庙弄村" group-title="余姚 · 点播",糖尿病科普义诊走进庙弄村 (0:45, 14MB)
-https://mc-public.yynews.com.cn/18080202485252_hd.mp4?width=1280&height=720&isVertical=0&fsize=14462898&duration=45.0
