@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-4968d35272d6" tvg-name="男子手指被卡 众人合力施救" group-title="余姚 · 点播",男子手指被卡 众人合力施救 (0:54, 17MB)
+https://mc-public.yynews.com.cn/18107182817476_hd.mp4?width=1280&height=720&isVertical=0&fsize=18341768&duration=54.0
+#EXTINF:-1 tvg-id="YY-7cec2c08adcb" tvg-name="实线变道引发两起交通事故" group-title="余姚 · 点播",实线变道引发两起交通事故 (1:22, 27MB)
+https://mc-public.yynews.com.cn/18107182086340_hd.mp4?width=1280&height=720&isVertical=0&fsize=28080284&duration=82.0
+#EXTINF:-1 tvg-id="YY-a4b23e061311" tvg-name="11月25日起普速列车车次“改名” 余姚站K字头变V字头" group-title="余姚 · 点播",11月25日起普速列车车次“改名” 余姚站K字头变V字头 (0:34, 11MB)
+https://mc-public.yynews.com.cn/18107177917508_hd.mp4?width=1280&height=720&isVertical=0&fsize=11809058&duration=34.0
+#EXTINF:-1 tvg-id="YY-1f51d9a295e3" tvg-name="牟山镇：依托牟山湖大闸蟹 走出融合共富新路子" group-title="余姚 · 点播",牟山镇：依托牟山湖大闸蟹 走出融合共富新路子 (1:52, 36MB)
+https://mc-public.yynews.com.cn/18107173281860_hd.mp4?width=1280&height=720&isVertical=0&fsize=37788619&duration=112.0
+#EXTINF:-1 tvg-id="YY-982d8591a2fa" tvg-name="系列报道《山海同行一一余姚松阳山海协作》（二）：特色农产借势出山 共富链条聚山成势" group-title="余姚 · 点播",系列报道《山海同行一一余姚松阳山海协作》（二）：特色农产借势出山 共富链条聚山成势 (3:00, 60MB)
+https://mc-public.yynews.com.cn/18107169168840_hd.mp4?width=1280&height=720&isVertical=0&fsize=62991910&duration=180.0
+#EXTINF:-1 tvg-id="YY-35da2207976a" tvg-name="市交通运输局：打造外联内畅综合交通体系 全速推进重点交通项目建设" group-title="余姚 · 点播",市交通运输局：打造外联内畅综合交通体系 全速推进重点交通项目建设 (2:41, 52MB)
+https://mc-public.yynews.com.cn/18107163955140_hd.mp4?width=1280&height=720&isVertical=0&fsize=54605166&duration=161.0
+#EXTINF:-1 tvg-id="YY-7bb4074b999a" tvg-name="伟立机器人：以“Al+柔性制造”抢占高端市场" group-title="余姚 · 点播",伟立机器人：以“Al+柔性制造”抢占高端市场 (3:20, 66MB)
+https://mc-public.yynews.com.cn/18107159007112_hd.mp4?width=1280&height=720&isVertical=0&fsize=68956434&duration=200.0
 #EXTINF:-1 tvg-id="YY-a0c034019712" tvg-name="秋色引客来 脏乱扫人兴" group-title="余姚 · 点播",秋色引客来 脏乱扫人兴 (2:39, 51MB)
 https://mc-public.yynews.com.cn/18101671160200_hd.mp4?width=1280&height=720&isVertical=0&fsize=53920833&duration=159.0
 #EXTINF:-1 tvg-id="YY-4d7b6da35c79" tvg-name="共富工坊带动社区居民增收" group-title="余姚 · 点播",共富工坊带动社区居民增收 (2:06, 40MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/18096105290116_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18096103058564_hd.mp4?width=1280&height=720&isVertical=0&fsize=19473019&duration=56.0
 #EXTINF:-1 tvg-id="YY-ede76dec3ecd" tvg-name="宁波至余姚城际铁路牟山站配套工程完成竣工验收" group-title="余姚 · 点播",宁波至余姚城际铁路牟山站配套工程完成竣工验收 (0:47, 15MB)
 https://mc-public.yynews.com.cn/18096100218692_hd.mp4?width=1280&height=720&isVertical=0&fsize=16007214&duration=47.0
-#EXTINF:-1 tvg-id="YY-c8367024d65f" tvg-name="绿谷工坊：专注产品创新 让中国抹茶香飘海内外" group-title="余姚 · 点播",绿谷工坊：专注产品创新 让中国抹茶香飘海内外 (2:24, 47MB)
-https://mc-public.yynews.com.cn/18096092335620_hd.mp4?width=1280&height=720&isVertical=0&fsize=48997854&duration=144.0
-#EXTINF:-1 tvg-id="YY-4f1a886e216b" tvg-name="市文化和广电旅游体育局：文脉润城 好戏出圈 余姚全域旅游跑出加速度" group-title="余姚 · 点播",市文化和广电旅游体育局：文脉润城 好戏出圈 余姚全域旅游跑出加速度 (2:48, 52MB)
-https://mc-public.yynews.com.cn/18096089347592_hd.mp4?width=1280&height=720&isVertical=0&fsize=55013105&duration=168.0
-#EXTINF:-1 tvg-id="YY-286c7f6ab947" tvg-name="江南墨韵·长三角书画艺术交流展开展" group-title="余姚 · 点播",江南墨韵·长三角书画艺术交流展开展 (0:47, 14MB)
-https://mc-public.yynews.com.cn/18096084619848_hd.mp4?width=1280&height=720&isVertical=0&fsize=15158522&duration=47.0
-#EXTINF:-1 tvg-id="YY-06ade0256b63" tvg-name="第七届中国哲学家学术研讨会在姚举行" group-title="余姚 · 点播",第七届中国哲学家学术研讨会在姚举行 (2:11, 42MB)
-https://mc-public.yynews.com.cn/18096082371656_hd.mp4?width=1280&height=720&isVertical=0&fsize=43957245&duration=131.0
-#EXTINF:-1 tvg-id="YY-e6a95f0cf6c3" tvg-name="一周新闻回顾" group-title="余姚 · 点播",一周新闻回顾 (4:00, 77MB)
-https://mc-public.yynews.com.cn/18085401088900_hd.mp4?width=1280&height=720&isVertical=0&fsize=81188728&duration=240.0
-#EXTINF:-1 tvg-id="YY-aa4695c8d95d" tvg-name="四明聚焦｜​泗门镇滨水公厕预计春节后投用" group-title="余姚 · 点播",四明聚焦｜​泗门镇滨水公厕预计春节后投用 (1:35, 30MB)
-https://mc-public.yynews.com.cn/18085382455624_hd.mp4?width=1280&height=720&isVertical=0&fsize=31530508&duration=95.0
-#EXTINF:-1 tvg-id="YY-04672555dfa0" tvg-name="市公安局成功拦截8万元被骗资金" group-title="余姚 · 点播",市公安局成功拦截8万元被骗资金 (1:47, 35MB)
-https://mc-public.yynews.com.cn/18085371445444_hd.mp4?width=1280&height=720&isVertical=0&fsize=36257195&duration=107.0
