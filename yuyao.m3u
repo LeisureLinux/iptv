@@ -6,6 +6,18 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-d3bba3ff4cd7" tvg-name="凌晨电动车起火 小区保安紧急处置" group-title="余姚 · 点播",凌晨电动车起火 小区保安紧急处置 (1:02, 21MB)
+https://mc-public.yynews.com.cn/18118491001732_hd.mp4?width=1280&height=720&isVertical=0&fsize=21660182&duration=62.0
+#EXTINF:-1 tvg-id="YY-96fd66cd47dc" tvg-name="未来一周我市以晴好天气为主" group-title="余姚 · 点播",未来一周我市以晴好天气为主 (0:49, 16MB)
+https://mc-public.yynews.com.cn/18118485420612_hd.mp4?width=1280&height=720&isVertical=0&fsize=16561611&duration=49.0
+#EXTINF:-1 tvg-id="YY-1585c173990b" tvg-name="系列报道《山海同行——余姚松阳山海协作》（四）：山水引客来 文旅富山乡" group-title="余姚 · 点播",系列报道《山海同行——余姚松阳山海协作》（四）：山水引客来 文旅富山乡 (3:08, 62MB)
+https://mc-public.yynews.com.cn/18118471740872_hd.mp4?width=1280&height=720&isVertical=0&fsize=64977686&duration=188.0
+#EXTINF:-1 tvg-id="YY-ba1c3ae6f249" tvg-name="市水利局：“投资+水网”双轮驱动 省级水网先行区建设提速增效" group-title="余姚 · 点播",市水利局：“投资+水网”双轮驱动 省级水网先行区建设提速增效 (2:51, 54MB)
+https://mc-public.yynews.com.cn/18118459704712_hd.mp4?width=1280&height=720&isVertical=0&fsize=56689440&duration=171.0
+#EXTINF:-1 tvg-id="YY-ff53b31d1887" tvg-name="“守护慈江文脉 共绘古渡新韵”运河保护主题活动举行" group-title="余姚 · 点播",“守护慈江文脉 共绘古渡新韵”运河保护主题活动举行 (1:33, 31MB)
+https://mc-public.yynews.com.cn/18118432570696_hd.mp4?width=1280&height=720&isVertical=0&fsize=32066246&duration=93.0
+#EXTINF:-1 tvg-id="YY-00b8de6de4b5" tvg-name="市政府举行第70次常务会议" group-title="余姚 · 点播",市政府举行第70次常务会议 (2:22, 43MB)
+https://mc-public.yynews.com.cn/18118445461444_hd.mp4?width=1280&height=720&isVertical=0&fsize=44672039&duration=142.0
 #EXTINF:-1 tvg-id="YY-cba9249744b6" tvg-name="两车相撞驾驶员被困 多方联动紧急救援" group-title="余姚 · 点播",两车相撞驾驶员被困 多方联动紧急救援 (1:03, 22MB)
 https://mc-public.yynews.com.cn/18112515716740_hd.mp4?width=1280&height=720&isVertical=0&fsize=22986437&duration=63.0
 #EXTINF:-1 tvg-id="YY-e52ecd4582d1" tvg-name="套牌车凌晨潜入小区 保安及时报警" group-title="余姚 · 点播",套牌车凌晨潜入小区 保安及时报警 (1:32, 31MB)
@@ -32,17 +44,3 @@ https://mc-public.yynews.com.cn/18107169168840_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18107163955140_hd.mp4?width=1280&height=720&isVertical=0&fsize=54605166&duration=161.0
 #EXTINF:-1 tvg-id="YY-7bb4074b999a" tvg-name="伟立机器人：以“Al+柔性制造”抢占高端市场" group-title="余姚 · 点播",伟立机器人：以“Al+柔性制造”抢占高端市场 (3:20, 66MB)
 https://mc-public.yynews.com.cn/18107159007112_hd.mp4?width=1280&height=720&isVertical=0&fsize=68956434&duration=200.0
-#EXTINF:-1 tvg-id="YY-a0c034019712" tvg-name="秋色引客来 脏乱扫人兴" group-title="余姚 · 点播",秋色引客来 脏乱扫人兴 (2:39, 51MB)
-https://mc-public.yynews.com.cn/18101671160200_hd.mp4?width=1280&height=720&isVertical=0&fsize=53920833&duration=159.0
-#EXTINF:-1 tvg-id="YY-4d7b6da35c79" tvg-name="共富工坊带动社区居民增收" group-title="余姚 · 点播",共富工坊带动社区居民增收 (2:06, 40MB)
-https://mc-public.yynews.com.cn/18101667122312_hd.mp4?width=1280&height=720&isVertical=0&fsize=42356147&duration=126.0
-#EXTINF:-1 tvg-id="YY-0fb6df3c5338" tvg-name="肖振良：银发映初心 余热暖乡邻" group-title="余姚 · 点播",肖振良：银发映初心 余热暖乡邻 (2:07, 38MB)
-https://mc-public.yynews.com.cn/18101661797508_hd.mp4?width=1280&height=720&isVertical=0&fsize=40261554&duration=127.0
-#EXTINF:-1 tvg-id="YY-95b809a65b02" tvg-name="我市10万亩连作晚稻进入集中收割期" group-title="余姚 · 点播",我市10万亩连作晚稻进入集中收割期 (1:05, 22MB)
-https://mc-public.yynews.com.cn/18101653279428_hd.mp4?width=1280&height=720&isVertical=0&fsize=22879275&duration=65.0
-#EXTINF:-1 tvg-id="YY-6eb23e125149" tvg-name="我市新增9家国家级专精特新“小巨人”企业" group-title="余姚 · 点播",我市新增9家国家级专精特新“小巨人”企业 (1:34, 30MB)
-https://mc-public.yynews.com.cn/18101649767748_hd.mp4?width=1280&height=720&isVertical=0&fsize=31948314&duration=94.0
-#EXTINF:-1 tvg-id="YY-084d76d43416" tvg-name="《王阳明小故事》系列微短剧首发上线" group-title="余姚 · 点播",《王阳明小故事》系列微短剧首发上线 (1:12, 23MB)
-https://mc-public.yynews.com.cn/18101643645256_hd.mp4?width=1280&height=720&isVertical=0&fsize=24350123&duration=72.0
-#EXTINF:-1 tvg-id="YY-f20aa19bdfe4" tvg-name="系列报道《山海同行一一余姚松阳山海协作》(一)：同心共筑产业园 造血强工兴山乡" group-title="余姚 · 点播",系列报道《山海同行一一余姚松阳山海协作》(一)：同心共筑产业园 造血强工兴山乡 (3:39, 71MB)
-https://mc-public.yynews.com.cn/18101635883972_hd.mp4?width=1280&height=720&isVertical=0&fsize=74106744&duration=219.0
