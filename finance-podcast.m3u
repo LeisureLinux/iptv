@@ -10,6 +10,8 @@
 
 
 # ===== Reuters World News =====
+#EXTINF:-1 tvg-id="PC-bc44d866f45c" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-21] Wall Street plunges， climate talks run over， and Republicans position for 2028
+https://pdst.fm/e/traffic.megaphone.fm/THRH2828355336.mp3
 #EXTINF:-1 tvg-id="PC-26e47d188b39" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-20] AI selloff， Trump speech， Meta's Muse (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH6262877270.mp3
 #EXTINF:-1 tvg-id="PC-dbeb91d557d7" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-19] Anthropic's blockbuster debut， Trump-Xi-Putin talks and Rohingya genocide ruling (Updated)
@@ -32,8 +34,6 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH6105535065.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH9993783054.mp3
 #EXTINF:-1 tvg-id="PC-a530a8fd71af" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-10] Hegseth， FBI Nvidia probe， Anthropic valuation (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH6910415486.mp3
-#EXTINF:-1 tvg-id="PC-fff3c54bba82" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-09] Nvidia spy probe， Russell Brand sentenced， Black Sea tensions (Updated)
-https://pdst.fm/e/traffic.megaphone.fm/THRH6631130161.mp3
 
 # ===== WSJ The Journal =====
 #EXTINF:-1 tvg-id="PC-d45fa640585b" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-11-20] Why Anthropic’s IPO Didn’t Stop the Tech Sell Off
