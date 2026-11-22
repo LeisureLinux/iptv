@@ -10,6 +10,8 @@
 
 
 # ===== Reuters World News =====
+#EXTINF:-1 tvg-id="PC-e3ad9d14c5b0" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-22] COP31 collapse， 'El Chapo Isidro' arrest and South Korea's AI cheating scandal
+https://pdst.fm/e/traffic.megaphone.fm/THRH6390169109.mp3
 #EXTINF:-1 tvg-id="PC-bc44d866f45c" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-21] Wall Street plunges， climate talks run over， and Republicans position for 2028
 https://pdst.fm/e/traffic.megaphone.fm/THRH2828355336.mp3
 #EXTINF:-1 tvg-id="PC-26e47d188b39" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-20] AI selloff， Trump speech， Meta's Muse (Updated)
@@ -32,8 +34,6 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH3473744311.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH6105535065.mp3
 #EXTINF:-1 tvg-id="PC-00f684189ff4" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-12] Russia-Ukraine talks， Hegseth impeachment blocked， Europe school bomb hoax (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH9993783054.mp3
-#EXTINF:-1 tvg-id="PC-a530a8fd71af" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-10] Hegseth， FBI Nvidia probe， Anthropic valuation (Updated)
-https://pdst.fm/e/traffic.megaphone.fm/THRH6910415486.mp3
 
 # ===== WSJ The Journal =====
 #EXTINF:-1 tvg-id="PC-d45fa640585b" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-11-20] Why Anthropic’s IPO Didn’t Stop the Tech Selloff
@@ -166,6 +166,8 @@ https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6af269e3ed870dba3d3ec6e4/med
 https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6af0ec50b68b03091ec747fc/media.mp3
 
 # ===== Bloomberg Big Take =====
+#EXTINF:-1 tvg-id="PC-315aa0398a60" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-22] Weekend Listen: How Close is a Cure for Alzheimer’s?
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/ce57b665-f27c-4782-b298-b509013d6f82/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 #EXTINF:-1 tvg-id="PC-6f19bd032aef" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-20] The Mark Walter Probe Is Reshaping Sports. Is Insurance Next?
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/854054e6-8b86-4d62-b65b-b508017a51a5/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 #EXTINF:-1 tvg-id="PC-bcbd61e25898" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-19] Investors Weigh Appetite for Risk After A Red-Letter Day for Anthropic
@@ -188,8 +190,6 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/8410e24f-caa9-4a5d-bffe-b4fe01623e69/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 #EXTINF:-1 tvg-id="PC-71a77db7f99c" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-09] The AI Economy Runs on Nvidia. Can It Survive the CEO’s Affair?
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/e758d3c0-8f26-4277-b874-b4fd01693271/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
-#EXTINF:-1 tvg-id="PC-6f2a9baf3605" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-08] Weekend Listen: Composer Max Richter on AI and Music’s Future
-https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/c414edf4-e508-420b-8fec-b4fa016cec0a/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 
 # ===== Bloomberg Odd Lots =====
 #EXTINF:-1 tvg-id="PC-56b0d0917b12" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-11-21] How AI Is Forcing China to Reshape Industrial Policy
