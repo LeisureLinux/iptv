@@ -36,7 +36,7 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH9993783054.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH6910415486.mp3
 
 # ===== WSJ The Journal =====
-#EXTINF:-1 tvg-id="PC-d45fa640585b" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-11-20] Why Anthropic’s IPO Didn’t Stop the Tech Sell Off
+#EXTINF:-1 tvg-id="PC-d45fa640585b" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-11-20] Why Anthropic’s IPO Didn’t Stop the Tech Selloff
 https://pdst.fm/e/traffic.megaphone.fm/WSJ5057656439.mp3
 #EXTINF:-1 tvg-id="PC-0c57697a4c83" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-11-19] How Nvidia Built a Backdoor to China
 https://pdst.fm/e/traffic.megaphone.fm/WSJ2393261252.mp3
@@ -62,6 +62,8 @@ https://pdst.fm/e/traffic.megaphone.fm/WSJ5704882718.mp3
 https://pdst.fm/e/traffic.megaphone.fm/WSJ9332102362.mp3
 
 # ===== WSJ What's News =====
+#EXTINF:-1 tvg-id="PC-4a2b7ac82adb" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-22] Is ‘Grand Theft Auto VI’ Gaming’s Last Blockbuster?
+https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4becf049-1722-4e99-87ba-4c9f87421cd9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4becf049-1722-4e99-87ba-4c9f87421cd9&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-2bc7b641316b" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-21] What’s News in Markets: Anthropic IPO， Nvidia Drama， ‘GTA VI’
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/23bb18ff-28ed-49cb-8a92-bb3265e4cf65/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=23bb18ff-28ed-49cb-8a92-bb3265e4cf65&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-a64c676f6bbb" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-20] The Week the Wheels Came Off the AI Trade
@@ -84,8 +86,6 @@ https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episod
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/804e7cbb-be92-4157-b909-5e22b99fa93f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=804e7cbb-be92-4157-b909-5e22b99fa93f&feed=BA5QWI2p
 #EXTINF:-1 tvg-id="PC-ccf37e4de553" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-16] Nvidia Scandal Could Ramp Up Tensions at Trump-Xi Summit
 https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/14491550-c1c6-462a-8baa-484ccc45df4b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=14491550-c1c6-462a-8baa-484ccc45df4b&feed=BA5QWI2p
-#EXTINF:-1 tvg-id="PC-2d95872d32b1" tvg-name="WSJ What's News" group-title="播客 · WSJ 华尔街日报",WSJ What's News: [2026-11-16] Sean Duffy Wants $50 Billion to Prevent More Travel Chaos
-https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/aa5f372b-775f-458a-a8d9-26ffb214b042/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=aa5f372b-775f-458a-a8d9-26ffb214b042&feed=BA5QWI2p
 
 # ===== WSJ Tech News Briefing =====
 #EXTINF:-1 tvg-id="PC-e64516991190" tvg-name="WSJ Tech News Briefing" group-title="播客 · WSJ 华尔街日报",WSJ Tech News Briefing: [2026-11-20] Inside Anthropic’s Record-Breaking Wall Street Debut
@@ -114,6 +114,8 @@ https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episod
 https://dowjones.simplecastaudio.com/ad7cb3e1-19c4-4670-984f-a03f333022e4/episodes/8ccf3dfb-98c4-4293-98a5-85557fbb6a76/audio/128/default.mp3?aid=rss_feed&awCollectionId=ad7cb3e1-19c4-4670-984f-a03f333022e4&awEpisodeId=8ccf3dfb-98c4-4293-98a5-85557fbb6a76&feed=ui_HbBma
 
 # ===== WSJ Take On the Week =====
+#EXTINF:-1 tvg-id="PC-3c340cb3fd0c" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-11-22] Luxury Stocks Are Down. Is Now the Time to Invest (in Birkin Bags)?
+https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/2eace1d0-c64b-4abf-b688-23f4a282da01/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=2eace1d0-c64b-4abf-b688-23f4a282da01&feed=4LDzav57
 #EXTINF:-1 tvg-id="PC-cf3e385122cd" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-11-15] How Anthropic’s IPO Reshapes the AI Investment Landscape
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/f0288c60-b372-4e88-85a8-0ac2155683b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=f0288c60-b372-4e88-85a8-0ac2155683b0&feed=4LDzav57
 #EXTINF:-1 tvg-id="PC-c44a35ce80c2" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-11-08] Can Everyday Investors Beat the Pros in an AI Selloff?
@@ -136,8 +138,6 @@ https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episod
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/c3aa71c6-0324-4657-9fb4-8fe89143e46a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=c3aa71c6-0324-4657-9fb4-8fe89143e46a&feed=4LDzav57
 #EXTINF:-1 tvg-id="PC-00742f9e1e3b" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-08-30] How AI Speculation Is Fueling the Small-Cap Stock Rally
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/4a0fb2aa-8b32-4a30-94f2-e45da4e44ac3/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=4a0fb2aa-8b32-4a30-94f2-e45da4e44ac3&feed=4LDzav57
-#EXTINF:-1 tvg-id="PC-7dea57648705" tvg-name="WSJ Take On the Week" group-title="播客 · WSJ 华尔街日报",WSJ Take On the Week: [2026-08-23] What Fed Chair Kevin Warsh’s Jackson Hole Debut Means for Nervous Markets
-https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/a9878928-4ce0-4c8b-a104-0933d053f407/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=a9878928-4ce0-4c8b-a104-0933d053f407&feed=4LDzav57
 
 # ===== FT News Briefing =====
 #EXTINF:-1 tvg-id="PC-bf8ba8dbf277" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-11-21] Martin Wolf on the US midterms: Could history help predict the next two years of US politics?
