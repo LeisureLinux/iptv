@@ -6,6 +6,12 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-0affe7d0970f" tvg-name="色叶树色彩斑斓 姚城秋色正浓" group-title="余姚 · 点播",色叶树色彩斑斓 姚城秋色正浓 (1:19, 26MB)
+https://mc-public.yynews.com.cn/18124508842628_hd.mp4?width=1280&height=720&isVertical=0&fsize=27641055&duration=79.0
+#EXTINF:-1 tvg-id="YY-08a36b597e36" tvg-name="马渚镇“渚爱童行”阵地启用" group-title="余姚 · 点播",马渚镇“渚爱童行”阵地启用 (1:30, 28MB)
+https://mc-public.yynews.com.cn/18124501451016_hd.mp4?width=1280&height=720&isVertical=0&fsize=29293428&duration=90.0
+#EXTINF:-1 tvg-id="YY-4c3a9b6db8f2" tvg-name="市委书记沃勇特赴基层宣讲党的二十届五中全会精神" group-title="余姚 · 点播",市委书记沃勇特赴基层宣讲党的二十届五中全会精神 (2:39, 51MB)
+https://mc-public.yynews.com.cn/18124472569992_hd.mp4?width=1280&height=720&isVertical=0&fsize=53569905&duration=159.0
 #EXTINF:-1 tvg-id="YY-d3bba3ff4cd7" tvg-name="凌晨电动车起火 小区保安紧急处置" group-title="余姚 · 点播",凌晨电动车起火 小区保安紧急处置 (1:02, 21MB)
 https://mc-public.yynews.com.cn/18118491001732_hd.mp4?width=1280&height=720&isVertical=0&fsize=21660182&duration=62.0
 #EXTINF:-1 tvg-id="YY-96fd66cd47dc" tvg-name="未来一周我市以晴好天气为主" group-title="余姚 · 点播",未来一周我市以晴好天气为主 (0:49, 16MB)
@@ -34,13 +40,3 @@ https://mc-public.yynews.com.cn/18112492437320_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18107182817476_hd.mp4?width=1280&height=720&isVertical=0&fsize=18341768&duration=54.0
 #EXTINF:-1 tvg-id="YY-7cec2c08adcb" tvg-name="实线变道引发两起交通事故" group-title="余姚 · 点播",实线变道引发两起交通事故 (1:22, 27MB)
 https://mc-public.yynews.com.cn/18107182086340_hd.mp4?width=1280&height=720&isVertical=0&fsize=28080284&duration=82.0
-#EXTINF:-1 tvg-id="YY-a4b23e061311" tvg-name="11月25日起普速列车车次“改名” 余姚站K字头变V字头" group-title="余姚 · 点播",11月25日起普速列车车次“改名” 余姚站K字头变V字头 (0:34, 11MB)
-https://mc-public.yynews.com.cn/18107177917508_hd.mp4?width=1280&height=720&isVertical=0&fsize=11809058&duration=34.0
-#EXTINF:-1 tvg-id="YY-1f51d9a295e3" tvg-name="牟山镇：依托牟山湖大闸蟹 走出融合共富新路子" group-title="余姚 · 点播",牟山镇：依托牟山湖大闸蟹 走出融合共富新路子 (1:52, 36MB)
-https://mc-public.yynews.com.cn/18107173281860_hd.mp4?width=1280&height=720&isVertical=0&fsize=37788619&duration=112.0
-#EXTINF:-1 tvg-id="YY-982d8591a2fa" tvg-name="系列报道《山海同行一一余姚松阳山海协作》（二）：特色农产借势出山 共富链条聚山成势" group-title="余姚 · 点播",系列报道《山海同行一一余姚松阳山海协作》（二）：特色农产借势出山 共富链条聚山成势 (3:00, 60MB)
-https://mc-public.yynews.com.cn/18107169168840_hd.mp4?width=1280&height=720&isVertical=0&fsize=62991910&duration=180.0
-#EXTINF:-1 tvg-id="YY-35da2207976a" tvg-name="市交通运输局：打造外联内畅综合交通体系 全速推进重点交通项目建设" group-title="余姚 · 点播",市交通运输局：打造外联内畅综合交通体系 全速推进重点交通项目建设 (2:41, 52MB)
-https://mc-public.yynews.com.cn/18107163955140_hd.mp4?width=1280&height=720&isVertical=0&fsize=54605166&duration=161.0
-#EXTINF:-1 tvg-id="YY-7bb4074b999a" tvg-name="伟立机器人：以“Al+柔性制造”抢占高端市场" group-title="余姚 · 点播",伟立机器人：以“Al+柔性制造”抢占高端市场 (3:20, 66MB)
-https://mc-public.yynews.com.cn/18107159007112_hd.mp4?width=1280&height=720&isVertical=0&fsize=68956434&duration=200.0
