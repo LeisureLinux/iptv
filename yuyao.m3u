@@ -6,6 +6,22 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-adbcee837084" tvg-name="余姚热门赏秋线环境焕新" group-title="余姚 · 点播",余姚热门赏秋线环境焕新 (2:21, 47MB)
+https://mc-public.yynews.com.cn/18140382924228_hd.mp4?width=1280&height=720&isVertical=0&fsize=49528911&duration=141.0
+#EXTINF:-1 tvg-id="YY-1da96bcbecc4" tvg-name="秸秆离田再利用 生态增收两相宜" group-title="余姚 · 点播",秸秆离田再利用 生态增收两相宜 (1:34, 31MB)
+https://mc-public.yynews.com.cn/18140375121160_hd.mp4?width=1280&height=720&isVertical=0&fsize=32228081&duration=94.0
+#EXTINF:-1 tvg-id="YY-5d81753a17a1" tvg-name="秋假来临 铁路出行迎客流小高峰" group-title="余姚 · 点播",秋假来临 铁路出行迎客流小高峰 (0:49, 16MB)
+https://mc-public.yynews.com.cn/18140368116744_hd.mp4?width=1280&height=720&isVertical=0&fsize=16677660&duration=49.0
+#EXTINF:-1 tvg-id="YY-504c5021db0b" tvg-name="秋假来临 研学旅游市场火热" group-title="余姚 · 点播",秋假来临 研学旅游市场火热 (1:51, 35MB)
+https://mc-public.yynews.com.cn/18140358551748_hd.mp4?width=1280&height=720&isVertical=0&fsize=36393239&duration=111.0
+#EXTINF:-1 tvg-id="YY-d742ccd0e07c" tvg-name="长三角优质民办基础教育共同体会议在姚举行" group-title="余姚 · 点播",长三角优质民办基础教育共同体会议在姚举行 (1:13, 23MB)
+https://mc-public.yynews.com.cn/18140352811336_hd.mp4?width=1280&height=720&isVertical=0&fsize=23781890&duration=73.0
+#EXTINF:-1 tvg-id="YY-f3666fc9894d" tvg-name="我市举行“青创最名邑”2026秋季YOUNG音乐会" group-title="余姚 · 点播",我市举行“青创最名邑”2026秋季YOUNG音乐会 (1:44, 33MB)
+https://mc-public.yynews.com.cn/18140349230468_hd.mp4?width=1280&height=720&isVertical=0&fsize=34984789&duration=104.0
+#EXTINF:-1 tvg-id="YY-323b2fadd060" tvg-name="2026余姚四明山登山系列赛总决赛圆满收官" group-title="余姚 · 点播",2026余姚四明山登山系列赛总决赛圆满收官 (1:26, 29MB)
+https://mc-public.yynews.com.cn/18140345685064_hd.mp4?width=1280&height=720&isVertical=0&fsize=30702165&duration=86.0
+#EXTINF:-1 tvg-id="YY-34910dac83d8" tvg-name="瞄准APEC市场需求 余姚塑料制品“扬帆”亚太市场" group-title="余姚 · 点播",瞄准APEC市场需求 余姚塑料制品“扬帆”亚太市场 (2:41, 52MB)
+https://mc-public.yynews.com.cn/18140338380872_hd.mp4?width=1280&height=720&isVertical=0&fsize=54506893&duration=161.0
 #EXTINF:-1 tvg-id="YY-af994e2328f3" tvg-name="我市举行秋季文旅宣推活动" group-title="余姚 · 点播",我市举行秋季文旅宣推活动 (1:44, 34MB)
 https://mc-public.yynews.com.cn/18134762161924_hd.mp4?width=1280&height=720&isVertical=0&fsize=35353189&duration=104.0
 #EXTINF:-1 tvg-id="YY-b2274d51334f" tvg-name="市“茅台杯”文学大奖赛颁奖典礼举行" group-title="余姚 · 点播",市“茅台杯”文学大奖赛颁奖典礼举行 (1:46, 36MB)
@@ -18,25 +34,11 @@ https://mc-public.yynews.com.cn/18134744959752_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18134735554948_hd.mp4?width=1280&height=720&isVertical=0&fsize=65488812&duration=187.0
 #EXTINF:-1 tvg-id="YY-08b20bc6949e" tvg-name="陆埠镇：聚力实体 向新而行 全力打好四季度收官硬仗" group-title="余姚 · 点播",陆埠镇：聚力实体 向新而行 全力打好四季度收官硬仗 (3:04, 59MB)
 https://mc-public.yynews.com.cn/18134727758216_hd.mp4?width=1280&height=720&isVertical=0&fsize=61841097&duration=184.0
-#EXTINF:-1 tvg-id="YY-0affe7d0970f" tvg-name="色叶树色彩斑斓 姚城秋色正浓" group-title="余姚 · 点播",色叶树色彩斑斓 姚城秋色正浓 (1:19, 26MB)
-https://mc-public.yynews.com.cn/18124508842628_hd.mp4?width=1280&height=720&isVertical=0&fsize=27641055&duration=79.0
 #EXTINF:-1 tvg-id="YY-08a36b597e36" tvg-name="马渚镇“渚爱童行”阵地启用" group-title="余姚 · 点播",马渚镇“渚爱童行”阵地启用 (1:30, 28MB)
 https://mc-public.yynews.com.cn/18124501451016_hd.mp4?width=1280&height=720&isVertical=0&fsize=29293428&duration=90.0
+#EXTINF:-1 tvg-id="YY-62486ebca0b4" tvg-name="系列报道《山海同行——余姚松阳山海协作》（五）：储能进村 抱团壮大村集体经济" group-title="余姚 · 点播",系列报道《山海同行——余姚松阳山海协作》（五）：储能进村 抱团壮大村集体经济 (2:15, 46MB)
+https://mc-public.yynews.com.cn/18124493177800_hd.mp4?width=1280&height=720&isVertical=0&fsize=48476850&duration=135.0
 #EXTINF:-1 tvg-id="YY-4c3a9b6db8f2" tvg-name="市委书记沃勇特赴基层宣讲党的二十届五中全会精神" group-title="余姚 · 点播",市委书记沃勇特赴基层宣讲党的二十届五中全会精神 (2:39, 51MB)
 https://mc-public.yynews.com.cn/18124472569992_hd.mp4?width=1280&height=720&isVertical=0&fsize=53569905&duration=159.0
 #EXTINF:-1 tvg-id="YY-d3bba3ff4cd7" tvg-name="凌晨电动车起火 小区保安紧急处置" group-title="余姚 · 点播",凌晨电动车起火 小区保安紧急处置 (1:02, 21MB)
 https://mc-public.yynews.com.cn/18118491001732_hd.mp4?width=1280&height=720&isVertical=0&fsize=21660182&duration=62.0
-#EXTINF:-1 tvg-id="YY-96fd66cd47dc" tvg-name="未来一周我市以晴好天气为主" group-title="余姚 · 点播",未来一周我市以晴好天气为主 (0:49, 16MB)
-https://mc-public.yynews.com.cn/18118485420612_hd.mp4?width=1280&height=720&isVertical=0&fsize=16561611&duration=49.0
-#EXTINF:-1 tvg-id="YY-1585c173990b" tvg-name="系列报道《山海同行——余姚松阳山海协作》（四）：山水引客来 文旅富山乡" group-title="余姚 · 点播",系列报道《山海同行——余姚松阳山海协作》（四）：山水引客来 文旅富山乡 (3:08, 62MB)
-https://mc-public.yynews.com.cn/18118471740872_hd.mp4?width=1280&height=720&isVertical=0&fsize=64977686&duration=188.0
-#EXTINF:-1 tvg-id="YY-ba1c3ae6f249" tvg-name="市水利局：“投资+水网”双轮驱动 省级水网先行区建设提速增效" group-title="余姚 · 点播",市水利局：“投资+水网”双轮驱动 省级水网先行区建设提速增效 (2:51, 54MB)
-https://mc-public.yynews.com.cn/18118459704712_hd.mp4?width=1280&height=720&isVertical=0&fsize=56689440&duration=171.0
-#EXTINF:-1 tvg-id="YY-ff53b31d1887" tvg-name="“守护慈江文脉 共绘古渡新韵”运河保护主题活动举行" group-title="余姚 · 点播",“守护慈江文脉 共绘古渡新韵”运河保护主题活动举行 (1:33, 31MB)
-https://mc-public.yynews.com.cn/18118432570696_hd.mp4?width=1280&height=720&isVertical=0&fsize=32066246&duration=93.0
-#EXTINF:-1 tvg-id="YY-00b8de6de4b5" tvg-name="市政府举行第70次常务会议" group-title="余姚 · 点播",市政府举行第70次常务会议 (2:22, 43MB)
-https://mc-public.yynews.com.cn/18118445461444_hd.mp4?width=1280&height=720&isVertical=0&fsize=44672039&duration=142.0
-#EXTINF:-1 tvg-id="YY-cba9249744b6" tvg-name="两车相撞驾驶员被困 多方联动紧急救援" group-title="余姚 · 点播",两车相撞驾驶员被困 多方联动紧急救援 (1:03, 22MB)
-https://mc-public.yynews.com.cn/18112515716740_hd.mp4?width=1280&height=720&isVertical=0&fsize=22986437&duration=63.0
-#EXTINF:-1 tvg-id="YY-e52ecd4582d1" tvg-name="套牌车凌晨潜入小区 保安及时报警" group-title="余姚 · 点播",套牌车凌晨潜入小区 保安及时报警 (1:32, 31MB)
-https://mc-public.yynews.com.cn/18112513942852_hd.mp4?width=1280&height=720&isVertical=0&fsize=32327472&duration=92.0
