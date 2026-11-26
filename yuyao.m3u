@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-4243096ab8dd" tvg-name="健康饮食讲座进社区" group-title="余姚 · 点播",健康饮食讲座进社区 (0:27, 9MB)
+https://mc-public.yynews.com.cn/18145916984516_hd.mp4?width=1280&height=720&isVertical=0&fsize=9131582&duration=27.0
+#EXTINF:-1 tvg-id="YY-a22727e6bfe7" tvg-name="“愉见梁堰”乡村艺术疗愈项目启动" group-title="余姚 · 点播",“愉见梁堰”乡村艺术疗愈项目启动 (1:23, 27MB)
+https://mc-public.yynews.com.cn/18145914320068_hd.mp4?width=1280&height=720&isVertical=0&fsize=27979209&duration=83.0
+#EXTINF:-1 tvg-id="YY-521aa75531e0" tvg-name="秋假首日学生扎堆查视力 秋冬近视防控别忽视" group-title="余姚 · 点播",秋假首日学生扎堆查视力 秋冬近视防控别忽视 (1:44, 32MB)
+https://mc-public.yynews.com.cn/18145908107592_hd.mp4?width=1280&height=720&isVertical=0&fsize=33501338&duration=104.0
+#EXTINF:-1 tvg-id="YY-67020ea105c4" tvg-name="秋假首日高铁余姚北站迎来出行小高峰" group-title="余姚 · 点播",秋假首日高铁余姚北站迎来出行小高峰 (1:38, 31MB)
+https://mc-public.yynews.com.cn/18145902652936_hd.mp4?width=1280&height=720&isVertical=0&fsize=32636917&duration=98.0
+#EXTINF:-1 tvg-id="YY-581009ab40a3" tvg-name="威奇尔：深耕智能座舱赛道 创新产品抢占新兴市场" group-title="余姚 · 点播",威奇尔：深耕智能座舱赛道 创新产品抢占新兴市场 (2:34, 50MB)
+https://mc-public.yynews.com.cn/18145897385284_hd.mp4?width=1280&height=720&isVertical=0&fsize=52894831&duration=154.0
+#EXTINF:-1 tvg-id="YY-3d713f393926" tvg-name="市农业农村局：土特产做成大产业 全链发力激活乡村共富新动能" group-title="余姚 · 点播",市农业农村局：土特产做成大产业 全链发力激活乡村共富新动能 (3:27, 68MB)
+https://mc-public.yynews.com.cn/18145891794756_hd.mp4?width=1280&height=720&isVertical=0&fsize=71121510&duration=207.0
+#EXTINF:-1 tvg-id="YY-6ec1d7f42614" tvg-name="市委常委会会议召开" group-title="余姚 · 点播",市委常委会会议召开 (1:59, 37MB)
+https://mc-public.yynews.com.cn/18145883958152_hd.mp4?width=1280&height=720&isVertical=0&fsize=39214866&duration=119.0
 #EXTINF:-1 tvg-id="YY-adbcee837084" tvg-name="余姚热门赏秋线环境焕新" group-title="余姚 · 点播",余姚热门赏秋线环境焕新 (2:21, 47MB)
 https://mc-public.yynews.com.cn/18140382924228_hd.mp4?width=1280&height=720&isVertical=0&fsize=49528911&duration=141.0
 #EXTINF:-1 tvg-id="YY-1da96bcbecc4" tvg-name="秸秆离田再利用 生态增收两相宜" group-title="余姚 · 点播",秸秆离田再利用 生态增收两相宜 (1:34, 31MB)
@@ -32,13 +46,3 @@ https://mc-public.yynews.com.cn/18134750726152_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18134744959752_hd.mp4?width=1280&height=720&isVertical=0&fsize=24763030&duration=75.0
 #EXTINF:-1 tvg-id="YY-fa17957d3c29" tvg-name="系列报道《山海同行一一余姚松阳山海协作》（六）：项目牵引连山海 双向谋远启新程" group-title="余姚 · 点播",系列报道《山海同行一一余姚松阳山海协作》（六）：项目牵引连山海 双向谋远启新程 (3:07, 62MB)
 https://mc-public.yynews.com.cn/18134735554948_hd.mp4?width=1280&height=720&isVertical=0&fsize=65488812&duration=187.0
-#EXTINF:-1 tvg-id="YY-08b20bc6949e" tvg-name="陆埠镇：聚力实体 向新而行 全力打好四季度收官硬仗" group-title="余姚 · 点播",陆埠镇：聚力实体 向新而行 全力打好四季度收官硬仗 (3:04, 59MB)
-https://mc-public.yynews.com.cn/18134727758216_hd.mp4?width=1280&height=720&isVertical=0&fsize=61841097&duration=184.0
-#EXTINF:-1 tvg-id="YY-08a36b597e36" tvg-name="马渚镇“渚爱童行”阵地启用" group-title="余姚 · 点播",马渚镇“渚爱童行”阵地启用 (1:30, 28MB)
-https://mc-public.yynews.com.cn/18124501451016_hd.mp4?width=1280&height=720&isVertical=0&fsize=29293428&duration=90.0
-#EXTINF:-1 tvg-id="YY-62486ebca0b4" tvg-name="系列报道《山海同行——余姚松阳山海协作》（五）：储能进村 抱团壮大村集体经济" group-title="余姚 · 点播",系列报道《山海同行——余姚松阳山海协作》（五）：储能进村 抱团壮大村集体经济 (2:15, 46MB)
-https://mc-public.yynews.com.cn/18124493177800_hd.mp4?width=1280&height=720&isVertical=0&fsize=48476850&duration=135.0
-#EXTINF:-1 tvg-id="YY-4c3a9b6db8f2" tvg-name="市委书记沃勇特赴基层宣讲党的二十届五中全会精神" group-title="余姚 · 点播",市委书记沃勇特赴基层宣讲党的二十届五中全会精神 (2:39, 51MB)
-https://mc-public.yynews.com.cn/18124472569992_hd.mp4?width=1280&height=720&isVertical=0&fsize=53569905&duration=159.0
-#EXTINF:-1 tvg-id="YY-d3bba3ff4cd7" tvg-name="凌晨电动车起火 小区保安紧急处置" group-title="余姚 · 点播",凌晨电动车起火 小区保安紧急处置 (1:02, 21MB)
-https://mc-public.yynews.com.cn/18118491001732_hd.mp4?width=1280&height=720&isVertical=0&fsize=21660182&duration=62.0
