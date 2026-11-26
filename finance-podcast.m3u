@@ -10,6 +10,8 @@
 
 
 # ===== Reuters World News =====
+#EXTINF:-1 tvg-id="PC-365db16828b0" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-26] Trump's tariff blitz， Musk's SpaceX pledge and Nazi guest house reno
+https://pdst.fm/e/traffic.megaphone.fm/THRH6279344769.mp3
 #EXTINF:-1 tvg-id="PC-8c29e7166a80" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-25] Macy's parade postponed， Trump tariffs， Iowa detonation (Updated)
 https://pdst.fm/e/traffic.megaphone.fm/THRH7058346499.mp3
 #EXTINF:-1 tvg-id="PC-23fe2749e560" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-24] Trump's Nvidia intervention， Ukraine war spreads to Libya， AI rally fizzles (Updated)
@@ -32,8 +34,6 @@ https://pdst.fm/e/traffic.megaphone.fm/THRH5425485063.mp3
 https://pdst.fm/e/traffic.megaphone.fm/THRH2735947738.mp3
 #EXTINF:-1 tvg-id="PC-6c1f960c23a8" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-15] Aviation routers， SpaceX， COP31 and young male voters
 https://pdst.fm/e/traffic.megaphone.fm/THRH5858707424.mp3
-#EXTINF:-1 tvg-id="PC-1d0386447fea" tvg-name="Reuters World News" group-title="播客 · 路透 Reuters",Reuters World News: [2026-11-14] FAA restores flights， Trump plans nuclear talks in China and SS United States' final voyage
-https://pdst.fm/e/traffic.megaphone.fm/THRH9771832534.mp3
 
 # ===== WSJ The Journal =====
 #EXTINF:-1 tvg-id="PC-4631af24e145" tvg-name="WSJ The Journal" group-title="播客 · WSJ 华尔街日报",WSJ The Journal: [2026-11-25] Americans Love Honeycrisp Apples. Farmers Hate Them.
@@ -140,6 +140,8 @@ https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episod
 https://dowjones.simplecastaudio.com/8cfa56e8-ca91-4ad0-8646-29fcc7c757cd/episodes/c3aa71c6-0324-4657-9fb4-8fe89143e46a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8cfa56e8-ca91-4ad0-8646-29fcc7c757cd&awEpisodeId=c3aa71c6-0324-4657-9fb4-8fe89143e46a&feed=4LDzav57
 
 # ===== FT News Briefing =====
+#EXTINF:-1 tvg-id="PC-3b3f24273dfd" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-11-26] 'Jensanity' sweeps China and Taiwan
+https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b07695237fa8fa0c4b26e92/media.mp3
 #EXTINF:-1 tvg-id="PC-b54d12f04b8a" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-11-25] The tech bros strike back
 https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6b0620af38d4dce52709bcbe/media.mp3
 #EXTINF:-1 tvg-id="PC-13ab09841f3f" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-11-24] Does Jensen Huang’s return to Nvidia mean the chip group is too big to fail?
@@ -162,8 +164,6 @@ https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6afa077508be5707d1b85fc8/med
 https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6af71ae49d9936aaac3f4b0a/media.mp3
 #EXTINF:-1 tvg-id="PC-1f6c6558be6f" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-11-13] Nvidia after Jensen Huang
 https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6af649bf05dc66c15dd2daae/media.mp3
-#EXTINF:-1 tvg-id="PC-51ee44997008" tvg-name="FT News Briefing" group-title="播客 · FT 金融时报 [需代理]",FT News Briefing: [2026-11-12] Nvidia board meets to discuss Huang’s future
-https://sphinx.acast.com/p/acast/s/ftnewsbriefing/e/6af538fd973efbd7c1f99d85/media.mp3
 
 # ===== Bloomberg Big Take =====
 #EXTINF:-1 tvg-id="PC-cebc3a014f35" tvg-name="Bloomberg Big Take" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Big Take: [2026-11-25] The Debate Over Where Anthropic’s New Millionaires Should Donate Their Money
@@ -192,6 +192,8 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/fc5fa854-70ad-4df3-aa35-b50001585c2d/audio.mp3?utm_source=Podcast&in_playlist=8b1dd624-a026-43e9-8b57-ae2b00130066
 
 # ===== Bloomberg Odd Lots =====
+#EXTINF:-1 tvg-id="PC-370cc6009bd0" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-11-26] Marc Levinson on How UPS Created Modern Logistics
+https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/84bd57a3-7784-4f39-9716-b50d01106c9e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 #EXTINF:-1 tvg-id="PC-0afdf92e0310" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-11-24] What Jensen Huang's Stunning Return Means for the AI Trade
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/e1cd0e3e-9e03-40db-bc4b-b50b0165eab4/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 #EXTINF:-1 tvg-id="PC-d4a65a3d4fb5" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-11-23] What a Town Full of Vibecoders Says About the Chinese Economy
@@ -214,8 +216,6 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9390c1d9-8076-46f9-89ef-b500001b8ce0/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 #EXTINF:-1 tvg-id="PC-37ca025c8627" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-11-11] The Perfect Storm That Clobbered Hedge Funds
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/d50c15fb-6c5a-4836-89a2-b4fe0174107c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
-#EXTINF:-1 tvg-id="PC-d24e796dbb98" tvg-name="Bloomberg Odd Lots" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Odd Lots: [2026-11-09] This Is How New York City Takes Out Its Trash
-https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/15e58d4b-0964-4cc7-a53b-b4fa01669ff2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 
 # ===== Bloomberg Surveillance =====
 #EXTINF:-1 tvg-id="PC-fcafae475d85" tvg-name="Bloomberg Surveillance" group-title="播客 · Bloomberg 彭博 [需代理]",Bloomberg Surveillance: [2026-11-25] Bloomberg Surveillance TV: November 25th， 2026
@@ -244,6 +244,8 @@ https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/5ef977c2-04ea-4a8f-bb3f-b50700eb5941/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96
 
 # ===== The Economist: The Intelligence =====
+#EXTINF:-1 tvg-id="PC-cd6e79681f01" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-11-26] Left in the lurch: Spain’s general election
+https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6b0810df19eabcafe8be2474/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=mHb4dHPX-wOOavfgdUc8ZQq4Ay5bnboUWs_NCJNlJbo
 #EXTINF:-1 tvg-id="PC-ae7af863d0f6" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-11-25] Strait draw: Iran’s hot war cools
 https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6b06bf53b6f9fb45eca7d2de/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=e-85GFju3Hl3YIzBPXzeoFb3ZlRY8sv3zkq-NcTZ_ns
 #EXTINF:-1 tvg-id="PC-27f1af4aa44a" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-11-24] Alice forgiven? Jensen Huang back at Nvidia
@@ -266,10 +268,10 @@ https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6af6e7991f9433e997b6
 https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6af5967413c30781a320173d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=eVsUKSJOAnqlTYTdDnF_ns4Z1izwPH8DUdLoLSM_zck
 #EXTINF:-1 tvg-id="PC-bb49fc4a6cab" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-11-11] Let’s get this party restarted: Republicans reel from the midterms
 https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6af4462e36d94b58ef827a8a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=pYok6VW1bMbeoHoUASQJ-ajQ-YhkKVqJArtLOrLx6is
-#EXTINF:-1 tvg-id="PC-2b6b72fa9f3e" tvg-name="The Economist: The Intelligence" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: The Intelligence: [2026-11-10] When chips are down: Nvidia CEO’s risky relationship
-https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6af2f4ae43e2f445c2499225/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=MNRnd_GPFjSCPaUiu5oQD3RsWMr53X8z0S7tsloOFe4
 
 # ===== The Economist: 综合（各栏目） =====
+#EXTINF:-1 tvg-id="PC-1f2c92ee7097" tvg-name="The Economist: 综合（各栏目）" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: 综合（各栏目）: [2026-11-26] Left in the lurch: Spain’s general election
+https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6b0810df19eabcafe8be2474/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xWmFxrjOzZ6DAyEftpUvmosWuJf09kLEt_6nUwEvce8
 #EXTINF:-1 tvg-id="PC-e8f1e392531f" tvg-name="The Economist: 综合（各栏目）" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: 综合（各栏目）: [2026-11-25] Strait draw: Iran’s hot war cools
 https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6b06bf53b6f9fb45eca7d2de/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=LeaMbGoC3S6b3Tbwj7L9N0ToaKpbnIjIIEHzI-AFNNQ
 #EXTINF:-1 tvg-id="PC-e76ca00ac2e2" tvg-name="The Economist: 综合（各栏目）" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: 综合（各栏目）: [2026-11-24] Alice forgiven? Jensen Huang back at Nvidia
@@ -292,8 +294,6 @@ https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theecon
 https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6af5967413c30781a320173d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=iei-oy7wkDfjMbalx_I3N2uJr0FooeOw7-0fB3XvN7c
 #EXTINF:-1 tvg-id="PC-d710fe090fb8" tvg-name="The Economist: 综合（各栏目）" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: 综合（各栏目）: [2026-11-11] Let’s get this party restarted: Republicans reel from the midterms
 https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6af4462e36d94b58ef827a8a/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=yMTo-DMwSRUVM7FAhiqPoWuRprkML-TaG0xN0vXPr74
-#EXTINF:-1 tvg-id="PC-5858d4060502" tvg-name="The Economist: 综合（各栏目）" group-title="播客 · The Economist 经济学人 [需代理]",The Economist: 综合（各栏目）: [2026-11-10] When chips are down: Nvidia CEO’s risky relationship
-https://sphinx.acast.com/p/open/s/d556eb54-6160-4c85-95f4-47d9f5216c49/a/theeconomistallaudio/e/6af2f4ae43e2f445c2499225/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=aCwgqQVYQXrPf1PcEa7tMEYraYSBbC4o75DV-1lfNRM
 
 # ===== CNBC Mad Money =====
 #EXTINF:-1 tvg-id="PC-903991d28769" tvg-name="CNBC Mad Money" group-title="播客 · CNBC",CNBC Mad Money: [2026-11-25] NVIDIA， AI Volatility， Agilent and Retail Earnings After the Sell-Off
