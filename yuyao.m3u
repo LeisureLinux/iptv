@@ -6,6 +6,20 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-c9bbe427b6ec" tvg-name="四明山“顶流”打卡路线：火了流量松了管护" group-title="余姚 · 点播",四明山“顶流”打卡路线：火了流量松了管护 (2:01, 38MB)
+https://mc-public.yynews.com.cn/18151461639684_hd.mp4?width=1280&height=720&isVertical=0&fsize=39711855&duration=121.0
+#EXTINF:-1 tvg-id="YY-cfec78dee9fa" tvg-name="秋假爱心托管班方便双职工家庭" group-title="余姚 · 点播",秋假爱心托管班方便双职工家庭 (1:21, 27MB)
+https://mc-public.yynews.com.cn/18151459952584_hd.mp4?width=1280&height=720&isVertical=0&fsize=27977437&duration=81.0
+#EXTINF:-1 tvg-id="YY-798603f6a10a" tvg-name="我市消防员全国红十字应急救护大赛获佳绩" group-title="余姚 · 点播",我市消防员全国红十字应急救护大赛获佳绩 (2:03, 42MB)
+https://mc-public.yynews.com.cn/18151456312328_hd.mp4?width=1280&height=720&isVertical=0&fsize=44489236&duration=123.0
+#EXTINF:-1 tvg-id="YY-804d99e7801c" tvg-name="杭甬高速余姚牟山重卡超充站投运" group-title="余姚 · 点播",杭甬高速余姚牟山重卡超充站投运 (1:45, 35MB)
+https://mc-public.yynews.com.cn/18151447677700_hd.mp4?width=1280&height=720&isVertical=0&fsize=36451112&duration=105.0
+#EXTINF:-1 tvg-id="YY-4d00d0cef005" tvg-name="城区36处积水点改造年底前完工" group-title="余姚 · 点播",城区36处积水点改造年底前完工 (1:29, 29MB)
+https://mc-public.yynews.com.cn/18151444251400_hd.mp4?width=1280&height=720&isVertical=0&fsize=30436999&duration=89.0
+#EXTINF:-1 tvg-id="YY-fbcb7ccd37ed" tvg-name="姚产“御寒神器”热销海外 余姚海关靠前服务破解通关堵点" group-title="余姚 · 点播",姚产“御寒神器”热销海外 余姚海关靠前服务破解通关堵点 (2:41, 52MB)
+https://mc-public.yynews.com.cn/18151440532232_hd.mp4?width=1280&height=720&isVertical=0&fsize=54158557&duration=161.0
+#EXTINF:-1 tvg-id="YY-fdcf322f08b1" tvg-name="高海军赴兰江街道开展主题活动并宣讲党的二十届五中全会精神" group-title="余姚 · 点播",高海军赴兰江街道开展主题活动并宣讲党的二十届五中全会精神 (2:20, 45MB)
+https://mc-public.yynews.com.cn/18151429635720_hd.mp4?width=1280&height=720&isVertical=0&fsize=47593707&duration=140.0
 #EXTINF:-1 tvg-id="YY-4243096ab8dd" tvg-name="健康饮食讲座进社区" group-title="余姚 · 点播",健康饮食讲座进社区 (0:27, 9MB)
 https://mc-public.yynews.com.cn/18145916984516_hd.mp4?width=1280&height=720&isVertical=0&fsize=9131582&duration=27.0
 #EXTINF:-1 tvg-id="YY-a22727e6bfe7" tvg-name="“愉见梁堰”乡村艺术疗愈项目启动" group-title="余姚 · 点播",“愉见梁堰”乡村艺术疗愈项目启动 (1:23, 27MB)
@@ -32,17 +46,3 @@ https://mc-public.yynews.com.cn/18140358551748_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18140352811336_hd.mp4?width=1280&height=720&isVertical=0&fsize=23781890&duration=73.0
 #EXTINF:-1 tvg-id="YY-f3666fc9894d" tvg-name="我市举行“青创最名邑”2026秋季YOUNG音乐会" group-title="余姚 · 点播",我市举行“青创最名邑”2026秋季YOUNG音乐会 (1:44, 33MB)
 https://mc-public.yynews.com.cn/18140349230468_hd.mp4?width=1280&height=720&isVertical=0&fsize=34984789&duration=104.0
-#EXTINF:-1 tvg-id="YY-323b2fadd060" tvg-name="2026余姚四明山登山系列赛总决赛圆满收官" group-title="余姚 · 点播",2026余姚四明山登山系列赛总决赛圆满收官 (1:26, 29MB)
-https://mc-public.yynews.com.cn/18140345685064_hd.mp4?width=1280&height=720&isVertical=0&fsize=30702165&duration=86.0
-#EXTINF:-1 tvg-id="YY-34910dac83d8" tvg-name="瞄准APEC市场需求 余姚塑料制品“扬帆”亚太市场" group-title="余姚 · 点播",瞄准APEC市场需求 余姚塑料制品“扬帆”亚太市场 (2:41, 52MB)
-https://mc-public.yynews.com.cn/18140338380872_hd.mp4?width=1280&height=720&isVertical=0&fsize=54506893&duration=161.0
-#EXTINF:-1 tvg-id="YY-af994e2328f3" tvg-name="我市举行秋季文旅宣推活动" group-title="余姚 · 点播",我市举行秋季文旅宣推活动 (1:44, 34MB)
-https://mc-public.yynews.com.cn/18134762161924_hd.mp4?width=1280&height=720&isVertical=0&fsize=35353189&duration=104.0
-#EXTINF:-1 tvg-id="YY-b2274d51334f" tvg-name="市“茅台杯”文学大奖赛颁奖典礼举行" group-title="余姚 · 点播",市“茅台杯”文学大奖赛颁奖典礼举行 (1:46, 36MB)
-https://mc-public.yynews.com.cn/18134756748868_hd.mp4?width=1280&height=720&isVertical=0&fsize=37450742&duration=106.0
-#EXTINF:-1 tvg-id="YY-c6c70eeedae6" tvg-name="余姚队82:68大胜桐乡队" group-title="余姚 · 点播",余姚队82:68大胜桐乡队 (2:10, 40MB)
-https://mc-public.yynews.com.cn/18134750726152_hd.mp4?width=1280&height=720&isVertical=0&fsize=41715946&duration=130.0
-#EXTINF:-1 tvg-id="YY-fb6e4be9e155" tvg-name="短评：山海同心 双向奔赴写共富" group-title="余姚 · 点播",短评：山海同心 双向奔赴写共富 (1:15, 24MB)
-https://mc-public.yynews.com.cn/18134744959752_hd.mp4?width=1280&height=720&isVertical=0&fsize=24763030&duration=75.0
-#EXTINF:-1 tvg-id="YY-fa17957d3c29" tvg-name="系列报道《山海同行一一余姚松阳山海协作》（六）：项目牵引连山海 双向谋远启新程" group-title="余姚 · 点播",系列报道《山海同行一一余姚松阳山海协作》（六）：项目牵引连山海 双向谋远启新程 (3:07, 62MB)
-https://mc-public.yynews.com.cn/18134735554948_hd.mp4?width=1280&height=720&isVertical=0&fsize=65488812&duration=187.0
