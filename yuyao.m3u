@@ -6,6 +6,8 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
+#EXTINF:-1 tvg-id="YY-854860ce24ca" tvg-name="牟山镇：存量挖潜增空间 二次开发激活“小镇经济”新动能" group-title="余姚 · 点播",牟山镇：存量挖潜增空间 二次开发激活“小镇经济”新动能 (3:03, 57MB)
+https://mc-public.yynews.com.cn/18153736136068_hd.mp4?width=1280&height=720&isVertical=0&fsize=59687996&duration=183.0
 #EXTINF:-1 tvg-id="YY-c9bbe427b6ec" tvg-name="四明山“顶流”打卡路线：火了流量松了管护" group-title="余姚 · 点播",四明山“顶流”打卡路线：火了流量松了管护 (2:01, 38MB)
 https://mc-public.yynews.com.cn/18151461639684_hd.mp4?width=1280&height=720&isVertical=0&fsize=39711855&duration=121.0
 #EXTINF:-1 tvg-id="YY-cfec78dee9fa" tvg-name="秋假爱心托管班方便双职工家庭" group-title="余姚 · 点播",秋假爱心托管班方便双职工家庭 (1:21, 27MB)
@@ -44,5 +46,3 @@ https://mc-public.yynews.com.cn/18140368116744_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18140358551748_hd.mp4?width=1280&height=720&isVertical=0&fsize=36393239&duration=111.0
 #EXTINF:-1 tvg-id="YY-d742ccd0e07c" tvg-name="长三角优质民办基础教育共同体会议在姚举行" group-title="余姚 · 点播",长三角优质民办基础教育共同体会议在姚举行 (1:13, 23MB)
 https://mc-public.yynews.com.cn/18140352811336_hd.mp4?width=1280&height=720&isVertical=0&fsize=23781890&duration=73.0
-#EXTINF:-1 tvg-id="YY-f3666fc9894d" tvg-name="我市举行“青创最名邑”2026秋季YOUNG音乐会" group-title="余姚 · 点播",我市举行“青创最名邑”2026秋季YOUNG音乐会 (1:44, 33MB)
-https://mc-public.yynews.com.cn/18140349230468_hd.mp4?width=1280&height=720&isVertical=0&fsize=34984789&duration=104.0
