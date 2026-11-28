@@ -6,8 +6,18 @@
 # 主列表见 ningbo.m3u（宁波市台直播）。
 
 # ===== 节目点播（姚界「看电视」栏目）=====
-#EXTINF:-1 tvg-id="YY-854860ce24ca" tvg-name="牟山镇：存量挖潜增空间 二次开发激活“小镇经济”新动能" group-title="余姚 · 点播",牟山镇：存量挖潜增空间 二次开发激活“小镇经济”新动能 (3:03, 57MB)
-https://mc-public.yynews.com.cn/18153736136068_hd.mp4?width=1280&height=720&isVertical=0&fsize=59687996&duration=183.0
+#EXTINF:-1 tvg-id="YY-e9474b933ec1" tvg-name="男子不慎坠入电梯井 众人合力营救" group-title="余姚 · 点播",男子不慎坠入电梯井 众人合力营救 (0:43, 22MB)
+https://mc-public.yynews.com.cn/18157455315844_or.mp4?width=1920&height=1080&isVertical=0&fsize=22914316&duration=43.0
+#EXTINF:-1 tvg-id="YY-d7b5392808bb" tvg-name="我市下周天气晴好为主 最高气温将冲27°C" group-title="余姚 · 点播",我市下周天气晴好为主 最高气温将冲27°C (0:51, 24MB)
+https://mc-public.yynews.com.cn/18157451508484_or.mp4?width=1920&height=1080&isVertical=0&fsize=25126664&duration=51.0
+#EXTINF:-1 tvg-id="YY-f979ab1db8c8" tvg-name="河姆渡考古遗址公园迎来秋假研学潮" group-title="余姚 · 点播",河姆渡考古遗址公园迎来秋假研学潮 (1:52, 53MB)
+https://mc-public.yynews.com.cn/18157447256520_or.mp4?width=1920&height=1080&isVertical=0&fsize=55720730&duration=112.0
+#EXTINF:-1 tvg-id="YY-1ea0d367ecd3" tvg-name="我市举行市管干部荣誉退休仪式暨“退休第一课”培训班" group-title="余姚 · 点播",我市举行市管干部荣誉退休仪式暨“退休第一课”培训班 (1:48, 51MB)
+https://mc-public.yynews.com.cn/18157442673604_or.mp4?width=1920&height=1080&isVertical=0&fsize=53471898&duration=108.0
+#EXTINF:-1 tvg-id="YY-0014e0535ea3" tvg-name="毛丕显赴丈亭镇开展主题活动并宣讲党的二十届五中全会精神" group-title="余姚 · 点播",毛丕显赴丈亭镇开展主题活动并宣讲党的二十届五中全会精神 (2:29, 71MB)
+https://mc-public.yynews.com.cn/18157437653704_or.mp4?width=1920&height=1080&isVertical=0&fsize=74775356&duration=149.0
+#EXTINF:-1 tvg-id="YY-2262b19b4cbf" tvg-name="章惠毅赴阳明街道开展主题活动并宣讲党的二十届五中全会精神" group-title="余姚 · 点播",章惠毅赴阳明街道开展主题活动并宣讲党的二十届五中全会精神 (2:37, 75MB)
+https://mc-public.yynews.com.cn/18157430053768_or.mp4?width=1920&height=1080&isVertical=0&fsize=78802407&duration=157.0
 #EXTINF:-1 tvg-id="YY-c9bbe427b6ec" tvg-name="四明山“顶流”打卡路线：火了流量松了管护" group-title="余姚 · 点播",四明山“顶流”打卡路线：火了流量松了管护 (2:01, 38MB)
 https://mc-public.yynews.com.cn/18151461639684_hd.mp4?width=1280&height=720&isVertical=0&fsize=39711855&duration=121.0
 #EXTINF:-1 tvg-id="YY-cfec78dee9fa" tvg-name="秋假爱心托管班方便双职工家庭" group-title="余姚 · 点播",秋假爱心托管班方便双职工家庭 (1:21, 27MB)
@@ -32,17 +42,3 @@ https://mc-public.yynews.com.cn/18145908107592_hd.mp4?width=1280&height=720&isVe
 https://mc-public.yynews.com.cn/18145902652936_hd.mp4?width=1280&height=720&isVertical=0&fsize=32636917&duration=98.0
 #EXTINF:-1 tvg-id="YY-581009ab40a3" tvg-name="威奇尔：深耕智能座舱赛道 创新产品抢占新兴市场" group-title="余姚 · 点播",威奇尔：深耕智能座舱赛道 创新产品抢占新兴市场 (2:34, 50MB)
 https://mc-public.yynews.com.cn/18145897385284_hd.mp4?width=1280&height=720&isVertical=0&fsize=52894831&duration=154.0
-#EXTINF:-1 tvg-id="YY-3d713f393926" tvg-name="市农业农村局：土特产做成大产业 全链发力激活乡村共富新动能" group-title="余姚 · 点播",市农业农村局：土特产做成大产业 全链发力激活乡村共富新动能 (3:27, 68MB)
-https://mc-public.yynews.com.cn/18145891794756_hd.mp4?width=1280&height=720&isVertical=0&fsize=71121510&duration=207.0
-#EXTINF:-1 tvg-id="YY-6ec1d7f42614" tvg-name="市委常委会会议召开" group-title="余姚 · 点播",市委常委会会议召开 (1:59, 37MB)
-https://mc-public.yynews.com.cn/18145883958152_hd.mp4?width=1280&height=720&isVertical=0&fsize=39214866&duration=119.0
-#EXTINF:-1 tvg-id="YY-adbcee837084" tvg-name="余姚热门赏秋线环境焕新" group-title="余姚 · 点播",余姚热门赏秋线环境焕新 (2:21, 47MB)
-https://mc-public.yynews.com.cn/18140382924228_hd.mp4?width=1280&height=720&isVertical=0&fsize=49528911&duration=141.0
-#EXTINF:-1 tvg-id="YY-1da96bcbecc4" tvg-name="秸秆离田再利用 生态增收两相宜" group-title="余姚 · 点播",秸秆离田再利用 生态增收两相宜 (1:34, 31MB)
-https://mc-public.yynews.com.cn/18140375121160_hd.mp4?width=1280&height=720&isVertical=0&fsize=32228081&duration=94.0
-#EXTINF:-1 tvg-id="YY-5d81753a17a1" tvg-name="秋假来临 铁路出行迎客流小高峰" group-title="余姚 · 点播",秋假来临 铁路出行迎客流小高峰 (0:49, 16MB)
-https://mc-public.yynews.com.cn/18140368116744_hd.mp4?width=1280&height=720&isVertical=0&fsize=16677660&duration=49.0
-#EXTINF:-1 tvg-id="YY-504c5021db0b" tvg-name="秋假来临 研学旅游市场火热" group-title="余姚 · 点播",秋假来临 研学旅游市场火热 (1:51, 35MB)
-https://mc-public.yynews.com.cn/18140358551748_hd.mp4?width=1280&height=720&isVertical=0&fsize=36393239&duration=111.0
-#EXTINF:-1 tvg-id="YY-d742ccd0e07c" tvg-name="长三角优质民办基础教育共同体会议在姚举行" group-title="余姚 · 点播",长三角优质民办基础教育共同体会议在姚举行 (1:13, 23MB)
-https://mc-public.yynews.com.cn/18140352811336_hd.mp4?width=1280&height=720&isVertical=0&fsize=23781890&duration=73.0
